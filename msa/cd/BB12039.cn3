@@ -1,0 +1,877 @@
+Cdd ::= {
+  name "bb12039",
+  id {
+    gid {
+      accession "acc_bb12039",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FDXN_BRAJA"
+              },
+              starts {
+                0,
+                2
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FDXN_BRAJA"
+              },
+              starts {
+                8,
+                10
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FDXN_BRAJA"
+              },
+              starts {
+                26,
+                28
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FDXN_BRAJA"
+              },
+              starts {
+                71,
+                66
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FDXN_BRAJA"
+              },
+              starts {
+                73,
+                68
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FDXN_AZOCH"
+              },
+              starts {
+                0,
+                2
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FDXN_AZOCH"
+              },
+              starts {
+                8,
+                10
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FDXN_AZOCH"
+              },
+              starts {
+                26,
+                28
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FDXN_AZOCH"
+              },
+              starts {
+                42,
+                43
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FERN_AZOVI"
+              },
+              starts {
+                0,
+                1
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FERN_AZOVI"
+              },
+              starts {
+                8,
+                9
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FERN_AZOVI"
+              },
+              starts {
+                26,
+                27
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FERN_AZOVI"
+              },
+              starts {
+                75,
+                71
+              },
+              len 5
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "1bc6_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "1bc6_"
+              },
+              starts {
+                8,
+                10
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "1bc6_"
+              },
+              starts {
+                26,
+                29
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "1bc6_"
+              },
+              starts {
+                28,
+                30
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "1bc6_"
+              },
+              starts {
+                47,
+                43
+              },
+              len 26
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "1e08_A"
+              },
+              starts {
+                1,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "1e08_A"
+              },
+              starts {
+                8,
+                9
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "1e08_A"
+              },
+              starts {
+                26,
+                29
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "1e08_A"
+              },
+              starts {
+                47,
+                44
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "1e08_A"
+              },
+              starts {
+                66,
+                59
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "1e08_A"
+              },
+              starts {
+                73,
+                86
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER2_THEAC"
+              },
+              starts {
+                0,
+                9
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER2_THEAC"
+              },
+              starts {
+                8,
+                17
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER2_THEAC"
+              },
+              starts {
+                26,
+                36
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER2_THEAC"
+              },
+              starts {
+                28,
+                37
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER2_THEAC"
+              },
+              starts {
+                47,
+                50
+              },
+              len 20
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER_ENTHI"
+              },
+              starts {
+                0,
+                2
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER_ENTHI"
+              },
+              starts {
+                8,
+                12
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER_ENTHI"
+              },
+              starts {
+                26,
+                30
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER_ENTHI"
+              },
+              starts {
+                47,
+                45
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER_METTE"
+              },
+              starts {
+                0,
+                2
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER_METTE"
+              },
+              starts {
+                8,
+                10
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER_METTE"
+              },
+              starts {
+                26,
+                29
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER_METTE"
+              },
+              starts {
+                47,
+                44
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER4_METJA"
+              },
+              starts {
+                0,
+                2
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER4_METJA"
+              },
+              starts {
+                8,
+                12
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER4_METJA"
+              },
+              starts {
+                26,
+                31
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER4_METJA"
+              },
+              starts {
+                47,
+                46
+              },
+              len 16
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER2_METJA"
+              },
+              starts {
+                0,
+                74
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER2_METJA"
+              },
+              starts {
+                8,
+                82
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER2_METJA"
+              },
+              starts {
+                26,
+                101
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1blu_",
+                local str "FER2_METJA"
+              },
+              starts {
+                47,
+                116
+              },
+              len 15
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1blu_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1blu_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 80,
+          seq-data ncbieaa "ALMITDECINCDVCEPECPNGAISQGDETYVIEPSLCTECVGHYETSQCV
+EVCPVDCIIKDPSHEETEDELRAKYERITG"
+        }
+      },
+      seq {
+        id {
+          local str "FDXN_BRAJA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FDXN_BRAJA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 74,
+          seq-data ncbieaa "MPFKIIASQCTSCSACEPLCPNVAISEKGGNFVIEAAKCSECVGHFDEPQ
+CAAACPVDNTCVVDRALPRYQAPV"
+        }
+      },
+      seq {
+        id {
+          local str "FDXN_AZOCH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FDXN_AZOCH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 65,
+          seq-data ncbieaa "MAMAIDGYECTVCGDCKPVCPTGSIVLQGGIYVIDADSCNECADLGEPRC
+LGVCPVDFCIQPLDD"
+        }
+      },
+      seq {
+        id {
+          local str "FERN_AZOVI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FERN_AZOVI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 92,
+          seq-data ncbieaa "MALKIVESCVNCWACVDVCPSEAISLAGPHFEISASKCTECDGDYAEKQC
+ASICPVEGAILLADGTPANPPGSLTGIPPERLAEAMREIQAR"
+        }
+      },
+      seq {
+        id {
+          local str "1bc6_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1bc6_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 77,
+          seq-data ncbieaa "AYVITEPCIGTKDASCVEVCPVDCIHEGEDQYYIDPDVCIDCGACEAVCP
+VSAIYHEDFVPEEWKSYIQKNRDFFKK"
+        }
+      },
+      seq {
+        id {
+          local str "1e08_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1e08_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 371,
+          seq-data ncbieaa "FVQIDEAKCIGCDTCSQYCPTAAIFGEMGEPHSIPHIEACINCGQCLTHC
+PENAIYEAQSWVPEVEKKLKDGKVKCIAMPAPAVRYALGDAFGMPVGSVTTGKMLAALQKLGFAHCWDTEFTADVTIW
+EEGSEFVERLTKKSDMPLPQFTSCCPGWQKYAETYYPELLPHFSTCKSPIGMNGALAKTYGAERMKYDPKQVYTVSIM
+PCIAKKYEGLRPELKSSGMRDIDATLTTRELAYMIKKAGIDFAKLPDGKRDSLMGESTGGATIFGVTGGVMEAALRFA
+YEAVTGKKPDSWDFKAVRGLDGIKEATVNVGGTDVKVAVVHGAKRFKQVCDDVKAGKSPYHFIEYMACPGGCVCGGGQ
+PVMPGVLEA"
+        }
+      },
+      seq {
+        id {
+          local str "FER2_THEAC"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FER2_THEAC"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 70,
+          seq-data ncbieaa "MVELKVKTEMDVDRNLCNYCGACVGMCPTDAIWLDETVIKIHEEKCIECG
+FCIVGCPTGAITAEWFHGNL"
+        }
+      },
+      seq {
+        id {
+          local str "FER_ENTHI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FER_ENTHI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 59,
+          seq-data ncbieaa "MGKITIVNIDDCVACGACSGTCPQSVLEVNDHVEIKNPDDCIGCGACVDA
+CPQGVLKVE"
+        }
+      },
+      seq {
+        id {
+          local str "FER_METTE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FER_METTE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 58,
+          seq-data ncbieaa "MVAKVNVDLCTGCGSCVDECPAAAISLNDDGIATVDESECLDCGSCEDAC
+PNNAITIE"
+        }
+      },
+      seq {
+        id {
+          local str "FER4_METJA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FER4_METJA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 62,
+          seq-data ncbieaa "MAVTIDYSLCKGAECAECVNNCPMEVFEIEGDKVVVARPDDCTYCGVCED
+VCPTGAVKVEPE"
+        }
+      },
+      seq {
+        id {
+          local str "FER2_METJA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FER2_METJA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 131,
+          seq-data ncbieaa "MRKRVYYWTDSEHINKPVISDTILNTGVKINILKAKVEPQEAFLILELFG
+SKETIEKALNYLSKFGEVEEISKVIKRDLEKCVHCGCCITQCPINVIYMDEDYNVVFKEEDCVGCKNCLKACPFKAIE
+IFE"
+        }
+      }
+    }
+  }
+}

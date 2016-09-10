@@ -1,0 +1,1649 @@
+Cdd ::= {
+  name "bbs11006",
+  id {
+    gid {
+      accession "acc_bbs11006",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                8,
+                0
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                26,
+                8
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                46,
+                19
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                64,
+                37
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                68,
+                38
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                71,
+                42
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                89,
+                48
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                91,
+                52
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                94,
+                59
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                106,
+                71
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                128,
+                95
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                159,
+                112
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                160,
+                113
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                163,
+                116
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                180,
+                117
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ac"
+              },
+              starts {
+                222,
+                130
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                35,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                46,
+                2
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                54,
+                9
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                64,
+                26
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                71,
+                34
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                83,
+                36
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                89,
+                41
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                91,
+                45
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                94,
+                52
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                106,
+                64
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                128,
+                88
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                159,
+                105
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                160,
+                106
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                163,
+                109
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                180,
+                110
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ad"
+              },
+              starts {
+                222,
+                123
+              },
+              len 20
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                8,
+                0
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                26,
+                8
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                46,
+                19
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                62,
+                27
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                64,
+                30
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                71,
+                38
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                89,
+                55
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                91,
+                59
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                94,
+                66
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                106,
+                78
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                128,
+                102
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                157,
+                119
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                160,
+                122
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                163,
+                125
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                180,
+                126
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1b35_C"
+              },
+              starts {
+                222,
+                139
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                0,
+                2
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                43,
+                16
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                46,
+                20
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                50,
+                23
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                56,
+                28
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                65,
+                30
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                71,
+                36
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                90,
+                46
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                91,
+                49
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                96,
+                52
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                106,
+                63
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                128,
+                87
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                163,
+                114
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                209,
+                143
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_ab"
+              },
+              starts {
+                215,
+                157
+              },
+              len 27
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                64,
+                7
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                71,
+                17
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                77,
+                22
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                89,
+                38
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                93,
+                40
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                94,
+                45
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                106,
+                57
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                131,
+                76
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                157,
+                92
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                160,
+                95
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                163,
+                98
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                170,
+                101
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                206,
+                129
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1bbt_aa"
+              },
+              starts {
+                215,
+                133
+              },
+              len 29
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                14,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                34,
+                10
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                46,
+                23
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                60,
+                36
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                68,
+                39
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                71,
+                42
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                89,
+                60
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                94,
+                62
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                97,
+                63
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                107,
+                68
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                122,
+                88
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                128,
+                98
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                147,
+                114
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                153,
+                119
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                157,
+                123
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                160,
+                127
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                163,
+                130
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                171,
+                135
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                182,
+                145
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                198,
+                169
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ab"
+              },
+              starts {
+                215,
+                192
+              },
+              len 29
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                0,
+                6
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                46,
+                19
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                50,
+                22
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                56,
+                27
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                65,
+                29
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                71,
+                35
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                77,
+                40
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                90,
+                44
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                91,
+                47
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                96,
+                50
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                106,
+                61
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                128,
+                85
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                152,
+                111
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                157,
+                125
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                160,
+                141
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                163,
+                161
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                209,
+                190
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mec_aa",
+                local str "1al2_ac"
+              },
+              starts {
+                215,
+                204
+              },
+              len 27
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1bbt_ac"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1bbt_ac"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 194,
+          seq-data ncbieaa "YGKVFNPPRNQLPGRFTNLLDVAEACPTFLRFEGGVPYVTTKTDSDRVLA
+QFDMSLAAKHMSNTFLAGLAQYYTQYSGTINLHFMFTGPTDAKARYMVAYAPPGMEPPKTPEAAAHCIHAEWDTGLNS
+KFTFSIPYLSAADYTYTASDVAETTNVQGWVCLFQITHGKADGDALVVLASAGKDFELRLPVDARA"
+        }
+      },
+      seq {
+        id {
+          local str "1al2_ad"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1al2_ad"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 189,
+          seq-data ncbieaa "NMMELAEIDTMIPFDLSATKKNTMEMYRVRLSDKPHTDDPILCLSLSPAS
+DPRLSHTMLGEILNYYTHWAGSLKFTFLFCGSMMATGKLLVSYAPPGADPPKKRKEAMLGTHVIWDIGLQSSCTMVVP
+WISNTTYRQTIDDSFTEGGYISVFYQTRIVVPLSTPREMDILGFVSACNDFSVRLLRDTTH"
+        }
+      },
+      seq {
+        id {
+          local str "1b35_C"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1b35_C"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 220,
+          seq-data ncbieaa "SSTNEIETNEGLAGTSLDVMDLSRVLSIPNYWDRFTWKTSDVINTVLWDN
+YVSPFKVKPYSATITDRFRCTHMGKVANAFTYWRGSMVYTFKFVKTQYHSGRLRISFIPYYYNTTISTGTPDVSRTQK
+IVVDLRTSTAVSFTVPYIGSRPWLYCIRPESSWLSKDNTDGALMYNCVSGIVRVEVLNQLVAAQNVFSEIDVICEVNG
+GPDLEFAGPTCPRY"
+        }
+      },
+      seq {
+        id {
+          local str "1bbt_ab"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1bbt_ab"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 185,
+          seq-data ncbieaa "YGYATAEDFVSGPNTSGLETRVVQAERFFKTHLFDWVTSDSFGRCHLLEL
+PTDHKGVYGSLTDSYAYMRNGWDVEVTAVGNQFNGGCLLVAMVPELCSIQKRELYQLTLFPHQFINPRTNMTAHITVP
+FVGVNRYDQYKVHKPWTLVVMVVAPLTVNTEGAPQIKVYANIAPTNVHVAGEFPSKE"
+        }
+      },
+      seq {
+        id {
+          local str "1mec_aa"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1mec_aa"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 244,
+          seq-data ncbieaa "TDATADFVAQPVYLPENQTKVAFFYDRSSPIGRFAVKSGSLESGFAPFSN
+KACPNSVILTPGPQFDPAYDQLRPQRLTEIWGNGNEETSEVFPLKTKQDYSFCLFSPFVYYKCDLEVTLSPHTSGAHG
+LLVRWCPTGTPTKPTTQVLHEVSSLSEGRTPQVYSAGPGTSNQISFVVPYNSPLSVLPAVWYNGHKRFDNTGDLGIAP
+NSDFGTLFFAGTKPDIKFTVYLRYKNMRVFCPRPTVFF"
+        }
+      },
+      seq {
+        id {
+          local str "1bbt_aa"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1bbt_aa"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 162,
+          seq-data ncbieaa "VTTTVENYGGETQIQRRQHTDVSFIMDRFVKVTPQNQINILDLMQVPSHT
+LVGGLLRASTYYFSDLEIAVKHEGDLTWVPNGAPEKALDNTTNPTAYHKAPLTRLALPYTAPHRVLATVYNGECRTLP
+TSFNYGAIKATRVTELLYRMKRAETYCPRPLLAI"
+        }
+      },
+      seq {
+        id {
+          local str "1al2_ab"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1al2_ab"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 221,
+          seq-data ncbieaa "PSDTVQTRHVVQHRSRSESSIESFFARGACVTIMTVDNPASTTNKDKLFA
+VWKITYKDTVQLRRKLEFFTYSRFDMELTFVVTANFTETNNGHALNQVYQIMYIPPGAPVPEKWDDYTWQTSSNPSIF
+YTYGTAPARISVPYVGISNAYSHFYDGFSKVPLKDQSAALGDSLYGAASLNDFGILAVRVVNDHNPTKVTSKIRVYLK
+PKHIRVWCPRPPRAV"
+        }
+      },
+      seq {
+        id {
+          local str "1al2_ac"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1al2_ac"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 232,
+          seq-data ncbieaa "RWPEYLRDSEANPVDQPTEPDVAACRFYTLDTVSWTKESRGWWWKLPDAL
+RDMGLFGQNMYYHYLGRSGYTVHVQCNASKFHQGALGVFAVPEMCLAGDSNTTTMHTSYQNANPGEKGGTFTGTFTPD
+NNQTSPARRFCPVDYLLGNGTLLGNAFVFPHQIINLRTNNCATLVLPYVNSLSIDSMVKHNNWGIAILPLAPLNFASE
+SSPEIPITLTIAPMCCEFNGLRNITL"
+        }
+      }
+    }
+  }
+}

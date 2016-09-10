@@ -1,0 +1,2162 @@
+Cdd ::= {
+  name "bb11032",
+  id {
+    gid {
+      accession "acc_bb11032",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                16,
+                0
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                20,
+                4
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                50,
+                37
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                55,
+                42
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                59,
+                47
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                76,
+                56
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                87,
+                63
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                107,
+                76
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                119,
+                88
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                131,
+                99
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                136,
+                104
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                142,
+                109
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                185,
+                147
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                205,
+                160
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                215,
+                170
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                217,
+                172
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                232,
+                176
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                236,
+                179
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                246,
+                191
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                274,
+                218
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "2pia_"
+              },
+              starts {
+                284,
+                231
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                21,
+                0
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                48,
+                23
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                50,
+                28
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                55,
+                33
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                59,
+                38
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                67,
+                41
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                71,
+                42
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                90,
+                58
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                104,
+                65
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                109,
+                66
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                119,
+                76
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                136,
+                93
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                142,
+                100
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                178,
+                132
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                180,
+                133
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                215,
+                168
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                217,
+                172
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                226,
+                178
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                246,
+                200
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1fdr_"
+              },
+              starts {
+                274,
+                236
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                2,
+                0
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                24,
+                13
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                46,
+                33
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                50,
+                40
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                55,
+                47
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                59,
+                52
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                66,
+                55
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                71,
+                57
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                91,
+                72
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                105,
+                87
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                119,
+                101
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                136,
+                126
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                142,
+                139
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                178,
+                171
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                215,
+                208
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                217,
+                210
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                227,
+                216
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                243,
+                230
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                246,
+                235
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                274,
+                264
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ndh_"
+              },
+              starts {
+                280,
+                266
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                0,
+                129
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                9,
+                136
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                20,
+                150
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                50,
+                183
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                55,
+                188
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                59,
+                193
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                71,
+                202
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                90,
+                218
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                104,
+                225
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                105,
+                227
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                119,
+                242
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                136,
+                259
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                143,
+                265
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                178,
+                295
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                180,
+                296
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                215,
+                335
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                217,
+                337
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                227,
+                343
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                245,
+                357
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                246,
+                360
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                274,
+                389
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1cqx_A"
+              },
+              starts {
+                295,
+                400
+              },
+              len 1
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                0,
+                87
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                19,
+                103
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                20,
+                107
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                26,
+                110
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                28,
+                111
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                50,
+                136
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                55,
+                141
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                59,
+                146
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                66,
+                149
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                71,
+                151
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                90,
+                167
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                104,
+                174
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                109,
+                175
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                119,
+                186
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                136,
+                203
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                140,
+                206
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                143,
+                208
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                178,
+                239
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                180,
+                240
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                214,
+                269
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                215,
+                274
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                217,
+                276
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                222,
+                280
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                227,
+                281
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                245,
+                295
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                246,
+                298
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1krh_A"
+              },
+              starts {
+                274,
+                327
+              },
+              len 10
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                9,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                28,
+                6
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                48,
+                23
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                50,
+                28
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                55,
+                33
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                59,
+                38
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                66,
+                41
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                71,
+                42
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                90,
+                56
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                104,
+                63
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                109,
+                64
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                116,
+                69
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                118,
+                70
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                119,
+                72
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                136,
+                89
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                143,
+                95
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                178,
+                126
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                180,
+                127
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                214,
+                156
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                215,
+                161
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                217,
+                163
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                227,
+                169
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                245,
+                183
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                246,
+                186
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1qfj_A"
+              },
+              starts {
+                274,
+                215
+              },
+              len 10
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                18,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                20,
+                2
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                25,
+                5
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                50,
+                31
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                55,
+                36
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                59,
+                41
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                74,
+                51
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                87,
+                60
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                96,
+                68
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                107,
+                72
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                118,
+                82
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                119,
+                83
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                136,
+                100
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                142,
+                107
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                185,
+                145
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                189,
+                147
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                205,
+                156
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                215,
+                166
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                217,
+                168
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                232,
+                172
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                246,
+                188
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "1fnc_",
+                local str "1ep1_B"
+              },
+              starts {
+                274,
+                215
+              },
+              len 2
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "2pia_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">2pia_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 321,
+          seq-data ncbieaa "TTPQEDGFLRLKIASKEKIARDIWSFELTDPQGAPLPPFEAGANLTVAVP
+NGSRRTYSLCNDSQERNRYVIAVKRDSNGRGGSISFIDDTSEGDAVEVSLPRNEFPLDKRAKSFILVAGGIGITPMLS
+MARQLRAEGLRSFRLYYLTRDPEGTAFFDELTSDEWRSDVKIHHDHGDPTKAFDFWSVFEKSKPAQHVYCCGPQALMD
+TVRDMTGHWPSGTVHFESFGATNTNARENTPFTVRLSRSGTSFEIPANRSILEVLRDANVRVPSSCESGTCGSCKTAL
+CSGEADHRDMVLRDDEKGTQIMVCVSRAKSAELVLDL"
+        }
+      },
+      seq {
+        id {
+          local str "1fnc_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1fnc_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 296,
+          seq-data ncbieaa "HSKKMEEGITVNKFKPKTPYVGRCLLNTKITGDDAPGETWHMVFSHEGEI
+PYREGQSVGVIPDGEDKNGKPHKLRLYSIASSALGDFGDAKSVSLCVKRLIYTNDAGETIKGVCSNFLCDLKPGAEVK
+LTGPVGKEMLMPKDPNATIIMLGTGTGIAPFRSFLWKMFFEKHDDYKFNGLAWLFLGVPTSSSLLYKEEFEKMKEKAP
+DNFRLDFAVSREQTNEKGEKMYIQTRMAQYAVELWEMLKKDNTYVYMCGLKGMEKGIDDIMVSLAAAEGIDWIEYKRQ
+LKKAEQWNVEVY"
+        }
+      },
+      seq {
+        id {
+          local str "1fdr_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1fdr_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 244,
+          seq-data ncbieaa "ADWVTGKVTKVQNWTDALFSLTVHAPVLPFTAGQFTKLGLEIRVQRAYSY
+VNSPDNPDLEFYLVTVPDGKLSPRLAALKPGDEVQVVSEAAGFFVLDEVPHCETLWMLATGTAIGPYLSILRLGKDLD
+RFKNLVLVHAARYAADLSYLPLMQELEKRYEGKLRIQTVVSRETAAGSLTGRIPALIESGELESTIGLPMNKETSHVM
+LCGNPQMVRDTQQLLKETRQMTKHLRRRPGHMTAEHYW"
+        }
+      },
+      seq {
+        id {
+          local str "1ndh_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ndh_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 270,
+          seq-data ncbieaa "PAITLENPDIKYPLRLIDKEVVNHDTRRFRFALPSPEHILGLPVGQHIYL
+SARIDGNLVIRPYTPVSSDDDKGFVDLVIKVYFKDTHPKFPAGGKMSQYLESMKIGDTIEFRGPNGLLVYQGKGKFAI
+RPDKKSSPVIKTVKSVGMIAGGTGITPMLQVIRAIMKDPDDHTVCHLLFANQTEKDILLRPELEELRNEHSARFKLWY
+TVDRAPEAWDYSQGFVNEEMIRDHLPPPEEEPLVLMCGPPPMIQYACLPNLERVGHPKERCFAF"
+        }
+      },
+      seq {
+        id {
+          local str "1cqx_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1cqx_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 403,
+          seq-data ncbieaa "MLTQKTKDIVKATAPVLAEHGYDIIKCFYQRMFEAHPELKNVFNMAHQEQ
+GQQQQALARAVYAYAENIEDPNSLMAVLKNIANKHASLGVKPEQYPIVGEHLLAAIKEVLGNAATDDIISAWAQAYGN
+LADVLMGMESELYERSAEQPGGWKGWRTFVIREKRPESDVITSFILEPADGGPVVNFEPGQYTSVAIDVPALGLQQIR
+QYSLSDMPNGRTYRISVKREGGGPQPPGYVSNLLHDHVNVGDQVKLAAPYGSFHIDVDAKTPIVLISGGVGLTPMVSM
+LKVALQAPPRQVVFVHGARNSAVHAMRDRLREAAKTYENLDLFVFYDQPLPEDVQGRDYDYPGLVDVKQIEKSILLPD
+ADYYICGPIPFMRMQHDALKNLGIHEARIHYEVFGPDLFAE"
+        }
+      },
+      seq {
+        id {
+          local str "1krh_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1krh_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 337,
+          seq-data ncbieaa "SNHQVALQFEDGVTRFICIAQGETLSDAAYRQQINIPMDCREGECGTCRA
+FCESGNYDMPEDNYIEDALTPEEAQQGYVLACQCRPTSDAVFQIQASSEVCKTKIHHFEGTLARVENLSDSTITFDIQ
+LDDGQPDIHFLAGQYVNVTLPGTTETRSYSFSSQPGNRLTGFVVRNVPQGKMSEYLSVQAKAGDKMSFTGPFGSFYLR
+DVKRPVLMLAGGTGIAPFLSMLQVLEQKGSEHPVRLVFGVTQDCDLVALEQLDALQQKLPWFEYRTVVAHAESQHERK
+GYVTGHIEYDWLNGGEVDVYLCGPVPMVEAVRSWLDTQGIQPANFLFEKFSAN"
+        }
+      },
+      seq {
+        id {
+          local str "1qfj_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1qfj_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 226,
+          seq-data ncbieaa "TTLSCKVTSVEAITDTVYRVRIVPDAAFSFRAGQYLMVVMDERDKRPFSM
+ASTPDEKGFIELHIGYAKAVMDRILKDHQIVVDIPHGEAWLRDDEERPMILIAGGTGFSYARSILLTALARNPNRDIT
+IYWGGREEQHLYDLCELEALSLKHPGLQVVPVVEQPEAGWRGRTGTVLTAVLQDHGTLAEHDIYIAGRFEMAKIARDL
+FCSERNAREDRLFGDAFAFI"
+        }
+      },
+      seq {
+        id {
+          local str "1ep1_B"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ep1_B"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 261,
+          seq-data ncbieaa "SQLQEMMTVVSQREVAYNIFEMVLKGTLVDEMDLPGQFLHLAVPNGAMLL
+RRPISISSWDKRAKTCTILYRIGDETTGTYKLSKLESGAKVDVMGPLGNGFPVAEVTSTDKILIIGGGIGVPPLYELA
+KQLEKTGCQMTILLGFASENVKILENEFSNLKNVTLKIATDDGSYGTKGHVGMLMNEIDFEVDALYTCGAPAMLKAVA
+KKYDQLERLYISMESRMACGIGACYACVEHDKEDESHALKVCEDGPVFLGKQLSL"
+        }
+      }
+    }
+  }
+}

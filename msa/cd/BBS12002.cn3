@@ -1,0 +1,553 @@
+Cdd ::= {
+  name "bbs12002",
+  id {
+    gid {
+      accession "acc_bbs12002",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "1cjs_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "1cjs_A"
+              },
+              starts {
+                16,
+                14
+              },
+              len 59
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "1cjs_A"
+              },
+              starts {
+                76,
+                73
+              },
+              len 63
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "1cjs_A"
+              },
+              starts {
+                139,
+                136
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "1cjs_A"
+              },
+              starts {
+                151,
+                148
+              },
+              len 39
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_HALVO"
+              },
+              starts {
+                2,
+                0
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_HALVO"
+              },
+              starts {
+                16,
+                12
+              },
+              len 57
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_HALVO"
+              },
+              starts {
+                76,
+                69
+              },
+              len 63
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_HALVO"
+              },
+              starts {
+                139,
+                132
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_HALVO"
+              },
+              starts {
+                151,
+                144
+              },
+              len 39
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_ENTHI"
+              },
+              starts {
+                1,
+                0
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_ENTHI"
+              },
+              starts {
+                16,
+                13
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_ENTHI"
+              },
+              starts {
+                42,
+                38
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_ENTHI"
+              },
+              starts {
+                77,
+                72
+              },
+              len 62
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_ENTHI"
+              },
+              starts {
+                139,
+                134
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_ENTHI"
+              },
+              starts {
+                151,
+                146
+              },
+              len 19
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_TRYBR"
+              },
+              starts {
+                0,
+                0
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_TRYBR"
+              },
+              starts {
+                16,
+                14
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_TRYBR"
+              },
+              starts {
+                42,
+                39
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_TRYBR"
+              },
+              starts {
+                77,
+                73
+              },
+              len 62
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_TRYBR"
+              },
+              starts {
+                139,
+                135
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "R10A_TRYBR"
+              },
+              starts {
+                151,
+                147
+              },
+              len 39
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_BUCAP"
+              },
+              starts {
+                1,
+                0
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_BUCAP"
+              },
+              starts {
+                16,
+                13
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_BUCAP"
+              },
+              starts {
+                35,
+                31
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_BUCAP"
+              },
+              starts {
+                77,
+                72
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_BUCAP"
+              },
+              starts {
+                99,
+                88
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_BUCAP"
+              },
+              starts {
+                117,
+                105
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_BUCAP"
+              },
+              starts {
+                139,
+                129
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mzp_A",
+                local str "RL1_BUCAP"
+              },
+              starts {
+                151,
+                142
+              },
+              len 39
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1mzp_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1mzp_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 190,
+          seq-data ncbieaa "ADKESLIEALKLALSTEYNVKRNFTQSVEIILTFKGIDXKKGDLKLREIV
+PLPKQPSKAKRVLVVPSSEQLEYAKKASPKVVITREELQKLQGQKRPVKKLARQNEWFLINQESXALAGRILGPALGP
+RGKFPTPLPNTADISEYINRFKRSVLVKTKDQPQVQVFIGTEDXKPEDLAENAIAVLNAIEN"
+        }
+      },
+      seq {
+        id {
+          local str "1cjs_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1cjs_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 187,
+          seq-data ncbieaa "MDREALLQAVKEARELAKPRNFTQSFEFIATLKEIDMRKPENRIKTEVVL
+PHGRGKEAKIAVIGTGDLAKQAEELGLTVIRKEEIEELGKNKRKLRKIAKAHDFFIAQADLMPLIGRYMGVILGPRGK
+MPKPVPANANIKPLVERLKKTVVINTRDKPYFQVLVGNEKMTDEQIVDNIEAVLNVVAK"
+        }
+      },
+      seq {
+        id {
+          local str "RL1_HALVO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">RL1_HALVO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 183,
+          seq-data ncbieaa "ADTIVDAVSRALDEAPGRNFRETVDLAVNLRDLDLNDPSKRVDESIVLPS
+GTGQDTQIVVFATGETAAEDAADEVLGPDELEDFGDDTDAAKDLADETDFFVAEAGLMQDIGRYLGTVLGPRGKMPTP
+LQPDDDVVETVNRMKNTVQLRSRDRRTFHTRVGADDMTPDEIAENIDVIVRRLEA"
+        }
+      },
+      seq {
+        id {
+          local str "R10A_ENTHI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">R10A_ENTHI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 165,
+          seq-data ncbieaa "SSAVSRQGVATILKEKKERKFGETGELHLALKNYDPDKDKRCGGTDKLPN
+VTKANYKVCVLGDAQACEAAQKENIPHMDVDALKALYKDKMFFKKLARKYNTFLGSDSVGRQLQKILGPGLNKGGKFP
+PPLGKNEDLKVKINELQCQVNSQLKKVLCMGVGGGNV"
+        }
+      },
+      seq {
+        id {
+          local str "R10A_TRYBR"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">R10A_TRYBR"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 186,
+          seq-data ncbieaa "IPPALLSEAIQNVLKDRKERKFKESIDLQVNLKNYDPQKDKRFSGSVRLP
+HVCRPRMTVCLLCDLVHEDIAKKNDVPTMNQEELKKLNKNKKLVKKMCNQYDAFLCSESIIKTVPRLVGPHMHRVGKF
+PTVCAQNESLPDKVLELQSTVKFQLKKVLCLGTCVGHVDMTEDQVRQNVVMAINFLVS"
+        }
+      },
+      seq {
+        id {
+          local str "RL1_BUCAP"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">RL1_BUCAP"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 181,
+          seq-data ncbieaa "EKLYYIDELIQLLKKSSNVNFNESIDVAINLGINPKKSDQNIRGSTILPH
+GTGRCVKVAVFTQGENIKIAKKAGAEFIGMEDLAEQIKKEGIKFHTAIASPDAMKIVTQLGQILGPRGLMPNPKLGTV
+TTNIEEAIKNAKTGQVCYRNDKNGIIHATIGRINFERNQIKENFNVFLESIKK"
+        }
+      }
+    }
+  }
+}

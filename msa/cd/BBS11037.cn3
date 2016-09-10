@@ -1,0 +1,1471 @@
+Cdd ::= {
+  name "bbs11037",
+  id {
+    gid {
+      accession "acc_bbs11037",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                20,
+                0
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                55,
+                25
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                69,
+                56
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                71,
+                58
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                73,
+                60
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                75,
+                62
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                80,
+                68
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                88,
+                76
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                90,
+                85
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                115,
+                108
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                127,
+                119
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                141,
+                132
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                143,
+                134
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                166,
+                157
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                189,
+                180
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                190,
+                181
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                234,
+                221
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                261,
+                248
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                285,
+                261
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                295,
+                264
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                302,
+                269
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                328,
+                288
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                348,
+                298
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                356,
+                306
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                357,
+                307
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                370,
+                318
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                381,
+                331
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "put3_yeast"
+              },
+              starts {
+                397,
+                346
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                53,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                69,
+                41
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                71,
+                43
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                73,
+                51
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                75,
+                53
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                83,
+                59
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                88,
+                64
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                90,
+                73
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                104,
+                84
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                108,
+                86
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                129,
+                104
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                139,
+                107
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                143,
+                111
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                166,
+                134
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                189,
+                157
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                190,
+                161
+              },
+              len 55
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                258,
+                216
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                261,
+                219
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                295,
+                231
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                309,
+                242
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                320,
+                250
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                348,
+                278
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                356,
+                291
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                357,
+                292
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                381,
+                318
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                385,
+                321
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "yhx8_yeast"
+              },
+              starts {
+                395,
+                327
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                17,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                28,
+                10
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                34,
+                13
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                47,
+                25
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                69,
+                43
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                71,
+                45
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                73,
+                59
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                75,
+                62
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                80,
+                68
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                88,
+                76
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                90,
+                85
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                127,
+                108
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                143,
+                135
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                166,
+                158
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                189,
+                185
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                190,
+                189
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                261,
+                267
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                294,
+                282
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                306,
+                289
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                309,
+                290
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                348,
+                330
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                356,
+                343
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                357,
+                347
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                369,
+                358
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                381,
+                372
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                387,
+                375
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "cat8_yeast"
+              },
+              starts {
+                398,
+                380
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                24,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                63,
+                10
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                69,
+                41
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                71,
+                46
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                73,
+                61
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                75,
+                64
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                80,
+                70
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                88,
+                82
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                90,
+                91
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                103,
+                102
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                108,
+                105
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                119,
+                110
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                143,
+                127
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                166,
+                151
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                179,
+                163
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                191,
+                173
+              },
+              len 58
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                251,
+                231
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                261,
+                241
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                290,
+                259
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                298,
+                263
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                309,
+                272
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                317,
+                277
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                357,
+                295
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                369,
+                306
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                381,
+                320
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "YB00_YEAST",
+                local str "s50366"
+              },
+              starts {
+                391,
+                329
+              },
+              len 12
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "put3_yeast"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">put3_yeast"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 354,
+          seq-data ncbieaa "SSGQEEVIQFQLPSYNYTKLLIDCFINYNDGCFYFFNEGLVKCGINKLYL
+ENKWLYYDNTKKALDNENDPILQAVWFCKILLILAVGEMYLGSINNEMLKNYSNQPKLPGSKFFQMGSKIFNCLFSSE
+RLENVTKKGGIEVLLLYAFFLQVADYTLASYFYFGQALRTCLILGLHVDSQSDTLSRYEIEHHRRLWWTVYMFERMLS
+SKAGLPLSFTDYTISTALPADIDDETIEEKNSHYVFRKAELISNCVTIVKINAQILSKLYQRQPETNIIITLKVVIKQ
+LLEWRNNLSDSLQVDFTQKDEDFKISRLSTNMFTEYFQGINLAVRPLLFHFASIQLKRFKTSNTFVNLQN"
+        }
+      },
+      seq {
+        id {
+          local str "yhx8_yeast"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">yhx8_yeast"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 335,
+          seq-data ncbieaa "TSWVREDGSFKSIDRSLLDRFIAAYFKHNHRLFPMIDKIAFLNDAATITD
+FERLYDNKNYPDSFVFKVYMIMAIGCTTLQRAGMVSQDEECLSEHLAFLAMKKFRSVIILQDIETVRCLLLLGIYSFF
+EPKGSSSWTISGIIMRLTIGLGLNRELTAKKLKSMSALEAEARYRVFWSAYCFERLVCTSLGRISGIDDEDITVPLPR
+ALYVDERDDLEMTKLMISLRKMGGRIYKQVHSVSAGRQKLTIEQKQEIISGLRKELDEIYSRESERRKLKKSQMDQVE
+RENNSTTNVISFHSSEIWLAMRYSQLQILLYRPSALMPKPPIDSLSTLGEF"
+        }
+      },
+      seq {
+        id {
+          local str "cat8_yeast"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">cat8_yeast"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 395,
+          seq-data ncbieaa "EKPANDQDDELLSLTEIKELLHLFFKFWSNQVPILNNDHFLIYFNNFVEV
+VKHLSTENLETNNTTKSTVTTNHEIFALKLLMMLQMGLLVKIKMEKIKYTVPKNPKAKYARLMAYYHQLSLIIPKNPY
+FLNMSTTSLPSLQLLSLASFYYLNVGDISAIYGVRGRIVSMAQQLRLHRCPSAVLSVHSNPVLQKFEQSERRLLFWAI
+YYVDVFASLQLGVPRLLKDFDIECALPISDVEYKDQLSMENEKADKKAKKIQLQGQVSSFSLQIIRFAKILGNILDSI
+FKRGMMDERITSEVALVHENALDNWRNQLPEMYYFQITVNGTVNLDEIRATNQRNTETKFDKKDIILFEKKILLLFYF
+LAKSMIHLPVIATKPLPKNVDNATKKKQSMFNN"
+        }
+      },
+      seq {
+        id {
+          local str "YB00_YEAST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">YB00_YEAST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 414,
+          seq-data ncbieaa "TFKYSILQTKLVLDFSFRSASSPSSDNILYPLPRLAIAKRLLKNIKCPSL
+ASLLHIVDVDQCLQFADVHFDPAKGRLTSSQAFLLNICLCLGATVTNFEEKQELVDEDNHETYYFEKFELWRLRSFTF
+LNSVYYYHKLSVARADMTALKALLLLAKFAQQKISASSAVKVLSVAIKVALDLRLNLHSTYEDLELDEIIKRRRLWCY
+CFSTDKFFSVVLSRPPFLKEENTDVLTDESYVELFRDKILPNLSIKYDDSKLEGVKDIVSVVNLLANHLEYVPYIQSY
+FLSRLSLIESQIYYSCFSIRTTLDDTLDEIIENVLENQKALDRMRDDLPTILSLENYKENMRILSLDSSKLDFEVSCC
+TTILLHLRWYHQKITLSLFVISIIGDNLDQRESSRHDIAEIIRRSRLDFKRN"
+        }
+      },
+      seq {
+        id {
+          local str "s50366"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">s50366"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 341,
+          seq-data ncbieaa "KKEFLMYDPIFELNEKLSRSFLDTFFTRLQFKYPILDEQEIYTFYDHYLH
+NKILIPPSSPATSSAAPPSNSHSYSEIEFHFLSGRMWLVFSISAYLLMTTGKYKGFPPHRYFSTAIRHITKCGLHLNY
+VQQIELLTLLVLYIIRTDRDSLILYDIIKDVMGISKKKLHLNQWYPNDPFANKKLRLFWCVYLLERMICVAVGKPYTI
+KESEINLPLFNNDSFYTKGVHAAAPSTNDHGVQFINQSLKLRRIESQFVETLQLLKNDSRSVKQSIDQLPLVRKFFED
+LEVWRKSYSTLDVKNFENETLKLYYYRSVRLLIQPYLEFFAPEDRLFRECQAAAGQI"
+        }
+      }
+    }
+  }
+}

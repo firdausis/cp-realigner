@@ -1,0 +1,6904 @@
+Cdd ::= {
+  name "bb40033",
+  id {
+    gid {
+      accession "acc_bb40033",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                0,
+                97
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                22,
+                120
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                25,
+                127
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                28,
+                131
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                42,
+                135
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                61,
+                155
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                63,
+                158
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                75,
+                172
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                90,
+                187
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                93,
+                190
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                100,
+                197
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                119,
+                216
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                134,
+                221
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                179,
+                269
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                192,
+                284
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                202,
+                292
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                220,
+                310
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                227,
+                316
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                277,
+                336
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                282,
+                340
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                296,
+                355
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                319,
+                371
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                345,
+                401
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                350,
+                407
+              },
+              len 18
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                0,
+                162
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                22,
+                184
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                25,
+                191
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                28,
+                195
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                42,
+                199
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                61,
+                219
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                63,
+                222
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                75,
+                236
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                90,
+                251
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                93,
+                254
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                100,
+                261
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                119,
+                281
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                134,
+                289
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                179,
+                336
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                192,
+                351
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                220,
+                379
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                227,
+                385
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                277,
+                405
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                282,
+                409
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                296,
+                424
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                320,
+                440
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                345,
+                469
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                350,
+                475
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                372,
+                497
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                378,
+                506
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                421,
+                511
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                0,
+                44
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                22,
+                66
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                25,
+                73
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                28,
+                77
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                42,
+                81
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                61,
+                100
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                63,
+                103
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                75,
+                117
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                90,
+                132
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                93,
+                135
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                100,
+                142
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                119,
+                161
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                134,
+                166
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                179,
+                214
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                192,
+                229
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                220,
+                257
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                227,
+                263
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                277,
+                283
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                282,
+                287
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                296,
+                302
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                320,
+                318
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                345,
+                347
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1ser_A"
+              },
+              starts {
+                350,
+                353
+              },
+              len 19
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                0,
+                201
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                22,
+                223
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                25,
+                226
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                29,
+                229
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                34,
+                238
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                61,
+                265
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                63,
+                267
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                75,
+                279
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                90,
+                294
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                93,
+                297
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                100,
+                304
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                119,
+                323
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                134,
+                330
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                179,
+                375
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                192,
+                388
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                220,
+                416
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                224,
+                422
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                228,
+                423
+              },
+              len 68
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                296,
+                491
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                319,
+                507
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                345,
+                533
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                350,
+                538
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                372,
+                558
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                378,
+                564
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                396,
+                569
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                409,
+                582
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                455,
+                625
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_THETN"
+              },
+              starts {
+                465,
+                635
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                0,
+                87
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                9,
+                93
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                22,
+                106
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                25,
+                109
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                29,
+                112
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                34,
+                121
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                61,
+                148
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                63,
+                151
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                75,
+                163
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                90,
+                178
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                93,
+                181
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                100,
+                188
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                119,
+                207
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                134,
+                214
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                179,
+                259
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                192,
+                272
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                220,
+                300
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                224,
+                306
+              },
+              len 72
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                296,
+                378
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                319,
+                394
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                345,
+                420
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                350,
+                425
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                372,
+                445
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                378,
+                451
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                396,
+                456
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                409,
+                469
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                455,
+                512
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULTO"
+              },
+              starts {
+                465,
+                522
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                0,
+                92
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                9,
+                98
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                22,
+                111
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                25,
+                114
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                29,
+                117
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                34,
+                126
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                61,
+                153
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                63,
+                156
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                75,
+                168
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                90,
+                183
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                93,
+                186
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                100,
+                193
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                119,
+                212
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                134,
+                219
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                179,
+                264
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                192,
+                277
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                220,
+                305
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                224,
+                311
+              },
+              len 72
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                296,
+                383
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                319,
+                399
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                345,
+                425
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                350,
+                430
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                372,
+                450
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                378,
+                456
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                396,
+                461
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                409,
+                474
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                455,
+                517
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYT_SULSO"
+              },
+              starts {
+                465,
+                527
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                45,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                61,
+                16
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                63,
+                18
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                75,
+                30
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                90,
+                45
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                93,
+                48
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                100,
+                55
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                119,
+                74
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                134,
+                81
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                179,
+                126
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                192,
+                139
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                220,
+                167
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                224,
+                173
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                227,
+                174
+              },
+              len 69
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                296,
+                243
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                319,
+                259
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                345,
+                285
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                350,
+                290
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                372,
+                310
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                378,
+                316
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                396,
+                321
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                409,
+                334
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                455,
+                377
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1evk_A"
+              },
+              starts {
+                465,
+                387
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                0,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                11,
+                5
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                22,
+                16
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                25,
+                19
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                28,
+                22
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                34,
+                28
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                44,
+                35
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                61,
+                52
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                63,
+                54
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                75,
+                66
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                90,
+                82
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                93,
+                85
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                100,
+                92
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                119,
+                111
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                134,
+                121
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                179,
+                166
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                192,
+                179
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                220,
+                207
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                224,
+                220
+              },
+              len 72
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                296,
+                292
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                319,
+                308
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                345,
+                334
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                350,
+                339
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                372,
+                362
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                378,
+                368
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                384,
+                375
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                409,
+                400
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                450,
+                439
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                465,
+                454
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                30,
+                0
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                34,
+                8
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                50,
+                16
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                60,
+                25
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                61,
+                26
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                63,
+                28
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                75,
+                40
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                90,
+                55
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                93,
+                58
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                100,
+                66
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                115,
+                73
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                119,
+                77
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                131,
+                86
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                179,
+                133
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                182,
+                135
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                192,
+                146
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                220,
+                175
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                227,
+                181
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                277,
+                201
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                283,
+                205
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                296,
+                219
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                322,
+                235
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                345,
+                262
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                350,
+                267
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                372,
+                292
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                378,
+                298
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                396,
+                303
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                409,
+                317
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                449,
+                356
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                453,
+                359
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                457,
+                361
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1h4q_A"
+              },
+              starts {
+                465,
+                376
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                28,
+                3
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                34,
+                13
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                50,
+                21
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                60,
+                30
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                61,
+                31
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                63,
+                33
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                75,
+                45
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                90,
+                60
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                93,
+                63
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                100,
+                71
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                119,
+                90
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                131,
+                99
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                179,
+                146
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                182,
+                148
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                192,
+                159
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                220,
+                188
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                227,
+                194
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                277,
+                214
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                283,
+                218
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                296,
+                232
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                322,
+                248
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                345,
+                275
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                350,
+                280
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                372,
+                305
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                378,
+                311
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                396,
+                316
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                409,
+                330
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                449,
+                369
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                453,
+                372
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                465,
+                391
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                28,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                34,
+                10
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                50,
+                18
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                60,
+                27
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                61,
+                28
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                63,
+                30
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                75,
+                42
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                90,
+                57
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                93,
+                60
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                100,
+                68
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                119,
+                87
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                131,
+                96
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                179,
+                143
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                182,
+                145
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                192,
+                156
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                220,
+                185
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                227,
+                191
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                277,
+                211
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                283,
+                215
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                296,
+                229
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                322,
+                245
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                345,
+                272
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                350,
+                277
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                372,
+                304
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                378,
+                310
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                396,
+                315
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                409,
+                329
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                453,
+                372
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_BORBU"
+              },
+              starts {
+                465,
+                391
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                28,
+                7
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                34,
+                17
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                50,
+                25
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                60,
+                34
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                61,
+                35
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                63,
+                37
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                75,
+                49
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                90,
+                64
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                93,
+                67
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                100,
+                75
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                119,
+                94
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                131,
+                103
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                179,
+                150
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                182,
+                152
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                192,
+                163
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                220,
+                192
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                227,
+                198
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                277,
+                218
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                283,
+                222
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                296,
+                236
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                322,
+                252
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                345,
+                279
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                350,
+                284
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                371,
+                303
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                372,
+                307
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                378,
+                313
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                396,
+                318
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                409,
+                332
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                449,
+                370
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                453,
+                373
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_CLOST"
+              },
+              starts {
+                465,
+                392
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                7,
+                139
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                22,
+                154
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                25,
+                167
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                28,
+                183
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                34,
+                193
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                50,
+                201
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                60,
+                210
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                61,
+                211
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                63,
+                213
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                75,
+                225
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                90,
+                240
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                93,
+                243
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                100,
+                251
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                119,
+                270
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                131,
+                279
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                179,
+                327
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                182,
+                329
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                192,
+                340
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                220,
+                369
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                227,
+                375
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                277,
+                395
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                282,
+                399
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                296,
+                414
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                319,
+                430
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                345,
+                460
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                350,
+                465
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                372,
+                495
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                378,
+                501
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                396,
+                506
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                409,
+                520
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                450,
+                559
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                453,
+                561
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                465,
+                580
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                32,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                34,
+                6
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                50,
+                14
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                60,
+                23
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                61,
+                24
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                63,
+                26
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                75,
+                38
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                90,
+                53
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                93,
+                75
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                100,
+                83
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                119,
+                102
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                131,
+                111
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                179,
+                158
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                182,
+                160
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                192,
+                171
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                220,
+                200
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                227,
+                206
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                277,
+                226
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                283,
+                230
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                296,
+                244
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                322,
+                260
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                345,
+                287
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                350,
+                292
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                372,
+                316
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                378,
+                322
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                396,
+                327
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                409,
+                340
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                438,
+                365
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                450,
+                375
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                453,
+                377
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                465,
+                396
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                32,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                34,
+                6
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                50,
+                14
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                60,
+                23
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                61,
+                24
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                63,
+                26
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                75,
+                38
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                90,
+                53
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                93,
+                75
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                100,
+                83
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                119,
+                102
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                131,
+                111
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                179,
+                158
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                182,
+                160
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                192,
+                171
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                220,
+                200
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                227,
+                206
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                277,
+                226
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                283,
+                230
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                296,
+                244
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                322,
+                260
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                345,
+                287
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                350,
+                292
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                372,
+                316
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                378,
+                322
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                396,
+                327
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                409,
+                340
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                438,
+                365
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                450,
+                375
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                453,
+                377
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                465,
+                396
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                34,
+                2
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                50,
+                10
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                61,
+                21
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                63,
+                23
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                75,
+                35
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                90,
+                50
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                93,
+                53
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                100,
+                61
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                119,
+                80
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                131,
+                89
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                179,
+                137
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                182,
+                139
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                192,
+                151
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                220,
+                179
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                227,
+                185
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                277,
+                205
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                283,
+                209
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                296,
+                223
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                322,
+                239
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                345,
+                266
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                350,
+                271
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                372,
+                296
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                378,
+                302
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                396,
+                307
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                398,
+                308
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                409,
+                319
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                450,
+                358
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                453,
+                360
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "1nj8_A"
+              },
+              starts {
+                465,
+                379
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                28,
+                8
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                34,
+                18
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                50,
+                26
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                61,
+                37
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                63,
+                39
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                75,
+                51
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                90,
+                66
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                92,
+                67
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                93,
+                68
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                100,
+                76
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                119,
+                95
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                131,
+                104
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                179,
+                152
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                182,
+                154
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                192,
+                166
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                220,
+                194
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                227,
+                200
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                277,
+                220
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                283,
+                224
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                296,
+                238
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                322,
+                254
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                345,
+                281
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                350,
+                286
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                372,
+                311
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                378,
+                317
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                396,
+                322
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                409,
+                335
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                450,
+                374
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                453,
+                376
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_METTH"
+              },
+              starts {
+                465,
+                395
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                0,
+                68
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                16,
+                83
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                22,
+                89
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                28,
+                101
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                34,
+                111
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                50,
+                119
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                61,
+                130
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                63,
+                132
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                75,
+                144
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                90,
+                159
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                92,
+                160
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                93,
+                161
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                100,
+                169
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                119,
+                188
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                131,
+                197
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                179,
+                245
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                182,
+                247
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                192,
+                259
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                220,
+                287
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                227,
+                293
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                277,
+                313
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                283,
+                317
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                296,
+                331
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                322,
+                347
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                345,
+                374
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                350,
+                379
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                372,
+                404
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                378,
+                410
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                396,
+                415
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                399,
+                416
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                409,
+                426
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                450,
+                465
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                453,
+                467
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYTM_SCHPO",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                465,
+                487
+              },
+              len 8
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "SYS_AQUAE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYS_AQUAE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 425,
+          seq-data ncbieaa "MIDINLIREKPDYVKERLATRDKELVSLVDKVLELDKRRREIIKRLEALR
+SERNKLSKEIGKLKREGKDTTEIQNRVKELKEEIDRLEEELRKVEEELKNTLLWIPNLPHPSVPVGEDEKDNVEVRRW
+GEPRKFDFEPKPHWEIGERLGILDFKRGAKLSGSRFTVIAGWGARLERALINFMLDLHTKKGYKEICPPHLVKPEILI
+GTGQLPKFEEDLYKCERDNLYLIPTAEVPLTNLYREEILKEENLPIYLTAYTPCYRREAGAYGKDIRGIIRQHQFDKV
+ELVKIVHPDTSYDELEKLVKDAEEVLQLLGLPYRVVELCTGDLGFSAAKTYDIEVWFPSQNKYREISSCSNCEDFQAR
+RMNTRFKDSKTGKNRFVHTLNGSGLAVGRTLAAILENYQQEDGSVVVPEVLRDYVGTDVIRPE"
+        }
+      },
+      seq {
+        id {
+          local str "SYSM_BOVIN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYSM_BOVIN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 518,
+          seq-data ncbieaa "MAASIVRRLGPLVAGRGLRLRGGCVCNQSFKRSFATERQDRNLLYEHARE
+GYSALPLLDMESLCAYPEDAARALDLRKGELRSKDLPGIISTWQELRQLREQIRSLEEEKEAVTEAVRALVVNQDNSQ
+VQQDPQYQSLRARGREIRKQLTLLYPKEAQLEEQFYLRALRLPNQTHPDVPVGDESQARVLHVVGDKPAFSFQPRGHL
+EIAEKLDIIRQKRLSHVSGHRSYYLRGAGALLQHGLVNFTLNKLIHRGFTPMTVPDLLRGVVFEGCGMTPNAKPSQIY
+NIDPSRFEDLNLAGTAEVGLAGYFMDHSVAFRDLPIRMVCSSTCYRAETDTGKEPWGLYRVHHFTKVEMFGVTGPGLE
+QSSELLEEFLSLQMEILTELGLHFRVLDMPTQELGLPAYRKFDIEAWMPGRGRFGEVTSASNCTDFQSRRLHIMFQTE
+AGELQFAHTVNATGCAVPRLLIALLESYQQKDGSVLVPPALQPYLGTDRITTPTHVPLQYIGPNQPQKPRLPGQPASS"
+        }
+      },
+      seq {
+        id {
+          local str "1ser_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ser_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 372,
+          seq-data ncbieaa "MVDLKRLRQEPEVFHRAIREKGVALDLEALLALDREVQREKEARLEALLL
+QVPLPPWPGAPVGGEEANREIKRVGGPPEFSFPPLDHVALMEKNGWWEPRISQVSGSRSYALKGDLALYELALLRFAM
+DFMARRGFLPMTLPSYAREKAFLGTGHFPAYRDQVWAIAETDLYLTGTAEVVLNALHSGEILPYEALPLRYAGYAPAF
+RSEAGSFGKDVRGLMRVHQFHKVEQYVLTEASLEASDRAFQELLENAEEILRLLELPYRLVEVATGDMGPGKWRQVDI
+EVYLPSEGRYRETHSCSALLDWQARRANLRYRDPEGRVRYAYTLNNTALATPRILAMLLENHQLQDGRVRVPQALIPY
+MGKEVLEPCG"
+        }
+      },
+      seq {
+        id {
+          local str "SYT_THETN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYT_THETN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 644,
+          seq-data ncbieaa "MYSLGNQVKAMVITLRDGTKREFEKGITVYEIAKSISDKLAREAVGGKFN
+GKIVELNTKIEEDGELEILTFEDEEGKKIYWHTSSHILAQAVKRLFKDVKLAIGPAIDNGFYYDFDTERPFTTEDFEA
+IEEEMNKIIKEDYKLERFVLSKEEAIKFMKEKDEPYKVELIEEIPEGEEISFYKQGEFVDLCAGPHLPSTGMVKAIKL
+LSVAGAYWKGDEKNKMLQRIYGISFPKKSMLDEYLHMMEEAKKRDHRKLGKELDLFSIHPEGPGFPFFHPKGMIIRNI
+LEDFWRKEHIKRGYQEIRTPIILNEELWKRSGHWDHYKENMYFTEIDGQTYAIKPMNCPGAMLVYKSTLRSYRDLPLR
+LCELGLVHRHELSGVLHGLMRVRSFTQDDAHLFMTPEQVEDEILGVINLVDYFYKIFGFEYHVELSTRPENSMGTDEE
+WELATNALISALKRANLPYKVNEGEGAFYGPKIDFHLKDSIGRTWQCGTIQLDFQMPERFELEYIGPDGEKHRPIMLH
+RVIYGSIERFIGILTEHFAGAFPTWLAPVQVRVLPISEKHHEYARKVYERLQEHDIRVELDDRNEKIGYKIREAQLQK
+IPYMLIVGDREVEEGNVSLRSRKDGDLGPISLDNFIEKILKEIATKAL"
+        }
+      },
+      seq {
+        id {
+          local str "SYT_SULTO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYT_SULTO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 540,
+          seq-data ncbieaa "MEEYKGVWLKAGIIYALNLASNGFKPVEVGLGERDFYVDVESDTTLTLDE
+AKKFATYNQYSYQLKDGYIEFNGNKIKVLGEPSSLEPKYFEILNISVHHPSPNVQYVRIRGVGFEKKEELDQYLKWLE
+EVSEYDHRIIGERLDLFSFPDETAPGLALFHYKGQIIRKELMKFMEEINESMGYQEVFTAEIYRSILWKTSGHYDYYK
+DKMVLFKMEDEELGLKPMNCPAHILIYKSKTRSYKDLPIRFSEFGLVFRWEKRGELYGLLRVRGFVQDDGHIFLTEDQ
+IKDEVKMLVKKTIDVLSIFGFKGDDVRINLSTRPDESIGSDELWEKATNALVSALNELGIKYIVKEKEGAFYGPKIDF
+DIRDSLGRWWQLSTIQVDFNLPERFKLEYIDKDGSRKRPVMIHRAIYGSIERFMAILLEHFRGKLPTWLSPVQVRILP
+ISKDVEDYALNLLSKLKENKIRVELDMSDETLSKRIKKAYDEGVPYMIIVGKKEREEGKVTVRGRNNVEIRGVKFDDF
+LKALLEEIRNRDLNQSAINKLK"
+        }
+      },
+      seq {
+        id {
+          local str "SYT_SULSO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYT_SULSO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 545,
+          seq-data ncbieaa "MESYKPVWLKGAVILAINLIDKGYKPVAVGLGERDFYIDVKSDTSITLDE
+VKKAINENVLANVSIENNQIVYKGNKVSIIEDKVSISTNLNPKYFEILNISTHHPNPNEQYVRIRGVAFETEEQLKDY
+LSWLEKAEETDHRLIGEKLDLFSFHEEAGSGLVLFHPKGQTIRNELIAFMREINDSMGYQEVYTSHVFKTDIWKISGH
+YTLYRDKLIVFNMEGDEYGVKPMNCPAHILIYKSKPRTYRDLPIRFSEFGHVYRWEKKGELYGLLRVRGFVQDDGHIF
+LREDQLREEIKMLISKTVEVWHKFGFKDDDIKPYLSTRPDESIGSDELWEKATNALISALQESGLKFGIKEKEGAFYG
+PKIDFEIRDSLGRWWQLSTIQVDFNLPERFKLEYIDKDGIKKRPVMVHRAIYGSIDRFVAILLEHFKGKLPTWLSSVQ
+VRVLPITDEVNEYAEKVLNDMRKRRIRAEIDYAGETLSKRIKNAYDQGVPYILIVGKKEASEGTVTVRARGNIEVRNV
+KFEKFLELLITEIAQRDVEQTTVKALK"
+        }
+      },
+      seq {
+        id {
+          local str "1evk_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1evk_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 401,
+          seq-data ncbieaa "RDHRKIGKQLDLYHMQEEAPGMVFWHNDGWTIFRELEVFVRSKLKEYQYQ
+EVKGPFMMDRVLWEKTGHWDNYKDAMFTTSSENREYCIKPMNCPGHVQIFNQGLKSYRDLPLRMAEFGSCHRNEPSGS
+LHGLMRVRGFTQDDAHIFCTEEQIRDEVNGCIRLVYDMYSTFGFEKIVVKLSTRPEKRIGSDEMWDRAEADLAVALEE
+NNIPFEYQLGEGAFYGPKIEFTLYDCLDRAWQCGTVQLDFSLPSRLSASYVGEDNERKVPVMIHRAILGSMERFIGIL
+TEEFAGFFPTWLAPVQVVIMNITDSQSEYVNELTQKLSNAGIRVKADLRNEKIGFKIREHTLRRVPYMLVCGDKEVES
+GKVAVRTRRGKDLGSMDVNEVIEKLQQEIRSRSLKQLEE"
+        }
+      },
+      seq {
+        id {
+          local str "SYTM_SCHPO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYTM_SCHPO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 473,
+          seq-data ncbieaa "MKLKKFQLHTPFAHSCNRVEIYTARFGPTPFSTKANNLKQPESTLNDHRT
+IAARQKLYTTSILTPGSIFFLPHGTRIYNRLVDFLRAQYQIHGFEEIITPLIFKKDLWEKSGHWQNYEKEIFRVEESR
+NVEDEHSNATYGLKPMNCPGHCIVYASTERSYKELPLRFADFSPLHRNEASGALSGLTRLRCFHQDDGHIFCSPESIK
+DEIKNTLTFVKQVYSLLGMNKLKLYLSTRPEEHIGSLDTWNEAENGLREALQESGETWIINEGDGAFYGPKIDVMVAD
+ARGKWHQTATIQLDFNLPQRFKLYYRTDAGDNAGSEKLIKQPVMIHRAIFGSLERFMGILIEHLNGHWPFWLSPRHAV
+ILPVNQTDRILTYAKQVQKELSNQEVNESEFLPLNKNTYYVDINAEAQSIGKRLRESRLLNYNYEIVIGEDEVDKEIL
+SVSSRHNHNSRDTRKMTIQQLKKEFIENVKAYR"
+        }
+      },
+      seq {
+        id {
+          local str "SYTM_YEAST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYTM_YEAST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 462,
+          seq-data ncbieaa "MKIQLVRWHCSRNALWNRAFYSTRKATKNASSATPATMTSMVSQRQDLFM
+TDPLSPGSMFFLPNGAKIFNKLIEFMKLQQKFKFGFNEVVTPLIYKKTLWEKSGHWENYADDMFKVETTDEEKEEYGL
+KPMNCPGHCLIFGKKDRSYNELPLRFSDFSPLHRNEASGALSGLTRLRKFHQDDGHIFCTPSQVKSEIFNSLKLIDIV
+YNKIFPFVKGGSGAESNYFINFSTRPDHFIGDLKVWNHAEQVLKEILEESGKPWKLNPGDGAFYGPKLDIMVTDHLRK
+THQVATIQLDFQLPERFDLKFKDQDNSYKRPIMIHRATFGSIERFMALLIDSNEGRWPFWLNPYQAVIIPVNTKNVQQ
+LDMCTALQKKLRNELEADDMEPVPLNDWHFNVDLDIRNEPVGYRIKSAILKNYSYLIIVGDEEVQLQKYNIRERDNRK
+SFEKLTMSQIWEKFIELEKNYK"
+        }
+      },
+      seq {
+        id {
+          local str "1h4q_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1h4q_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 465,
+          seq-data ncbieaa "KGLTPQSQDFSEWYLEVIQKAELADYGPVRGTIVVRPYGYAIWENIQQVL
+DRMFKETGHQNAYFPLFIPMSFLRFSPELAVVTHAGGEELEEPLAVRPTSETVIGYMWSKWIRSWRDLPQLLNQWGNV
+VRWEMRTRPFLRTSEFLWQEGHTAHATREEAEEEVRRMLSIYARLAREYAAIPVIEGLKTEKEKFAGAVYTTTIEALM
+KDGKALQAGTSHYLGENFARAFDIKFQDRDLQVKYVHTTSWGLSWRFIGAIIMTHGDDRGLVLPPRLAPIQVVIVPIY
+KDESRERVLEAAQGLRQALLAQGLRVHLDDRDQHTPGYKFHEWELKGVPFRVELGPKDLEGGQAVLASRLGGKETLPL
+AALPEALPGKLDAFHEELYRRALAFREDHTRKVDTYEAFKEAVQEGFALAFHCGDKACERLIQEETTATTRCVPFEAE
+PEEGFCVRCGRPSAYGKRVVFAKAY"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_MYCLE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_MYCLE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 480,
+          seq-data ncbieaa "MGCNKRGVTRQEDDFSAWYNEVVAKAGLIDRGPAKGTMVIRPYGYRIWEL
+LQDELDSKIKELGHENAYFPMLIPENYFNREAEHVEGFHPELAVVTHAGGKELSEPLVIRPTSETVIGDMMAKWITSH
+RDLPLRLNQWSNVVRWELRPRMLLRTIEFLWQEGHSAHIEKSDALRETLFALDIYTTLARDMAAIPIVSGEKTAGERF
+AGALNTYTIEAMMRDGKALQSATTHYLGDNFARAFNIRYTTAEEQQAFVHTTSFGLSTRMIGAIVMVHGDDKGLVLPP
+QVAPYQVVIVPITTGNKASEVGHAAADLARRLQAAGVRTHVDARPQLTPGWKYNEWELRGVPIRLELGPRDLEAGTTV
+MVRRIGEKAKQPIAIAAAPTELPGILEEFQRTLLERATQFRDDHTTLVDNWDAFATTVATGWALAIHCGNPECEEDIK
+AETAATPRCVPRQGAPATGRCIRCDAPSAYDKRVIFARAY"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_BORBU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_BORBU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 488,
+          seq-data ncbieaa "MSDFIASKEDDYSKWYLDIVQKAKLADYSPVKGCMVIMPYGYSIWSKIQS
+ILDKKFKETGHENAYFPMLIPYSFLEREKDHIDGFSPEFAIIKDAGGESLAEPLVLRPTSETIIWNMYSKWIKSYRDL
+PLKINQWANVVRWEKRTRPFLRTTEFLWQEGHTAHATEEEALEETLLILDVYKRFIEDYLAIPVFCGKKSEKEKFAGA
+VSTYSIEALMQDKKALQAATSHYLGLNFAKAFDVKFQDKDGKMRHVFASSWGVSTRLIGALIMVHSDEKGLVLPPRIA
+PIEIIVIPIFKKEDEINKKILDYSDCVVDALKKAEFRVEIDKDVRSSPGFRFSSAEFKGIPIRLEVGINDVLLNSVTI
+SRRDKDRKFKYQISLDSLISKVKVELDLMQKDLFQRALNFRILNTKEIFRSSKDSYETFKAYVNDYSGFVLSCWCGSL
+NCENIIKNETKATIRCIPDDFKARDLTGMTCIYCSSKAKYFVLFAKSY"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_CLOST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_CLOST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 481,
+          seq-data ncbieaa "MAKKDQEFVKDITNMDEDFPQWYTDVITKTDLVDYSPVKGFMVIKPYGYA
+IWENIQAFLDRRFKETGHQNCYFPLLIPESLLNKEKEHVEGFAPEVAWVTHGGSEKLAERLCVRPTSETIICSMYSKW
+LTSYRELPYLYNQWCSVVRWEKSTRPFLRTSEFLWQEGHTLHETAEEAQAETLQMLAIYKEMAEDLLAIPVVDGRKSD
+RERFAGAAATYTIEALMHDGKALQSGTSHNLAQHFTKAFDITFQGRTGELEYPHHTSWGASTRLIGGIIMVHGDNRGL
+VLPPRVAPTQVVIIPIAQNKEGVLDKAYEIKKELEAKGIRVTLDDDTNYSPGWKFNQYEMKGVPLRLEIGPRDIENNV
+AMIARRDTLSKDSYSLDNIGDTVKNLLDTVHTDMLERARAHRDSKTFTFKDYEEFKRKMIETPGFAKGMWCGEEECEA
+KIKEDTGVTIRCIPFVQENLGETCQFCGKPAKHMVYLAKAY"
+        }
+      },
+      seq {
+        id {
+          local str "YHI0_YEAST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">YHI0_YEAST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 688,
+          seq-data ncbieaa "MPVSEAFAKLCVNEKPPAESAVAVKSLVFKPKTPKSATPVPIVVVALQST
+TTPSALIANATSSKDPRLARDDLVKQAFQSESARAFILGDLANATSNFHLLIDHELGTVDGDTILQLNDSTYMKKSDM
+MKFLNNFEDSQKVVDFSQEVSKETATEGKKQQKKQQPSKAGTAAAAAAAALEDAKLIGITVDKALDFPGWYQQILTKG
+EMLDYYDVSGCYILRPPSYAIWENIQKWFDDKIKAIGVQNAYFPMFVSSRVLEKEKDHVEGFAPEVAWVTRAGSSELE
+EPIAIRPTSETVMYPYYAKWVQSYRDLPLKLNQWNSVVRWEFKHPQPFLRTREFLWQEGHTAHLTAKDAEEEVLQILD
+FYAGVYEELLAVPVVKGRKTEKEKFAGGDFTTTCEGYIPQTGRGIQGATSHHLGQNFSKMFNLSVENPLGSDHPKIFA
+YQNSWGLSTRVIGVMVMIHSDNKGLVIPPRVSQFQSVVIPVGITKKTSEEQRKHIHETARSVESRLKKVGIRAFGDYN
+DNYTPGWKFSQYELKGIPIRIELGPKDIEKNQVVVVRRNDSKKYVVSFDELEARIPEILEEMQGDLFKKAKELFDTHR
+VIVNEWSGFVPALNKKNVILAPWCGVMECEEDIKESSAKKDDGEEFEEDDKAPSMGAKSLCIPFDQPVLNEGQKCIKC
+ERIAVNYCMFGRSY"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_MYCPN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_MYCPN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 483,
+          seq-data ncbieaa "MANKDQNLTLWYDQLLSKAQLVSYGDVKGTNCFLPNSWNLWLQIQRLYNN
+ATALIKLKDKVILKQFIPIEPLPYTVEQVQLPTLSFYSEYQKEKRHVEGFNPELFLIEQIGTKKLHDPLVLRPTSEIA
+FCNLWKKQSFSYQNLPVIYNQWTCVFRAEKNTRPFLRNSEFYWQETHGLFSDGVNSESAAIAFWKLYQDIIVNQLCIP
+AFVGLKSPNERFAGAQNTWTVESIMPDGQALQCATSHDLGQTFTKPFGLTFQNQANQQAIPYSFSCGISTRILGALLL
+THSDDFGLVLPWKVAPIQVKLYLFDKKGDTKTVELAQKVQTLLEQLAIRFQFIKVENQLGKQLGQGEVNGIPFQLIVD
+NPQTVNIFNRLTRVKTAYSFEQLASRFVELVQQYHQAMYDKAKAVVQQKVVQATTLKQIEQAFNDKKAVLCAVRLTDT
+LEQQLKERYQVTVRCCLEQLQKPQICPFSGESAQDYVLIARAY"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_MYCGE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_MYCGE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 483,
+          seq-data ncbieaa "MTKKTQDLTSWYDQLLVKAKLICHGEVKGTVCFLNNSWGLWMEIQQLYND
+AIANKNQLSAIALTKFQPTTSFCYQVFQVQLPTLSFYSEYQKEKTHIKGFNPELFLINQVGQKQLNDPLVLRPTSEIA
+FCNLWKKQELSYHDLPLIYNQWTQVFRAEKNTRPFLRNSEFYWQETHGLFVDQSQSEQAAISFWNLYQDLIINKLCIP
+AFVGLKSESEKFAGAKNTWTIEAIMPDGQSLQCATSHDLGDTFTKSFTISYQSKTNQKMTPSSFSCGMSTRILGAIFL
+THSDDYGLVLPWYLASKQVKLYLFDKNNNPKTRALAFLVKDFLEKLKIRFSFIEINNQLGKQLLKGEIEGIPLQMIVD
+NEKTINIFNRLTRLKTSLTFANLQTEFVNLVNNYHTEMYRKANDLVEQKLARVQTLKEIEQAFKNKKAVLCTVKLTGE
+LEQHLKTKYQVSVRCVFKKSDVTQNCPFTNQPCFDSVLIARAY"
+        }
+      },
+      seq {
+        id {
+          local str "1nj8_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1nj8_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 456,
+          seq-data ncbieaa "MLEFSEWYSDILEKAEIYDVRYPIKGCGVYLPYGFKIRRYTFEIIRNLLD
+ESGHDEALFPMLIPEDLLAKEAEHIKGFEDEVYWVTHGGKTQLDVKLALRPTSETPIYYMMKLWVKVHTDLPIKIYQI
+VNTFRYETKHTRPLIRLREIMTFKEAHTAHSTKEEAENQVKEAISIYKKFFDTLGIPYLISKRPEWDKFPGAEYTMAF
+DTIFPDGRTMQIATVHNLGQNFSKTFEIIFETPTGDKDYAYQTCYGISDRVIASIIAIHGDEKGLILPPIVAPIQVVI
+VPLIFKGKEDIVMEKAKEIYEKLKGKFRVHIDDRDIRPGRKFNDWEIKGVPLRIEVGPKDIENKKITLFRRDTMEKFQ
+VDETQLMEVVEKTLNNIMENIKNRAWEKFENFITILEDINPDEIKNILSEKRGVILVPFKEEIYNEELEEKVEATILG
+ETEYKGNKYIAIAKTY"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_METTH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_METTH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 482,
+          seq-data ncbieaa "MQKPIKKDPNRYHGEKMTEFSEWFHNILEEAEIIDQRYPVKGMHVWMPHG
+FMIRKNTLKILRRILDRDHEEVLFPLLVPEDELAKEAIHVKGFEDEVYWVTHGGLSKLQRKLALRPTSETVMYPMFAL
+WVRSHTDLPMRFYQVVNTFRYETKHTRPLIRVREITTFKEAHTIHATASEAEEQVERAVEIYKEFFNSLGIPYLITRR
+PPWDKFPGSEYTVAFDTLMPDGKTLQIGTVHNLGQTFARTFEIKFETPEGDHEYVHQTCYGLSDRVIASVIAIHGDES
+GLCLPPDVAAHQVVIVPIIFKKAAEEVMEACRELRSRLEAAGFRVHLDDRDIRAGRKYYEWEMRGVPLRVEIGPRDLE
+KGAAVISRRDTGEKVTADLQGIEETLRELMKDILENLRTRAWERMESEIREAETLEEASRIVDEKRGIISFMWCGEEE
+CGMDVEEKVRVDILGIQEEGSGTCINCGREAPTGLTLPEHIS"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_ARCFU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_ARCFU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 575,
+          seq-data ncbieaa "MLINILNAFYAEKRALIGIKLKIRISKIYQTLDNDFSFKRTVFRFSKTKV
+AFKDIFHSFGHHRIRLLALALCILGSLANFWHSSKNNSSSNSKTNKYCSPLPILMTLPSKENFSEWYHEVIQTAEIMD
+VRYPVKGLYVWFPFGFKIRQLVYSKLREIMDREHDEVYFPALIPETELGKEGEHIKGFEDEVYWITHGGLTPLDVKLA
+LRPTSETAMYPMFRLWVRNHADLPLKVYQIVNTFRYETKHTRPLIRLREITSFKEAHTVHKDFEEAAEHVKKAIGFYK
+EFYDFLAIPYMVIRRPEWDKFPGAAYTIAFDTIMPDGRTLQIGTVHHLADNFARTFDIKYEAPNGEHYYAHQTCYGIS
+ERCIAALISVHGDDLGLVLPFEVAPVQIVIIPILYKGKEEAVMEACRKLAEKLKAFRVVLDEGEDRPGAKYYKWELKG
+VPIRFEIGPRDAEKGVAVVSFRDEKRKFEVPLDEVDEGKVLEWARELKQRLRNAAAERMAEKVKFVENTGEIEEWGGV
+VAVYLCSDEDCGHSVEEHGKSLLGWFEEVPDWLDLEPEGKCVVCGREGRLAALAKTY"
+        }
+      }
+    }
+  }
+}

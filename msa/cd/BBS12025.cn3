@@ -1,0 +1,333 @@
+Cdd ::= {
+  name "bbs12025",
+  id {
+    gid {
+      accession "acc_bbs12025",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "12e8_H"
+              },
+              starts {
+                0,
+                14
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "12e8_H"
+              },
+              starts {
+                24,
+                37
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "12e8_H"
+              },
+              starts {
+                54,
+                65
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "12e8_H"
+              },
+              starts {
+                62,
+                72
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "12e8_H"
+              },
+              starts {
+                68,
+                77
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "12e8_H"
+              },
+              starts {
+                86,
+                94
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "12e8_H"
+              },
+              starts {
+                89,
+                96
+              },
+              len 20
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "1adq_A"
+              },
+              starts {
+                0,
+                12
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "1adq_A"
+              },
+              starts {
+                24,
+                35
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "1adq_A"
+              },
+              starts {
+                53,
+                63
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "1adq_A"
+              },
+              starts {
+                62,
+                71
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "1adq_A"
+              },
+              starts {
+                86,
+                94
+              },
+              len 24
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "1etz_A"
+              },
+              starts {
+                0,
+                13
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "1etz_A"
+              },
+              starts {
+                24,
+                36
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "1etz_A"
+              },
+              starts {
+                62,
+                73
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "1etz_A"
+              },
+              starts {
+                86,
+                96
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TCB1_MOUSE",
+                local str "1etz_A"
+              },
+              starts {
+                106,
+                113
+              },
+              len 4
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "12e8_H"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">12e8_H"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 116,
+          seq-data ncbieaa "DYDRPYWGQGTLVTVSAAKTTPPSVYPLAPGSAAQTNSMVTLGCLVKGYF
+PEPVTVTWNSGSLSSGVHTFPAVLQSDLYTLSSSVTVPSSTWPSETVTCNVAHPASSTKVDKKIVP"
+        }
+      },
+      seq {
+        id {
+          local str "1adq_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1adq_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 118,
+          seq-data ncbieaa "KGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPS
+DIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSL"
+        }
+      },
+      seq {
+        id {
+          local str "1etz_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1etz_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 117,
+          seq-data ncbieaa "SNHWVFGGGTKLTVLGQPKSSPSVTLFTPSSEELETNKATLVCTITDFYP
+GVVTVDWKVDGTPVTQGMETTQPSKQSNNKYMASSYLTLTARAWERHSSYSCQVTHEGHTVEKSLSR"
+        }
+      },
+      seq {
+        id {
+          local str "TCB1_MOUSE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TCB1_MOUSE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 124,
+          seq-data ncbieaa "EDLRNVTPPKVSLFEPSKAEIANKQKATLVCLARGFFPDHVELSWWVNGK
+EVHSGVSTDPQAYKESNYSYCLSSRLRVSATFWHNPRNHFRCQVQFHGLSEEDKWPEGSPKPVTQNISAEAWGR"
+        }
+      }
+    }
+  }
+}

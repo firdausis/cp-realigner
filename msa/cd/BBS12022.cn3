@@ -1,0 +1,386 @@
+Cdd ::= {
+  name "bbs12022",
+  id {
+    gid {
+      accession "acc_bbs12022",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                19,
+                16
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                49,
+                45
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                60,
+                57
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                73,
+                68
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                19,
+                16
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                49,
+                45
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                60,
+                56
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                73,
+                67
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                19,
+                16
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                42,
+                38
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                49,
+                44
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                60,
+                55
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                73,
+                66
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                20,
+                19
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                60,
+                59
+              },
+              len 25
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1a0h_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1a0h_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 80,
+          seq-data ncbieaa "CVPDRGREYRGRLAVTTHGSRCLAWSSEQAKALSKDQDFNPAVPLAENFC
+RNPDGDEEGAWCYVADQPGDFEYCDLNYCE"
+        }
+      },
+      seq {
+        id {
+          local str "1b2i_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1b2i_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 79,
+          seq-data ncbieaa "CMHGSGENYDGKISKTMSGLECQAWDSQSPHAHGYIPSKFPNKNLKKNYC
+RNPDRELRPWCFTTDPNKRWELCDIPRCT"
+        }
+      },
+      seq {
+        id {
+          local str "1kdu_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1kdu_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 78,
+          seq-data ncbieaa "CYEGNGHFYRGKASTDTMGRPCLPWNSATVLQQTYHAHRSDAGLGKNYCR
+NPDNRRRPWCYVQGLKPLVQECMVHDCA"
+        }
+      },
+      seq {
+        id {
+          local str "KRM2_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KRM2_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 85,
+          seq-data ncbieaa "CFQVNGADYRGHQNRTGPRGAGRPCLFWDQTQQHSYSSASDPHGRWGLGA
+HNFCRNPDGDVQPWCYVAETEEGIYWRYCDIPSCH"
+        }
+      },
+      seq {
+        id {
+          local str "KRM1_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KRM1_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 84,
+          seq-data ncbieaa "CFTANGADYRGTQNWTALQGGKPCLFWNETFQHPYNTLKYPNGEGGLGEH
+NYCRNPDGDVSPWCYVAEHEDGVYWKYCEIPACQ"
+        }
+      }
+    }
+  }
+}

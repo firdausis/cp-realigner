@@ -1,0 +1,4907 @@
+Cdd ::= {
+  name "bbs12037",
+  id {
+    gid {
+      accession "acc_bbs12037",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                0,
+                1
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                19,
+                19
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                48,
+                48
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                71,
+                78
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                75,
+                82
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                97,
+                102
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                103,
+                103
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                124,
+                124
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                136,
+                137
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                155,
+                157
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                198,
+                200
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                252,
+                254
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                255,
+                257
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                263,
+                266
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                273,
+                275
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                276,
+                280
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                297,
+                295
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                330,
+                332
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                335,
+                336
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                339,
+                348
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                356,
+                355
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                361,
+                359
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                366,
+                363
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                373,
+                369
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                379,
+                376
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                381,
+                384
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                408,
+                410
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                435,
+                432
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                455,
+                445
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                460,
+                455
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1acj_"
+              },
+              starts {
+                464,
+                458
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                0,
+                1
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                19,
+                19
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                48,
+                48
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                71,
+                78
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                75,
+                82
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                103,
+                102
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                124,
+                123
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                136,
+                136
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                155,
+                162
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                198,
+                205
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                252,
+                263
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                255,
+                266
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                263,
+                275
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                273,
+                284
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                276,
+                287
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                297,
+                302
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                330,
+                339
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                339,
+                356
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                356,
+                363
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                361,
+                367
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                366,
+                371
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                373,
+                377
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                379,
+                384
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                381,
+                391
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                408,
+                417
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                435,
+                439
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                455,
+                452
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                460,
+                462
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1dx4_A"
+              },
+              starts {
+                464,
+                465
+              },
+              len 23
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                0,
+                1
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                17,
+                19
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                40,
+                39
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                48,
+                47
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                74,
+                69
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                97,
+                90
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                100,
+                91
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                124,
+                121
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                136,
+                134
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                155,
+                153
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                198,
+                196
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                236,
+                232
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                252,
+                248
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                255,
+                251
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                263,
+                260
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                270,
+                269
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                273,
+                272
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                276,
+                277
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                297,
+                292
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                318,
+                311
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                330,
+                327
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                339,
+                342
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                356,
+                350
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                361,
+                354
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                366,
+                358
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                373,
+                364
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                379,
+                371
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                381,
+                379
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                407,
+                406
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                435,
+                429
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                455,
+                442
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                460,
+                452
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "1akn_"
+              },
+              starts {
+                464,
+                455
+              },
+              len 25
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                0,
+                1
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                16,
+                19
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                48,
+                51
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                71,
+                81
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                74,
+                93
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                97,
+                114
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                124,
+                139
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                136,
+                152
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                155,
+                171
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                198,
+                214
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                236,
+                250
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                252,
+                266
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                255,
+                269
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                263,
+                278
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                273,
+                283
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                276,
+                288
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                297,
+                303
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                333,
+                339
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                339,
+                351
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                350,
+                359
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                356,
+                364
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                361,
+                368
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                366,
+                372
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                373,
+                378
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                379,
+                385
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                381,
+                393
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                408,
+                419
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                435,
+                441
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                455,
+                454
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                460,
+                469
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "NLG4_HUMAN"
+              },
+              starts {
+                464,
+                472
+              },
+              len 25
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                0,
+                1
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                21,
+                17
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                48,
+                44
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                74,
+                68
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                97,
+                89
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                103,
+                90
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                125,
+                115
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                128,
+                117
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                131,
+                119
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                136,
+                125
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                155,
+                144
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                198,
+                187
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                236,
+                223
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                255,
+                239
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                263,
+                248
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                270,
+                257
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                274,
+                259
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                276,
+                263
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                297,
+                278
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                318,
+                297
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                330,
+                313
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                339,
+                327
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                347,
+                336
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                356,
+                348
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                361,
+                352
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                366,
+                356
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                373,
+                362
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                379,
+                369
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                381,
+                379
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                408,
+                405
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                423,
+                419
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                434,
+                430
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                455,
+                444
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                460,
+                454
+              },
+              len 28
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                0,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                16,
+                19
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                48,
+                50
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                74,
+                73
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                97,
+                94
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                103,
+                95
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                125,
+                117
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                136,
+                129
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                155,
+                148
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                198,
+                193
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                252,
+                247
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                255,
+                250
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                263,
+                259
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                270,
+                268
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                273,
+                271
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                278,
+                274
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                297,
+                287
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                330,
+                324
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                339,
+                340
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                356,
+                348
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                361,
+                352
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                373,
+                363
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                379,
+                370
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                381,
+                378
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                407,
+                405
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                412,
+                409
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                421,
+                416
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                430,
+                418
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                434,
+                420
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                455,
+                434
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                460,
+                446
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                464,
+                449
+              },
+              len 25
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                0,
+                1
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                19,
+                15
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                48,
+                44
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                74,
+                70
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                97,
+                91
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                101,
+                92
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                125,
+                116
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                133,
+                123
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                136,
+                127
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                157,
+                146
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                198,
+                187
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                236,
+                223
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                256,
+                239
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                263,
+                247
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                270,
+                256
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                273,
+                260
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                276,
+                265
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                297,
+                280
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                330,
+                317
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                339,
+                326
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                356,
+                333
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                361,
+                337
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                379,
+                346
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                381,
+                356
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                407,
+                382
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                429,
+                401
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                434,
+                406
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                460,
+                431
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                464,
+                434
+              },
+              len 25
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                0,
+                1
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                17,
+                13
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                48,
+                45
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                71,
+                68
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                74,
+                73
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                80,
+                76
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                101,
+                91
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                125,
+                113
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                136,
+                125
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                155,
+                144
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                198,
+                187
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                238,
+                225
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                252,
+                239
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                255,
+                243
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                263,
+                252
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                270,
+                261
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                273,
+                264
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                276,
+                266
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                294,
+                283
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                330,
+                323
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                339,
+                332
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                347,
+                340
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                356,
+                352
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                364,
+                359
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                379,
+                374
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                381,
+                380
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                407,
+                406
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                433,
+                431
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                434,
+                435
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                457,
+                456
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                460,
+                459
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST6_DROMA"
+              },
+              starts {
+                466,
+                463
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                0,
+                1
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                16,
+                17
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                48,
+                49
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                71,
+                72
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                74,
+                75
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                80,
+                78
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                94,
+                90
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                125,
+                119
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                136,
+                131
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                155,
+                150
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                198,
+                193
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                238,
+                231
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                252,
+                245
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                255,
+                248
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                263,
+                256
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                270,
+                263
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                273,
+                266
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                276,
+                271
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                292,
+                285
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                313,
+                302
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                330,
+                319
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                339,
+                328
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                347,
+                336
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                356,
+                348
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                374,
+                365
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                379,
+                370
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                381,
+                377
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                407,
+                403
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                434,
+                433
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                457,
+                452
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                460,
+                455
+              },
+              len 28
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                0,
+                1
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                13,
+                13
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                16,
+                16
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                48,
+                48
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                71,
+                71
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                74,
+                76
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                101,
+                100
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                124,
+                124
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                136,
+                137
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                155,
+                156
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                198,
+                199
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                252,
+                253
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                255,
+                256
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                263,
+                265
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                270,
+                273
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                276,
+                277
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                297,
+                292
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                313,
+                306
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                330,
+                323
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                343,
+                332
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                347,
+                336
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                356,
+                348
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                366,
+                355
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                379,
+                368
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                381,
+                376
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                403,
+                397
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                407,
+                401
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                434,
+                428
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                458,
+                449
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                460,
+                451
+              },
+              len 28
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                0,
+                1
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                16,
+                17
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                48,
+                49
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                71,
+                72
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                74,
+                75
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                80,
+                77
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                97,
+                88
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                124,
+                115
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                136,
+                127
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                155,
+                148
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                198,
+                191
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                239,
+                229
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                252,
+                242
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                255,
+                246
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                263,
+                255
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                270,
+                264
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                273,
+                267
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                276,
+                272
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                294,
+                289
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                330,
+                325
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                339,
+                334
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                347,
+                342
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                358,
+                351
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                379,
+                372
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                381,
+                378
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                407,
+                404
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                434,
+                433
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                455,
+                452
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "EST1_CULPI"
+              },
+              starts {
+                460,
+                456
+              },
+              len 29
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                0,
+                1
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                19,
+                15
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                48,
+                44
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                71,
+                69
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                74,
+                74
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                97,
+                95
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                103,
+                96
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                125,
+                118
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                136,
+                130
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                159,
+                150
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                198,
+                189
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                229,
+                218
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                258,
+                241
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                263,
+                247
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                270,
+                256
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                273,
+                259
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                276,
+                264
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                297,
+                279
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                313,
+                292
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                330,
+                313
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                341,
+                322
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                356,
+                330
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                361,
+                334
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                373,
+                337
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                379,
+                344
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                381,
+                350
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                409,
+                376
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                430,
+                390
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                434,
+                394
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ESTJ_HELVI",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                461,
+                424
+              },
+              len 27
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1acj_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1acj_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 480,
+          seq-data ncbieaa "SELLVNTKSGKVMGTRVPVLSSHISAFLGIPFAEPPVGNMRFRRPEPKKP
+WSGVWNASTYPNNCQQYVDEQFPGFSGSEMWNPNREMSEDCLYLNIWVPSPRPKSTTVMVWIYGGGFYSGSSTLDVYN
+GKYLAYTEEVVLVSLSYRVGAFGFLALHGSQEAPGNVGLLDQRMALQWVHDNIQFFGGDPKTVTIFGESAGGASVGMH
+ILSPGSRDLFRRAILQSGSPNCPWASVSVAEGRRRAVELGRNLNCNLNSDEELIHCLREKKPQELIDVEWNVLPFDSI
+FRFSFVPVIDGEFFPTSLESMLNSGNFKKTQILLGVNKDEGSFFLLYGAPGFSKDSESKISREDFMSGVKLSVPHAND
+LGLDAVTLQYTDWMDDNNGIKNRDGLDDIVGDHNVICPLMHFVNKYTKFGNGTYLYFFNHRASNLVWPEWMGVIHGYE
+IEFVFGLPLVKELNYTAEEEALSRRIMHYWATFAKTGNPN"
+        }
+      },
+      seq {
+        id {
+          local str "1dx4_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1dx4_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 488,
+          seq-data ncbieaa "DRLVVQTSSGPVRGRSVTVQGREVHVYTGIPYAKPPVEDLRFRKPVPAEP
+WHGVLDATGLSATCVQERYEYFPGFSGEEIWNPNTNVSEDCLYINVWAPATTNGLPILIWIYGGGFMTGSATLDIYNA
+DIMAAVGNVIVASFQYRVGAFGFLHLAPEMPSEFAEEAPGNVGLWDQALAIRWLKDNAHAFGGNPEWMTLFGESAGSS
+SVNAQLMSPVTRGLVKRGMMQSGTMNAPWSHMTSEKAVEIGKALINDCNCNASMLKTNPAHVMSCMRSVDAKTISVQQ
+WNSYSGILSFPSAPTIDGAFLPADPMTLMKTADLKDYDILMGNVRDEGTYFLLYDFIDYFDKDDATALPRDKYLEIMN
+NIFGKATQAEREAIIFQYTSWEGNPGYQNQQQIGRAVGDHFFTCPTNEYAQALAERGASVHYYYFTHRTSTSLWGEWM
+GVLHGDEIEYFFGQPLNNSLQYRPVERELGKRMLSAVIEFAKTGNPAQ"
+        }
+      },
+      seq {
+        id {
+          local str "1akn_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1akn_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 480,
+          seq-data ncbieaa "KLGSVYTEGGFVEGVNKKLSLFGDSIDIFKGIPFAAAPKALEKPERHPGW
+QGTLKAKSFKKRCLQATLTQDSTYGNEDCLYLNIWVPQGRKEVSHDLPVMIWIYGGAFLMGASQGANFLSNYLYDGEE
+IATRGNVIVVTFNYRVGPLGFLSTGDSNLPGNYGLWDQHMAIAWVKRNIEAFGGDPDNITLFGESAGGASVSLQTLSP
+YNKGLIKRAISQSGVGLCPWAIQQDPLFWAKRIAEKVGCPVDDTSKMAGCLKITDPRALTLAYKLPLGSTEYPKLHYL
+SFVPVIDGDFIPDDPVNLYANAADVDYIAGTNDMDGHLFVGMDVPAINSNKQDVTEEDFYKLVSGLTVTKGLRGANAT
+YEVYTEPWAQDSSQETRKKTMVDLETDILFLIPTKIAVAQHKSHAKSANTYTYLFSQPSRMPIYPKWMGADHADDLQY
+VFGKPFATPLGYRAQDRTVSKAMIAYWTNFARTGDPNTGH"
+        }
+      },
+      seq {
+        id {
+          local str "NLG4_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">NLG4_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 509,
+          seq-data ncbieaa "QYPVVNTNYGKIRGLRTPLPNEILGPVEQYLGVPYASPPTGERRFQPPEP
+PSSWTGIRNTTQFAAVCPQHLDERSLLHDMLPIWFTANLDTLMTYVQDQNEDCLYLNIYVPTEDDIHDQNSKKPVMVY
+IHGGSYMEGTGNMIDGSILASYGNVIVITINYRLGILGFLSTGDQAAKGNYGLLDQIQALRWIEENVGAFGGDPKRVT
+IFGSGAGASCVSLLTLSHYSEGLFQKAIIQSGTALSSWAVNYQPAKYTRILADKVGCNMLDTTDMVECLRNKNYKELI
+QQTITPATYHIAFGPVIDGDVIPDDPQILMEQGEFLNYDIMLGVNQGEGLKFVDGIVDNEDGVTPNDFDFSVSNFVDN
+LYGYPEGKDTLRETIKFMYTDWADKENPETRRKTLVALFTDHQWVAPAVATADLHAQYGSPTYFYAFYHHCQSEMKPS
+WADSAHGDEVPYVFGIPMIGPTELFSCNFSKNDVMLSAVVMTYWTNFAKTGDPNQPVPQDTKFIHTKPN"
+        }
+      },
+      seq {
+        id {
+          local str "EST1_CAEBR"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">EST1_CAEBR"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 482,
+          seq-data ncbieaa "AGPVVNTNYGKVEGFEYGAAEVFLAIPFAKPPVDNLRFEKPEAPEPWEDV
+YQATQFRNDCTPHYRLVAQFSSYSGEDCLTLNVIKPKTIEKKLPVLFWVHGGGYEIGSGSQHGYEFFADRYTSQGVIV
+VTIQYRLGFMGFFSEGTSDAPGNYGLFDQAAALRFVKENIGNFGGDPDDITIWGYSAGAASVSQLTMSPYTHDLYSKA
+IIMSASSFVGWATGPNVIDTSKQLAEILGCPWPGAKECMKKKTLHEIFDAVETQGWTTGTIDILRWSPVIDGDYLPKN
+PENLINDAPIKPTLIGMSNKEGSYFATMNMGRVIADFGLSPEEIPKVDEDFISEIIDRKLLYNNRYGENRQKVWDQIL
+DYYTKQGKPERDLNGFYVDRYAELLSDITFNVPILREITARVERKTPVWTYRFDHYNEQIWKKYIPEQAKGSPHANEY
+HYLFNMPVMAQIDFKKEPESWLQRDLIDMVVSFAKTGVPHIQ"
+        }
+      },
+      seq {
+        id {
+          local str "THYG_MOUSE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">THYG_MOUSE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 480,
+          seq-data ncbieaa "PSVRIDSFGQLQGGSQVIKVGTAWKQVYRFLGVPYAAPPLADNRFRAPEV
+LNWTGSWDATKPRASCWQPGTRTPTPPQINEDCLYLNVFVPENLVSNASVLVFFHNTMEMEGSGGQLTIDGSILAAVG
+NFIVVTANYRLGVFGFLSSGSDEVAGNWGLLDQVAALTWVQSHIGAFGGDPQRVTLAADRSGADVASIHLLISRPTRL
+QLFRKALLMGGSALSPAAIISPERAQQQAAALAKEVGCPTSSIQEVVSCLRQKPANILNDAQTKLLAVSGPFHYWGPV
+VDGQYLRELPSRRLKRPLPVKVDLLIGGSQDDGLINRAKAVKQFEESQGRTNSKTAFYQALQNSLGGEDSDARILAAA
+VWYYSLEHSTDDYASFSRALENATRDYFIICPMVNMASLWARRTRGNVFMYHVPESYGHGSLELLADVQYAFGLPFYS
+AYQGQFSTEEQSLSLKVMQYFSNFIRSGNPNYPHEFSRKA"
+        }
+      },
+      seq {
+        id {
+          local str "CRYS_DICDI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CRYS_DICDI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 460,
+          seq-data ncbieaa "GDNEVLLSDGAIRGTVTDTHRVFYGIPFARPPIDELRYEDPQPPKPWSYV
+RDGTKQRDQCIQDCKLGKGSCSEVGTSEDCLYLDVFIPRTVNPGSKVPVMVFIPGGAFTQGTGSCPLYDGLKFANSSV
+IVVNVNYRLGVLGFLCTGLLSGNFGFLDQVMALDWVQENIEVFGGDKNQVTIYGESAGAFSVAAHLSSEKSEGKFHRA
+ILSSTPYTVGLKSQTVARGFAGRFSSKIGCDLEDIDCHRSKSPEEILAIQKELGLAIGDKILDAFTIWSPVVDGINVN
+EQPLTMIKQGTTHDVPTIIGDNQDEAILFVYMTYKNVVIPSSYRTMVHVLFGIANGNKVLEHYPLPGFLKDSRPILSK
+LLTDYLFRCPGRYHVSKSAQANESPIYHYQYKQVLSGGHSFEACEGLVCHGTELPMVFNTYESALDLDLEEEEEEFAE
+QLNNYFVNFIKYSNPSHPNG"
+        }
+      },
+      seq {
+        id {
+          local str "EST6_DROMA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">EST6_DROMA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 485,
+          seq-data ncbieaa "DPLLVQLPQGKLRGRDNGSYYSYESIPYAEPPIGDLRFEAPEPYKQKWSD
+IFEATKTPVACLQWDQFTPGANKLVGEEDCLTVSIYKPKNSKRSSFPVVAHIHGGAFMFGAAWQNGHENVMREGKFIL
+VKISYRLGPLGFASTGDRDLPGNYGLKDQRLALKWIKQNIASFGGEPENILLIGHSAGGASVHLQMLREDFGQLAKAA
+FSFSGNALDPWVVQKGARGRAFELGRNVGCESSEDSASLKKCLKSKPASELVTAVRKFLIFSYVPFAPFSPVLEPSDA
+PDAFLTQDPREVIKSGKFGQVPWAVSYVTEDGGYNAALLLKERKSGIAIDDLNDRWLELAPYFLFYRDTKTKKDMDDY
+SRKIKEDYLGNQKFDIESYSELQRLFTDILFKNSTQESLDLHRKYGKSPAYAYVYDNPAEKGIAQVLANRTDYDFGTV
+HGDDYFLIFENFVREVEMRPDEEIISRNFINMLADFASSDNGVLK"
+        }
+      },
+      seq {
+        id {
+          local str "ESTE_MYZPE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ESTE_MYZPE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 483,
+          seq-data ncbieaa "NTPKVQVHSGEIAGGFEYTYNGRKIYSFLGIPYASPPVQNNRFKEPQPVQ
+PWLGVWNATVPGSACLGIEFGSGSKIIGQEDCLFLNVYTPKLPQENSAGDLMNVIVHIHGGGYYFGEGILYGPHYLLD
+NNDFVYVSINYRLGVLGFASTGDGVLTGNNGLKDQVAALKWIQQNIVAFGGDPNSVTITGMSAGASSVHNHLISPMSK
+GLFNRAIIQSGSAFCHWSTAENVAQKTKYIANLMGCPTNNSVEIVECLRSRPAKAIAKSYLNFMPWRNFPFTPFGPTV
+EVAGYEKFLPDIPEKLVPHDIPVLISIAQDEGLIFSTFLGLENGFNELNNNWNEHLPHILDYNYTISNENLRFKTAQD
+IKEFYFGDKPISKETKSNLSKMISDRSFGYGTSKAAQHIAAKNTAPVYFYEFGYSGNYSYVAFFDPKSYSRGSSPTHG
+DETSYVLKMDGFYVYDNEEDRKMIKTMVNIWATFIKSGVPDTE"
+        }
+      },
+      seq {
+        id {
+          local str "EST2_CAEEL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">EST2_CAEEL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 479,
+          seq-data ncbieaa "NVEALKASCGPVRGNIYKHDDVIVDGYLGIPYAKPPVGELRFKKPVTVDV
+WTEIKDCYKYGPACVQTGGFEQIAGPRTPTPEEAGCLTLNVFTPRNASSEFKNGRPVMVYIHGGGYELCASSDFCAYS
+LSGTLPLKDVVVVSINYRLGVFGFLTTGDNVCPGNFGLWDQTLALKWVQKHISSFGGDPNCVTVFGQSAGGASTDLLS
+LSPHSRDLFQRFIPISGTAHCDFAIRASENQAKIFREFAEFHGFSGRDSSALFKWYQEQSPETLSNVKGYKKSISGFL
+TFIPNLDGDFFPKPLDELRKEAPKKQMMTGVTEYEGLMLASMNPAFSPADVGLTLMPQGIYGKDVVSNPDEIQKIFYE
+KYVEGVDKSDELAMRKKLCEALGDEFFNVGVIQAAKNAAKHGNEVYFYTFEYVNPDSFGMWDGMMPFKAAVHCTELRY
+LLGEGVYSKFEPTEEDRKVMETTTTLFSNFAKYGNPNGK"
+        }
+      },
+      seq {
+        id {
+          local str "ESTJ_HELVI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ESTJ_HELVI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 489,
+          seq-data ncbieaa "RSVVAHLDSGIIRGVPRSADGIKFASFLGVPYAKQPVGELRFKELEPLEP
+WDNILNATNEGPICFQTDVLYGRLMAASEMSEACIYANIHVPWQSLPRVRGTTPLRPILVFIHGGGFAFGSGHEDLHG
+PEYLVTKNVIVITFNYRLNVFGFLSMNTTKIPGNAGLRDQVTLLRWVQRNAKNFGGDPSDITIAGQSAGASAAHLLTL
+SKATEGLFKRAILMSGTGMSYFFTTSPLFAAYISKQLLQILGINETDPEEIHRQLIDLPAEKLNEANAVLIEQIGLTT
+FLPIVESPLPGVTTIIDDDPEILIAEGRGKNVPLLIGFTSSECETFRNRLLNFDLVKKIQDNPTIIIPPKLLFMTPPE
+LLMELAKTIERKYYNGTISIDNFVKSCSDGFYEYPALKLAQKRAETGGAPLYLYRFAYEGQNSIIKKVMGLNHEGVGH
+IEDLTYVFKVNSMSEALHASPSENDVKMKNLMTGYFLNFIKCSQPTCED"
+        }
+      },
+      seq {
+        id {
+          local str "EST1_CULPI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">EST1_CULPI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 486,
+          seq-data ncbieaa "ESLTVQTKYGPVRGKRNVSLLGQEYVSFQGIPYARAPEGELRFKAPVPPQ
+KWTETLDCTQQCEPCYHFDRRLQKIVGCEDSLKINVFAKEINPSTPLPVMLYIYGGGFTEGTSGTELYGPDFLVQKDI
+VLVSFNYRIGALGFLCCQSEQDGVPGNAGLKDQNLAIRWVLENIAAFGGDPKRVTLAGHSAGAASVQYHLISDASKDL
+FQRRIVMSGSTYSSWSLTRQRNWVEKLAKAIGWDGQGGESGALRFLRRAKPEDIVAHQEKLLTDQDMQDDIFTPFGPT
+VEPYLTEQCIIPKAPFEMARTAWGDKIDIMIGGTSEEGLLLLQKIKLHPELLSHPHLFLGNVPPNLKISMEKRIEFAA
+KLKQRYYPDSIPSMENNLGYVHMMSDRVFWHGLHRTILARAARSRARTFVYRICLDSEFYNHYRIMMIDPKLRGTAHA
+DELSYLFSNFTQQVPGKETFEYRGLQTLVDVFSAFVINGDPNCGMT"
+        }
+      },
+      seq {
+        id {
+          local str "PCD_ARTOX"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PCD_ARTOX"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 451,
+          seq-data ncbieaa "TRPIAHTTAGDLGGCLEDGLYVFRGVPYAEPPVGDLRWRAARPHAGWTGV
+RDASAYGPSAPQPVEPGGSPILGTHGDPPFDEDCLTLNLWTPNLDGGSRPVLVWIHGGGLLTGSGNLPNYATDTFARD
+GDLVGISINYRLGPLGFLAGMGDENVWLTDQVEALRWIADNVAAFGGDPNRITLVGQSGGAYSIAALAQHPVARQLFH
+RAILQSPPFGMQPHTVEESTARTKALARHLGHDDIEALRHEPWERLIQGTIGVLMEHTKFGEWPLAFYPVFDEATIPR
+HPIESIIDSDIEIIIGWTRDEGTFPFAFDPQVSQADRDQVESWLQKRFGDHAASAYEAHAGDGTSPWTVIANVVGDEL
+FHSAGYRVADERATRRPVRAYQFDVVSPLSDGALGAVHCIEMPFTFANLDRWTGKPFVDGLDPDVVARVTNVLHQAWI
+AFVRTGDPTHD"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5455 @@
+Cdd ::= {
+  name "bb40006",
+  id {
+    gid {
+      accession "acc_bb40006",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                89,
+                0
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                127,
+                8
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                131,
+                9
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                145,
+                22
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                147,
+                26
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                166,
+                42
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                182,
+                45
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                205,
+                48
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                216,
+                59
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                248,
+                90
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                250,
+                92
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                270,
+                111
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                299,
+                140
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                302,
+                141
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                303,
+                144
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                326,
+                162
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                328,
+                163
+              },
+              len 51
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                380,
+                214
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                392,
+                218
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                398,
+                222
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                414,
+                235
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                429,
+                249
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                435,
+                253
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                438,
+                256
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                440,
+                259
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                445,
+                264
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                469,
+                281
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                479,
+                291
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                487,
+                299
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                488,
+                300
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                498,
+                309
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                532,
+                332
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                543,
+                342
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                559,
+                355
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b5o_A"
+              },
+              starts {
+                572,
+                367
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                121,
+                0
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                148,
+                21
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                153,
+                23
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                160,
+                29
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                169,
+                37
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                174,
+                46
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                205,
+                57
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                229,
+                61
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                244,
+                70
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                248,
+                73
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                250,
+                75
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                275,
+                97
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                299,
+                121
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                303,
+                125
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                328,
+                143
+              },
+              len 52
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                380,
+                195
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                392,
+                200
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                398,
+                202
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                414,
+                215
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                435,
+                234
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                440,
+                237
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                445,
+                243
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                473,
+                260
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                479,
+                265
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                487,
+                274
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                488,
+                275
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                501,
+                287
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                534,
+                307
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                536,
+                308
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                543,
+                314
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                559,
+                329
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                572,
+                341
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                578,
+                343
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1lc5_A"
+              },
+              starts {
+                583,
+                344
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                133,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                148,
+                9
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                160,
+                19
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                169,
+                27
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                174,
+                45
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                205,
+                56
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                229,
+                60
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                244,
+                69
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                248,
+                72
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                250,
+                74
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                301,
+                123
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                303,
+                125
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                328,
+                143
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                362,
+                176
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                381,
+                194
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                392,
+                198
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                398,
+                200
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                414,
+                213
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                431,
+                229
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                435,
+                231
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                440,
+                234
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                445,
+                240
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                473,
+                257
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                479,
+                264
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                487,
+                273
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                488,
+                274
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                536,
+                307
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                543,
+                313
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                559,
+                328
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                561,
+                329
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                572,
+                339
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                578,
+                341
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1fg3_A"
+              },
+              starts {
+                583,
+                342
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                153,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                166,
+                10
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                182,
+                13
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                205,
+                16
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                216,
+                27
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                227,
+                37
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                248,
+                57
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                250,
+                59
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                270,
+                78
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                299,
+                107
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                303,
+                112
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                326,
+                130
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                380,
+                184
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                392,
+                189
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                403,
+                197
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                414,
+                205
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                431,
+                221
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                438,
+                228
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                440,
+                231
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                445,
+                237
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                470,
+                252
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                472,
+                253
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                479,
+                260
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                487,
+                269
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                488,
+                271
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                532,
+                304
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                559,
+                330
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1d2f_A"
+              },
+              starts {
+                572,
+                342
+              },
+              len 19
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                91,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                127,
+                6
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                142,
+                17
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                147,
+                24
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                164,
+                40
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                179,
+                50
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                201,
+                56
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                205,
+                57
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                216,
+                68
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                248,
+                101
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                250,
+                103
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                270,
+                122
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                299,
+                152
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                303,
+                156
+              },
+              len 77
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                380,
+                233
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                392,
+                246
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                414,
+                265
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                438,
+                284
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                440,
+                287
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                445,
+                293
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                469,
+                310
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                479,
+                320
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                487,
+                328
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                488,
+                329
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                498,
+                338
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                521,
+                364
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                532,
+                366
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "1b8g_A"
+              },
+              starts {
+                559,
+                392
+              },
+              len 29
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                89,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                127,
+                6
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                147,
+                28
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                182,
+                50
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                205,
+                53
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                216,
+                63
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                248,
+                94
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                250,
+                96
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                270,
+                115
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                299,
+                144
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                303,
+                148
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                326,
+                166
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                328,
+                167
+              },
+              len 52
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                380,
+                219
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                392,
+                224
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                398,
+                228
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                414,
+                241
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                438,
+                267
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                440,
+                270
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                445,
+                275
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                469,
+                292
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                473,
+                295
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                479,
+                301
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                487,
+                309
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                488,
+                310
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                529,
+                343
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                560,
+                373
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YFBQ_HAEIN"
+              },
+              starts {
+                572,
+                384
+              },
+              len 20
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                87,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                127,
+                10
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                131,
+                11
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                147,
+                29
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                166,
+                45
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                182,
+                48
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                205,
+                51
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                216,
+                62
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                248,
+                93
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                250,
+                95
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                270,
+                114
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                299,
+                143
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                303,
+                149
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                326,
+                167
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                328,
+                168
+              },
+              len 51
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                380,
+                219
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                392,
+                223
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                414,
+                242
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                429,
+                256
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                435,
+                260
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                438,
+                263
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                440,
+                266
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                445,
+                271
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                469,
+                288
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                476,
+                291
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                479,
+                294
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                487,
+                302
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                488,
+                303
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                530,
+                338
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                559,
+                367
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_SULSO"
+              },
+              starts {
+                572,
+                379
+              },
+              len 20
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                91,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                127,
+                6
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                131,
+                7
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                145,
+                20
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                147,
+                24
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                166,
+                40
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                182,
+                43
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                205,
+                46
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                216,
+                57
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                248,
+                88
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                250,
+                90
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                270,
+                109
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                299,
+                138
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                302,
+                139
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                303,
+                142
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                326,
+                160
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                328,
+                161
+              },
+              len 51
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                380,
+                212
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                392,
+                216
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                414,
+                235
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                429,
+                249
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                435,
+                253
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                438,
+                256
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                440,
+                259
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                445,
+                264
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                469,
+                281
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                478,
+                284
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                479,
+                285
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                487,
+                293
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                488,
+                294
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                498,
+                303
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                520,
+                322
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                532,
+                323
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                559,
+                347
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "AAT_THEMA"
+              },
+              starts {
+                572,
+                359
+              },
+              len 18
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                90,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                125,
+                7
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                149,
+                24
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                166,
+                38
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                182,
+                41
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                205,
+                44
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                216,
+                55
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                228,
+                65
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                248,
+                84
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                250,
+                86
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                270,
+                105
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                299,
+                134
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                303,
+                139
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                326,
+                157
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                380,
+                211
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                392,
+                216
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                414,
+                235
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                431,
+                251
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                435,
+                254
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                438,
+                257
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                440,
+                260
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                445,
+                266
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                470,
+                281
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                472,
+                282
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                479,
+                289
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                487,
+                298
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                488,
+                300
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                532,
+                333
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                559,
+                359
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "PATB_BACSU"
+              },
+              starts {
+                572,
+                371
+              },
+              len 16
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                78,
+                0
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                120,
+                20
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                147,
+                49
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                166,
+                65
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                182,
+                68
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                205,
+                71
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                216,
+                83
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                248,
+                114
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                250,
+                116
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                270,
+                135
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                299,
+                164
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                303,
+                178
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                326,
+                196
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                328,
+                197
+              },
+              len 52
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                380,
+                249
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                392,
+                253
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                414,
+                272
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                435,
+                291
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                438,
+                294
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                440,
+                297
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                445,
+                302
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                469,
+                319
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                472,
+                321
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                479,
+                328
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                487,
+                336
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                488,
+                337
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                498,
+                346
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                521,
+                372
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                559,
+                414
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YJG0_YEAST"
+              },
+              starts {
+                572,
+                426
+              },
+              len 18
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                84,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                93,
+                5
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                122,
+                7
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                151,
+                31
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                166,
+                43
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                182,
+                46
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                205,
+                49
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                216,
+                61
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                248,
+                92
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                250,
+                95
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                270,
+                114
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                299,
+                143
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                303,
+                157
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                326,
+                175
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                328,
+                176
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                378,
+                225
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                380,
+                227
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                392,
+                231
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                414,
+                250
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                429,
+                264
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                435,
+                268
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                438,
+                271
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                440,
+                274
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                445,
+                279
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                469,
+                296
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                472,
+                298
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                479,
+                305
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                487,
+                313
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                488,
+                314
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                498,
+                323
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                521,
+                349
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                559,
+                391
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YDT4_SCHPO"
+              },
+              starts {
+                572,
+                403
+              },
+              len 18
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                91,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                120,
+                7
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                127,
+                9
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                131,
+                10
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                145,
+                21
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                147,
+                25
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                166,
+                41
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                182,
+                44
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                205,
+                47
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                216,
+                58
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                248,
+                89
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                250,
+                92
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                270,
+                111
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                299,
+                140
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                303,
+                143
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                326,
+                161
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                328,
+                162
+              },
+              len 52
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                380,
+                214
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                392,
+                218
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                414,
+                237
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                429,
+                251
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                435,
+                255
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                438,
+                258
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                440,
+                261
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                445,
+                266
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                469,
+                283
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                475,
+                286
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                479,
+                290
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                487,
+                298
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                488,
+                299
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                498,
+                308
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                520,
+                327
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                530,
+                330
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                559,
+                360
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "YBDL_ECOLI"
+              },
+              starts {
+                572,
+                372
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                115,
+                0
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                140,
+                18
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                148,
+                20
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                153,
+                22
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                160,
+                28
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                169,
+                36
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                176,
+                45
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                205,
+                54
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                229,
+                58
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                244,
+                67
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                248,
+                70
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                250,
+                72
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                275,
+                94
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                299,
+                118
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                303,
+                122
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                328,
+                140
+              },
+              len 52
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                380,
+                194
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                392,
+                199
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                398,
+                201
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                414,
+                214
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                431,
+                230
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                435,
+                232
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                440,
+                235
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                445,
+                241
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                473,
+                258
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                479,
+                263
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                487,
+                272
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                488,
+                273
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                501,
+                285
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                534,
+                305
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                543,
+                313
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                559,
+                328
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                572,
+                340
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                578,
+                342
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "ALAM_YEAST",
+                local str "Y380_THETN"
+              },
+              starts {
+                583,
+                343
+              },
+              len 9
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1b5o_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1b5o_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 382,
+          seq-data ncbieaa "MRGLSRRVQAMKPSATVAVNAKALELRRQGVDLVALTAGEPDFDTPEHVK
+EAARRALAQGKTKYAPPAGIPELREALAEKFRRENGLSVTPEETIVTVGGSQALFNLFQAILDPGDEVIVLSPYWVSY
+PEMVRFAGGVVVEVETLPEEGFVPDPERVRRAITPRTKALVVNSPNNPTGAVYPKEVLEALARLAVEHDFYLVSDEIY
+EHLLYEGEHFSPGRVAPEHTLTVNGAAKAFAMTGWRIGYACGPKEVIKAMASVSSQSTTSPDTIAQWATLEALTNQEA
+SRAFVEMAREAYRRRRDLLLEGLTALGLKAVRPSGAFYVLMDTSPIAPDEVRAAERLLEAGVAVVPGTDFAAFGHVRL
+SYATSEENLRKALERFARVL"
+        }
+      },
+      seq {
+        id {
+          local str "1lc5_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1lc5_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 355,
+          seq-data ncbieaa "LFNTAHGGNIREPATVLGISPDQLLDFSANINPLGMPVSVKRALIDNLDC
+IERYPDADYFHLHQALARHHQVPASWILAGNGETESIFTVASGLKPRRAMIVTPGFAEYGRALAQSGCEIRRWSLREA
+DGWQLTDAILEALTPDLDCLFLCTPNNPTGLLPERPLLQAIADRCKSLNINLILDEAFIDFIPHETGFIPALKDNPHI
+WVLRSLTKFYAIPGLRLGYLVNSDDAAMARMRRQQMPWSVNALAALAGEVALQDSAWQQATWHWLREEGARFYQALCQ
+LPLLTVYPGRANYLLLRCEREDIDLQRRLLTQRILIRSCANYPGLDSRYYRVAIRSAAQNERLLAALRNVL"
+        }
+      },
+      seq {
+        id {
+          local str "1fg3_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1fg3_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 354,
+          seq-data ncbieaa "TVTITDLARENVRNLTPYQSARRLGGNGDVWLNANEYPTAVEFQLTQQTL
+NRYPECQPKAVIENYAQYAGVKPEQVLVSRGADEGIELLIRAFCEPGKDAILYCPPTYGXYSVSAETIGVECRTVPTL
+DNWQLDLQGISDKLDGVKVVYVCSPNNPTGQLINPQDFRTLLELTRGKAIVVADEAYIEFCPQASLAGWLAEYPHLAI
+LRTLSKAFALAGLRCGFTLANEEVINLLXKVIAPYPLSTPVADIAAQALSPQGIVAXRERVAQIIAEREYLIAALKEI
+PCVEQVFDSETNYILARFKASSAVFKSLWDQGIILRDQNKQPSLSGCLRITVGTREESQRVIDALRAEQV"
+        }
+      },
+      seq {
+        id {
+          local str "1d2f_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1d2f_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 361,
+          seq-data ncbieaa "LLPFTISDMDFATAPCIIEALNQRLMHGVFGYSRWKNDEFLAAIAHWFST
+QHYTAIDSQTVVYGPSVIYMVSELIRQWSETGEGVVIHTPAYDAFYKAIEGNQRTVMPVALEKQADGWFCDMGKLEAV
+LAKPECKIMLLCSPQNPTGKVWTCDELEIMADLCERHGVRVISDEIHMDMVWGEQPHIPWSNVARGDWALLTSGSKSF
+NIPALTGAYGIIENSSSRDAYLSALKGRDGLSSPSVLALTAHIAAYQQGAPWLDALRIYLKDNLTYIADKMNAAFPEL
+NWQIPQSTYLAWLDLRPLNIDDNALQKALIEQEKVAIMPGYTYGEEGRGFVRLNAGCPRSKLEKGVAGLINAIRAVR"
+        }
+      },
+      seq {
+        id {
+          local str "1b8g_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1b8g_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 421,
+          seq-data ncbieaa "MLSRNATSSYFLGWQEYEKNPYHEVHNTNGIIQMGLAENQLCFDLLESWL
+AKNPEAAAFKKNGESIFAELALFQDYHGLPAFKKAMVDFMAEIRGNKVTFDPNHLVLTAGATSANETFIFCLADPGEA
+VLIPTPYYPGFDRDLKWRTGVEIVPIHCTSSNGFQITETALEEAYQEAEKRNLRVKGVLVTNPSNPLGTTMTRNELYL
+LLSFVEDKGIHLISDEIYSGTAFSSPSFISVMEVLKDRNCDENSEVWQRVHVVYSLSKDLGLPGFRVGAIYSNDDMVV
+AAATKMSSFGLVSSQTQHLLSAMLSDKKLTKNYIAENHKRLKQRQKKLVSGLQKSGISCLNGNAGLFCWVDMRHLLRS
+NTFEAEMELWKKIVYEVHLNISPGSSCHCTEPGWFRVCFANLPERTLDLAMQRLKAFVG"
+        }
+      },
+      seq {
+        id {
+          local str "ALAM_YEAST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ALAM_YEAST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 592,
+          seq-data ncbieaa "MLSLSAKNHFTVSNSITHVIKSYHIRTLTSSAEKMPHITTPFSTSASSTK
+LKAFRKVRPVLQRHSSSWIVAQNHRRSLSGQSSLNDLRHLNRFPHHTLKTSNNEFYPAEQLTLEDVNENVLKAKYAVR
+GAIPMRAEELKAQLEKDPQSLPFDRIINANIGNPQQLQQKPLTYYRQVLSLLQYPELLNQNEQQLVDSKLFKLDAIKR
+AKSLMEDIGGSVGAYSSSQGVEGIRKSVAEFITKRDEGEISYPEDIFLTAGASAAVNYLLSIFCRGPETGVLIPIPQY
+PLYTATLALNNSQALPYYLDENSGWSTNPEEIETVVKEAIQNEIKPTVLVVINPGNPTGAVLSPESIAQIFEVAAKYG
+TVVIADEVYQENIFPGTKFHSMKKILRHLQREHPGKFDNVQLASLHSTSKGVSGECGQRGGYMELTGFSHEMRQVILK
+LASISLCPVVTGQALVDLMVRPPVEGEESFESDQAERNSIHEKLITRAMTLYETFNSLEGIECQKPQGAMYLFPKIDL
+PFKAVQEARHLELTPDEFYCKKLLESTGICTVPGSGFGQEPGTYHLRTTFLAPGLEWIKKWESFHKEFFDQYRD"
+        }
+      },
+      seq {
+        id {
+          local str "YFBQ_HAEIN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">YFBQ_HAEIN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 404,
+          seq-data ncbieaa "MRLFPKSDKLEHVCYDIRGPVHKEALRLEEEGNKILKLNIGNPAPFGFEA
+PDEILVDVLRNLPSAQGYCDSKGLYSARKAIVQYYQSKGILGATVNDVYIGNGVSELITMAMQALLNDGDEVLVPMPD
+YPLWTAAVTLSGGKAVHYLCDEDANWFPTIDDIKAKVNAKTKAIVIINPNNPTGAVYSKELLQEIVEIARQNNLIIFA
+DEIYDKILYDGAVHHHIAALAPDLLTVTLNGLSKAYRVAGFRQGWMILNGPKHNAKGYIEGLDMLASMRLCANVPMQH
+AIQTALGGYQSINEFILPGGRLLEQRNKAYDLITQIPGITCVKPMGAMYMFPKIDVKKFNIHSDEKMVLDLLRQEKVL
+LVHGKGFNWHSPDHFRIVTLPYVNQLEEAITKLARFLSDYRQ"
+        }
+      },
+      seq {
+        id {
+          local str "AAT_SULSO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">AAT_SULSO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 401,
+          seq-data ncbieaa "VSLLDFNGNMSQVTGETTLLYKEIARNVEKTKKIKIIDFGIGQPDLPTFK
+RIRDAAKEALDQGFTFYTSAFGIDELREKIAQYLNTRYGTDVKKEEVIVTPGAKPALFLVFILYINPSDEVILPDPSF
+YSYAEVVKLLGGKPIYANLKWSREEGFSIDVDDLQSKISKRTKMIVFNNPHNPTGTLFSPNDVKKIVDISRDNKIILL
+SDEIYDNFVYEGKMRSTLEDSDWRDFLIYVNGFSKTFSMTGWRLGYIVAKREIIQKMGILAANVYTAPTSFVQKAAVK
+AFDTFDEVNQMVSLFKKRRDVMYDELTKVKGVEVSKPNGAFYMFPNVSKILKTSGFDVKSLAIKLIEEKGVVTIPGEV
+FPLNIGKEFLRLSFAVNEEVIKEGIQKIREFAEQMMNSR"
+        }
+      },
+      seq {
+        id {
+          local str "AAT_THEMA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">AAT_THEMA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 377,
+          seq-data ncbieaa "MVSRRISEIPISKTMELDAKAKALIKKGEDVINLTAGEPDFPTPEPVVEE
+AVRFLQKGEVKYTDPRGIYELREGIAKRIGERYKKDISPDQVVVTNGAKQALFNAFMALLDPGDEVIVFSPVWVSYIP
+QIILAGGTVNVVETFMSKNFQPSLEEVEGLLVGKTKAVLINSPNNPTGVVYRREFLEGLVRLAKKRNFYIISDEVYDS
+LVYTDEFTSILDVSEGFDRIVYINGFSKSHSMTGWRVGYLISSEKVATAVSKIQSHTTSCINTVAQYAALKALEVDNS
+YMVQTFKERKNFVVERLKKMGVKFVEPEGAFYLFFKVRGDDVKFCERLLEEKKVALVPGSAFLKPGFVRLSFATSIER
+LTEALDRIEDFLNSR"
+        }
+      },
+      seq {
+        id {
+          local str "PATB_BACSU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PATB_BACSU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 387,
+          seq-data ncbieaa "MNFDKREERLGTQSVKWDKTGELFGVTDALPMWVADMDFRAPEAITEALK
+ERLDHGIFGYTTPDQKTKDAVCGWMQNRHGWKVNPESITFSPGVVTALSMAVQAFTEPGDQVVVQPPVYTPFYHMVEK
+NGRHILHNPLLEKDGAYAIDFEDLETKLSDPSVTLFILCNPHNPSGRSWSREDLLKLGELCLEHGVTVVSDEIHSDLM
+LYGHKHTPFASLSDDFADISVTCAAPSKTFNIAGLQASAIIIPDRLKRAKFSASLQRNGLGGLNAFAVTAIEAAYSKG
+GPWLDELITYIEKNMNEAEAFLSTELPKVKMMKPDASYLIWLDFSAYGLSDAELQQRMLKKGKVILEPGTKYGPGGEG
+FMRLNAGCSLATLQDGLRRIKAALS"
+        }
+      },
+      seq {
+        id {
+          local str "YJG0_YEAST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">YJG0_YEAST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 444,
+          seq-data ncbieaa "MKQRFIRQFTNLMSTSRPKVVANKYFTSNTAKDVWSLTNEAAAKAANNSK
+NQGRELINLGQGFFSYSPPQFAIKEAQKALDIPMVNQYSPTRGRPSLINSLIKLYSPIYNTELKAENVTVTTGANEGI
+LSCLMGLLNAGDEVIVFEPFFDQYIPNIELCGGKVVYVPINPPKELDQRNTRGEEWTIDFEQFEKAITSKTKAVIINT
+PHNPIGKVFTREELTTLGNICVKHNVVIISDEVYEHLYFTDSFTRIATLSPEIGQLTLTVGSAGKSFAATGWRIGWVL
+SLNAELLSYAAKAHTRICFASPSPLQEACANSINDALKIGYFEKMRQEYINKFKIFTSIFDELGLPYTAPEGTYFVLV
+DFSKVKIPEDYPYPEEILNKGKDFRISHWLINELGVVAIPPTEFYIKEHEKAAENLLRFAVCKDDAYLENAVERLKLL
+KDYL"
+        }
+      },
+      seq {
+        id {
+          local str "YDT4_SCHPO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">YDT4_SCHPO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 421,
+          seq-data ncbieaa "MAFRGIRPSNKVAASRPDVWTLVNQATAECKVPPVSLSQGFFNYNPPKFV
+LDAAKKSIDEVACNQYSHTRGRPSLRKALSEAYSPYFKRTLNPDTEIVVTAGANEGFFSVFAAFLNPGDEVIVMEPFF
+DQYISNITMNGGVPVYVPIIPPEEGSVKPVSAGAWKLDMNKLRNAITEKTKMIVINTPHNPLGKIFSEEELNEIADLV
+LKHNLLVVSDEVYDRLSFVPFVRLATLRPELFKHVVTVGSGGKTFGCTGWRVGWLIGDESLIKYSAAAHTRICFAVNS
+PCQEALAIAFGEAEKHNYYEEYKSSYKKRFEILAKAFDQLEIPYTIPDGSYYTMANFSKLKLPKDYPFPEEIANRPRD
+FKLCYWILKEIGVATIPPTEFYTDEDAPVAENYLRFAFCKTFETLEEAARRLQKLKDYF"
+        }
+      },
+      seq {
+        id {
+          local str "YBDL_ECOLI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">YBDL_ECOLI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 386,
+          seq-data ncbieaa "MTNNPLIPQSKLPQLGTTIFTQMSALAQQHQAINLSQGFPDFDGPRYLQE
+RLAHHVAQGANQYAPMTGVQALREAIAQKTERLYGYQPDADSDITVTAGATEALYAAITALVRNGDEVICFDPSYDSY
+APAIALSGGIVKRMALQPPHFRVDWQEFAALLSERTRLVILNTPHNPSATVWQQADFAALWQAIAGHEIFVISDEVYE
+HINFSQQGHASVLAHPQLRERAVAVSSFGKTYHMTGWKVGYCVAPAPISAEIRKVHQYLTFSVNTPAQLALADMLRAE
+PEHYLALPDFYRQKRDILVNALNESRLEILPCEGTYFLLVDYSAVSTLDDVEFCQWLTQEHGVAAIPLSVFCADPFPH
+KLIRLCFAKKESTLLAAAERLRQL"
+        }
+      },
+      seq {
+        id {
+          local str "Y380_THETN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">Y380_THETN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 367,
+          seq-data ncbieaa "MKEGEKMKPYEHGGNIYDYQGNLIDFSSNINPLGPPEWIWEAIKEVDLSR
+YPDIKYRRLKEAIAEYVGCDRENIIVGNGAAELIHLFARAFKLKKPLIPSPSFLEYERAVKLNGGEPVYLKLEEEEGF
+RVNFAKVISKIEEADGLILGNPNNPTGQGIIREEIGILLKKAELMNIPVLIDEAFIEFMKDYKKYEALPLVKKHDKLF
+VVRAVTKFFGMPGIRLGYGIGSPSLIQKLEEYKEPWTVNAFAEAVGRWLFKDREYIEKTREYVNAEIEHMLFSLRTID
+YLVAFDTKVNFILLKLKAGTVDEVKEKLLKKGILIRDASNFRYLDKRFFRVAVKRREDNMCLIEALRGLYEEGVMPDK
+ERVVV"
+        }
+      }
+    }
+  }
+}

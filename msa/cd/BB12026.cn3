@@ -1,0 +1,2889 @@
+Cdd ::= {
+  name "bb12026",
+  id {
+    gid {
+      accession "acc_bb12026",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                126,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                139,
+                9
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                145,
+                11
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                151,
+                17
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                160,
+                26
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                177,
+                42
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                198,
+                61
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                199,
+                62
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                210,
+                72
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                239,
+                100
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                311,
+                171
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                336,
+                196
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1a53_"
+              },
+              starts {
+                348,
+                202
+              },
+              len 45
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                118,
+                0
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                154,
+                25
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                160,
+                31
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                174,
+                41
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                177,
+                43
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                198,
+                63
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                199,
+                64
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                239,
+                103
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                280,
+                143
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                311,
+                173
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                336,
+                198
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                345,
+                204
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1vc4_A"
+              },
+              starts {
+                365,
+                223
+              },
+              len 31
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1i4n_A"
+              },
+              starts {
+                127,
+                0
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1i4n_A"
+              },
+              starts {
+                154,
+                19
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1i4n_A"
+              },
+              starts {
+                160,
+                25
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1i4n_A"
+              },
+              starts {
+                173,
+                35
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1i4n_A"
+              },
+              starts {
+                177,
+                38
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1i4n_A"
+              },
+              starts {
+                199,
+                60
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1i4n_A"
+              },
+              starts {
+                208,
+                68
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1i4n_A"
+              },
+              starts {
+                239,
+                98
+              },
+              len 97
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1i4n_A"
+              },
+              starts {
+                336,
+                195
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1i4n_A"
+              },
+              starts {
+                348,
+                201
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1i4n_A"
+              },
+              starts {
+                369,
+                221
+              },
+              len 30
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACAA"
+              },
+              starts {
+                125,
+                0
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACAA"
+              },
+              starts {
+                144,
+                18
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACAA"
+              },
+              starts {
+                155,
+                21
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACAA"
+              },
+              starts {
+                160,
+                26
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACAA"
+              },
+              starts {
+                174,
+                36
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACAA"
+              },
+              starts {
+                199,
+                61
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACAA"
+              },
+              starts {
+                239,
+                100
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACAA"
+              },
+              starts {
+                311,
+                171
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACAA"
+              },
+              starts {
+                336,
+                196
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACAA"
+              },
+              starts {
+                347,
+                202
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACAA"
+              },
+              starts {
+                390,
+                241
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                126,
+                0
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                151,
+                23
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                160,
+                32
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                174,
+                42
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                177,
+                44
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                198,
+                64
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                199,
+                65
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                239,
+                104
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                311,
+                175
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                336,
+                200
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                345,
+                206
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AQUAE"
+              },
+              starts {
+                349,
+                209
+              },
+              len 48
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                126,
+                0
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                155,
+                25
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                160,
+                32
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                174,
+                42
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                198,
+                65
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                199,
+                66
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                239,
+                105
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                311,
+                176
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                336,
+                201
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                340,
+                204
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                347,
+                206
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_STAAC"
+              },
+              starts {
+                390,
+                245
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                126,
+                0
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                151,
+                25
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                160,
+                34
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                174,
+                44
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                177,
+                46
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                199,
+                67
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                205,
+                72
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                240,
+                105
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                279,
+                142
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                311,
+                173
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                336,
+                198
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METTM"
+              },
+              starts {
+                348,
+                204
+              },
+              len 54
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                125,
+                0
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                153,
+                26
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                160,
+                33
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                174,
+                43
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                177,
+                45
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                199,
+                67
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                210,
+                77
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                239,
+                105
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                311,
+                176
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                336,
+                201
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                348,
+                207
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "1jcm_P"
+              },
+              starts {
+                369,
+                227
+              },
+              len 32
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PYRAE"
+              },
+              starts {
+                126,
+                0
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PYRAE"
+              },
+              starts {
+                151,
+                11
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PYRAE"
+              },
+              starts {
+                160,
+                20
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PYRAE"
+              },
+              starts {
+                168,
+                26
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PYRAE"
+              },
+              starts {
+                193,
+                50
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PYRAE"
+              },
+              starts {
+                199,
+                56
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PYRAE"
+              },
+              starts {
+                210,
+                66
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PYRAE"
+              },
+              starts {
+                241,
+                94
+              },
+              len 95
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PYRAE"
+              },
+              starts {
+                336,
+                189
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PYRAE"
+              },
+              starts {
+                348,
+                195
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PYRAE"
+              },
+              starts {
+                400,
+                244
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_CLOAB"
+              },
+              starts {
+                127,
+                0
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_CLOAB"
+              },
+              starts {
+                155,
+                28
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_CLOAB"
+              },
+              starts {
+                160,
+                34
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_CLOAB"
+              },
+              starts {
+                174,
+                44
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_CLOAB"
+              },
+              starts {
+                176,
+                45
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_CLOAB"
+              },
+              starts {
+                199,
+                68
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_CLOAB"
+              },
+              starts {
+                239,
+                107
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_CLOAB"
+              },
+              starts {
+                279,
+                146
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_CLOAB"
+              },
+              starts {
+                311,
+                177
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_CLOAB"
+              },
+              starts {
+                336,
+                202
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_CLOAB"
+              },
+              starts {
+                347,
+                207
+              },
+              len 55
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PSEAE"
+              },
+              starts {
+                123,
+                0
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PSEAE"
+              },
+              starts {
+                151,
+                28
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PSEAE"
+              },
+              starts {
+                160,
+                37
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PSEAE"
+              },
+              starts {
+                177,
+                53
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PSEAE"
+              },
+              starts {
+                199,
+                75
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PSEAE"
+              },
+              starts {
+                239,
+                114
+              },
+              len 97
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PSEAE"
+              },
+              starts {
+                336,
+                211
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_PSEAE"
+              },
+              starts {
+                348,
+                217
+              },
+              len 54
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AERPE"
+              },
+              starts {
+                124,
+                0
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AERPE"
+              },
+              starts {
+                151,
+                21
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AERPE"
+              },
+              starts {
+                160,
+                30
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AERPE"
+              },
+              starts {
+                177,
+                46
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AERPE"
+              },
+              starts {
+                199,
+                67
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AERPE"
+              },
+              starts {
+                210,
+                77
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AERPE"
+              },
+              starts {
+                241,
+                105
+              },
+              len 95
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AERPE"
+              },
+              starts {
+                336,
+                204
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_AERPE"
+              },
+              starts {
+                348,
+                210
+              },
+              len 51
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_LACPL"
+              },
+              starts {
+                127,
+                0
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_LACPL"
+              },
+              starts {
+                151,
+                24
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_LACPL"
+              },
+              starts {
+                160,
+                33
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_LACPL"
+              },
+              starts {
+                174,
+                43
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_LACPL"
+              },
+              starts {
+                177,
+                45
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_LACPL"
+              },
+              starts {
+                199,
+                67
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_LACPL"
+              },
+              starts {
+                239,
+                106
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_LACPL"
+              },
+              starts {
+                311,
+                177
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_LACPL"
+              },
+              starts {
+                336,
+                202
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_LACPL"
+              },
+              starts {
+                348,
+                208
+              },
+              len 52
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRC1_STRCO"
+              },
+              starts {
+                126,
+                0
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRC1_STRCO"
+              },
+              starts {
+                151,
+                25
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRC1_STRCO"
+              },
+              starts {
+                160,
+                34
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRC1_STRCO"
+              },
+              starts {
+                174,
+                44
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRC1_STRCO"
+              },
+              starts {
+                177,
+                46
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRC1_STRCO"
+              },
+              starts {
+                199,
+                68
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRC1_STRCO"
+              },
+              starts {
+                239,
+                107
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRC1_STRCO"
+              },
+              starts {
+                311,
+                178
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRC1_STRCO"
+              },
+              starts {
+                336,
+                203
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRC1_STRCO"
+              },
+              starts {
+                348,
+                209
+              },
+              len 54
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACTN"
+              },
+              starts {
+                125,
+                0
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACTN"
+              },
+              starts {
+                155,
+                30
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACTN"
+              },
+              starts {
+                161,
+                36
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACTN"
+              },
+              starts {
+                174,
+                45
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACTN"
+              },
+              starts {
+                176,
+                46
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACTN"
+              },
+              starts {
+                199,
+                69
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACTN"
+              },
+              starts {
+                239,
+                108
+              },
+              len 68
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACTN"
+              },
+              starts {
+                308,
+                176
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACTN"
+              },
+              starts {
+                311,
+                178
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACTN"
+              },
+              starts {
+                336,
+                203
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_BACTN"
+              },
+              starts {
+                347,
+                208
+              },
+              len 52
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                126,
+                0
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                151,
+                32
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                159,
+                39
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                160,
+                40
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                171,
+                50
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                177,
+                55
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                199,
+                79
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                240,
+                118
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                278,
+                155
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                311,
+                187
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                336,
+                212
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                348,
+                218
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_METJA"
+              },
+              starts {
+                369,
+                238
+              },
+              len 28
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                133,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                144,
+                10
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                151,
+                21
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                160,
+                30
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                177,
+                46
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                198,
+                66
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                199,
+                67
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                239,
+                106
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                263,
+                127
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                272,
+                135
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                311,
+                173
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                336,
+                198
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                348,
+                204
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRPC_ARATH",
+                local str "TRPC_HALVO"
+              },
+              starts {
+                393,
+                248
+              },
+              len 3
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1a53_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1a53_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 247,
+          seq-data ncbieaa "PRYLKGWLKDVVQLSLRRPSFRASRQRPIISLNERILEFNKRNITAIIAE
+YKRKSPSGLDVERDPIEYSKFMERYAVGLSILTEEKYFNGSYETLRKIASSVSIPILMKDFIVKESQIDDAYNLGADT
+VLLIVKILTERELESLLEYARSYGMEPLIEINDENDLDIALRIGARFIGINSRDLETLEINKENQRKLISMIPSNVVK
+VAESGISERNEIEELRKLGVNAFLIGSSLMRNPEKIKEFIL"
+        }
+      },
+      seq {
+        id {
+          local str "1vc4_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1vc4_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 254,
+          seq-data ncbieaa "MRPDLSRVPGVLGEIARKRASEVAPYPLPEPPSVPSFKEALLRPGLSVIA
+EVKRQSPSEGLIREVDPVEAALAYARGGARAVSVLTEPHRFGGSLLDLKRVREAVDLPLLRKDFVVDPFMLEEARAFG
+ASAALLIVALLGELTGAYLEEARRLGLEALVEVHTERELEIALEAGAEVLGINNRDLATLHINLETAPRLGRLARKRG
+FGGVLVAESGYSRKEELKALEGLFDAVLIGTSLMRAPDLEAALRELVG"
+        }
+      },
+      seq {
+        id {
+          local str "1i4n_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1i4n_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 251,
+          seq-data ncbieaa "RRLWEIVEAKKKDILEIDGENLIVQRRNHRFLEVLSGKERVKIIAEFKKA
+SPSAGDINADASLEDFIRMYDELADAISILTEKHYFKGDPAFVRAARNLTCRPILAKDFYIDTVQVKLASSVGADAIL
+IIARILTAEQIKEIYEAAEELGMDSLVEVHSREDLEKVFSVIRPKIIGINTRDLDTFEIKKNVLWELLPLVPDDTVVV
+AESGIKDPRELKDLRGKVNAVLVGTSIMKAENPRRFLEEMRAWSE"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_BACAA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_BACAA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 253,
+          seq-data ncbieaa "MGTILDKIVNQKKKEVAALYETYTPVKEKRKTRSLVKALEQFTVIAEVKR
+ASPSKGDINLHVDVRKQVKTYEECGAGAVSVLTDGQFFKGSFYDLQTAREESSIPLLCKDFIIDKIQIDRAYEAGADI
+ILLIVAALTKEKLKELYSYVLEKGLEAIVEVHDEQELEIAIQLNPHVIGINNRNLKTFEVDLSQTEKLGKRLNEEKLL
+WISESGIHSKEDIIRVKRAGAKGVLVGEALMTSSSIHTFFEDCKVNI"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_AQUAE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_AQUAE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 257,
+          seq-data ncbieaa "MGFLEEVRSYKESQIDTSPEYLRKLEELIEERKEFYDFEKALTSCGTKII
+AEVKKASPSEGNIKEVNPEEQAKLYEKAGAIAISVLTDEKYFKGSLEDLRNVRESVKLPLLRKDFTVHKVQILEAKAY
+GADIVLLIVRMLSDKELKELLDFSEELGLSPLVEVFTLDEAKRALDAGAKIIGINNRDLETFKVDINKTKELAPKIKD
+LGAKFVISESGISKREEILELMNYQVDGFLIGTSLMKSENPYRKLKELLGF"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_STAAC"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_STAAC"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 260,
+          seq-data ncbieaa "MTILSEIVKYKQSLLQNGYYQDKLNTLKSVKIQNKKSFINAIEKEPKLAI
+IAEIKSKSPTVNDLPERDLSQQISDYDQYGANAVSILTDEKYFSGSFERLQALTTKTTLPVLCKDFIIDPLQIDVAKQ
+AGASMILLIVNILSDKQLKDLYNYAISQNLEVLVEVHDRHELERAYKVNAKLIGVNNRDLKRFVTNVEHTNTILENKK
+TNHYYISESGIHDASDVRKILHSGIDGLLIGEALMRCDNLSEFLPQLKMQKVKS"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_METTM"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_METTM"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 274,
+          seq-data ncbieaa "MSILQEIIRSRKLEIKNLSRKKPLEELRDELTSLDEPLSFTDALTGNRVS
+LICEYKRASPSSGRTYGRGLHEMMEVYREGADAVSVITENRYFHGSIEFLREASEYGIPLLMKDFVVDEYQIYQARAS
+GASSVLIITGVFPDLESGIETCRELSMEPLVECHSAIDIYRAIEAGAELIGVNNRNLETLEVDLERTRALAPLVPDEL
+LLVSESGVMGPEDAEILAGCGADALLIGTSLMLASDPRELLDEIMAAVKSCKPGRKRYSGDEFFEQFA"
+        }
+      },
+      seq {
+        id {
+          local str "1jcm_P"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1jcm_P"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 259,
+          seq-data ncbieaa "MQCVLAKIVADKAIWVEARKQQQPLASFQNEVQPSTRHFYDALQGARTAF
+ILECKKASPSKGVIRDDFDPARIAAIYKHYASAISVLTDEKYFQGSFNFLPIVSQIAPQPILCKDFIIDPYQIYLARY
+YQADACLLMLSVLDDDQYRQLAAVAHSLEMGVLTEVSNEEEQERAIALGAKVVGINNRDLCDLSIDLNRTRELAPKLG
+HNVTVISESGINTYAQVRELSHFANGFLIGSALMAHDDLHAAVRRVLLGENKV"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_PYRAE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_PYRAE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 249,
+          seq-data ncbieaa "MDFLTEVKRTVELRLATEPPPPARSLPLVDFIKSLGEFGIIAEYKRASPR
+GVIRLDLPPWAYFAQVYQYASAFSVLTEPFWFLGDYRFIPIAKAFKPVLMKDFVIDKRQIEAAYGYGADAVLIIYRLV
+ERERAMELAEYAQRLGLTPVVEIDNVQDAKEVATWGGRLVIGINSRDLKTLETNVQRAFEVAKALRGDVEFIIESGLS
+RPEEVERACSLYARGVLIGTALMKNPVLVKELRQVAERCIARR"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_CLOAB"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_CLOAB"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 262,
+          seq-data ncbieaa "MILDDIVRDKKLQLIEDKKALSLDDIKSKLNSLNLDKRNFKEALEKENIS
+IIAEIKKASPSKGVIREDFNPVKIGQIYENINIDAVSILTEKKYFLGKNEYIKIVKEVNSKPILRKDFIVDEYQLYEA
+KLIGADAVLLIAAVLKDKLECFYNRTLELGLDSITEVHNEEEAKLASEIGCSIIGINNRDLRDFSTDITTTKRLMKYV
+PRDRIIVSESSIKTPEDILYLRSIGVNAVLIGETFMRNIDDLKGINEFLKKAKDNG"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_PSEAE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_PSEAE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 278,
+          seq-data ncbieaa "MSVPTVLQKILARKAEEVAERRARVNLAEVERLARSADAPRGFANALLER
+AKRKEPAVIAEIKKASPSKGVLREHFVPAEIARSYEAGGAACLSVLTDVDFFQGADAYLKEARAACALPVIRKDFMID
+PYQIVEARAIGADCILLIVSALDDVLMAELAATAKSVGLDVLVEVHDGTELERALKTLDTPLVGINNRNLHTFEVSLE
+TTLDLLPEIPRDRLVVTESGILNRADVELMEVSEVYAFLVGEAFMRADDPGLELKRLFFQERGAVVLGADPD"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_ARATH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_ARATH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 402,
+          seq-data ncbieaa "MEGLVPVQRLPIKVASPSLYRCNNSVSIRRSISGFAMDRKINFRAPSQFS
+IRAQQSDLKESLAVSSSSVEDKGNVLRIKEWEVEMYQEELAISQGIRIRRKPPSKAPLGYSGPFELRLHNNDADSPRN
+ILEEITWYKDVEVSRMKELNPLDVLKKAVEDAPPTRDFVGALRMAHKRTGFPGLIAEVKKASPSRGILKENFDPVEIA
+QAYEKGGAACLSVLTDQKYFQGGFENLEAIRSAGVKCPLLCKEFVVDPWQIYYARTKGADAVLLIAAVLADLEITFLL
+KICKKLSLAALVEVHDEREMGRVLGIEGIELVGINNRSLETFEVDISNTKKLLEGEHGRQIRERDMIVVGESGLFTPD
+DIAYVQAAGVKAVLVGESIVKQNDPEKGIAGLFGRNISHT"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_AERPE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_AERPE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 261,
+          seq-data ncbieaa "MRDSFLQKAIASAKDRTSLLEEIAGNCSPKPGRPSLSSSIREWVYRVGGA
+VIAEYKRCSPSAGAISTLDPVSYVQATRDASAAYSVLTEPNWFCGSIELIPYFARYKPVLAKDFIVSETQIRIAACMG
+ASAALLIMEALTPRELQELAAAASRYGVEVLVETPDASHAVEASRLAPGSIIGVNSRDLKTLRVDYEAMLREVSKARE
+QLPGEVILVAESGIDSPDKALKAFKAGAQAILVGTAFMKNPQLREKILAELLQIP"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_LACPL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_LACPL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 260,
+          seq-data ncbieaa "MILDQLVQASQQRVQKVPVRERVKRIQQARKMTTPVLSFEAMLAQPGLQL
+IGEVKRASPSKGLIAAEFDYLQIAQDYVAAGIDAISVLTEPRYFKGQLSYLQAITQTVSVPTLRKDFIVAASQIASAR
+IAGASAVLLIVAILTPVQLQAFITLAHELNLSALVEVHTTAESKQAVAAGARIIGINNRNLKDFSVNFATSCQLRQAV
+PAECYVVAESGIQTATQAQQLAAAGFDAMLVGETLMRAPDKGQAVMQLRAGVRG"
+        }
+      },
+      seq {
+        id {
+          local str "TRC1_STRCO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRC1_STRCO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 269,
+          seq-data ncbieaa "MSVLDEIIDGVRADLAERQARVSLDELKERAAKARPAKDGVAALRGDGVK
+VICEVKRSSPSKGALAAIADPAGLAADYEAGGAAVISVLTEERRFGGSLADLDSVRARVDIPVLRKDFIVTSYQLWEA
+RAHGADLVLLIVAALEQPALESLIERAESIGLTPLVEVHDEDEVERAVDAGAKVIGVNARNLKTLEVDRGTFERVAPE
+IPAHIVKVAESGVRGPHDLIAYANEGADAVLVGESLVTGRDPKTAVSDLVAAGEHPALRHGRS"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_BACTN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_BACTN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 260,
+          seq-data ncbieaa "MKDILSEIIANKRFEVDLQKQAISIEQLQEGINEVPASRSMKRALASSDS
+GIIAEFKRRSPSKGWIKQEARPEEIVPSYLAAGASALSILTDEKFFGGSLKDIRTARPLVDVPIIRKDFIIDEYQLYQ
+AKIVGADAVLLIAAALKQEKCQELAEQAHELGLEVLLEIHSAEELPYINSKIDMIGINNRNLGTFFTDVENSFRLAGQ
+LPQDAVLVSESGISDPEVVKRLRTAGFRGFLIGETFMKTPQPGETLQNFLKAIQ"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_METJA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_METJA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 266,
+          seq-data ncbieaa "MKVLDEIVANRKKMVEIEKRKDIIKNLRSFIDELDIDVEKKRKLRLSKAI
+KKAKEIKNPIITEIKPSSPSKGSIREINLEDVKNIANEMVEGGATALSILTEPKYFNGSYKNLIVAREFDIPILMKDF
+IVDFYQIDVASEIGANAVLLIVSSLKEDIGEFLDYAKENDLECLVETHSEDEIDIALDAGAKIIGINNRDLKTLKIDL
+STTEKLAPLIPKNKIKVGESGIYTKEQLNYVLKFTDAALIGSSIMESENIREKVREFVIK"
+        }
+      },
+      seq {
+        id {
+          local str "TRPC_HALVO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRPC_HALVO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 251,
+          seq-data ncbieaa "MNASGDELAPDVRAILEAARERPGGETRVSVDARSFPEAVAETEAAGRVP
+VIAEVKPTSPTTEGVREDDPVELAREMVAGGATALSVLTEPEHFGGSAESLRRIREAVDVPVLRKDFIMNEAQLDVVQ
+SDLVLLIARFVGEDLPALVEAARDRGFQPLVEVHTREELTAALAAGADIVGINNRDLGKLEVDLGTFEELAPEAPEDV
+LLVAESGVQTVDDARRMREAGADALLVGTAIMDGDVRQNTETLTQ"
+        }
+      }
+    }
+  }
+}

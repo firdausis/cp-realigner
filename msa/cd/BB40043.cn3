@@ -1,0 +1,5037 @@
+Cdd ::= {
+  name "bb40043",
+  id {
+    gid {
+      accession "acc_bb40043",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                636,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                655,
+                17
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                661,
+                23
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                665,
+                25
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                685,
+                42
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                702,
+                56
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                722,
+                67
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                732,
+                77
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                739,
+                85
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                764,
+                101
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                791,
+                127
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                820,
+                156
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                824,
+                160
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                836,
+                171
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                862,
+                196
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                866,
+                200
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                894,
+                235
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1fdr_"
+              },
+              starts {
+                898,
+                241
+              },
+              len 3
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                636,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                655,
+                17
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                661,
+                24
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                665,
+                26
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                682,
+                43
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                702,
+                60
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                722,
+                71
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                732,
+                81
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                739,
+                89
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                764,
+                105
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                791,
+                131
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                820,
+                162
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                824,
+                171
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                837,
+                181
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                866,
+                210
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                894,
+                245
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_AZOVI"
+              },
+              starts {
+                898,
+                251
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                636,
+                1
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                655,
+                18
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                661,
+                24
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                665,
+                26
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                682,
+                52
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                702,
+                69
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                722,
+                80
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                732,
+                90
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                739,
+                98
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                764,
+                114
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                791,
+                140
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                820,
+                169
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                824,
+                173
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                836,
+                184
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                862,
+                209
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                866,
+                213
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                894,
+                248
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAP"
+              },
+              starts {
+                898,
+                254
+              },
+              len 3
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                636,
+                1
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                655,
+                18
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                661,
+                24
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                665,
+                26
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                682,
+                47
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                702,
+                64
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                722,
+                75
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                732,
+                85
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                739,
+                93
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                764,
+                109
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                791,
+                135
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                820,
+                164
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                824,
+                168
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                836,
+                179
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                862,
+                204
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                866,
+                208
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                894,
+                243
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCAI"
+              },
+              starts {
+                898,
+                249
+              },
+              len 3
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                636,
+                1
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                655,
+                18
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                661,
+                24
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                665,
+                26
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                682,
+                44
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                702,
+                61
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                722,
+                72
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                732,
+                82
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                739,
+                90
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                764,
+                106
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                791,
+                132
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                820,
+                161
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                824,
+                165
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                836,
+                176
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                862,
+                201
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                866,
+                205
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                894,
+                240
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FENR_BUCBP"
+              },
+              starts {
+                898,
+                246
+              },
+              len 3
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                629,
+                0
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                632,
+                4
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                636,
+                8
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                661,
+                33
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                665,
+                37
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                682,
+                54
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                699,
+                69
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                731,
+                101
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                739,
+                109
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                764,
+                140
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                790,
+                166
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                820,
+                196
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                824,
+                200
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                842,
+                209
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                866,
+                235
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                894,
+                263
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                896,
+                264
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1ndh_"
+              },
+              starts {
+                898,
+                266
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                5,
+                0
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                27,
+                14
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                44,
+                29
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                57,
+                44
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                72,
+                58
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                119,
+                107
+              },
+              len 51
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                172,
+                158
+              },
+              len 56
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                228,
+                215
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                243,
+                233
+              },
+              len 121
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                367,
+                354
+              },
+              len 108
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                475,
+                465
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                521,
+                505
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                527,
+                509
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                533,
+                511
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                556,
+                534
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                597,
+                575
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                610,
+                588
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                629,
+                621
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                632,
+                625
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                636,
+                629
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                661,
+                654
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                665,
+                658
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                682,
+                675
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                699,
+                690
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                731,
+                722
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                739,
+                730
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                764,
+                755
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                790,
+                782
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                820,
+                812
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                824,
+                816
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                842,
+                828
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                866,
+                855
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                894,
+                883
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NIA7_HORVU"
+              },
+              starts {
+                898,
+                887
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                557,
+                0
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                593,
+                18
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                601,
+                21
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                610,
+                30
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                621,
+                34
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                629,
+                61
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                632,
+                65
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                636,
+                69
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                661,
+                94
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                665,
+                98
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                682,
+                115
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                699,
+                130
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                723,
+                145
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                731,
+                153
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                739,
+                161
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                764,
+                176
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                790,
+                202
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                820,
+                232
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                824,
+                235
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                842,
+                244
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                866,
+                270
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                889,
+                292
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                894,
+                304
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "YMM5_YEAST"
+              },
+              starts {
+                898,
+                308
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                521,
+                0
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                529,
+                3
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                557,
+                42
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                567,
+                45
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                574,
+                51
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                586,
+                52
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                597,
+                61
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                610,
+                74
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                629,
+                92
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                631,
+                93
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                632,
+                95
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                636,
+                99
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                639,
+                101
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                643,
+                102
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                655,
+                112
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                659,
+                114
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                661,
+                117
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                665,
+                121
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                685,
+                138
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                702,
+                152
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                722,
+                163
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                731,
+                173
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                739,
+                181
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                765,
+                197
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                791,
+                222
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                820,
+                251
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                824,
+                254
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                843,
+                264
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                866,
+                287
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                885,
+                305
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                894,
+                315
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "NDOR_PSEPU"
+              },
+              starts {
+                898,
+                321
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                519,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                527,
+                6
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                557,
+                47
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                567,
+                50
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                574,
+                56
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                586,
+                57
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                597,
+                70
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                610,
+                83
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                629,
+                101
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                631,
+                102
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                632,
+                104
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                636,
+                108
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                639,
+                110
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                643,
+                111
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                655,
+                121
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                661,
+                128
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                665,
+                133
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                684,
+                150
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                702,
+                165
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                722,
+                176
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                731,
+                186
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                739,
+                194
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                753,
+                207
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                765,
+                209
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                791,
+                234
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                820,
+                263
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                824,
+                266
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                843,
+                276
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                845,
+                277
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                866,
+                298
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                891,
+                322
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                894,
+                326
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1krh_A"
+              },
+              starts {
+                898,
+                332
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                633,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                636,
+                3
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                639,
+                5
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                643,
+                6
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                655,
+                16
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                659,
+                18
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                661,
+                21
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                665,
+                25
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                685,
+                42
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                701,
+                56
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                720,
+                65
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                722,
+                66
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                734,
+                75
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                739,
+                80
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                765,
+                96
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                791,
+                121
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                820,
+                150
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                824,
+                153
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                843,
+                163
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                866,
+                186
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                894,
+                215
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1qfj_A"
+              },
+              starts {
+                898,
+                221
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                633,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                636,
+                3
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                639,
+                5
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                641,
+                6
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                655,
+                18
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                659,
+                20
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                661,
+                23
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                665,
+                27
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                686,
+                44
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                701,
+                57
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                717,
+                69
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                722,
+                72
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                731,
+                82
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                739,
+                90
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                765,
+                106
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                791,
+                131
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                820,
+                160
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                824,
+                163
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                843,
+                173
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                866,
+                196
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                894,
+                225
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBFI"
+              },
+              starts {
+                898,
+                231
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                636,
+                1
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                639,
+                3
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                643,
+                4
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                655,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                659,
+                16
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                661,
+                19
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                665,
+                23
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                686,
+                40
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                701,
+                53
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                717,
+                65
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                722,
+                69
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                731,
+                79
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                739,
+                87
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                765,
+                103
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                791,
+                128
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                820,
+                157
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                824,
+                160
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                843,
+                170
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                866,
+                193
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                894,
+                222
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "LUXG_VIBHA"
+              },
+              starts {
+                898,
+                228
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                633,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                636,
+                3
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                639,
+                5
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                643,
+                6
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                655,
+                16
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                659,
+                18
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                661,
+                21
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                665,
+                25
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                685,
+                42
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                701,
+                56
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                717,
+                68
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                722,
+                72
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                734,
+                81
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                739,
+                86
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                765,
+                102
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                791,
+                127
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                820,
+                156
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                824,
+                159
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                843,
+                169
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                866,
+                192
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                894,
+                221
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_PHOLU"
+              },
+              starts {
+                898,
+                227
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                633,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                636,
+                3
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                639,
+                5
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                643,
+                6
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                655,
+                16
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                659,
+                18
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                661,
+                21
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                665,
+                25
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                685,
+                42
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                700,
+                56
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                717,
+                69
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                722,
+                73
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                731,
+                83
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                739,
+                91
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                765,
+                107
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                791,
+                132
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                820,
+                161
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                824,
+                164
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                843,
+                174
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                845,
+                175
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                866,
+                196
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                894,
+                225
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "FRE_VIBFI"
+              },
+              starts {
+                898,
+                231
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                510,
+                0
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                527,
+                15
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                556,
+                56
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                561,
+                60
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                574,
+                72
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                586,
+                73
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                597,
+                87
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                610,
+                106
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                629,
+                141
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                631,
+                142
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                632,
+                144
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                636,
+                151
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                655,
+                168
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                661,
+                175
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                665,
+                180
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                682,
+                199
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                700,
+                216
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                712,
+                227
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                717,
+                228
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                722,
+                232
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                731,
+                242
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                739,
+                250
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                765,
+                266
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                791,
+                291
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                794,
+                293
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                820,
+                319
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                824,
+                322
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                836,
+                333
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                841,
+                335
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                866,
+                360
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                890,
+                383
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                894,
+                388
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NIA_PHYIN",
+                local str "1cqx_A"
+              },
+              starts {
+                898,
+                394
+              },
+              len 4
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1fdr_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1fdr_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 244,
+          seq-data ncbieaa "ADWVTGKVTKVQNWTDALFSLTVHAPVLPFTAGQFTKLGLEIRVQRAYSY
+VNSPDNPDLEFYLVTVPDGKLSPRLAALKPGDEVQVVSEAAGFFVLDEVPHCETLWMLATGTAIGPYLSILRLGKDLD
+RFKNLVLVHAARYAADLSYLPLMQELEKRYEGKLRIQTVVSRETAAGSLTGRIPALIESGELESTIGLPMNKETSHVM
+LCGNPQMVRDTQQLLKETRQMTKHLRRRPGHMTAEHYW"
+        }
+      },
+      seq {
+        id {
+          local str "FENR_AZOVI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FENR_AZOVI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 257,
+          seq-data ncbieaa "SNLNVERVLSVHHWNDTLFSFKTTRNPSLRFENGQFVMIGLEVDGRPLMR
+AYSIASPNYEEHLEFFSIKVQNGPLTSRLQHLKEGDELMVSRKPTGTLVTSDLLPGKHLYMLSTGTGLAPFMSLIQDP
+EVYERFEKVVLIHGVRQVNELAYQQFITEHLPQSEYFGEAVKEKLIYYPTVTRESFHNQGRLTDLMRSGKLFEDIGLP
+PINPQDDRAMICGSPSMLDESCEVLDGFGLKISPRMGEPGDYLIERAFVEK"
+        }
+      },
+      seq {
+        id {
+          local str "FENR_BUCAP"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FENR_BUCAP"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 257,
+          seq-data ncbieaa "MNPWINANVLKVHKWTQNLFSLILNAEIAPFQAGQFTKLALNEENINFSN
+NVKKKKIQRAYSFVNAPSNKNLEIYIVRILNGKLSNLLYNLKSGDNLFIKEKSFGFFTLDEIPNCKTLWMFATGTGIG
+PYCSILQEYKNINRFKNIILIHAVRYQNELTYLPLMKQLYKSYNGKLKIETIVSREKNHNSLYGRIPLLLQNQILEKK
+IGLKINRNDSHVMLCGNPAMVKDTYLFLQKDRCMQKNLRRKHGHITMENYW"
+        }
+      },
+      seq {
+        id {
+          local str "FENR_BUCAI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FENR_BUCAI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 252,
+          seq-data ncbieaa "MNPWINADVLMVKKWTKNLFSLILNAPIEPFFAGQFNKLALYNSNPLNKN
+KIQRAYSYVNAPSEKNLEIYIVRVLNGQLSNLLYNLHSGDKIFIKKKSFGFFIIDEIPDCEILWMFATGTGIGPYCSI
+LQEGKNINRFNHIILTHAVRYQNELTYLPLMKELRQKYNGKLQIQTITSREKHKNSLNGRIPFLLRNKILEKHVGFSI
+NPQTSHVMLCGNPFMVKDTFLFLKNNRNMEKHLRRKKGHITMENYW"
+        }
+      },
+      seq {
+        id {
+          local str "FENR_BUCBP"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FENR_BUCBP"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 249,
+          seq-data ncbieaa "MNTWITAKIIKIKKWKNNLFSVIVNAPISPFTAGQFTKLGYQKKNGKIIQ
+RAYSFVNAPHEKNLEFYMVLIKNGQLTTKLYNLNNTDHIQIKKKSYGFFTLNEIPTCKILWMFATGTGIGPYLSMLKY
+QKNTEKFQKIVLIHAVRYRHDLTYFNEINNLKNIYNKKLYTQFIISREKTNFSLSGRIPQLLKTEELEKHINLFIENN
+TSHVMLCGNPDMVKQTQNFLINNKNMKKHLRRKPGQISSENYW"
+        }
+      },
+      seq {
+        id {
+          local str "1ndh_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ndh_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 270,
+          seq-data ncbieaa "PAITLENPDIKYPLRLIDKEVVNHDTRRFRFALPSPEHILGLPVGQHIYL
+SARIDGNLVIRPYTPVSSDDDKGFVDLVIKVYFKDTHPKFPAGGKMSQYLESMKIGDTIEFRGPNGLLVYQGKGKFAI
+RPDKKSSPVIKTVKSVGMIAGGTGITPMLQVIRAIMKDPDDHTVCHLLFANQTEKDILLRPELEELRNEHSARFKLWY
+TVDRAPEAWDYSQGFVNEEMIRDHLPPPEEEPLVLMCGPPPMIQYACLPNLERVGHPKERCFAF"
+        }
+      },
+      seq {
+        id {
+          local str "NIA7_HORVU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">NIA7_HORVU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 891,
+          seq-data ncbieaa "MAASVEYNRQVSAHPWPTNAQPKAAFDLFSSSGGGRRRSGADSDSDDEDS
+VPPDWRSLYSPRLDVEPSVKDPRDEATSDAWVKRHPALVRLTGKHPFNSEPPLPRLMSHGFITPVPLHYVRNHGAVPK
+ADWSTWTVEVTGLVKRPVKFTMEELVTGFQAVEFPVTLVCAGNRRKEQNMVRQSSGFNWGPGAISTTVWRGVRLRDVL
+RRCGVMGAGAASNVCFEGAEDLPGGGGCKYGTSLRRSVAMDPARDVILAYMQNGEPLAPDHGFPVRVIVPGFIGGRMV
+KWLKRIVVACNESESYYHYRDNRVLPSHVDAELANAEAWWYKPECMINELNINSVITTPGHDEVLPINALTTQKPYTM
+KGYAYSGGGRKVTRVEVTLDGGETWQVCDLEHPERPTKYGKYWCWCFWSVEVEVLELLGAKEMAVRAWDEALNTQPER
+LIWNLMGMMNNCWFRVKINVCRPHKGEIGLVFDHPTQPGNQSGGWMARQKHIETSETTQGTLKRSTSTPFMSTASAQF
+TMSEVRRHASKDSAWIVVHGHVYDCTAFLKDHPGGADSILINAGSDCTEEFDAIHSAKARGLLEMYRVGELIVTGNDY
+SPQSSNADLAAIVEAPAVVVPRLPASAVALANPREKVRCRLVDKKSMSHNVRLFRFALPSPDQKLGLPVGKHVYVCAS
+TGGKLCMRAYTPTSSVEEVGHVELLIKIYFKDEDPKFPAGGLMSQYLDALPLGAPVDIKGPVGHIEYAGRGAFTVGGE
+RRFARRLAMVAGGTGITPVYQVIQAVLRDQPDDTTEMHLVYANRTEDDMLLREEIDRWAAANPARLKVWYVVSKVGRP
+EDAWEYGVGRVDEQVLREHLPLGGDGETLALVCGPPAMLECTVRPGLEKMGYDLDKDCLVF"
+        }
+      },
+      seq {
+        id {
+          local str "NIA_PHYIN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">NIA_PHYIN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 902,
+          seq-data ncbieaa "MTRLRSAASTITNRSTPALALTASHAGSHPAVIVPIQPLLLTLERRPSCP
+HRVSYPEIEAYRGISSSLRSHNAIVRASDIMAQIDPRDVGTPDEWVPRHPELIRLTGRHPFNSEPPLKYASTFITPMA
+LHYVRNHGPVPRLEWDTHTFSIDGLVKKPRTFGMNELVTTFEQETVTFPVLLVCAGNRRKEQNMIKKTIGFSWGAAGC
+STAEWTGVPLHVLLTACGVDREKAQWVWFEGIEDLPHDKYGTCIRASTELDPECDVLVAWKANGELLGPDHGFPVRLI
+VPGHIGGRMVKWLERIHVSDHESSNHHHIMDNRVLPSHVTAETATAEGWWSKSPYAIMELNVNAVVILPNHDDLLALG
+EDTTFNDIETYTIKGYAYSGGGRRVIRVEVTLDDGASWQLARIIYHERPSKYGKMWCWVHYELAAPMSSLLCAREVCV
+RAWDSSMNLMPAFPTWNVMGMMNNPWYRVKIHHEQDTNSLRFEHPTQAGNQKGGWMTKERIMTNDVDSIKMLQVEPLD
+TSSAATPKPGLTADELSELPLIFADEVAKHNSKKSCWFICRDLVYDATPFLDEHPGGATSILLCGGTDCTDEFESIHS
+TKAWQMLKKYCIGRCSSTEDDTGTSDTSSDHEETDVALKGRTKVPIVLISREVVSHDARIFKFALPAKDLRLGLPIGN
+HVFLYAKINGKTAVRAYTPISSENDEDRGFVSFLIKVYFAGDNPVHPEGGLFSQYLDGLHLGQQIQIKGPLGHFTYYG
+DGNFSLETTNFHAYKFGFVAGGTGITPVYQVMRAILEDAKDQTKVALIYCVRSQRDLLLRKELETLQKLRPGQCRIFY
+TLSDMELLDRNDPIVRGWAYGKSRLNFAMVKNIIGSDAEDVCMCGPEGMIEYACKPALLKLNYDLKTQTTVF"
+        }
+      },
+      seq {
+        id {
+          local str "YMM5_YEAST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">YMM5_YEAST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 312,
+          seq-data ncbieaa "MSKEDIEGTNILDEPVHGIYIPAALFVVGVAITTYMSGELKILWSLPILF
+MIIFVRAYSAYKRRRSLYPDRWTSLELEDQTIISKNTALYRFKLKTRLESLDIPAGHHVAVRVPIDGKQEVRYYNPIS
+SKLESGYLDLVVKAYVDGKVSKYFAGLNSGDTVDFKGPIGTLNYEPNSSKHLGIVAGGSGITPVLQILNEIITVPEDL
+TKVSLLYANETENDILLKDELDEMAEKYPHFQVHYVVHYPSDRWTGDVGYITKDQMNRYLPEYSEDNRLLICGPDGMN
+NLALQYAKELGWKVNSTRSSGDDQVFVF"
+        }
+      },
+      seq {
+        id {
+          local str "NDOR_PSEPU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">NDOR_PSEPU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 328,
+          seq-data ncbieaa "MELLIQPNNRIIPFSAGANLLEVLRENGVAISYSCLSGRCGTCRCRVIDG
+SVIDSGAENGQSNLTDKQYVLACQSVLTGNCAIEVPEADEIVTHPARIIKGTVVAVESPTHDIRRLRVRLSKPFEFSP
+GQYATLQFSPEHARPYSMAGLPDDQEMEFHIRKVPGGRVTEYVFEHVREGTSIKLSGPLGTAYLRQKHTGPMLCVGGG
+TGLAPVLSIVRGALKSGMTNPILLYFGVRSQQDLYDAERLHKLAADHPQLTVHTVIATGPINEGQRAGLITDVIEKDI
+LSLAGWRAYLCGAPAMVEALCTVTKHLGISPEHIYADAFYPGGI"
+        }
+      },
+      seq {
+        id {
+          local str "1krh_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1krh_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 337,
+          seq-data ncbieaa "SNHQVALQFEDGVTRFICIAQGETLSDAAYRQQINIPMDCREGECGTCRA
+FCESGNYDMPEDNYIEDALTPEEAQQGYVLACQCRPTSDAVFQIQASSEVCKTKIHHFEGTLARVENLSDSTITFDIQ
+LDDGQPDIHFLAGQYVNVTLPGTTETRSYSFSSQPGNRLTGFVVRNVPQGKMSEYLSVQAKAGDKMSFTGPFGSFYLR
+DVKRPVLMLAGGTGIAPFLSMLQVLEQKGSEHPVRLVFGVTQDCDLVALEQLDALQQKLPWFEYRTVVAHAESQHERK
+GYVTGHIEYDWLNGGEVDVYLCGPVPMVEAVRSWLDTQGIQPANFLFEKFSAN"
+        }
+      },
+      seq {
+        id {
+          local str "1qfj_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1qfj_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 226,
+          seq-data ncbieaa "TTLSCKVTSVEAITDTVYRVRIVPDAAFSFRAGQYLMVVMDERDKRPFSM
+ASTPDEKGFIELHIGYAKAVMDRILKDHQIVVDIPHGEAWLRDDEERPMILIAGGTGFSYARSILLTALARNPNRDIT
+IYWGGREEQHLYDLCELEALSLKHPGLQVVPVVEQPEAGWRGRTGTVLTAVLQDHGTLAEHDIYIAGRFEMAKIARDL
+FCSERNAREDRLFGDAFAFI"
+        }
+      },
+      seq {
+        id {
+          local str "LUXG_VIBFI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">LUXG_VIBFI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 236,
+          seq-data ncbieaa "MIVDGRVSKIVLASIKNNIYKVFITVNSPIKFIAGQFVMVTINGKKCPFS
+IANCPTKNHEIELHIGSSNKDCSLDIIEYFVDALVEEVAIELDAPHGNAWLRSESNNPLLLIAGGTGLSYINSILTNC
+LNRNIPQDIYLYWGVKNSSLLYEDEELLELSLNNKNLHYIPVIEDKSEEWIGKKGTVLDAVMEDFTDLAHFDIYVCGP
+FMMAKTAKEKLIEEKKAKSEQMFADAFAYV"
+        }
+      },
+      seq {
+        id {
+          local str "LUXG_VIBHA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">LUXG_VIBHA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 233,
+          seq-data ncbieaa "MLCSIEKIEPLTSFIFRVLLKPDQPFEFRAGQYINVSLSFGSLPFSIASC
+PSNGAFLELHIGGSDISKKNTLVMEELTNSWGCGNMVEVSEARGKAWLRDESVKPLLLVAGGTGMSYTLSILKNSLAQ
+GFNQPIYVYWGAKDMENLYVHDELVDIALENKNVSYVPVTEISTCPQYAKQGKVLECVMSDFRNLSEFDIYLCGPYKM
+VEVARDWFCDKRGAEPEQLYADAFAYL"
+        }
+      },
+      seq {
+        id {
+          local str "FRE_PHOLU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FRE_PHOLU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 232,
+          seq-data ncbieaa "TTLSCKVTSVEAITDTVYRVRLLPDSPFLFRAGQYLMVVMDERDKRPFSM
+ASTPSEKEFIELHIGASELNLYAMAVMDRILDQKVINIDIPHGKAWFRKSSANPLLLIAGGTGFSYTRSILLTALEEQ
+PKRHISMYWGGRESQHLYDLAELRLLTERYPNLKVIPVVEQSDNGWCGRTGTVLKAVLEDFGSLANYDIYIAGRFEMA
+KIARERFCSERDASADSMYGDAFEFI"
+        }
+      },
+      seq {
+        id {
+          local str "FRE_VIBFI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FRE_VIBFI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 236,
+          seq-data ncbieaa "MPINCKVKSIEPLACNTFRILLHPEQPVAFKAGQYLTVVMGEKDKRPFSI
+ASSPCRHEGEIELHIGAAEHNAYAGEVVESMKSALETGGDILIDAPHGEAWIREDSDRSMLLIAGGTGFSYVRSILDH
+CISQQIQKPIYLYWGGRDECQLYAKAELESIAQAHSHITFVPVVEKSEGWTGKTGNVLEAVKADFNSLADMDIYIAGR
+FEMAGAAREQFTTEKQAKKEQLFGDAFAFI"
+        }
+      },
+      seq {
+        id {
+          local str "1cqx_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1cqx_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 403,
+          seq-data ncbieaa "MLTQKTKDIVKATAPVLAEHGYDIIKCFYQRMFEAHPELKNVFNMAHQEQ
+GQQQQALARAVYAYAENIEDPNSLMAVLKNIANKHASLGVKPEQYPIVGEHLLAAIKEVLGNAATDDIISAWAQAYGN
+LADVLMGMESELYERSAEQPGGWKGWRTFVIREKRPESDVITSFILEPADGGPVVNFEPGQYTSVAIDVPALGLQQIR
+QYSLSDMPNGRTYRISVKREGGGPQPPGYVSNLLHDHVNVGDQVKLAAPYGSFHIDVDAKTPIVLISGGVGLTPMVSM
+LKVALQAPPRQVVFVHGARNSAVHAMRDRLREAAKTYENLDLFVFYDQPLPEDVQGRDYDYPGLVDVKQIEKSILLPD
+ADYYICGPIPFMRMQHDALKNLGIHEARIHYEVFGPDLFAE"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,230 @@
+Cdd ::= {
+  name "bbs12009",
+  id {
+    gid {
+      accession "acc_bbs12009",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "CSPD_HAEIN",
+                local str "1csp"
+              },
+              starts {
+                0,
+                0
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "CSPD_HAEIN",
+                local str "1csp"
+              },
+              starts {
+                25,
+                24
+              },
+              len 43
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "CSPD_HAEIN",
+                local str "GR2B_ARATH"
+              },
+              starts {
+                0,
+                0
+              },
+              len 68
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "CSPD_HAEIN",
+                local str "CSPF_ECOLI"
+              },
+              starts {
+                0,
+                0
+              },
+              len 67
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "CSPD_HAEIN",
+                local str "PIPI_HUMAN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "CSPD_HAEIN",
+                local str "PIPI_HUMAN"
+              },
+              starts {
+                43,
+                41
+              },
+              len 25
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1csp"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1csp"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 67,
+          seq-data ncbieaa "MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVSFE
+IVEGNRGPQAANVTKEA"
+        }
+      },
+      seq {
+        id {
+          local str "CSPD_HAEIN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CSPD_HAEIN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 68,
+          seq-data ncbieaa "MEIGIVKWFNNAKGFGFISAEGVDADIFAHYSVIEMDGYRSLKAGQKVQF
+EVLHSDKGSHATKIIPIA"
+        }
+      },
+      seq {
+        id {
+          local str "GR2B_ARATH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">GR2B_ARATH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 68,
+          seq-data ncbieaa "RRKGTVKWFDTQKGFGFITPSDGGDDLFVHQSSIRSEGFRSLAAEESVEF
+DVEVDNSGRPKAIEVSGP"
+        }
+      },
+      seq {
+        id {
+          local str "CSPF_ECOLI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CSPF_ECOLI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 67,
+          seq-data ncbieaa "KMTGIVKTFDGKSGKGLITPSDGRIDVQLHVSALNLRDAEEITTGLRVEF
+CRINGLRGPSAANVYLS"
+        }
+      },
+      seq {
+        id {
+          local str "PIPI_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PIPI_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 69,
+          seq-data ncbieaa "VFKGVCKQFSRSQGHGFITPENGSEDIFVHVSDIEGEYVPVEGDEVTYKM
+CPIPPKNQKFQAVEVVLTQ"
+        }
+      }
+    }
+  }
+}

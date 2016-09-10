@@ -1,0 +1,744 @@
+Cdd ::= {
+  name "bbs12041",
+  id {
+    gid {
+      accession "acc_bbs12041",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1wad_"
+              },
+              starts {
+                0,
+                1
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1wad_"
+              },
+              starts {
+                17,
+                9
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1wad_"
+              },
+              starts {
+                36,
+                28
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1wad_"
+              },
+              starts {
+                47,
+                38
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1wad_"
+              },
+              starts {
+                51,
+                42
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1wad_"
+              },
+              starts {
+                74,
+                62
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1wad_"
+              },
+              starts {
+                83,
+                74
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1wad_"
+              },
+              starts {
+                107,
+                102
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1czj_"
+              },
+              starts {
+                3,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1czj_"
+              },
+              starts {
+                12,
+                5
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1czj_"
+              },
+              starts {
+                36,
+                29
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1czj_"
+              },
+              starts {
+                51,
+                44
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1czj_"
+              },
+              starts {
+                74,
+                63
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1czj_"
+              },
+              starts {
+                83,
+                74
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1czj_"
+              },
+              starts {
+                107,
+                98
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gm4_A"
+              },
+              starts {
+                0,
+                1
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gm4_A"
+              },
+              starts {
+                18,
+                8
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gm4_A"
+              },
+              starts {
+                36,
+                26
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gm4_A"
+              },
+              starts {
+                51,
+                41
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gm4_A"
+              },
+              starts {
+                74,
+                60
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gm4_A"
+              },
+              starts {
+                83,
+                72
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gm4_A"
+              },
+              starts {
+                107,
+                100
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "CY31_DESDN"
+              },
+              starts {
+                0,
+                4
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "CY31_DESDN"
+              },
+              starts {
+                17,
+                12
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "CY31_DESDN"
+              },
+              starts {
+                36,
+                31
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "CY31_DESDN"
+              },
+              starts {
+                51,
+                47
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "CY31_DESDN"
+              },
+              starts {
+                74,
+                67
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "CY31_DESDN"
+              },
+              starts {
+                83,
+                76
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "CY31_DESDN"
+              },
+              starts {
+                107,
+                100
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gyo_A"
+              },
+              starts {
+                1,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gyo_A"
+              },
+              starts {
+                22,
+                17
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gyo_A"
+              },
+              starts {
+                36,
+                31
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gyo_A"
+              },
+              starts {
+                51,
+                46
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gyo_A"
+              },
+              starts {
+                74,
+                63
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gyo_A"
+              },
+              starts {
+                83,
+                72
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "1gyo_A"
+              },
+              starts {
+                107,
+                96
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "3cao_A"
+              },
+              starts {
+                0,
+                4
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "3cao_A"
+              },
+              starts {
+                19,
+                11
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "3cao_A"
+              },
+              starts {
+                36,
+                32
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "3cao_A"
+              },
+              starts {
+                51,
+                52
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "3cao_A"
+              },
+              starts {
+                74,
+                70
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "3cao_A"
+              },
+              starts {
+                83,
+                75
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "3cao_A"
+              },
+              starts {
+                102,
+                89
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "CY3B_DESAF",
+                local str "3cao_A"
+              },
+              starts {
+                107,
+                94
+              },
+              len 7
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1wad_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1wad_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 109,
+          seq-data ncbieaa "VPADGAKIDFIAGGEKNLTVVFNHSTHKDVKCDDCHHDPGDKQYAGCTTD
+GCHNILDKADKSVNSWYKVVHDAKGGAKPTCISCHKDKAGDDKELKKKLTGCKGSACHP"
+        }
+      },
+      seq {
+        id {
+          local str "1czj_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1czj_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 105,
+          seq-data ncbieaa "PESVTMSPKQFEGYTPKKGDVTFNHASHMDIACQQCHHTVPDTYTIESCM
+TEGCHDNIKERTEISSVYRTFHTTKDSEKSCVGCHRELKRQGPSDAPLACNSCHV"
+        }
+      },
+      seq {
+        id {
+          local str "1gm4_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1gm4_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 107,
+          seq-data ncbieaa "APAVPDKPVEVKGSQKTVMFPHAPHEKVECVTCHHLVDGKESYAKCGSSG
+CHDDLTAKKGEKSLYYVVHARGELKHTSCLACHSKVVAEKPELKKDLTGCAKSKCHP"
+        }
+      },
+      seq {
+        id {
+          local str "CY3B_DESAF"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CY3B_DESAF"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 114,
+          seq-data ncbieaa "PQVPADVVIDHLSNPNAKLEYKVKFSHKAHASLGTDAAACQKCHHKWDGK
+SEIGGCATEGCHADTTSFKATEKDPKFLMTAFHSKSPMSCQGCHKEMKTAKKTTGPTACAQCHN"
+        }
+      },
+      seq {
+        id {
+          local str "CY31_DESDN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CY31_DESDN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 107,
+          seq-data ncbieaa "ISAPEGMKAKPKGDKPGALQKTVPFPHTKHATVECVQCHHTLEADGGAVK
+KCTTSGCHDSLEFRDKANAKDIKLVESAFHTQCIDCHALKKKDKKPTGPTACGKCHT"
+        }
+      },
+      seq {
+        id {
+          local str "1gyo_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1gyo_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 104,
+          seq-data ncbieaa "DVPCKVVITAPEGEDPHPRFGKVEMSHAKHRNVSCVSCHHMFDGCGDFQK
+CADCHIDRDDRSYERGFYKAWHSESEISCRGCHKAMKAKNEQTGPIGCLQGCHE"
+        }
+      },
+      seq {
+        id {
+          local str "3cao_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">3cao_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 101,
+          seq-data ncbieaa "XEDMTHVPTDAFGKLERPAAVFNHDEHNEKAGIESCNACHHVWVNGVLAE
+DEDSVGTPCSDCHALEQDGDTPGLQDAYHQQCWGCHEKQAKGPVMCGECHV"
+        }
+      }
+    }
+  }
+}

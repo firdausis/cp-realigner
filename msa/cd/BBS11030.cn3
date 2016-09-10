@@ -1,0 +1,3386 @@
+Cdd ::= {
+  name "bbs11030",
+  id {
+    gid {
+      accession "acc_bbs11030",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                15,
+                20
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                21,
+                21
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                28,
+                26
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                36,
+                33
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                39,
+                34
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                45,
+                42
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                51,
+                48
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                72,
+                52
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                78,
+                58
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                80,
+                63
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                86,
+                72
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                89,
+                74
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                101,
+                87
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                113,
+                99
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                130,
+                120
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                171,
+                144
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "2hsd_A"
+              },
+              starts {
+                195,
+                161
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                15,
+                20
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                21,
+                21
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                40,
+                37
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                46,
+                42
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                51,
+                51
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                66,
+                64
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                78,
+                76
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                80,
+                81
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                86,
+                90
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                89,
+                92
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                101,
+                105
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                113,
+                118
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                130,
+                145
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                171,
+                169
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1e7w_A"
+              },
+              starts {
+                195,
+                186
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                15,
+                20
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                21,
+                21
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                45,
+                25
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                51,
+                35
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                59,
+                39
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                66,
+                43
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                78,
+                55
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                80,
+                60
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                86,
+                69
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                89,
+                71
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                101,
+                85
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                113,
+                97
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                130,
+                118
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                171,
+                142
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1pwx_A"
+              },
+              starts {
+                195,
+                159
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                15,
+                20
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                21,
+                21
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                28,
+                26
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                45,
+                47
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                51,
+                57
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                72,
+                61
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                78,
+                67
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                80,
+                72
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                86,
+                81
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                89,
+                83
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                101,
+                96
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                113,
+                108
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                130,
+                129
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                171,
+                153
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1gz6_A"
+              },
+              starts {
+                195,
+                170
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                9,
+                11
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                13,
+                16
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                15,
+                22
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                21,
+                23
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                45,
+                35
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                51,
+                45
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                66,
+                49
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                78,
+                61
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                80,
+                66
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                86,
+                77
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                101,
+                98
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                113,
+                110
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                130,
+                131
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                133,
+                132
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                144,
+                142
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                171,
+                152
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1eny_"
+              },
+              starts {
+                195,
+                169
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                15,
+                20
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                21,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                43,
+                24
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                45,
+                30
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                51,
+                40
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                66,
+                46
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                78,
+                58
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                80,
+                63
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                87,
+                67
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                101,
+                87
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                113,
+                100
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                126,
+                112
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                130,
+                116
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                133,
+                117
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                171,
+                138
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1dhr_"
+              },
+              starts {
+                195,
+                155
+              },
+              len 10
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                15,
+                20
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                21,
+                21
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                41,
+                37
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                46,
+                39
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                51,
+                41
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                63,
+                49
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                66,
+                50
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                78,
+                63
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                80,
+                68
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                86,
+                77
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                89,
+                79
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                108,
+                95
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                113,
+                96
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                130,
+                120
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                171,
+                144
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a4u_A"
+              },
+              starts {
+                195,
+                161
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                15,
+                20
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                21,
+                21
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                41,
+                37
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                45,
+                41
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                51,
+                45
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                66,
+                58
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                71,
+                59
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                78,
+                66
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                80,
+                71
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                86,
+                83
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                101,
+                101
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                113,
+                114
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                130,
+                137
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                171,
+                161
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1nas_"
+              },
+              starts {
+                195,
+                178
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                15,
+                20
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                21,
+                21
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                36,
+                35
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                45,
+                48
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                51,
+                55
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                72,
+                59
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                78,
+                65
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                80,
+                70
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                86,
+                79
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                89,
+                81
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                101,
+                94
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                113,
+                106
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                130,
+                127
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                171,
+                151
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1fds_"
+              },
+              starts {
+                195,
+                168
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                15,
+                20
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                21,
+                21
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                45,
+                33
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                51,
+                38
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                63,
+                49
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                66,
+                50
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                78,
+                62
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                80,
+                67
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                86,
+                76
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                89,
+                78
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                101,
+                95
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                117,
+                107
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                130,
+                124
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                133,
+                125
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                151,
+                150
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                154,
+                162
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                166,
+                180
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                167,
+                183
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1n5d_A"
+              },
+              starts {
+                195,
+                204
+              },
+              len 10
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                19,
+                19
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                56,
+                40
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                78,
+                62
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                80,
+                64
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                86,
+                70
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                101,
+                85
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                106,
+                87
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                113,
+                94
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                130,
+                111
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                141,
+                121
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                159,
+                133
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                166,
+                140
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                167,
+                143
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                178,
+                152
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                181,
+                154
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1a9y_"
+              },
+              starts {
+                188,
+                159
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                15,
+                20
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                22,
+                24
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                52,
+                36
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                78,
+                62
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                80,
+                64
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                87,
+                69
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                101,
+                83
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                106,
+                85
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                113,
+                92
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                130,
+                109
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                141,
+                118
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                151,
+                135
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                154,
+                138
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                161,
+                144
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                165,
+                147
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                166,
+                148
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                167,
+                151
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1kep_A"
+              },
+              starts {
+                192,
+                164
+              },
+              len 13
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                9,
+                9
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                13,
+                14
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                15,
+                20
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                30,
+                33
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                61,
+                43
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                78,
+                60
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                80,
+                62
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                86,
+                68
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                101,
+                83
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                106,
+                85
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                113,
+                92
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                130,
+                109
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                151,
+                137
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                154,
+                140
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                166,
+                152
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                167,
+                153
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1i24_A",
+                local str "1rkx_A"
+              },
+              starts {
+                195,
+                168
+              },
+              len 10
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "2hsd_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">2hsd_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 173,
+          seq-data ncbieaa "KTVIITGGARGLGAEAARQAVAAGARVVLADVLDEEGAATARELGDAARY
+QHLDVTIEEDWQRVVAYAREEFGSVDGLVNNAGISTGMFLETESVERFRKVVEINLTGVFIGMKTVIPAMKDAGGGSI
+VNISSAAGLMGLALTSSYGASKWGVRGLSKLAAVELGTDRIRVNS"
+        }
+      },
+      seq {
+        id {
+          local str "1e7w_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1e7w_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 198,
+          seq-data ncbieaa "PVALVTGAAKRLGRSIAEGLHAEGYAVCLHYHRSAAEANALSATLNARRP
+NSAITVQADLSNVATAPVSSAPVTLFTRCAELVAACYTHWGRCDVLVNNASSFYPTPLLREAMETATADLFGSNAIAP
+YFLIKAFAHRVAGTPAKHRGTNYSIINMVDAMTNQPLLGYTIYTMAKGALEGLTRSAALELAPLQIRVNG"
+        }
+      },
+      seq {
+        id {
+          local str "1pwx_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1pwx_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 171,
+          seq-data ncbieaa "STAIVTNVKHFGGMGSALRLSEAGHTVACHDESFKQKDELEAFAETYPQL
+KPMSEQEPAELIEAVTSAYGQVDVLVSNDIFAPEFQPIDKYAVEDYRGAVEALQIRPFALVNAVASQMKKRKSGHIIF
+ITSATPFGPWKELSTYTSARAGACTLANALSKELGEYNIPVFA"
+        }
+      },
+      seq {
+        id {
+          local str "1gz6_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1gz6_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 182,
+          seq-data ncbieaa "RVVLVTGAGGGLGRAYALAFAERGALVVVNDLGGDFKGVGKGSSAADKVV
+EEIRRRGGKAVANYDSVEAGEKLVKTALDTFGRIDVVVNNAGILRDRSFSRISDEDWDIIQRVHLRGSFQVTRAAWDH
+XKKQNYGRIIXTASASGIYGNFGQANYSAAKLGLLGLANTLVIEGRKNNIHCNT"
+        }
+      },
+      seq {
+        id {
+          local str "1eny_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1eny_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 181,
+          seq-data ncbieaa "KRILVSGIITDSSIAFHIARVAQEQGAQLVLTGFDRLRLIQRITDRLPAK
+APLLELDVQNEEHLASLAGRVTEAIGAGNKLDGVVHSIGFMPQTGMGINPFFDAPYADVSKGIHISAYSYASMAKALL
+PIMNPGGSIVGMDFDPSRAMPAYNWMTVAKSALESVNRFVAREAGKYGVRSNL"
+        }
+      },
+      seq {
+        id {
+          local str "1dhr_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1dhr_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 169,
+          seq-data ncbieaa "RRVLVYGGRGALGSRCVQAFRARNWWVASIDVVENEEASASVIVKMTDSF
+TEQADQVTAEVGKLLGDQKVDAILCVAGGWAGGNAKSKSLFKNCDLMWKQSIWTSTISSHLATKHLKEGGLLTLAGAK
+AALDGTPGMIGYGMAKGAVHQLCQSLAGKNSGMPSGAAAIA"
+        }
+      },
+      seq {
+        id {
+          local str "1a4u_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1a4u_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 173,
+          seq-data ncbieaa "KNVIFVAALGGIGLDTSRELVKRNLKNFVILDRVENPTALAELKAINPKV
+NITFHTYDVTVPVAESKKLLKKIFDQLKTVDILINGAGILDDHQIERTIAINFTGLVNTTTAILDFWDKRKGGPGGII
+ANICSVTGFNAIHQVPVYSASKAAVVSFTNSLAKLAPITGVTAYS"
+        }
+      },
+      seq {
+        id {
+          local str "1nas_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1nas_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 188,
+          seq-data ncbieaa "AVCVLTGASRGFGRALAPQLARLLSPGSVMLVSARSESMLRQLKEELGAQ
+QPDLKVVLAAADLGTEAGVQRLLSAVRELPRPEGLQRLLLINNAATLGDVSKGFLNVNDLAEVNNYWALNLTSMLCLT
+SGTLNAFQDSPGLSKTVVNISSLCALQPYKGWGLYCAGKAARDMLYQVLAAEEPSVRVLS"
+        }
+      },
+      seq {
+        id {
+          local str "1fds_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1fds_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 180,
+          seq-data ncbieaa "TVVLITGCSSGIGLHLAVRLASDPSQSFKVYATLRDLKTQGRLWEAARAL
+ACPPGSLETLQLDVRDSKSVAAARERVTEGRVDVLVCNAGLGLLGPLEALGEDAVASVLDVNVVGTVRMLQAFLPDMK
+RRGSGRVLVTGSVGGLMGLPFNDVYCASKFALEGLCESLAVLLLPFGVHLSL"
+        }
+      },
+      seq {
+        id {
+          local str "1n5d_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1n5d_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 220,
+          seq-data ncbieaa "RVALVTGANKGIGFAIVRDLCRQFAGDVVLTARDVARGQAAVKQLQAEGL
+SPRFHQLDIIDLQSIRALCDFLRKEYGGLDVLVNNAAIAFQLDNPTPFHIQAELTMKTNFMGTRNVCTELLPLIKPQG
+RVVNVSSTEGVRALNECSPELQQKFKSETITEEELVGLMNKFVEDTKNGVHRKEGWSDSTYGVTKIGVSVLSRIYARK
+LREQRAGDKILLNA"
+        }
+      },
+      seq {
+        id {
+          local str "1i24_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1i24_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 205,
+          seq-data ncbieaa "SRVMVIGGDGYCGWATALHLSKKNYEVCIVDNLVRRLFDHQLGLESLTPI
+ASIHDRISRWKALTGKSIELYVGDICDFEFLAESFKSFEPDSVVHFGEQRSAPYSMIDRSRAVYTQHNNVIGTLNVLF
+AIKEFGEECHLVKLGTMGEYGTPNIDIEEGYITITHNGRTDTLPYPKQASSFYHLSKVHDSHNIAFTCKAWGIRATD"
+        }
+      },
+      seq {
+        id {
+          local str "1a9y_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1a9y_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 176,
+          seq-data ncbieaa "MRVLVTGGSGYIGSHTCVQLLQNGHDVIILDNLCNSKRSVLPVIERLGGK
+HPTFVEGDIRNEALMTEILHDHAIDTVIHFAGLKAVGESVQKPLEYYDNNVNGTLRLISAMRAANVKNFIFSSAATVY
+GDQPKIPYVESFPTGTPQSPFGKSKLMVEQILTDLQKAQPDWSIALLR"
+        }
+      },
+      seq {
+        id {
+          local str "1kep_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1kep_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 181,
+          seq-data ncbieaa "KNIIVTGGAGFIGSNFVHYVYNNHPDVHVTVLDKLTYAGNKANLEAILGD
+RVELVVGDIADAELVDKLAAKADAIVHYAAESHNDNSLNDPSPFIHTNFIGTYTLLEAARKYDIRFHHVSTDEVYGDL
+PLREDLPGHGEGPGEKFTAETNYNPSSPYSSTKAASDLIVKAWVRSFGVKATI"
+        }
+      },
+      seq {
+        id {
+          local str "1rkx_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1rkx_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 182,
+          seq-data ncbieaa "KRVFVTGHTGFKGGWLSLWLQTMGATVKGYSLTAPTVPSLFETARVADGM
+QSEIGDIRDQNKLLESIREFQPEIVFHMAAQPLVRLSYSEPVETYSTNVMGTVYLLEAIRHVGGVKAVVNITSDKCYD
+NKEWIWGYRENEAMGGYDPYSNSKGCAELVTSSYRNSFFNPANYGQHGTAVATV"
+        }
+      }
+    }
+  }
+}

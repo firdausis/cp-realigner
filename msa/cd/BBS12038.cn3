@@ -1,0 +1,2208 @@
+Cdd ::= {
+  name "bbs12038",
+  id {
+    gid {
+      accession "acc_bbs12038",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                7,
+                7
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                17,
+                17
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                18,
+                18
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                19,
+                19
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                37,
+                37
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                41,
+                41
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                43,
+                43
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                48,
+                48
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                52,
+                49
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                74,
+                74
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                75,
+                75
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                98,
+                96
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                125,
+                122
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                151,
+                147
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                170,
+                166
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                189,
+                184
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "12ca_"
+              },
+              starts {
+                239,
+                231
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                7,
+                7
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                17,
+                17
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                18,
+                18
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                19,
+                19
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                37,
+                37
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                41,
+                41
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                43,
+                43
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                48,
+                48
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                52,
+                49
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                76,
+                71
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                98,
+                91
+              },
+              len 52
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                151,
+                143
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                170,
+                162
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                189,
+                180
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1jcz_A"
+              },
+              starts {
+                239,
+                227
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                7,
+                7
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                17,
+                14
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                18,
+                15
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                19,
+                16
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                37,
+                34
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                41,
+                38
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                43,
+                40
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                48,
+                45
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                52,
+                46
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                74,
+                68
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                75,
+                69
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                98,
+                90
+              },
+              len 52
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                151,
+                142
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                170,
+                161
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                189,
+                179
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1znc_A"
+              },
+              starts {
+                239,
+                224
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                7,
+                7
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                17,
+                17
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                18,
+                21
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                19,
+                23
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                37,
+                37
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                41,
+                41
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                43,
+                43
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                48,
+                48
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                52,
+                49
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                74,
+                74
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                75,
+                75
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                81,
+                77
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                101,
+                89
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                136,
+                112
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                151,
+                126
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                170,
+                145
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                174,
+                147
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                189,
+                161
+              },
+              len 42
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "1kop_A"
+              },
+              starts {
+                244,
+                203
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                0,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                7,
+                7
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                17,
+                17
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                18,
+                21
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                19,
+                23
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                37,
+                42
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                41,
+                46
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                43,
+                48
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                48,
+                53
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                52,
+                54
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                74,
+                78
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                75,
+                79
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                81,
+                81
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                101,
+                93
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                136,
+                116
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                151,
+                130
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                170,
+                149
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                189,
+                167
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH_ANASP"
+              },
+              starts {
+                244,
+                208
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                0,
+                2
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                7,
+                7
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                17,
+                19
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                18,
+                23
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                19,
+                25
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                37,
+                43
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                41,
+                50
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                43,
+                54
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                48,
+                60
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                74,
+                90
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                75,
+                111
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                101,
+                129
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                133,
+                156
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                150,
+                174
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                170,
+                195
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                189,
+                213
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH1_CHLRE"
+              },
+              starts {
+                244,
+                262
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                0,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                8,
+                5
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                17,
+                14
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                18,
+                15
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                19,
+                16
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                37,
+                34
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                41,
+                38
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                43,
+                40
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                48,
+                45
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                74,
+                74
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                75,
+                75
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                81,
+                77
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                98,
+                92
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                125,
+                118
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                150,
+                143
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                170,
+                163
+              },
+              len 64
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH9_MOUSE"
+              },
+              starts {
+                240,
+                227
+              },
+              len 21
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                0,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                7,
+                9
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                20,
+                16
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                37,
+                33
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                41,
+                37
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                43,
+                39
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                48,
+                44
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                52,
+                46
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                74,
+                71
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                75,
+                72
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                98,
+                93
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                134,
+                119
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                151,
+                135
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                170,
+                154
+              },
+              len 61
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                232,
+                215
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH3_CAEEL"
+              },
+              starts {
+                239,
+                216
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                7,
+                8
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                17,
+                18
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                18,
+                19
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                19,
+                20
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                37,
+                38
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                41,
+                42
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                43,
+                44
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                48,
+                49
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                53,
+                53
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                74,
+                77
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                75,
+                78
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                81,
+                80
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                125,
+                123
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                150,
+                149
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                170,
+                169
+              },
+              len 64
+            },
+            {
+              dim 2,
+              ids {
+                local str "PTPZ_HUMAN",
+                local str "CAH6_HUMAN"
+              },
+              starts {
+                240,
+                233
+              },
+              len 21
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "12ca_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">12ca_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 253,
+          seq-data ncbieaa "WGYGKHNGPEHWHKDFPIAKGERQSPVDIDTHTAKYDPSLKPLSVSYDQA
+TSLRILNNGHAFNVEFDDSQDKAVLKGGPLDGTYRLIQFHFHWGSLDGQGSEHTVDKKKYAAELHLAHWNTKYGDFGK
+AVQQPDGLAVLGIFLKVGSAKPGLQKVVDVLDSIKTKGKSADFTNFDPRGLLPESLDYWTYPGSLTTPPLLECVTWIV
+LKEPISVSSEQVLKFRKLNFNGEGEPEELMVDNWRPAQPLKNRQIKA"
+        }
+      },
+      seq {
+        id {
+          local str "1jcz_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1jcz_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 249,
+          seq-data ncbieaa "WTYFGPDGENSWSKKYPSCGGLLQSPIDLHSDILQYDASLTPLEFQYNLS
+KQFLLTNNGHSVKLNLPSDMHIQGLQSRYSATQLHLHWGNPNDHGSEHTVSGQHFAAELHIVHYNSDLYPDASTASNK
+SEGLAVLAVLIEMGSFNPSYDKIFSHLQHVKYKGQEAFVPGFNIEELLPETAEYYRYRGSLTTPPCNPTVLWTVFRNP
+VQISQEQLLALETALYCTHMDDPSPMINNFRQVQKFDERLVYT"
+        }
+      },
+      seq {
+        id {
+          local str "1znc_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1znc_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 246,
+          seq-data ncbieaa "WCYEVQAVPVKWGGNCQKDRQSPINIVTTKAKVDKKLGRFFFSYDKKQTW
+TVQNNGHSVMMLLENKASISGGGLPAPYQAKQLHLHWSDLPYKGSEHSLDGEHFAMEMHIVHEKEKTSRNVKEAQDPE
+DEIAVLAFLVEAGQVNEGFQPLVEALSNIPKPEMSTTMAESSLLDLLPKKLHYFRYLGSLTTPTCDEKVVWTVFREPI
+QLHREQILAFSKLYYDKEQTVSMKDNVRPLQQLGQRTVIK"
+        }
+      },
+      seq {
+        id {
+          local str "1kop_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1kop_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 220,
+          seq-data ncbieaa "WGYTGHDSPESWGNLSEEFRLCSTGKNQSPVNITETVSGKLPAIKVNYKP
+SMVDVENNGHTIQVNYPEGGNTLTVNGRTYTLKQFHFHVPSENQIKGRTFPMEAHFVHLDENKQPLVLAVLYEAGKTN
+GRLSSIWNVMPMTAGKVKLNQPFDASTLLPKRLKYYRFAGSLTTPPCTEGVSWLVLKTYDHIDQAQAEKFTRAVGSEN
+NRPVQPLNARVVIE"
+        }
+      },
+      seq {
+        id {
+          local str "CAH_ANASP"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CAH_ANASP"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 225,
+          seq-data ncbieaa "WGYIGKVGPEHWGELSPDFALCQIGRKQTPIDLQIADVKDVHSSSQDLLV
+TNYQPTALHLINNGKTVQVNYQPGSYLKYAHQKFELLQFHFHHFSEHRVDGKLYDMELHLVHRSKSGDLAVMGIFLQA
+GAFNPTLQIIWDATPQNQGTDKRIEDINIDASQFLPAQHRFFTYSGSLTTPPCSENVLWCVMATPIEASPAQIAKFSQ
+MFPQNARPVQPLNDRLVIE"
+        }
+      },
+      seq {
+        id {
+          local str "CAH1_CHLRE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CAH1_CHLRE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 287,
+          seq-data ncbieaa "DHWDHGLNGENWEGKDGAGNAWVCKTGRKQSPINVPQYQVLDGKGSKIAN
+GLQTQWSYPDLMSNGTSVQVINNGHTIQVQWTYNYAGHATIAIPAMHNQTNRIVDVLEMRPNDAADRVTAVPTQFHFH
+STSEHLLAGKIYPLELHIVHQVTEKLEACKGGCFSVTGILFQLDNGPDNELLEPIFANMPSREGTFSNLPAGTTIKLG
+ELLPSDRDYVTYEGSLTTPPCSEGLLWHVMTQPQRISFGQWNRYRLAVGLKECNSTETAADAGHHHHHRRLLHNHAHL
+EEV"
+        }
+      },
+      seq {
+        id {
+          local str "CAH9_MOUSE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CAH9_MOUSE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 248,
+          seq-data ncbieaa "WSYGGTLLWPQVSPACAGRFQSPVDIRLERTAFCRTLQPLELLGYELQPL
+PELSLSNNGHTVQLTLPPGLKMALGPGQEYRALQLHLHWGTSDHPGSEHTVNGHRFPAEIHVVHLSTAFSELHEALGR
+PGGLAVLAAFLQESPEENSAYEQLLSHLEEISEEGSKIEIPGLDVSALLPSDLSRYYRYEGSLTTPPCSQGVIWTVFN
+ETVKLSAKQLHTLSVSLWGPRDSRLQLNFRATQPLNGRTIEA"
+        }
+      },
+      seq {
+        id {
+          local str "CAH3_CAEEL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CAH3_CAEEL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 238,
+          seq-data ncbieaa "WSYCDDDECGPNRWPTGQHQSPINIDLGEVERKDTHDGIKFVNYDHPIQG
+DIVNNGHSVQMTPELRSEHPEIYGGGLDQVYRLVQYHFHWGENDNEGSEHTLGGLRYPAELHLVHQGVEDPGKLAVVG
+VFLQLGKEGKALSNEERVLGKLCNPETVTRVENVRLSEKLPANKRSFWRYEGSLTTPPCSEIVTWTIFTEPVTVTHDQ
+LELFRQVQDIEKRPIKKNYRPTQNLNDRKIVH"
+        }
+      },
+      seq {
+        id {
+          local str "PTPZ_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PTPZ_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 261,
+          seq-data ncbieaa "WSYTGALNQKNWGKKYPTCNSPKQSPINIDEDLTQVNVNLKKLKFQGWDK
+TSLENTFIHNTGKTVEINLTNDYRVSGGVSEMVFKASKITFHWGKCNMSSDGSEHSLEGQKFPLEMQIYCFDADRFSS
+FEEAVKGKGKLRALSILFEVGTEENLDFKAIIDGVESVSRFGKQAALDPFILLNLLPNSTDKYYIYNGSLTSPPCTDT
+VDWIVFKDTVSISESQLAVFCEVLTMQQSGYVMLMDYLQNNFREQQYKFSRQVFS"
+        }
+      },
+      seq {
+        id {
+          local str "CAH6_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CAH6_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 254,
+          seq-data ncbieaa "WTYSEGALDEAHWPQHYPACGGQRQSPINLQRTKVRYNPSLKGLNMTGYE
+TQAGEFPMVNNGHTVQIGLPSTMRMTVADGTVYIAQQMHFHWGGASSEISGSEHTVDGIRHVIEIHIVHYNSKYKTYD
+IAQDAPDGLAVLAAFVEVKNYPENTYYSNFISHLANIKYPGQRTTLTGLDVQDMLPRNLQHYYTYHGSLTTPPCTENV
+HWFVLADFVKLSRTQVWKLENSLLDHRNKTIHNDYRRTQPLKHRVVES"
+        }
+      }
+    }
+  }
+}

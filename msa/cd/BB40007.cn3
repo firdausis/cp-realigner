@@ -1,0 +1,1327 @@
+Cdd ::= {
+  name "bb40007",
+  id {
+    gid {
+      accession "acc_bb40007",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_CXA21"
+              },
+              starts {
+                0,
+                73
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_CXA21"
+              },
+              starts {
+                15,
+                88
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_CXA21"
+              },
+              starts {
+                48,
+                121
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_CXA21"
+              },
+              starts {
+                76,
+                149
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_CXA21"
+              },
+              starts {
+                80,
+                153
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_CXA21"
+              },
+              starts {
+                83,
+                156
+              },
+              len 132
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_CXA21"
+              },
+              starts {
+                215,
+                288
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_CXA21"
+              },
+              starts {
+                263,
+                336
+              },
+              len 5
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC16H"
+              },
+              starts {
+                0,
+                73
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC16H"
+              },
+              starts {
+                15,
+                88
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC16H"
+              },
+              starts {
+                48,
+                121
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC16H"
+              },
+              starts {
+                76,
+                149
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC16H"
+              },
+              starts {
+                80,
+                153
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC16H"
+              },
+              starts {
+                83,
+                156
+              },
+              len 56
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC16H"
+              },
+              starts {
+                141,
+                212
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC16H"
+              },
+              starts {
+                168,
+                234
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC16H"
+              },
+              starts {
+                215,
+                281
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC16H"
+              },
+              starts {
+                238,
+                303
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC16H"
+              },
+              starts {
+                264,
+                327
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV1A"
+              },
+              starts {
+                0,
+                48
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV1A"
+              },
+              starts {
+                15,
+                63
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV1A"
+              },
+              starts {
+                48,
+                96
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV1A"
+              },
+              starts {
+                76,
+                124
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV1A"
+              },
+              starts {
+                80,
+                128
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV1A"
+              },
+              starts {
+                83,
+                131
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV1A"
+              },
+              starts {
+                134,
+                181
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV1A"
+              },
+              starts {
+                165,
+                206
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV1A"
+              },
+              starts {
+                215,
+                256
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV1A"
+              },
+              starts {
+                265,
+                304
+              },
+              len 3
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV89"
+              },
+              starts {
+                0,
+                73
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV89"
+              },
+              starts {
+                15,
+                88
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV89"
+              },
+              starts {
+                48,
+                121
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV89"
+              },
+              starts {
+                76,
+                149
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV89"
+              },
+              starts {
+                80,
+                153
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV89"
+              },
+              starts {
+                83,
+                156
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV89"
+              },
+              starts {
+                134,
+                206
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV89"
+              },
+              starts {
+                165,
+                232
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV89"
+              },
+              starts {
+                215,
+                282
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HRV89"
+              },
+              starts {
+                263,
+                331
+              },
+              len 5
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                0,
+                152
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                15,
+                167
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                40,
+                190
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                48,
+                198
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                76,
+                229
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                80,
+                235
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                83,
+                238
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                157,
+                305
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                161,
+                308
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                215,
+                362
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                263,
+                411
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_TMEVB"
+              },
+              starts {
+                267,
+                414
+              },
+              len 1
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                0,
+                39
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                17,
+                51
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                30,
+                60
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                38,
+                65
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                43,
+                67
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                48,
+                72
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                76,
+                104
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                80,
+                110
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                84,
+                114
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                91,
+                120
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                128,
+                156
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                181,
+                159
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                215,
+                195
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_HPAV2"
+              },
+              starts {
+                265,
+                243
+              },
+              len 3
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                0,
+                51
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                15,
+                71
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                30,
+                82
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                48,
+                107
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                76,
+                139
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                80,
+                145
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                83,
+                149
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                91,
+                156
+              },
+              len 42
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                180,
+                198
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                214,
+                230
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                215,
+                233
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "1al2_ac",
+                local str "POLG_EC22H"
+              },
+              starts {
+                265,
+                281
+              },
+              len 3
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1al2_ac"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1al2_ac"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 268,
+          seq-data ncbieaa "EACGYSDRVLQLTLGNSTITTQEAANSVVAYGRWPEYLRDSEANPVDQPT
+EPDVAACRFYTLDTVSWTKESRGWWWKLPDALRDMGLFGQNMYYHYLGRSGYTVHVQCNASKFHQGALGVFAVPEMCL
+AGDSNTTTMHTSYQNANPGEKGGTFTGTFTPDNNQTSPARRFCPVDYLLGNGTLLGNAFVFPHQIINLRTNNCATLVL
+PYVNSLSIDSMVKHNNWGIAILPLAPLNFASESSPEIPITLTIAPMCCEFNGLRNITLPRLQ"
+        }
+      },
+      seq {
+        id {
+          local str "POLG_CXA21"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POLG_CXA21"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 2206,
+          seq-data ncbieaa "MGAQVSTQKTGAHENQNVAANGSTINYTTINYYKDSASNSATRQDLSQDP
+SKFTEPVKDLMLKTAPALNSPNVEACGYSDRVRQITLGNSTITTQEAANAIVAYGEWPTYINDSEANPVDAPTEPDVS
+SNRFYTLESVSWKTTSRGWWWKLPDCLKDMGMFGQNMYYHYLGRSGYTIHVQCNASKFHQGALGVFLIPEFVMACNTE
+SKTSYVSYINANPGERGGEFTNTYNPSNTDVSEGRQFAALDYLLGSGVLAGNAFVYPHQIINLRTNNSATIVVPYVNS
+LVIDCMAKHNNWGIVILPLAPLAFAATSSPQVPITVTIAPMCTEFNGLRNITIPVHQGLPTMNTPGSNQFLTSDDFQS
+PCALPNFDVTPPIHIPGEVKNMMELAEIDTLIPMNAVDGKVNTMEMYQIPLNDNLSKAPIFCLSLSPASDKRLSHTML
+GEILNYYTHWTGSIRFTFLFCGSMMATGKLLLSYSPPGAKPPTNRKDAMLGTHIIWDLGLQSSCSMVAPWISNTVYRR
+CARDDFTEGGFITCFYQTRIVVPASTPTSMFMLGFVSACPDFSVRLLRDTSHISQSKLIARTQGIEDLIDTAIKNALR
+VSQPLRPSQLKQPNGVNSQEVPALTAVETGASGQAIPSDVVETRHVINYKTRSESCLESFFGRAACVTILSLTNSSKS
+GEEKKHFNIWNITYTDTVQLRRKLEFFTYSRFDLEMTFVFTENYPSTASGEVRNQCDQIMYIPPGAPRPSSWDDYTWQ
+SSSNPSIFYMYGNAPPRMSIPYVGIANAYSHFYDGFARVPLEGENTDAGDTFYGLVSINDFGVLAVRAVNRSNPHTIH
+TSVRVYMKPKHIRCWCPRPPRAVLYRGEGVDMISSAIQPLTKVDSITTFGFGHQNKAVYVAGYKICNYHLATPSDHLN
+AISVLWDRDLMVVESRAQGTDTIARCSCRCGVYYCESRRKYYLVTFTGPTFRFMEANDYYPARYQSHMLIGCGFAEPG
+DCGGILRCTHGVIGIITAGGEGIVAFADIRDLWVYEEEAMEQGITSYIESLGTAFGAGFTHTISEKVTELTTMVTSTI
+TEKLLKNLVKIVSALVIVVRNYEDTTTILATLALLGCDISPWQWLKKKACDLLEIPHVMRQGDGWMKKFTEACNAAKG
+LRWVSNKISKFVDWLKCKIIPEAKDKVEFLTKLKQLDMLENQIATIHQSCPSQEQQEILFNNVRWLAVQSRRFAPLYA
+VEARRISKMESTINNYIQFKSKHRIEPVCMLVHGSPGTGKGIASSLIGRAIAERETTSVYSVPLAPSHFDGYKQQGYD
+MDDLNQNPDGMDMKLFCQMVSTVEFIPPMASLEEKGILFTSDYVLASTNSHSIAPPTVAHSDALTRRFAFDVEVYTMS
+EHSVKGKLNMATATQLCKDCPTPANFKKCCPLVCGKALQLMDRYTRQRFTVDEITTLIMNEKNRRANIGNCMEALFQG
+PLRYKDLKIDVKTVPPPECISDLLQAVDSQEVRDYCEKKGWIVNVTSQIQLERNINRAMTILQAVTTFAAVAGVVYVM
+YKLFAGQQGAYTGLPNKKPNVPTIRIAKVQGPGFDYAVAMAKRNIVTATTTKGEFTMLGVHDNVAILPTHAAPGETII
+VDGKEVEILDARALEDQAGTNLEITIITLKRNEKFRDIRPHIPTQITETNDGVLIVNTSKYPNMYVPVGAVTEQGYLN
+LSGRQTARTLMYNFPTRAGQCGGIITCTGKVIGMHVGGNGSHGFAAALKRSYFTQNQGEIQWMRSSKEVGYPIINAPS
+KTKLEPSAFHYVFEGVKEPAVLTKNDPRLKTDFEEAIFSKYVGNKITEVDEYMKEAVDHYAGQLMSLDINTEQMCLED
+AMYGTDGLEALDLSTSAGYPYVAMGKKKRDILDKQTRDTKEMQRLLDTYGINLPLVTYVKDELRSKTKVEQGKSRLIE
+ASSLNDSVAMRMAFGNLYAAFHKNPGVVTGSAVGCDPDLFWSKIPVLMEEKLFAFDYTGYDASLSPAWFEALKMVLEK
+IGFGNRVDYIDYLNHSHHLYKNKTYCVKGGMPSGCSGTSIFNSMINNLIIRTLLLRTYKGIDLDHLKMIAYGDDVIAS
+YPHEVDASLLAQSGKDYGLTMTPADKSATFETVTWENVTFLKRFFRADEKYPFLVHPVMPMKEIHESIRWTKDPRNTQ
+DHVRSLCLLAWHNGEEEYNKFLAKIRSVPIGRALLLPEYSTLYRRWLDSF"
+        }
+      },
+      seq {
+        id {
+          local str "POLG_EC16H"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POLG_EC16H"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 862,
+          seq-data ncbieaa "MGAQVSTQKTGAHETLLEAAQGATINYTNINYYKDAASNSANRQDFSQDP
+SKFTEPVKDIMIKSMPALNSPSAEECGYSDRVRSITLGNSTITTQESANVVVAYGRWPKYLEDDQATAEDQPTQPDVA
+TCRFYTLESVQWEANSAGWWWKFPEALKDMGLFGQNMYYHYLGRAGYTIHVQCNASKFHQGCLLVVCVPEAEMGCAKP
+DENVDATNLTNGENTCELTAGAAPAEKGKVQTAVCNATMGVAVGNLTIFPHQWINLRTNNCATIVMPYINSVPMDNMF
+RHYNFTLMVIPFVPLTSMGGSTYVPITVTIAPMCAEYNGLRLSTQHQGLPVMNVPGSNQFLTSDNFQSPCAMPEYDVT
+PPLDIPGEVNNLMEVAEVDSVVPVNNLSDNVKTIKAYQIPVSAGDSSRPEAVFKFQLDPGSGSVLKHTLLGEIINYYA
+HWSGSIKLTFVFCGSAMATGKLLIAYSPPGASAPATRKDAMLGTHIIWDLGLQSSCVLCVPWISQTHYRMVERDEYTT
+AGYISCWYQTNIIVPPDTPSQCYMLCLASACNDFSVRMLKDTPFIQQEAKLQGEPGKAIESAISRVADTISSGPTNSE
+QVPALTAAETGHTSQVVPGDTIQTRHVKNYHSRSESTIENFLCRSACVHIARYEAGANASNEDRFVRWEINNKELVQL
+RRKCEMFTYLRYDVEVTFVITSQQDQGTDLSQDMPVLTHQVMYVPPGGSVTKQGDSYAWQTSTNPSVFWTEGNAPPRM
+SIPFISIGNAYSSFYDGWSHFSQKGVYGYNTLNKMGTLFVRHVNKETPKPVTSTVRVYFKPKHIRAWIPRPPRLCPYK
+YKANVNFDVTAITDSRLTITTVPQVEHNLRTA"
+        }
+      },
+      seq {
+        id {
+          local str "POLG_HRV1A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POLG_HRV1A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 832,
+          seq-data ncbieaa "GAGVSRQNVGTHSTQNSVSNGSSLNYFNINYFKDAASSGASRLDSPSVEA
+CGYSDRIMQITRGDSTISSDDVANAVVGYGVWPHYLTPQDATAINKPTQPDTSSNRFYTLESKHWNGSSKGWWWKLPD
+ALKDMGIFGENMYYHFLGRSGYTVHVQCNASKFHQGTLLVAMIPEHQLASAKHGSVTAGYKLTHPGEAGRDVSQERDA
+SLRQPSDDSWLNFDGTLLGNLLIFPHQFINLRSNNSATLIVPYVNAVPMDSMLRHNNWCLVIIPISPLRSETTSSNIV
+PITVSISPMCAEFSGARAKNIKQGLPVYITPGSGQFMTTDDMQSPCALPWYHPTKEISIPGEVKNLIEMCQVDTLIPV
+NNVGNNVGNVSMYTVQLGNQTGMAQKVFSIKVDITSTPLATTLIGEIASYYTHWTGSLRFSFMFCGTANTTLKLLLAY
+TPPGIDEPTTRKDAMLGTHVVWDVGLQSTISLVVPWVSASHFRLTADNKYSMAGYITCWYQTNLVVPPSTPQTADMLC
+FVSACKDFCLRMARDTDLHIQSGPIEQNPVENYIDEVLNEVLVVPNIKESHHTTSNSAPLLDAAETGHTSNVQPEDAI
+ETRYVITSQTRDEMSIESFLGRSGCVHISRIKVDYTDYNGQDINFTKWKITLQEMAQIRRKFELFTYVRFDSEITLVP
+CIAGRGDDIGHIVMQYMYVPPGAPIPSKRNDFSWQSGTNMSIFWQHGQPFPRFSIPFLSIASAYYMFYDGYDGDNTSS
+KYGSVVTNDMGTICSRIVTEKQKLSVVITTHIYHKAKHTKAWCPRPPRAVPYTHSHVTNYMPETGDVTTAIVRRNTIT
+TA"
+        }
+      },
+      seq {
+        id {
+          local str "POLG_HRV89"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POLG_HRV89"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 2164,
+          seq-data ncbieaa "MGAQVSRQNVGTHSTQNSVSNGSSLNYFNINYFKDAASSGASRLDFSQDP
+SKFTDPVKDVLEKGIPTLQSPTVEACGYSDRLIQITRGDSTITSQDTANAVVAYGVWPSYLTPDDATAIDKPTQPDTS
+SNRFYTLDSRSWTSASSGWWWKLPDALKNMGIFGENMFYHFLGRSGYTIHVQCNSSKFHQGLLIVAAIPEHQLASATS
+GNVSVGYNHTHPGEQGREVVPSRTSSDNKRPSDDSWLNFDGTLLGNLPIYPHQYINLRTNNSATLILPYVNAVPMDSM
+LRHNNWSLVIIPICPLQVQPGGTQSIPITVSISPMFSEFSGPRSKVVFSTTQGLPVMLTPGSGQFLTTDDTQSPSAFP
+YFHPTKEIFIPGQVRNLIEMCQVDTLIPVNNTQENVRSVNMYTVDLRTQVDLAKEVFSIPVDIASQPLATTLIGELAS
+YYTHWTGSLRFSFMFCGSASSTLKLLIAYTPPGVGKPKSRREAMLGTHLVWDVGLQSTASLVVPWVSASHFRFTTPDT
+YSSAGYITCWYQTNFVVPDSTPDNAKMVCMVSACKDFCLRLARDTNLHTQEGVLTQNPVENYIDSVLNEVLVVPNIQP
+STSVSSHAAPALDAAETGHTSSVQPEDMIETRYVITDQTRDETSIESFLGRSGCIAMIEFNTSSDKTEHDKIGKGFKT
+WKVSLQEMAQIRRKYELFTYTRFDSEITIVTAAAAQGNDSGHIVLQFMYVPPGAPVPEKRDDYTWQSGTNASVFWQEG
+QPYPRFTIPFMSIASAYYMFYDGYDGDSAASKYGSVVTNDMGTICVRIVTSNQKHDSNIVCRIYHKAKHIKAWCPRPP
+RAVAYQHTHSTNYIPSNGEATTQIKTRPDVFTVTNVGPSSMFVHVGNLIYRNLHLFNSDLDDSILVSYSSDLIIYRTN
+TEGNDVIPNCDCTECTYYCHHKDRYFPIRVTAHDWYEIQESEYYPKHIQYNLLIGEGPCEPGDCGGKLLCKHGVIGMI
+TAGGEGHVAFIDLRKFQCAEEQGLSDYVEHLGQVFGVGFVDSIKQQVNFINPTSKIGSKVIKWLLRIVSAMIIMVRNS
+SDPQTVIATLTLLGCSGSPWRFLKEKLCAWLQLSYVHKQSDSWLKKFTEACNAARGLEWIGQKISKFIDWIKSMLPQA
+QLKIDYLTKLKQLNLLEKQIETIRLAPASVQEKIFIEINTLHDLSLKFLPLYASEARRIKNLYIKCSNVIKGGKRNEP
+VAVLIHGSPGTGKSLATSVLARMLTVETDIYSLPPDPKYFDGYDQQSVVIMDDIMQNPSGEDMTLFCQMVSSVPFIPP
+MADLPDKGKPFTSKFVLASTNHTLLTPPTVSSLPAMARRFYFDLDIQVKKEYLLDGKLDIAKSFRPCDVNIKIGNAKC
+CPFICGKAVEFKDRNSCTTLSLSQLYSHIKEEDRRRSSAAQAMEAIFQGIDLQSPPPPAIADLLRSVKTPEIIKYCQD
+NNWIVPAECSIERDLGIANMTIGIIANVVSIVGVIYIIYKLFCTLQGPYSGEPKPKSRAPERRVVTQGPEEEFGRSLL
+KHNCCVVTTDKGKFTGLGIYDQVMVLPTHSDPGSEILVDGVKVKVSDSYDLHNHEGVKLEITVVKLIRNEKFKDIRKY
+LPSREDDYPACNLALLANQDEPTIISVGDAVSYGNILLSGTNTARMIKYHYPTKAGYCGGVLYKVGSILGIHVGGNGR
+DGFSAMLLKSYFGETQGLITKELPVSVKNLPSVHVSSKTRLQPSVFHDVFPGTKEPAVLSSNDPRLETDFDSALFSKY
+KGNPACQVTPHMKIAVAHYAAQLSTLDINPQPLSLEESVFGIEGLEALDLNTSAGFPYVSLGIKKKDLIDKKTKDITK
+LRKAIDEYGIDLPMVTFLKDELRKKEKIKDGKTRVIEANSVNDTVLFRSVFGNLFSAFHKNPGIVTGSAVGCDPEVFW
+STIPLMLDGECLMAFDYSNYDGSLHPVWFKCLSMLLEDIGFSSQLINQICNSKHIYKSKYYEVEGGMPSGCAGTSIFN
+TIINNIIIRTLVLDAYKNIDLDKLKILAYGDDVIFSYNFKLDMAVLAKEGEKYGLTITPADKSDVFQELTYKNVTFLK
+RGFRADERHSFLIHPTFPVAEIHDSIRWTKNPSCMQEHVLSLCHLMWHNGRHAYQEFIKGIRSVSAGRALYIPAYEVL
+EHEWYEKF"
+        }
+      },
+      seq {
+        id {
+          local str "POLG_TMEVB"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POLG_TMEVB"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 2303,
+          seq-data ncbieaa "MACKHGYPDVCPICTAVDATPGFEYLLMADGEWYPTDLLCVDLDDDVFWP
+SDTSNQSQTMDWTDVPLIRDIVMEPQGNSSSSDKSNSQSSGNEGVIINNFYSNQYQNSIDLSASGGNAGDAPQTNGQL
+SNILGGAANAFATMAPLLLDQNTEEMENLSDRVASDKAGNSATNTQSTVGRLCGYGKSHHGEHPASCADTATDKVLAA
+ERYYTIDLASWTTSQEAFSHIRIPLPHVLAGEDGGVFGATLRRHYLCKTGWRVQVQCNASQFHAGSLLVFMAPEFYTG
+KGTKTGTMEPSDPFTMDTEWRSPQGAPTGYRYDSRTGFFATNHQNQWQWTVYPHQILNLRTNTTVDLEVPYVNVAPSS
+SWTQHANWTLVVAVLSPLQYATGSSPDVQITASLQPVNPVFNGLRHETVIAQSPIPVTVREHKGCFYSTNPDTTVPIY
+GKTISTPSDYMCGEFSDLLELCKLPTFLGNPNTNNKRYPYFSATNSVPATSMVDYQVALSCSCMANSMLAAVARNFNQ
+YRGSLNFLFVFTGAAMVKGKFLIAYTPPGAGKPTTRDQAMQSTYAIWDLGLNSSFNFTAPFISPTHYRQTSYTSPTIT
+SVDGWVTVWKLTPLTYPSGTPTNSDILTLVSAGDDFTLRMPISPTKWVPQGVDNAEKGKVSNDDASVDFVAEPVKLPE
+NQTRVAFFYDRAVPIGMLRPGQNMETTFNYQENDYRLNCLLLTPLPSFCPDSSSGPQKTKAPVQWRWVRSGGVNGANF
+PLMTKQDYAFLCFSPFTFYKCDLEVTVSALGMTRVASVLRWAPTGAPADVTDQLIGYTPSLGETRNPHMWLVGAGNSQ
+VSFVVPYNSPLSVLPAAWFNGWSDFGNTKDFGVAPNADFGRLWIQGNTSASVRIRYKKMKVFCPRPTLFFPWPTPTTT
+KINADNPVPILELENPAALYRIDLFITFTDEFITFDYKVHGRPVLTFRIPGFGLTPAGRMLVCMGEQPAHGPFTSSRS
+LYHVIFTATCSSFSFSIYKGRYRSWKKPIHDELVDRGYTTFGEFFKAVRGYHADYYRQRLIHDVETNPGPVQSVFQPQ
+GAVLTKSLAPQAGIQNLLLRLLGIDGDCSEVSKAITVVTDLVAAWEKAKTTLVSPEFWSKLILKTTKFIAASVLYLHN
+PDFTTTVCLSLMTGVDLLTNDSVFDWLKQKLSSFFRTPPPACPNVMQPQGPLREANEGFTFAKNIEWAMKTIQSVVNW
+LTSWFKQEEDHPQSKLDKLLMEFPDHCRNIMDMRNGRKAYCECTASFKYFDELYNLAVTCKRIPLASLCEKFKNRHDH
+SVTRPEPVVVVLRGAAGQGKSVTSQIIAQSVSKMAFGRQSVYSMPPDSEYFDGYENQFSVIMDDLGQNPDGEDFTVFC
+QMVSSTNFLPNMAHLERKGTPFTSSFIVATTNLPKFRPVTVAHYPAVDRRITFDFTVTAGPHCKTPAGMLDVEKAFDE
+IPGSKPQLACFSADCPLLHKRGVMFTCNRTQTVYNLQQVVKMVNDTITRKTENVKKMNSLVAQSPPDWEHFENILTCL
+RQNNAALQDQLDELQEAFAQARERSDFLSDWLKVSAIIFAGIASLSAVIKLASKFKESIWPTPVRVELSEGEQAAYAG
+RARAQKQALQVLDIQGGGKVLAQAGNPVMDFELFCAKNIVAPITFYYPDKAEVTQSCLLLRAHLFVVNRHVAETDWTA
+FKLKDVRHERHTVALRSVNRSGAKTDLTFIKVTKGPLFKDNVNKFCSNKDDFPARNDTVTGIMNTGLAFVYSGNFLIG
+NQPVNTTTGACFNHCLHYRAQTRRGWCGSAIICNVNGKKAVYGMHSAGGGGLAAATIITKELIEAAEKSMLALEPQGA
+IVDIATGSVVHVPRKTKLRRTVAHDVFQPKFEPAVLSRYDPRTDKDVDVVAFSKHTTNMESLPPIFDVVCGEYANRVF
+TILGKENGLLTVEQAVLGLPGMDPMEKDTSPGLPYTQQGLRRTDLLNFITAKMTPQLDYAHSKLVIGVYDDVVYQSFL
+KDEIRPIEKIHEAKTRIVDVPPFAHCIWGRQLLGRFASKFQTKPGLELGSAIGTDPDVDWTRYAVELSGFNYVYDVDY
+SNFDASHSTAMFECLINNFFTEQNGFDRRIAEYLRSLAVSRHAYEDRRVLIRGGLPSGCAATSMLNTIMNNVIIRAAL
+YLTYSNFDFDDIKVLSYGDDLLIGTNYQIDFNLVKERLAPFGYKITPANKTTTFPLTSHLQDVTFLKRRFVRFNSYLF
+RPQMDAVNLKAMVSYCKPGTLKEKLMSIALLAVHSGPDIYDEIFLPFRNVGIVVPTYSSMLYRWLSLFR"
+        }
+      },
+      seq {
+        id {
+          local str "POLG_HPAV2"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POLG_HPAV2"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 2226,
+          seq-data ncbieaa "MNMSRQGIFQTVGSGLDHILSLADIEEEQMIQSVDRTAVTGASYFTSVDQ
+SSVHTAEVGSHQVEPLRTSVDKPGSKRTQGEKFFLIHSADWLTTHALFHEVAKLDVVKLLYNEQFAVQGLLRYHTYAR
+FGIEIQVQINPTPFQQGGLICAMVPGDQSYGSIASLTVYPHGLLNCNINNVVRIKVPFIYTRGAYHFKDPQYPVWELT
+IRVWSELNIGTGTSAYTSLNVLARFTDLELHGLTPLSTQMMRNEFRVSTTENVVNLSNYEDARAKMSFALDQEDWKSD
+PSQGGGIKITHFTTWTSIPTLAAQFPFNASASVGQQIKVIPVDPYFFQMTNTNPDQKCITALASICQMFCFWRGDLVF
+DFQVFPTKYHSGRLLFCFVPGNELIDVSGITLKQATTAPCAVMDITGVQSTLRFRVPWISDTPYRVNRYTKSAHQKGE
+YTAIGKLIVYCYNRLTSPSNVASHVRVNVYLSAINLECFAPLYHAMDVTTQVGDDSGGFSTTVSTEQNVPDPQVGITT
+MKDLKGKANRGKMDVSGVQAPVGAITTIEDPVLAKKVPETFPELKPGESRHTSDHMSIYKFMGRSHFLCTFTFNSNNK
+EYTFPITLSSTSNPPHGLPSTLRWFFNLFQLYRGPLDLTIIVTGATDVDGMAWFTPVGLAVDTPWVEKESALSIDYKT
+ALGAVRFNTRRTGSIQIRLPWYSYLYAVSGALDGLGDKTDSTFGLVSIQIANYNHSDEYLSFSCYLSVTEQSEFYFPR
+APLNSNAMLSTESMVSRIAAGDLESSVDDPRSEEDKRFESHIECRKPYKELRLEVGKQRLKYAQEELSNEVLPPPRKM
+KGLFSQANISLFYTEEHEMMKFSWRGVTADTRALRRFGFSLAAGRSVWTLEMDAGVLTGRLIRLNDEKWTEMKDDKIV
+SLIEKFTSNKYWSKVNFPHGMLDLEEIAANSKEFPNMSETDLCFLLHWLNPKKINLADRMLGLSGVQEIKEQGVGLIA
+ECRTFLHSIAGTLKSMMFGFHHSVTVEIINTVLCFVKSGILLYVIQQLNQDEHSHIIGLLRVMNYVDIGCSVISCGKV
+FSKMLETVFNWQMDSRMMELRTQSFSNWLRDICSGITIFKNFKDGICWLYTKLKDFYEVNYGKKKDILNILKDNQQKI
+EKAIEEADKFCILQIQDVEKSEQYQKGVDLIQKLRTVYSMAQVDPNLMVHLSPLRDCIARVHQKLKNLGFINQAMVTR
+CEPVVCYLHGKRGGGKSLTSIALATKICKHYGVEPEKNIYTKPVASDYWDGYSGQLVCIIDDIGQNTTDEDWSDFCQL
+VSGCPMRLNMASLEEKGRHFSSPFIIATSNWSNPSPKTVYVKEAIDRRLHFKVEVKPASFFKNPHNDMLNVNLAKTND
+AIKDMSCVDLIMDGHNVSLMDLLSSLVMTVDIRKQNMTEFMELWSQGISDDNDSAVAEFFQSFPSGEPSNSKLSGFFQ
+SVTNHKWVAVGAAVGILGVLVGGWVVYKHFSHKEEEPIPAEGVYHGVTKPKHVIKLDADPVESQSTLEIAGLVRKNLV
+QFGVGEKNGCVRWVMNALGVKDDWLLVPSHAYKFEKDYEMMEFYFNRGGTYYSISAGNVVIQSLDVGFQDVVLMKVPT
+IPKFRDITEHFIKKGDVPRALNRLATLVTTVNGTPMLISEGPLKMEEKATYVHKKNDGTTVDLTVDQAWRGKGEGLPG
+MCGGALVSSNQSIQNAILGIHVAGGNSILVAKLVTQEMFQNIDKKIESQRIMKVEFTQCSMNVVSKTLFRKSPIYHHI
+DKTMINFPAAMPFSKAEIDPMAVMLSKYSLPIVEEPEGYKEASIFYQNKIVGKTQLVDDFLDLDMAITGAPGIDAINM
+DSSPGFPYVQEKLTKRDLIWLDENGLLLGVHPRLAQRILFNTVMMENCSDLDVVFTTCPKDELRPLEKVLESKTRAID
+ACPLDYTILCRMYWGPAISYFHLNPGFHTGVAIGIDPDKQWDELFKTMIRFGDVGLDLDFSAFDASLSPFMIREAGRI
+MSELSGTPSHFGTALINTIIYSKHLLYNCCYHVCGSMPSGSPCTALLNSIINNVNLYYVFSKIFGKSPVFFCQALKIL
+CYGDDVLIVFSRDVQIDNLDLIGQKIVDEFKKLGMTATSADKNVPQLKPVSELTFLKRSFNLVEDRIRPAISEKTIWS
+LIAWQRSNAEFEQNLENAQWFAFMHGYEFYQKFYYFVQSCLEKEMIEYRLKSYDWWRMRFYDQCFICDLS"
+        }
+      },
+      seq {
+        id {
+          local str "POLG_EC22H"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POLG_EC22H"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 2180,
+          seq-data ncbieaa "METIKSIADMATGVVSSVDSTINAVNEKVESVGNEIGGNLLTKVADDASN
+ILGPNCFATTAEPENKNVVQATTTVNTTNLTQHPSAPTMPFSPDFSNVDNFHSMAYDITTGDKNPSKLVRLETHEWTP
+SWARGYQITHVELPKVFWDHQDKPAYGQSRYFAAVRCGFHFQVQVNVNQGTAGSALVVYEPKPVVTYDSKLEFGAFTN
+LPHVLMNLAETTQADLCIPYVADTNYVKTDSSDLGQLKVYVWTPLSIPTGSANQVDVTILGSLLQLDFQNPRVFAQDV
+NIYDNAPNGKKKNWKKIMTMSTKYKWTRTKIDIAEGPGSMNMANVLCTTGAQSVALVGERAFYDPRTAGSKSRFDDLV
+KIAQLFSVMADSTTPSENHGVDAKGYFKWSATTAPQSIVHRNIVYLRLFPNLNVFVNSYSYFRGSLVLRLSVYASTFN
+RGRLRMGFFPNATTDSTSTLDNAIYTICDIGSDNSFEITIPYSFSTWMRKTNGHPIGLFQIEVLNRLTYNSSSPSEVY
+CIVQGKMGQDARFFCPTGSVVTFQNSWGSQMDLTDPLCIEDDTENCKQTMSPNELGLTSAQDDGPLGQEKPNYFLNFR
+SMNVDIFTVSHTKVDNLFGRAWFFMEHTFTNEGQWRVPLEFPKQGHGSLSLLFAYFTGELNIHVLFLSERGFLRVAHT
+YDTSNDRVNFLSSNGVITVPAGEQMTLSAPYYSNKPLRTVRDNNSLGYLMCKPFLTGTSTGKIEVYLSLRCPNFFFPL
+PAPKVTSSRALRGDMANLTNQSPYGQQPQNRMMKLAYLDRGFYKHYGIIVGDHVYQLDSDDIFKTALTGKAKFTKTKL
+TSDWVIEEECELDYFRIKYLESAVDSEHIFSVDKNCETIAKDIFGTHTLSQHQAIGLVGTILLTAGLMSTIKTPVNAV
+TIKEFFNHAIDGDEQGLSLLVQKCTTFFSSAATEILDNDLVKFIVKILVRILCYMVLYCHKPNILTTACLSTLLIMDV
+TSSSVLSPSCKALMQCLMDGDVKKLAEIVAESMSNTDDDEVKEQICDTVKYTKTILSNQGPFKGFNEVSTAFRHIDWW
+IHTLLKIKDMVLSVFKPSIESKAIQWLERNKEHVCSILDYASDIIVESKDQSKMKTQDFYQRYSDCLAKFKPIMAICF
+RSCHNSISNTVYRLFQELARIPNRISTNNDLIRIEPIGIWIQGEPGQGKSFLTHTLSRQLQKSCKLNGVFTNPTASEF
+MDGYDNQDIHLIDDLGQTRKEKDIEMLCNCISSVPFIVPMAHLEEKGKFYTSKLVVATTNKSDFSSTVLQDSGALKRR
+FPYIMHIRAAKAYSKAGKLNVSQAMATMSTGECWEVSKNGRDWETLKLKDLVDKITIDYNERVKNYNAWKQQLENQTL
+DDLDDAVSYIKHNFPDAIPYVDEYLNIEMSTLIEQMEAFIEPKPSVFKCFANKIGSKISKASREVVDWFSDKIKSMLS
+FVERNKAWLTVVSAVTSAISILLLVTKIFKKEESKDERAYNPTLPVAKPKGTFPVSQREFKNEAPYDGQLEHIISQMA
+YITGSTTGHMTHCAGYQHDEIILHGHSIKYLEQEDELTLHYKNKVFPIEQPSVTQVTLGGKPMDLAILKCKLPFRFKK
+NSKYYTNKIGTESMLIWMTEQGIITKEVQRVHHSGGIKTREGTESTKTISYTVKSCKGMCGGLLISKVEGNFKILGMH
+IAGNGEMGVAIPFNFLKNDMSDQGIVTEITPIQPMYINTKTQIHKSPVYGAVEVKMGPAVLSKSDTRLEEPVECLIKK
+SASKYRVNKFQVNNELWQGVKACVKSKFREIFGMNGIVDMKTAILGTSHVNSMDLSTSAGYSFVKSGYKKKDLICLEP
+FSVAPLLERLVQDKFHNLLKGNQITTTFNTCLKDELRKLDKIASGKTRCIEACEVDYCIVYRMIMMEIYDKIYQTPCY
+YSGLAVGINPYKDWHFMINALNDYNYEMDYSQYDGSLSSMLLWEAVEVLAYCHDSPDLVMQLHKPVIDSDHVVFNERW
+LIHGGMPSGSPCTTVLNSLCNLMMCIYTTNLISPGIDCLPIVYGDDVILSLDKEIEPEKLQSIMADSFGAEVTGSRKD
+EPPSLKPRMEVEFLKRKPGYFPESTFIVGKLDTENMIQHLMWMKNFSTFKQQLQSYLMELCLHGKDTYQHYIKILEPY
+LQEWNITVDDYDVVITKLMPMVFD"
+        }
+      }
+    }
+  }
+}

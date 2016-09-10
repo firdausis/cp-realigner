@@ -1,0 +1,991 @@
+Cdd ::= {
+  name "bbs12019",
+  id {
+    gid {
+      accession "acc_bbs12019",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                13,
+                14
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                84,
+                86
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                128,
+                129
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                150,
+                151
+              },
+              len 91
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                241,
+                243
+              },
+              len 70
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                311,
+                313
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                353,
+                354
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                357,
+                358
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                364,
+                365
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                412,
+                412
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                415,
+                414
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                417,
+                417
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                435,
+                431
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                454,
+                445
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                481,
+                470
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                488,
+                476
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "1euq_A"
+              },
+              starts {
+                516,
+                484
+              },
+              len 45
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                0,
+                0
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                13,
+                13
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                84,
+                84
+              },
+              len 42
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                133,
+                126
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                150,
+                143
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                177,
+                167
+              },
+              len 64
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                241,
+                231
+              },
+              len 70
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                311,
+                301
+              },
+              len 46
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                357,
+                347
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                364,
+                354
+              },
+              len 53
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                417,
+                408
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                430,
+                422
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                455,
+                440
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                481,
+                464
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                488,
+                474
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                516,
+                482
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_DROME"
+              },
+              starts {
+                545,
+                510
+              },
+              len 16
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                0,
+                0
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                13,
+                13
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                84,
+                84
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                132,
+                127
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                150,
+                145
+              },
+              len 91
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                241,
+                236
+              },
+              len 70
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                311,
+                307
+              },
+              len 46
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                357,
+                353
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                364,
+                363
+              },
+              len 53
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                417,
+                416
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                430,
+                429
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                455,
+                453
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                481,
+                477
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                488,
+                484
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                516,
+                492
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "SYQ_LUPLU"
+              },
+              starts {
+                545,
+                520
+              },
+              len 16
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                0,
+                0
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                13,
+                14
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                84,
+                85
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                129,
+                125
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                150,
+                147
+              },
+              len 91
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                241,
+                238
+              },
+              len 70
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                311,
+                308
+              },
+              len 46
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                357,
+                355
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                364,
+                362
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                396,
+                386
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                415,
+                401
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                417,
+                404
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                430,
+                415
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                454,
+                435
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                481,
+                460
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYQ_SCHPO",
+                local str "P46655"
+              },
+              starts {
+                508,
+                466
+              },
+              len 53
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1euq_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1euq_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 529,
+          seq-data ncbieaa "TNFIRQIIDEDLASGKHTTVHTRFPPEPNGYLHIGHAKSICLNFGIAQDY
+KGQCNLRFDDTNPVKEDIEYVESIKNDVEWLGFHWSGNVRYSSDYFDQLHAYAIELINKGLAYVDELTPEQIREYRGT
+LTQPGKNSPYRDRSVEENLALFEKMRAGGFEEGKACLRAKIDMASPFIVMRDPVLYRIKFAEHHQTGNKWCIYPMYDF
+THCISDALEGITHSLCTLEFQDNRRLYDWVLDNITIPVHPRQYEFSRLNLEYTVMSKRKLNLLVTDKHVEGWDDPRMP
+TISGLRRRGYTAASIREFCKRIGVTKQDNTIEMASLESCIREDLNENAPRAMAVIDPVKLVIENYQGEGEMVTMPNHP
+NKPEMGSRQVPFSGEIWIDRADFREEANKQYKRLVLGKEVRLRNAYVIKAERVEKDAEGNITTIFCTYDADTLGVIHW
+VSAAHALPVEIRLYDRLFSVPNPGAADDFLSVINPESLVIKQGFAEPSLKDAVAGKAFQFEREGYFCLDSRHSTAEKP
+VFNRTVGLRDT"
+        }
+      },
+      seq {
+        id {
+          local str "SYQ_SCHPO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYQ_SCHPO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 561,
+          seq-data ncbieaa "TQLIPERMKEHLQATGGGVVTRFPPEPNGYLHIGHSKAIAVNFGFARYHN
+GVCYLRFDDTNPEAEEERYFESIKDLVAWLGFQPYKITYSSDYFDKLYELAEELIKRDKAYVCHCTDAEIKKARGGEE
+RGPRYACVHRDRPIEESLLEFRNMRDGKYQPKEAILRMKQDLSDGNPQMWDLIAYRVLNSPHPRTGDKWKIYPTYDFT
+HCLVDSFENISHSLCTTEFILSRVSYEWLCNALEVYCPAQREYGRLNVVGTLMSKRKIMKLVKEGYVHGWNDPRLYTL
+VALRRRGVPPGAILEFVSEVGVTTAVSNIEVARFENCVRKFLENSVPRLMFLPDPIKVTLENLDDSYREQIEIPFNPK
+DPSMGSRSAFLTKHIYIDRSDFREEASSDFFRLTLGQPVGLFRASHPVVAKRVVKNDEGEPIEIIAEYDASSSKKPKT
+FIQWVSRDKESNSPVLIAETRLFNNLFKCDNPAALKEQELAAQLNPESEVVLKNSIIEPGIYDLIKSAPWPKTDSSAG
+VDKAENPESVRFQAMRVGYFCLDEDTKKPNHLVLNRIVSLRED"
+        }
+      },
+      seq {
+        id {
+          local str "SYQ_DROME"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYQ_DROME"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 526,
+          seq-data ncbieaa "TEHTERLLKEHLARTGGKVHTRFPPEPNGILHIGHAKAININFGYAAAHD
+GVCYLRYDDTNPEKEEEKFFLAIKEMVEWLGYKPFKITYSSDNFQQLYEWAVVLINKGLAYVCHQKAEELKGFNPKPS
+PWRERPIEESLRLFEDMKRGKIDEGAATLRMKVTLEEGKMDPVAYRIKFISHHRTGSDWCIYPTYDYTHCLCDSLEDI
+THSLCTKEFQSRRSSYYWLCNALGIYCPVQWEYGRLNMNYALVSKRKIAKLITEQIVHDWDDPRLFTLTALRRRGFPA
+EAINNFCAQMGVTGAQIAVDPAMLEAAVRDVLNVTAPRRLVVLEPLKVTIKNFPHAAPVQLEVPDFPQNPQQGTHKIT
+LDKVIYIEQGDFKLEPEKGYRRLAPKQSVGLRHAGLVISVDEIVKDPATGQVVELICTSQPAEQAEKPKAFVQWVSQP
+IQLEVRLYEQLFKHKNPEDPNEVPGGFLSDISEQSMSVVVAFADRALNQAKVYDKFQFERIGFFSVDPDTSANHLVFN
+RTVGLKED"
+        }
+      },
+      seq {
+        id {
+          local str "SYQ_LUPLU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYQ_LUPLU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 536,
+          seq-data ncbieaa "CCNTKALLEKHLKATGGKVLTRFPPEPNGYLHIGHAKAMFVDFGLAKDRN
+GGCYLRFDDTNPEAEKKEYIDHIEEIVQWMGWEPFKITYTSNYFQELYEFAVELIRRGHAYVDHQTADEIKEYREKKL
+NSPWRDRPISESLKLFEDMRRGFIEEGKATLRMKQDMQSDNYNMYDLIAYRIKFTPHPHAGDKWCIYPSYDYAHCIVD
+SIENVTHSLCTLEFETRRASYYWLLHALGIYQPYVWEYSRLNVSNTVMSKRKLNRLVTEKWVDGWDDPRLMTLAGLRR
+RGMTPTAINAFVRGMGITRSDGTLISVERLEYHVREELNKTAPRAMVVLHPLKVVITNLEAKSAIEVDAKKWPDAQAD
+DASAFYKIPFSNVVYIERSDFRMQDSKDYYGLAPGKSVILRYAFPIKCTEVILADDNETILEIRAEYDPSKKTKPKGV
+LHWVSQPSPGVDPLKVEVRLFERLFLSENPAELDNWLGDLNPHSKVEISNAYGVSLLKDAKLGDRFQFERLGYFAVDQ
+DSTPEKLVFNRTVTLKDS"
+        }
+      },
+      seq {
+        id {
+          local str "P46655"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">P46655"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 519,
+          seq-data ncbieaa "KETHKANFEIDLPDAKMGEVVTRFPPEPSGYLHIGHAKAALLNQYFAQAY
+KGKLIIRFDDTNPSKEKEEFQDSILEDLDLLGIKGDRITYSSDYFQEMYDYCVQMIKDGKAYCDDTPTEKMREERMDG
+VASARRDRSVEENLRIFTEEMKNGTEEGLKNCVRAKIDYKALNKTLRDPVIYRCNLTPHHRTGSTWKIYPTYDFCVPI
+VDAIEGVTHALRTIEYRDRNAQYDWMLQALRLRKVHIWDFARINFVRTLLSKRKLQWMVDKDLVGNWDDPRFPTVRGV
+RRRGMTVEGLRNFVLSQGPSRNVINLEWNLIWAFNKKVIDPIAPRHTAIVNPVKIHLEGSEAPQEPKIEMKPKHKKNP
+AVGEKKVIYYKDIVVDKDDADVINVDEEVTLMDWGNVIITKKNDDGSMVAKLNLEGDFKKTKHKLTWLADTKDVVPVD
+LVDFDHLITKDRLEEDESFEDFLTPQTEFHTDAIADLNVKDMKIGDIIQFERKGYYRLDALPKDGKPYVFFTIPDGKSV"
+        }
+      }
+    }
+  }
+}

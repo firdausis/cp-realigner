@@ -1,0 +1,506 @@
+Cdd ::= {
+  name "bb40010",
+  id {
+    gid {
+      accession "acc_bb40010",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "1csp"
+              },
+              starts {
+                3,
+                0
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "1csp"
+              },
+              starts {
+                24,
+                20
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "1csp"
+              },
+              starts {
+                64,
+                60
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "CSPA_BORPE"
+              },
+              starts {
+                3,
+                0
+              },
+              len 61
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "CSPA_BORPE"
+              },
+              starts {
+                64,
+                61
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "GRP2_NICSY"
+              },
+              starts {
+                0,
+                4
+              },
+              len 64
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "GRP2_NICSY"
+              },
+              starts {
+                64,
+                68
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "CSPA_RHIME"
+              },
+              starts {
+                3,
+                0
+              },
+              len 61
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "CSPA_RHIME"
+              },
+              starts {
+                64,
+                61
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "GR2B_ARATH"
+              },
+              starts {
+                0,
+                10
+              },
+              len 64
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "GR2B_ARATH"
+              },
+              starts {
+                64,
+                74
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "CSPA_RICCN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 58
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "CSPA_RICCN"
+              },
+              starts {
+                60,
+                58
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "CSPA_RICCN"
+              },
+              starts {
+                64,
+                62
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "CSPH_ECOLI"
+              },
+              starts {
+                0,
+                0
+              },
+              len 64
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "CSPH_ECOLI"
+              },
+              starts {
+                64,
+                64
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "PIPI_HUMAN"
+              },
+              starts {
+                0,
+                64
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "PIPI_HUMAN"
+              },
+              starts {
+                45,
+                107
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1mef",
+                local str "PIPI_HUMAN"
+              },
+              starts {
+                64,
+                128
+              },
+              len 6
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1csp"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1csp"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 67,
+          seq-data ncbieaa "MLEGKVKWFNSEKGFGFIEVEGQDDVFVHFSAIQGEGFKTLEEGQAVSFE
+IVEGNRGPQAANVTKEA"
+        }
+      },
+      seq {
+        id {
+          local str "1mef"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1mef"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 70,
+          seq-data ncbieaa "MSGKMTGIVKWFNADKGFGFITPDDGSKDVFVHFSAIQNDGYKSLDEGQK
+VSFTIESGAKGPAAGNVTSL"
+        }
+      },
+      seq {
+        id {
+          local str "CSPA_BORPE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CSPA_BORPE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 67,
+          seq-data ncbieaa "METGVVKWFNAEKGYGFITPEAGGKDLFAHFSEIQANGFKSLEENQRVSF
+VTAMGPKGPQATKIQIL"
+        }
+      },
+      seq {
+        id {
+          local str "GRP2_NICSY"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">GRP2_NICSY"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 214,
+          seq-data ncbieaa "MAEESGQRAKGTVKWFSDQKGFGFITPDDGGEDLFVHQSGIRSEGFRSLA
+EGETVEFEVESGGDGRTKAVDVTGPDGAAVQGGRGGGGGGGGRGGGGYGGGSGGYGGGGRGGSRGYGGGDGGYGGGGG
+YGGGSRYGGGGGGYGGGGGYGGGGSGGGSGCFKCGESGHFARDCSQSGGGGGGGRFGGGGGGGGGGGCYKCGEDGHFA
+RECTSGGR"
+        }
+      },
+      seq {
+        id {
+          local str "CSPA_RHIME"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CSPA_RHIME"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 69,
+          seq-data ncbieaa "MNSGTVKWFNSTKGFGFIQPDDGATDVFVHASAVERAGMRSLVEGQKVTY
+DIVRDTKSGKSSADNLRAA"
+        }
+      },
+      seq {
+        id {
+          local str "GR2B_ARATH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">GR2B_ARATH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 201,
+          seq-data ncbieaa "MSGGGDVNMSGGDRRKGTVKWFDTQKGFGFITPSDGGDDLFVHQSSIRSE
+GFRSLAAEESVEFDVEVDNSGRPKAIEVSGPDGAPVQGNSGGGGSSGGRGGFGGGGGRGGGRGGGSYGGGYGGRGSGG
+RGGGGGDNSCFKCGEPGHMARECSQGGGGYSGGGGGGRYGSGGGGGGGGGGLSCYSCGESGHFARDCTSGGAR"
+        }
+      },
+      seq {
+        id {
+          local str "CSPA_RICCN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CSPA_RICCN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 70,
+          seq-data ncbieaa "MATNIVGKVKWYNSTKNFGFIEQDNGGKDVFVHKSAVDAAGLHSLEEGQD
+VIFDLEEKQGKAYAVNLRIK"
+        }
+      },
+      seq {
+        id {
+          local str "CSPH_ECOLI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CSPH_ECOLI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 70,
+          seq-data ncbieaa "MSRKMTGIVKTFDRKSGKGFIIPSDGRKEVQVHISAFTPRDAEVLIPGLR
+VEFCRVNGLRGPTAANVYLS"
+        }
+      },
+      seq {
+        id {
+          local str "PIPI_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PIPI_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 153,
+          seq-data ncbieaa "MTSESTSPPVVPPLHSPKSPVWPTFPFHREGSRVWERGGVPPRDLPSPLP
+TKRTRTYSATARASAGPVFKGVCKQFSRSQGHGFITPENGSEDIFVHVSDIEGEYVPVEGDEVTYKMCPIPPKNQKFQ
+AVEVVLTQLAPHTPHETWSGQVVGS"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3426 @@
+Cdd ::= {
+  name "bb12029",
+  id {
+    gid {
+      accession "acc_bb12029",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "1b70_A"
+              },
+              starts {
+                198,
+                0
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "1b70_A"
+              },
+              starts {
+                237,
+                38
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "1b70_A"
+              },
+              starts {
+                300,
+                77
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "1b70_A"
+              },
+              starts {
+                325,
+                100
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "1b70_A"
+              },
+              starts {
+                331,
+                104
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "1b70_A"
+              },
+              starts {
+                385,
+                159
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "1b70_A"
+              },
+              starts {
+                388,
+                163
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "1b70_A"
+              },
+              starts {
+                411,
+                186
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "1b70_A"
+              },
+              starts {
+                437,
+                222
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "1b70_A"
+              },
+              starts {
+                470,
+                253
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                124,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                131,
+                7
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                139,
+                17
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                141,
+                22
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                160,
+                41
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                167,
+                50
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                173,
+                59
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                181,
+                71
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                187,
+                75
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                237,
+                124
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                307,
+                157
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                325,
+                173
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                331,
+                177
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                385,
+                232
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                388,
+                236
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                411,
+                269
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                437,
+                296
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_BACTN"
+              },
+              starts {
+                470,
+                327
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                102,
+                0
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                123,
+                9
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                131,
+                17
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                139,
+                27
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                141,
+                32
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                160,
+                51
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                167,
+                61
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                173,
+                70
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                181,
+                82
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                187,
+                88
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                237,
+                137
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                310,
+                171
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                331,
+                190
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                385,
+                245
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                388,
+                249
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                411,
+                281
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                437,
+                308
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_MYCGA"
+              },
+              starts {
+                470,
+                339
+              },
+              len 10
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                0,
+                4
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                14,
+                17
+              },
+              len 68
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                82,
+                87
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                90,
+                99
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                121,
+                127
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                130,
+                135
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                131,
+                143
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                139,
+                152
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                141,
+                154
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                160,
+                173
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                167,
+                183
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                173,
+                192
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                181,
+                200
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                187,
+                208
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                237,
+                257
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                280,
+                301
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                329,
+                351
+              },
+              len 56
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                385,
+                407
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                388,
+                410
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                411,
+                433
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_HALN1"
+              },
+              starts {
+                439,
+                459
+              },
+              len 43
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                0,
+                4
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                14,
+                17
+              },
+              len 68
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                82,
+                85
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                90,
+                93
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                122,
+                135
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                133,
+                150
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                139,
+                158
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                143,
+                160
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                160,
+                177
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                167,
+                187
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                173,
+                196
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                181,
+                204
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                187,
+                212
+              },
+              len 89
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                277,
+                301
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                280,
+                305
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                331,
+                353
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                385,
+                408
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                388,
+                411
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                411,
+                434
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                416,
+                438
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                439,
+                459
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAB"
+              },
+              starts {
+                470,
+                488
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                0,
+                5
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                12,
+                13
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                14,
+                16
+              },
+              len 68
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                82,
+                85
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                93,
+                93
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                96,
+                95
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                113,
+                111
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                121,
+                116
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                122,
+                127
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                131,
+                136
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                139,
+                141
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                141,
+                143
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                160,
+                162
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                167,
+                171
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                175,
+                179
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                178,
+                181
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                181,
+                184
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                187,
+                192
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                237,
+                241
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                276,
+                279
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                280,
+                284
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                291,
+                289
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                331,
+                326
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                385,
+                380
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                388,
+                383
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                411,
+                406
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                416,
+                410
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                438,
+                431
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_PYRAE"
+              },
+              starts {
+                470,
+                461
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                0,
+                5
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                14,
+                18
+              },
+              len 68
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                82,
+                86
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                90,
+                94
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                96,
+                99
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                115,
+                117
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                121,
+                120
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                123,
+                122
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                131,
+                137
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                139,
+                147
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                146,
+                149
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                160,
+                164
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                167,
+                174
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                173,
+                182
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                181,
+                190
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                187,
+                198
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                237,
+                247
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                275,
+                284
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                277,
+                285
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                280,
+                289
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                331,
+                337
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                385,
+                391
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                388,
+                394
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                411,
+                417
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                417,
+                421
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                439,
+                441
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_THEVO"
+              },
+              starts {
+                470,
+                470
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                0,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                14,
+                21
+              },
+              len 68
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                82,
+                90
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                90,
+                98
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                96,
+                103
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                121,
+                125
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                122,
+                136
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                131,
+                144
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                139,
+                154
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                141,
+                156
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                160,
+                175
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                167,
+                185
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                175,
+                193
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                181,
+                199
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                187,
+                207
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                237,
+                256
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                280,
+                300
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                291,
+                305
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                331,
+                342
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                385,
+                396
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                388,
+                399
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                390,
+                400
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                411,
+                421
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                416,
+                425
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                439,
+                446
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_AERPE"
+              },
+              starts {
+                470,
+                475
+              },
+              len 13
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                0,
+                4
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                14,
+                17
+              },
+              len 46
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                66,
+                63
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                82,
+                81
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                90,
+                89
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                121,
+                117
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                122,
+                125
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                131,
+                140
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                139,
+                149
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                143,
+                151
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                146,
+                152
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                160,
+                166
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                167,
+                176
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                173,
+                185
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                181,
+                193
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                187,
+                201
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                237,
+                250
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                277,
+                289
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                280,
+                293
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                291,
+                297
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                329,
+                336
+              },
+              len 56
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                385,
+                392
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                388,
+                395
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                411,
+                418
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                416,
+                422
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                439,
+                443
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METJA"
+              },
+              starts {
+                470,
+                472
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                0,
+                8
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                14,
+                21
+              },
+              len 68
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                84,
+                89
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                90,
+                95
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                121,
+                123
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                122,
+                131
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                131,
+                147
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                139,
+                156
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                143,
+                158
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                146,
+                159
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                152,
+                164
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                160,
+                172
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                167,
+                182
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                173,
+                191
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                181,
+                199
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                187,
+                207
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                237,
+                256
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                274,
+                291
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                277,
+                293
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                280,
+                297
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                331,
+                345
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                385,
+                399
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                388,
+                402
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                411,
+                425
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                416,
+                429
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                439,
+                450
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_METAC"
+              },
+              starts {
+                470,
+                479
+              },
+              len 13
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                0,
+                6
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                12,
+                16
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                14,
+                19
+              },
+              len 68
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                83,
+                87
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                90,
+                94
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                96,
+                99
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                121,
+                121
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                122,
+                132
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                131,
+                135
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                141,
+                142
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                160,
+                161
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                167,
+                171
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                175,
+                175
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                181,
+                181
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                187,
+                189
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                237,
+                238
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                276,
+                274
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                280,
+                279
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                291,
+                284
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                331,
+                321
+              },
+              len 54
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                385,
+                375
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                388,
+                378
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                411,
+                401
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                416,
+                405
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                439,
+                426
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYFA_ARATH",
+                local str "SYFA_SULSO"
+              },
+              starts {
+                470,
+                455
+              },
+              len 13
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1b70_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1b70_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 265,
+          seq-data ncbieaa "VDVSLPGASLFSGGLHPITLMERELVEIFRALGYQAVEGPEVESEFFNFD
+ALNIPEHHPARDMWDTFWLTGEGFRLEGPLGEEVEGRLLLRTHTSPMQVRYMVAHTPPFRIVVPGRVFRFEQTDATHE
+AVFHQLEGLVVGEGIAMAHLKGAIYELAQALFGPDSKVRFQPVYFPFVEPGAQFAVWWPEGGKWLELGGAGMVHPKVF
+QAVDAYRERLGLPPAYRGVTGFAFGLGVERLAMLRYGIPDIRYFFGGRLKFLEQFKGVL"
+        }
+      },
+      seq {
+        id {
+          local str "SYFA_BACTN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYFA_BACTN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 339,
+          seq-data ncbieaa "MIAKIEQLLKEVEALHASNAEELEALRIKYLSKKGAINDLMADFRNVAAE
+QKKEVGMRLNELKTKAQDKINALKEQFESQDNSCDGLDLTRSAYPIELGTRHPITIVKNEVIDIFARLGFSIAEGPEI
+EDDWHVFSALNFAEDHPARDMQDTFFIEAHPDVVLRTHTSSVQTRVMETSKPPIRIICPGRVYRNEAISYRAHCFFHQ
+VEALYVDKNVSFTDLKQVLLLFAKEMFGTDTKIRLRPSYFPFTEPSAEMDISCNICGGKGCPFCKHTGWVEILGCGMV
+DPNVLESNGIDSKVYSGYALGMGIERITNLKYQVKDLRMFSENDTRFLKEFEAAY"
+        }
+      },
+      seq {
+        id {
+          local str "SYFA_MYCGA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYFA_MYCGA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 349,
+          seq-data ncbieaa "MSFLSYTPYYYMDQIKKIIDNFKQTISSVDNQKELIVTKNIFVKKHVTPL
+FQQLRELEELAVKKAFGKELNFLQEAIQELFEEKNQQLVINLDQNQKPAYDLMIPALDLVDGSIHPLNLVVNQIVDFF
+KKFNFTIVNYPELVTTKHCFDDLNIPLDHPGRSKTDTFYVSDKQLLRTHCTAGTIEAIAAMNKHKDIRVISFGNVYRN
+DTDDATHSHQFMQMDFMWVNKDLSLSNLKWFVTKFIEHMFGNDLKTRFRLSHFPFTEPSFEVDVECWNCQSGCFLCKK
+TRWIEIMGSGILHPKVLEAAHIDPEKMVGIAAGIGIERIAMLKNNITDIRDFYFNDFRFIKQFYE"
+        }
+      },
+      seq {
+        id {
+          local str "SYFA_ARATH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYFA_ARATH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 485,
+          seq-data ncbieaa "MAEEAILGFLQNNEQITDSGQFSAEFNIDHNELVNVIKSLHGFRYIDVQD
+IKKETWILTDEGKKYAAEGSPEVQLFLAVPEEGSISKDELQKKLAPAVFKIGCSQAGKNKWVEMGKQVSRKVKDVEDK
+VKGQLLQIQQGKEFDKESINSLKARKLIVPQIWKGYSVKKGPNYAPERKKVATDLTRENLQNWKELEFKEYNFKAKGA
+PVDAGHLHALLKVRKQFKDIFVQMGFEEMPTNNYVESSFWNFDALFQPQQHPARDSHDTFFLKVPSTTRTLPEDYVER
+VKRVHESGGYGSRGYNYDWKREEANKNLLRTHTTAVSSRMLYALAQKPFVPKKYFSIDRVFRNEAVDRTHLAEFHQIE
+GLICDRGLTLGDLIGVLEDFFSRLGMSKLRFKPAYNPYTEPSMEIFSYHEGLGKWVEIGNSGMFRPEMLLPMGLPEDV
+RVIAWGLSLERPTMILYGIDNIRDLFGHKVDLDLIKRNPICRIGI"
+        }
+      },
+      seq {
+        id {
+          local str "SYFA_HALN1"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYFA_HALN1"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 502,
+          seq-data ncbieaa "MQLPTQQVAVLDAASTDDPQRIEALAADTDYPPETIAGAALALEAEGLVA
+VTETTTTTVSLTDEGHAYATDGLPEVRLYRAALDAGADDAPVEMGSVIGAAGLDGPQVDIALSNYARKGYGTIDSGAL
+AADPDADPENDPEADALATLTDGDSVDDDAVVDQLASRDLVTVSERTVRSVTLTEAGVTELMAGVEATDEVGELTPEL
+LASGEWADVEFADYNVAADAADHTPGKTHVLRQAAERVTDVLVGMGFQEMAGPHVDADFYINDCLFMPQDHPARNHWD
+RFALSNPARIDELPDALVERVERAHREGAGDDGDGYHSPWDEDFARALALRGHTTSLTARHLAGLADADVEAPARYFS
+VEKAYRNDTLDATHLLEFFQIEGWVLADDLSVRDLMGTFREFYSQFGIHDLQFKPTYNPYTEPSFELFGRHPETGELI
+EIGNSGIFRPEMLDPLDVDGDVMAWGLALERLLMLMTGFEDIRDVHGTLCDVGFLRNAEVVY"
+        }
+      },
+      seq {
+        id {
+          local str "SYFA_PYRAB"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYFA_PYRAB"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 500,
+          seq-data ncbieaa "MTLGYNEKLVLLTIAKLEKASVEEIVKETRLDQVAVMRAILTLEKEGLIK
+LHERKEKIIVLTDIGKEYSKIGLPEIRALRVLREKKKAYLDELKDVLREDELKAIVGILRREGLANVRKDEKGLVLEI
+TEKGEKLGERPIDIALKLLSEKGEVSVDEISRIIDVKDLKRRKIAREDERVERTVEITEKGKKLVSKGIELKREVTRL
+TPELIASGKWREVELKPFNIKAPVKRIYPGKKQPYRVFLDKIRRRLIEMGFIEMTVDSLIETQFWNFDALFQPQNHPA
+REWTDTYQLKYPEKGYLPDESLVSRVKEAHERGLAGSRGWGYVWSPERAMLLMPRAHATALSARQLAKGIEIPGKYFT
+IQRVFRPDVLDRTHLIEFNQIDGFVAGEDLTFRHLLGILKRFAIEIAGAKKVKFFPDYYPFTEPSVQLSAYHPELGWV
+EFGGAGVFREEMTEALGIKVPVIAWGIGIDRLAMFKLGIDDIRYLFSYDLRWLREAKLIW"
+        }
+      },
+      seq {
+        id {
+          local str "SYFA_PYRAE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYFA_PYRAE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 489,
+          seq-data ncbieaa "MLVLPLPLYEIIRHAPEWKPLEEVARELGSSVDSLMRYVEEGRAKGVLRV
+ERKVIEFYELTEEGRQRAAEGLPEYKLLKSAVCREGRCTAHLSQHPEAQIALANLAKLGVKPRGNVVELDEETYKKIV
+AMLEEKQKALAAPHSAPPEVLKEFIKRKLVRKIEKTQVYVKAAVPLELVKPAEVKTVITSEDIATGRWRNYTLKPFDL
+NIEPPEYPAPVPHFFNEFLDYVREVMIGLGFEEVRGPVLEVEFWNFDALFQAQDHPAREVHDTFYVQWSGPLETPPEH
+LMESVGRVHEEKWRYKWDRKKALNPVLRTQTTATTIRALAERGDGEYKVFTIGRVFRPEKLDPKHSMEFHQLDGIVVG
+PGLTFKHLLGQLEEIAKALGMTKVKFRPAYFPFTSPSVEVYAQHPKLGWVEFGGAGIFRPEVTEPLGVKKSRVLAWGW
+GLDRIAMILLGIDDIRELFTKDLEKLKEYYARWARYKASVGAVGTLFTL"
+        }
+      },
+      seq {
+        id {
+          local str "SYFA_THEVO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYFA_THEVO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 482,
+          seq-data ncbieaa "MSEISKNEALILKYLASKNQEIEESNIEIKGLSRQDIASATSWLQVKGLI
+DVKTREEVAYVLTDEGKRYAENGLPELRAYSILKRKGKLSLRDLQEAMPDEYKIVLAQLAKFGITPKNGVLEYSDGHI
+EAEISRRQRFLSDLNTDDQEMIEHFKRRKNVIEEKKRSVRIVSINSKGLEQLNNFDQFEAIGEIDSGIITSQAWKTAP
+FRKYDLDAPVSPTKSYAKHPLVYFINEIRRIFLDMGFTEMSGHYIESALWDMDALFIPQDHPARDMQDTFYVKDSNFT
+IEHPEIEKRIKRIHERGFDGYSGWGYRWSSDDGKKLILRTHTTVTTARYLYEHNTYPQAIFSVEKVFRHESVDWKHLA
+EFYQIEGAVYDKNVSVATLKWILRTFYGKLGFEKIRLVPSYYPYTEPSLDVVVEVDGKEMELGGSGIFRPEVGKILGL
+KAPVMAWGMGLERLAMLYYGLTDVRDLYNTDFSFLEGYKIKY"
+        }
+      },
+      seq {
+        id {
+          local str "SYFA_AERPE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYFA_AERPE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 488,
+          seq-data ncbieaa "MEVTLSQGEYRLLKLMAERGFREGTLEEASKILGVDKSSLASLSNLLAEK
+GVVEVEERVEEHYVLTERGRDALERGLPEEKLVLFLAGRGGEASVEEVRRALGEEAGIALGQAARKGLVVIAGGVVRL
+AVDQAEALKTITPLKKLLENVASGSKPTVGDELLREALSRGLIRREARRSIVLRLKVNPAEALARARVEAAVLTRDML
+KSGEWRRLRFKPYNVKAEPPRVLPARRHFLAEFIERLRDILRELGFREVRGPLVELELFNFDVLFQAQDHPAREIHDS
+LWIKSPRRGDLSGYSDLVERVASVHERGWKYRWSPEVASRYILRSQTTAVSARILATRPNPPARFFTVGKVFRSDAVG
+PTRLPEFHQLDGIEGDEGYTFRDLLGRLDEIASMLGLKLKFKPAYFPFTEPSVEGYVKLPNGRWLELFGAGMFRPEVL
+EAVGVDYPVGAWGFGIERLAMAFYGVSDIRKLYTRNVDEVREMRVRWL"
+        }
+      },
+      seq {
+        id {
+          local str "SYFA_METJA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYFA_METJA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 480,
+          seq-data ncbieaa "MELHIDEKRLLKIFQDNNRDEFNLNELEKFMPKEKILRVSLWLKGKNLVE
+TEEKVKKIIKLIKEEEFPERKIANYLKQHNIKEIEIKNLKDILPKEEINAALGAIKRKGIARIEKGKIIFDNLDYKDV
+EEQLLQKIKENKYLDDFSEEEKKIIDILKKRGYVDFDEEKEIKIKLTEKGKEFIKNPIEIEEEITQLTRDIIISGKWK
+KAYIRPYDVKVPTKPIYPAKVHPLTRIIREVKEILLAMGFKEVKSPIVETEFWNFDMLFEPQDHPAREMQDTFFLKYP
+NEGDIPEDLLSKVKEVHERCWKYKFDENVSRRLILRTHTTASSIRYLASLSDEEKNKPHKVFCIDRVFRNEAIDYKHL
+PEFYQCEGIIMDDNVNFNNLIGVLKEFLNRLGFEKVRFRPAYFPFTEPSLEAEVYLEGKGWLEILGAGIFRPEVLEPI
+GIEKPVLAWGIGFSRLAMLRYGLTDIRDLHKNDLDWLKRV"
+        }
+      },
+      seq {
+        id {
+          local str "SYFA_METAC"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYFA_METAC"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 492,
+          seq-data ncbieaa "MSAQDNLTINEKKVLLALEELGSAAPDKLEEKSGLQVDAAMQAAFMLQEK
+GLASVSEKVLERYSLTKEGEEYTKTGLPERQIIDALKAPAPLEELRSRFSPKTVGIATGWLIKKGWAKVENGVMVPSG
+NAPAGRDEEVLAAFAGKAKTLEELAADEGTVKELLKRKLVIKHEEKSRTVSVTGAGSALAAEGIVLEEEIAQLTPELL
+KSGAWKGKKFRPYRLDIAPNPLYGVKIHPYRRLIEQMRQIFLEMGFTEIKGGIIQSSFWNFDALFQPQDHPARDMQDT
+FHLGSICQLPAEYSDKVAAMHESGGDIDSCGWGGIWDRELARRNVLRTHTTSVTIKYLADNPEPPVKAFCIDRAYRRE
+TIDPTHTPEFEQLEGVVMDKDMSFADLLGLLAEFYHRMGFEEVRFRPGYFPYTEPSVEPEVYVDGLGWVELGGAGVFR
+KEVTEPFGIKEPVLAWGLGVSRLAMLKLGLKDLRLLYQSDIDWLRKSEVCRI"
+        }
+      },
+      seq {
+        id {
+          local str "SYFA_SULSO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYFA_SULSO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 468,
+          seq-data ncbieaa "MISMLSENEAKILFFLKDLKKTNSVELAIKMGIPESSVLSLIELLREKGY
+VKTEVKSEKHYVLTEEGRKRKESGLPEDILINTLNGQEKDLNEIKNILNKDFNIAISWAKRKGLIDIKEGKVIPKVKT
+YMSSEYLALSNLERADSNTINLLKKRGLIEEKERKIVSVELIKEPKESEIGISNLNRELIISGEWKKYKLKKYNVEAF
+PPYYTISKKHYFREFLEKVKDIMISLGFKEINTGYIEMEFYNFDLLFQPQDHPAREIHDSFSVEGSGKIEDKDLLNNV
+KEIHEKFWKYEWKQDITLRLMLRSQTTATTARVLASRPKAPQKVFTLGKVFRPDAIDATHLIEFHQLDGVIIDNNFTF
+KELLGVLKEIFYRLGIKEVKFKPAYFPFTEPSVEAYGYLEKLGWVEMCGAGLLRPEILSSVGIDSTAGAWGIGIERLA
+MSFLNISDIRLLYSNNIEYIRDTKVKIE"
+        }
+      }
+    }
+  }
+}

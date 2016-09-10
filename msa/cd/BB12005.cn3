@@ -1,0 +1,1043 @@
+Cdd ::= {
+  name "bb12005",
+  id {
+    gid {
+      accession "acc_bb12005",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1ar5_A"
+              },
+              starts {
+                11,
+                0
+              },
+              len 57
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1ar5_A"
+              },
+              starts {
+                75,
+                57
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1ar5_A"
+              },
+              starts {
+                103,
+                85
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1ar5_A"
+              },
+              starts {
+                107,
+                91
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1ar5_A"
+              },
+              starts {
+                137,
+                121
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1ar5_A"
+              },
+              starts {
+                152,
+                137
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1ar5_A"
+              },
+              starts {
+                199,
+                184
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1coj_A"
+              },
+              starts {
+                12,
+                0
+              },
+              len 56
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1coj_A"
+              },
+              starts {
+                69,
+                56
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1coj_A"
+              },
+              starts {
+                103,
+                90
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1coj_A"
+              },
+              starts {
+                107,
+                94
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1coj_A"
+              },
+              starts {
+                136,
+                121
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1coj_A"
+              },
+              starts {
+                137,
+                122
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1coj_A"
+              },
+              starts {
+                152,
+                138
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "1coj_A"
+              },
+              starts {
+                199,
+                185
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODF_NICPL"
+              },
+              starts {
+                12,
+                0
+              },
+              len 57
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODF_NICPL"
+              },
+              starts {
+                72,
+                57
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODF_NICPL"
+              },
+              starts {
+                103,
+                88
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODF_NICPL"
+              },
+              starts {
+                107,
+                92
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODF_NICPL"
+              },
+              starts {
+                137,
+                122
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODF_NICPL"
+              },
+              starts {
+                152,
+                138
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODF_NICPL"
+              },
+              starts {
+                199,
+                186
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_ALCEU"
+              },
+              starts {
+                11,
+                0
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_ALCEU"
+              },
+              starts {
+                23,
+                11
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_ALCEU"
+              },
+              starts {
+                74,
+                56
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_ALCEU"
+              },
+              starts {
+                103,
+                85
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_ALCEU"
+              },
+              starts {
+                107,
+                87
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_ALCEU"
+              },
+              starts {
+                137,
+                118
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_ALCEU"
+              },
+              starts {
+                152,
+                134
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_ALCEU"
+              },
+              starts {
+                155,
+                136
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_ALCEU"
+              },
+              starts {
+                199,
+                180
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CANAL"
+              },
+              starts {
+                0,
+                22
+              },
+              len 68
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CANAL"
+              },
+              starts {
+                75,
+                90
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CANAL"
+              },
+              starts {
+                103,
+                121
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CANAL"
+              },
+              starts {
+                107,
+                127
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CANAL"
+              },
+              starts {
+                137,
+                157
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CANAL"
+              },
+              starts {
+                152,
+                174
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CANAL"
+              },
+              starts {
+                199,
+                221
+              },
+              len 13
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SOD1_HALN1"
+              },
+              starts {
+                11,
+                0
+              },
+              len 57
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SOD1_HALN1"
+              },
+              starts {
+                75,
+                57
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SOD1_HALN1"
+              },
+              starts {
+                103,
+                85
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SOD1_HALN1"
+              },
+              starts {
+                107,
+                89
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SOD1_HALN1"
+              },
+              starts {
+                136,
+                116
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SOD1_HALN1"
+              },
+              starts {
+                137,
+                117
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SOD1_HALN1"
+              },
+              starts {
+                152,
+                133
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SOD1_HALN1"
+              },
+              starts {
+                199,
+                180
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CHAFE"
+              },
+              starts {
+                1,
+                9
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CHAFE"
+              },
+              starts {
+                75,
+                76
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CHAFE"
+              },
+              starts {
+                103,
+                104
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CHAFE"
+              },
+              starts {
+                109,
+                109
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CHAFE"
+              },
+              starts {
+                137,
+                137
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CHAFE"
+              },
+              starts {
+                152,
+                153
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CHAFE"
+              },
+              starts {
+                199,
+                200
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_CHAFE"
+              },
+              starts {
+                202,
+                202
+              },
+              len 11
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_AGABI"
+              },
+              starts {
+                11,
+                0
+              },
+              len 46
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_AGABI"
+              },
+              starts {
+                60,
+                46
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_AGABI"
+              },
+              starts {
+                75,
+                54
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_AGABI"
+              },
+              starts {
+                103,
+                85
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_AGABI"
+              },
+              starts {
+                107,
+                89
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_AGABI"
+              },
+              starts {
+                137,
+                119
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_AGABI"
+              },
+              starts {
+                152,
+                135
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_AGABI"
+              },
+              starts {
+                165,
+                146
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "1gv3_A",
+                local str "SODM_AGABI"
+              },
+              starts {
+                199,
+                180
+              },
+              len 14
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1ar5_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ar5_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 201,
+          seq-data ncbieaa "AVYTLPELPYDYSALEPYISGEIMELHHDKHHKAYVDGANTALDKLAEAR
+DKADFGAINKLEKDLAFNLAGHVNHSVFWKNMAPKGSAPERPTDELGAAIDEFFGSFDNMKAQFTAAATGIQGSGWAS
+LVWDPLGKRINTLQFYDHQNNLPAGSIPLLQLDMWEHAFYLQYKNVKGDYVKSWWNVVNWDDVALRFSEARVA"
+        }
+      },
+      seq {
+        id {
+          local str "1coj_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1coj_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 211,
+          seq-data ncbieaa "VHKLEPKDHLKPQNLEGISNEQIEPHFEAHYKGYVAKYNEIQEKLADQNF
+ADRSKANQNYSEYRELKVEETFNYMGVVLHELYFGMLTPGGKGEPSEALKKKIEEDIGGLDACTNELKAAAMAFRGWA
+ILGLDIFSGRLVVNGLDAHNVYNLTGLIPLIVIDTYEHAYYVDYKNKRPPYIDAFFKNINWDVVNERFEKAMKAYEAL
+KDFIK"
+        }
+      },
+      seq {
+        id {
+          local str "1gv3_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1gv3_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 213,
+          seq-data ncbieaa "SIGFIDRQLGTNPAELPPLPYGYDALEKAIDAETMKLHHDKHHAAYVNNL
+NNALKKHPELQNSSVEALLRDLNSVPEDIRTTVRNNGGGHLNHTIFWQIMSPDGGGQPTGDIAQEINQTFGSFEEFKK
+QFNQAGGDRFGSGWVWLVRNPQGQLQVVSTPNQDNPIMEGSYPIMGNDVWEHAYYLRYQNRRPEYLNNWWNVVNWSEI
+NRRTQAS"
+        }
+      },
+      seq {
+        id {
+          local str "SODF_NICPL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SODF_NICPL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 202,
+          seq-data ncbieaa "KFELQPPPYPMDALEPHMSSRTFEFHWGKHHRAYVDNLNKQIDGTELDGK
+TLEDIILVTYNKGAPLPAFNNAAQAWNHQFFWESMKPNGGGEPSGELLELINRDFGSYDAFVKEFKAAAATQFGSGWA
+WLAYKPEEKKLALVKTPNAENPLVLGYTPLLTIDVWEHAYYLDFQNRRPDYISIFMEKLVSWEAVSSRLKAATA"
+        }
+      },
+      seq {
+        id {
+          local str "SODM_ALCEU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SODM_ALCEU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 197,
+          seq-data ncbieaa "MLYEMKPLGCEPAKLTGLSEKLIFSHYENNYGGAVKRLNAITATLAELDM
+ATAPVFTLNGLKREELIATNSMILHEVYFDSLGDGGSLDGALKTAIERDFGSVERWQAEFTAMGKALGGGSGWVLLTY
+SPRDGRLVNQWASDHAHTLAGGTPVLALDMYEHSYHMDYGAKAAAYVDAFMQNIHWQRAATRFAAAVRD"
+        }
+      },
+      seq {
+        id {
+          local str "SODM_CANAL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SODM_CANAL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 234,
+          seq-data ncbieaa "MFSIRSSSRVLLKASSATTRATLNAAASKTFTRSKYSLPELDYEFSATEP
+YISGQINEIHYTKHHQTYVNNLNASIEQAVEAKSKGEVKKLVALEKAINFNGGGYLNHCLWWKNLAPVSQGGGQPPSE
+DSKLGKQIVKQFGSLDKLIEITNGKLAGIQGSGWAFIVKNKANGDTIDVITTANQDTVTDPNLVPLIAIDAWEHAYYL
+QYQNVKADYFKNLWHVINWKEAERRFEF"
+        }
+      },
+      seq {
+        id {
+          local str "SOD1_HALN1"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SOD1_HALN1"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 199,
+          seq-data ncbieaa "SEYELPPLPYDYDALEPHISEQVLTWHHDTHHQGYVNGWNDAEETLAENR
+ETGDHASTAGALGDVTHNGSGHILHTLFWQSMSPAGGDEPSGALADRIAADFGSYENWRAEFEAAASAASGWALLVYD
+SHSNTLRNVAVDNHDEGALWGSHPILALDVWEHSYYYDYGPDRGSFVDAFFEVVDWDEPTERFEQAAERFE"
+        }
+      },
+      seq {
+        id {
+          local str "SODM_CHAFE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SODM_CHAFE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 224,
+          seq-data ncbieaa "MLLARAFARRSLRAGLWCRQKHTLPDLPYDYGALEPTISAEIMQLHHSKH
+HQTYVNNLNVAEEKLAEAKEKGDVSTIISLAPALRFNGGGHINHSIFWQNLSADGGEPEGELLAAINRDFGSVENMKN
+QLSAQTVAVQGSGWGWLGYIAEGALQIATCPNQDPLEATTGLVPLFGIDVWEHAYYLQYKNVRRIMLKPSGISLIGRI
+SLQGSMQQSKNATSCSGA"
+        }
+      },
+      seq {
+        id {
+          local str "SODM_AGABI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SODM_AGABI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 200,
+          seq-data ncbieaa "MAHVLPDLPYAYDALEPYISRQIMELHHKKTSSDLCECAQHCRGCLRHST
+AVVGGFDLSLFFILTTLGHINHSLFWQNLAPAAGAGGQLKPGPLKDAIDQTFGGLDNLKKEFNTTTAGIQGSGWGWLG
+VNPSNKRLEISTTPNQDPLLNLVPIIGVDIWEHAFYLQYLNVKADYLNAIWSVINFDEAQRRYVEATQGSKL"
+        }
+      }
+    }
+  }
+}

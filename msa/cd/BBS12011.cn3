@@ -1,0 +1,5008 @@
+Cdd ::= {
+  name "bbs12011",
+  id {
+    gid {
+      accession "acc_bbs12011",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                4,
+                0
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                22,
+                18
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                25,
+                20
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                29,
+                24
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                40,
+                34
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                41,
+                35
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                77,
+                71
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                97,
+                92
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                124,
+                111
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                168,
+                155
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                171,
+                157
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                202,
+                186
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                203,
+                187
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                243,
+                227
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                269,
+                243
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                275,
+                249
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                311,
+                277
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                333,
+                301
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                339,
+                311
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                354,
+                326
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                361,
+                342
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                372,
+                352
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                386,
+                362
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                397,
+                370
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                400,
+                373
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                413,
+                386
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                437,
+                407
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                438,
+                408
+              },
+              len 52
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                490,
+                460
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                505,
+                475
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                510,
+                480
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                542,
+                513
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                550,
+                521
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                568,
+                539
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                576,
+                547
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1ciy_"
+              },
+              starts {
+                579,
+                550
+              },
+              len 25
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                22,
+                22
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                29,
+                29
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                42,
+                39
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                77,
+                74
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                97,
+                98
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                124,
+                117
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                168,
+                161
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                171,
+                163
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                202,
+                192
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                203,
+                193
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                243,
+                233
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                269,
+                251
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                276,
+                257
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                306,
+                285
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                333,
+                314
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                339,
+                323
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                354,
+                338
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                361,
+                351
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                367,
+                354
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                372,
+                358
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                382,
+                368
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                397,
+                380
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                400,
+                385
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                413,
+                398
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                437,
+                419
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                438,
+                420
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                442,
+                421
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                490,
+                469
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                505,
+                484
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                510,
+                489
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                542,
+                522
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                550,
+                530
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                568,
+                548
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                576,
+                556
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "1dlc_"
+              },
+              starts {
+                579,
+                557
+              },
+              len 25
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                0,
+                0
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                22,
+                22
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                29,
+                29
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                40,
+                39
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                41,
+                40
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                77,
+                76
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                97,
+                97
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                124,
+                116
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                168,
+                160
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                171,
+                162
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                202,
+                191
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                203,
+                192
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                243,
+                232
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                261,
+                251
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                275,
+                267
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                306,
+                295
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                334,
+                322
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                348,
+                330
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                354,
+                336
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                361,
+                352
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                372,
+                362
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                382,
+                374
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                387,
+                375
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                398,
+                382
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                400,
+                386
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                414,
+                395
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                436,
+                415
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                438,
+                417
+              },
+              len 52
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                490,
+                470
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                505,
+                486
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                510,
+                492
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                542,
+                530
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                550,
+                538
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                568,
+                557
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                576,
+                565
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C8CA_BACTP"
+              },
+              starts {
+                579,
+                568
+              },
+              len 25
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                0,
+                0
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                22,
+                22
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                29,
+                29
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                40,
+                39
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                41,
+                40
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                77,
+                76
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                97,
+                97
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                124,
+                116
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                168,
+                160
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                171,
+                162
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                202,
+                191
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                203,
+                192
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                243,
+                232
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                262,
+                250
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                264,
+                251
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                275,
+                262
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                306,
+                291
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                334,
+                318
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                339,
+                326
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                354,
+                341
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                361,
+                355
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                382,
+                378
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                400,
+                398
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                413,
+                411
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                437,
+                432
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                438,
+                433
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                483,
+                474
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                490,
+                481
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                500,
+                489
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                505,
+                494
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                510,
+                499
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                542,
+                532
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                550,
+                540
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                568,
+                558
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                576,
+                566
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                579,
+                569
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CQAA_BACTF"
+              },
+              starts {
+                589,
+                578
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                1,
+                0
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                22,
+                21
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                29,
+                28
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                41,
+                38
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                77,
+                74
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                97,
+                95
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                124,
+                114
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                168,
+                158
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                171,
+                160
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                202,
+                189
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                203,
+                190
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                243,
+                230
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                262,
+                248
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                275,
+                261
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                306,
+                289
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                334,
+                316
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                339,
+                325
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                354,
+                340
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                361,
+                352
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                372,
+                362
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                382,
+                374
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                397,
+                386
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                400,
+                391
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                413,
+                404
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                437,
+                425
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                443,
+                426
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                490,
+                473
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                505,
+                488
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                510,
+                493
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                542,
+                526
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                550,
+                534
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                568,
+                552
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                576,
+                560
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C1BA_BACTK"
+              },
+              starts {
+                579,
+                563
+              },
+              len 25
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                0,
+                3
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                22,
+                26
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                29,
+                33
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                44,
+                43
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                77,
+                76
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                97,
+                96
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                124,
+                118
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                168,
+                162
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                203,
+                198
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                243,
+                238
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                273,
+                256
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                275,
+                260
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                308,
+                290
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                337,
+                314
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                339,
+                320
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                342,
+                321
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                354,
+                333
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                361,
+                343
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                372,
+                353
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                382,
+                366
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                396,
+                375
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                400,
+                381
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                413,
+                394
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                438,
+                415
+              },
+              len 52
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                493,
+                467
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                506,
+                478
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                510,
+                486
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                542,
+                519
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                550,
+                530
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                568,
+                548
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CKAA_BACUF"
+              },
+              starts {
+                579,
+                556
+              },
+              len 25
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                0,
+                0
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                22,
+                22
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                29,
+                28
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                41,
+                38
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                77,
+                75
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                97,
+                102
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                126,
+                124
+              },
+              len 42
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                168,
+                173
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                203,
+                208
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                243,
+                248
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                261,
+                267
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                271,
+                269
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                275,
+                275
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                311,
+                306
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                334,
+                328
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                336,
+                329
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                339,
+                336
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                345,
+                338
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                354,
+                349
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                361,
+                368
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                397,
+                386
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                400,
+                389
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                413,
+                411
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                438,
+                439
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                482,
+                480
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                490,
+                488
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                505,
+                503
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                510,
+                512
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                542,
+                545
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                550,
+                553
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                568,
+                571
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CPAA_BACTJ"
+              },
+              starts {
+                581,
+                579
+              },
+              len 23
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                0,
+                1
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                22,
+                23
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                29,
+                30
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                41,
+                43
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                75,
+                76
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                77,
+                79
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                97,
+                100
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                124,
+                122
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                168,
+                166
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                202,
+                198
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                205,
+                199
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                243,
+                237
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                264,
+                256
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                273,
+                258
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                275,
+                262
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                305,
+                292
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                334,
+                320
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                339,
+                329
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                342,
+                331
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                358,
+                343
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                364,
+                353
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                372,
+                360
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                382,
+                371
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                392,
+                379
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                397,
+                381
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                400,
+                386
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                413,
+                399
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                442,
+                423
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                490,
+                471
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                505,
+                487
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                516,
+                495
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                542,
+                523
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                550,
+                526
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                568,
+                545
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                576,
+                553
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CJAA_BACTJ"
+              },
+              starts {
+                579,
+                560
+              },
+              len 25
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                0,
+                0
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                22,
+                22
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                29,
+                29
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                41,
+                41
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                60,
+                59
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                72,
+                70
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                77,
+                76
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                97,
+                96
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                126,
+                118
+              },
+              len 42
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                168,
+                166
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                202,
+                198
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                203,
+                199
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                243,
+                239
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                275,
+                257
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                307,
+                288
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                315,
+                295
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                333,
+                315
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                339,
+                325
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                354,
+                348
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                365,
+                357
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                382,
+                374
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                407,
+                386
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                415,
+                391
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                440,
+                413
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                490,
+                463
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                508,
+                478
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                510,
+                480
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                542,
+                512
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                550,
+                524
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                568,
+                543
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                576,
+                552
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                581,
+                559
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "CAAA_BACTI"
+              },
+              starts {
+                583,
+                560
+              },
+              len 21
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                0,
+                0
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                22,
+                21
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                29,
+                28
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                41,
+                42
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                75,
+                75
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                77,
+                78
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                97,
+                99
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                124,
+                119
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                168,
+                162
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                202,
+                194
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                203,
+                195
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                243,
+                242
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                275,
+                261
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                305,
+                292
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                334,
+                320
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                339,
+                329
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                342,
+                331
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                358,
+                343
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                364,
+                346
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                372,
+                353
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                382,
+                364
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                386,
+                365
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                397,
+                373
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                400,
+                378
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                413,
+                391
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                444,
+                415
+              },
+              len 46
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                490,
+                461
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                505,
+                477
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                510,
+                486
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                538,
+                513
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                542,
+                519
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                550,
+                535
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                568,
+                554
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                576,
+                562
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "C4BA_BACTI"
+              },
+              starts {
+                579,
+                568
+              },
+              len 25
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                0,
+                0
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                22,
+                22
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                29,
+                30
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                41,
+                44
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                77,
+                81
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                97,
+                102
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                124,
+                124
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                132,
+                130
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                171,
+                166
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                202,
+                195
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                203,
+                196
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                243,
+                236
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                264,
+                255
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                275,
+                268
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                305,
+                299
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                334,
+                327
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                339,
+                336
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                342,
+                338
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                358,
+                350
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                361,
+                367
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                372,
+                377
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                385,
+                388
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                397,
+                397
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                400,
+                402
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                409,
+                406
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                413,
+                410
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                438,
+                434
+              },
+              len 52
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                490,
+                486
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                505,
+                502
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                511,
+                504
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                542,
+                537
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                550,
+                548
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                568,
+                567
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                576,
+                575
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "C9AA_BACTG",
+                local str "COAA_BACTJ"
+              },
+              starts {
+                585,
+                579
+              },
+              len 19
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1ciy_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ciy_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 575,
+          seq-data ncbieaa "YTPIDISLSLTQFLLSEFVPGAGFVLGLVDIIWGIFGPSQWDAFLVQIEQ
+LINQRIEEFARNQAISRLEGLSNLYQIYAESFREWEADPTNPALREEMRIQFNDMNSALTTAIPLLAVQNYQVPLLSV
+YVQAANLHLSVLRDVSVFGQRWGFDAATINSRYNDLTRLIGNYTDYAVRWYNTGLERVWGPDSRDWVRYNQFRRELTL
+TVLDIVALFSNYDSRRYPIRTVSQLTREIYTNPVLENFDGSFRGMAQRIEQNIRQPHLMDILNSITIYTDVHRGFNYW
+SGHQITASPVGFSGPEFAFPLFGNAGNAAPPVLVSLTGLGIFRTLSSPLYRRIILGSGPNNQELFVLDGTEFSFASLT
+TNLPSTIYRQRGTVDSLDVIPPQDNSVPPRAGFSHRLSHVTMLSQAAGAVYTLRAPTFSWQHRSAEFNNIIPSSQITQ
+IPLTKSTNLGSGTSVVKGPGFTGGDILRRTSPGQISTLRVNITAPLSQRYRVRIRYASTTNLQFHTSIDGRPINQGNF
+SATMSSGSNLQSGSFRTVGFTTPFNFSNGSSVFTLSAHVFNSGNEVYIDRIEFVPAE"
+        }
+      },
+      seq {
+        id {
+          local str "1dlc_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1dlc_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 582,
+          seq-data ncbieaa "KDVIQKGISVVGDLLGVVGFPFGGALVSFYTNFLNTIWPSEDPWKAFMEQ
+VEALMDQKIADYAKNKALAELQGLQNNVEDYVSALSSWQKNPVSSRNPHSQGRIRELFSQAESHFRNSMPSFAISGYE
+VLFLTTYAQAANTHLFLLKDAQIYGEEWGYEKEDIAEFYKRQLKLTQEYTDHCVKWYNVGLDKLRGSSYESWVNFNRY
+RREMTLTVLDLIALFPLYDVRLYPKEVKTELTRDVLTDPIVGVNNLRGYGTTFSNIENYIRKPHLFDYLHRIQFHTRF
+QPGYYGNDSFNYWSGNYVSTRPSIGSNDIITSPFYGNKSSEPVQNLEFNGEKVYRAVANTNLAVWPSAVYSGVTKVEF
+SQYNDQTDEASTQTYDSKRNVGAVSWDSIDQLPPETTDEPLEKGYSHQLNYVMCFLMQGSRGTIPVLTWTHKSVDFFN
+MIDSKKITQLPLVKAYKLQSGASVVAGPRFTGGDIIQCTENGSAATIYVTPDVSYSQKYRARIHYASTSQITFTLSLD
+GAPFNQYYFDKTINKGDTLTYNSFNLASFSTPFELSGNNLQIGVTGLSAGDKVYIDKIEFIPVN"
+        }
+      },
+      seq {
+        id {
+          local str "C8CA_BACTP"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">C8CA_BACTP"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 593,
+          seq-data ncbieaa "QDAVGTGIDIVSTIISGLGIPVLGEVFSILGSLIGLLWPSNNENVWQIFM
+NRVEELIDQKILDSVRSRAIADLANSRIAVEYYQNALEDWRKNPHSTRSAALVKERFGNAEAILRTNMGSFSQTNYET
+PLLPTYAQAASLHLLVMRDVQIYGKEWGYPQNDIDLFYKEQVSYTARYSDHCVQWYNAGLNKLRGTGAKQWVDYNRFR
+REMNVMVLDLVALFPNYDARIYPLETNAELTREIFTDPVGSYVTGQSSTLISWYDMIPAALPSFSTLENLLRKPDFFT
+LLQEIRMYTSFRQNGTIEYYNYWGGQRLTLSYIYGSSFNKYSGVLAGAEDIIPVGQNDIYRVVWTYIGRYTNSLLGVN
+PVTFYFSNNTQKTYSKPKQFAGGIKTIDSGEELTYENYQSYSHRVSYITSFEIKSTGGTVLGVVPIFGWTHSSASRNN
+FIYATKISQIPINKASRTSGGAVWNFQEGLYNGGPVMKLSGSGSQVINLRVATDAKGASQRYRIRIRYASDRAGKFTI
+SSRSPENPATYSASIAYTNTMSTNASLTYSTFAYAESGPINLGISGSSRTFDISITKEAGAANLYIDRIEFIPVN"
+        }
+      },
+      seq {
+        id {
+          local str "CQAA_BACTF"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CQAA_BACTF"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 593,
+          seq-data ncbieaa "SGAINAAIGVTGTVLGFLGVPFAGALTTFYQKLFGFLFPNNNTKQWEEFM
+KQVEALIDEKISDAVRNKAISELQGLVNNITLYTEALEEWLENKENPAVRDRVLQRWRILDGFFEQQMPSFAVKGFEV
+LLLVVYTQAANLHLLSLRDAYIYGAEWGLTPTNIDQNHTRLLRHSAEYTDHCVNWYNTGLKQLENSDAKSWFQYNRFR
+REMTLSVLDVIALFPAYDVKMYPIPTNFQLTREVYTDVIGKIGRNDSDHWYSANAPSFSNLESTLIRTPHVVDYIKKL
+KIFYATVDYYGIYGRSGKWVGHIITSATSANTTETRNYGTIVNHDSVELNFEGKNIYKTGSLPQGVPPYQIGYVTPIY
+FITRAVNFFTVSGSKTSVEKYYSKKDRYYSEGLPEEQGVFSTEQLPPNSIAEPEHIAYSHRLCHVTFISVSNGNKYSK
+DLPLFSWTHSSVDFDNYVYPTKITQLPATKGYNVSIVKEPGFIGGDIGKNNGQILGKYKVNVEDVSQKYRFRVRYATE
+TEGELGIKIDGRTVNLYQYKKTKAPGDPLTYKAFDYLSFSTPVKFNNASSTIELFLQNKTSGTFYLAGIEIIPVK"
+        }
+      },
+      seq {
+        id {
+          local str "C1BA_BACTK"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">C1BA_BACTK"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 588,
+          seq-data ncbieaa "STVQTGINIAGRILGVLGVPFAGQLASFYSFLVGELWPRGRDQWEIFLEH
+VEQLINQQITENARNTALARLQGLGDSFRAYQQSLEDWLENRDDARTRSVLYTQYIALELDFLNAMPLFAIRNQEVPL
+LMVYAQAANLHLLLLRDASLFGSEFGLTSQEIQRYYERQVERTRDYSDYCVEWYNTGLNSLRGTNAASWVRYNQFRRD
+LTLGVLDLVALFPSYDTRTYPINTSAQLTREVYTDAIGATGVNMASMNWYNNNAPSFSAIEAAAIRSPHLLDFLEQLT
+IFSASSRWSNTRHMTYWRGHTIQSRPIGGGLNTSTHGATNTSINPVTLRFASRDVYRTESYAGVLLWGIYLEPIHGVP
+TVRFNFTNPQNISDRGTANYSQPYESPGLQLKDSETELPPETTERPNYESYSHRLSHIGIILQSRVNVPVYSWTHRSA
+DRTNTIGPNRITQIPMVKASELPQGTTVVRGPGFTGGDILRRTNTGGFGPIRVTVNGPLTQRYRIGFRYASTVDFDFF
+VSRGGTTVNNFRFLRTMNSGDELKYGNFVRRAFTTPFTFTQIQDIIRTSIQGLSGNGEVYIDKIEIIPVT"
+        }
+      },
+      seq {
+        id {
+          local str "CKAA_BACUF"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CKAA_BACUF"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 581,
+          seq-data ncbieaa "PSSITAILASIGILNRVIALTGVLGNTQEVISIIQDALGFIRNGTGNELL
+IHVEQLIQQTLATQYRSAATGAIYGISRSYDNYLMFFRQWERNRTRENGQQVESAFTTINTLCINALAPQASLSRRGF
+ETLLLPNYAMAANFHLLLLRDAVLYRNQWLSNSISTANVNLNILRAAINEYITHCTRWYQDGLNRFDRSSRANMNEWR
+RFNAYRRDMTLSVLDFATVFPTYDPVLFPAATNVELTRVVYTDPIVMAGGRTAIPGFTRMENLVNSASRVSFLNQMNI
+YTSFYFRPHNIPRYYWSGNQNFLSNGTSNLYGYRSDGRTTFNVSNIDIFRVNMTTHIGGAFTDDYRGLHRAEFIGANT
+QNNQRTSLLYSVEIPSSHFRFENHTVFLPGESGLEPNERNYTHRLFQMMNEVSVNPNARGRVFLHAWTHRSLRRTNGL
+RSDQILQIPAVKTISNGGDRAVVLNYGENIMKLDNLTTGLSYKLTAVDSEASNTRFIVRVRYASMNNNKLNLVLNGAQ
+IASLNVEHTVQRGGSLTDLQYGNFKYATFAGNFKMGSQSILGIFKEIPNIDFVLDKIELIPSN"
+        }
+      },
+      seq {
+        id {
+          local str "C9AA_BACTG"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">C9AA_BACTG"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 604,
+          seq-data ncbieaa "GDAAKEAVSIGTTIVSLITAPSLTGLISIVYDLIGKVLGGSSGQSISDLS
+ICDLLSIIDLRVSQSVLNDGIADFNGSVLLYRNYLEALDSWNKNPNSASAEELRTRFRIADSEFDRILTRGSLTNGGS
+LARQNAQILLLPSFASAAFFHLLLLRDATRYGTNWGLYNATPFINYQSKLVELIELYTDYCVHWYNRGFNELRQRGTS
+ATAWLEFHRYRREMTLMVLDIVASFSSLDITNYPIETDFQLSRVIYTDPIGFVHRSSLRGESWFSFVNRANFSDLENA
+IPNPRPSWFLNNMIISTGSLTLPVSPSTDRARVWYGSRDRISPANSQFITELISGQHTTATQTILGRNIFRVDSQACN
+LNDTTYGVNRAVFYHDASEGSQRSVYEGYIRTTGIDNPRVQNINTYLPGENSDIPTPEDYTHILSTTINLTGGLRQVA
+SNRRSSLVMYGWTHKSLARNNTINPDRITQIPLTKVDTRGTGVSYVNDPGFIGGALLQRTDHGSLGVLRVQFPLHLRQ
+QYRIRVRYASTTNIRLSVNGSFGTISQNLPSTMRLGEDLRYGSFAIREFNTSIRPTASPDQIRLTIEPSFIRQEVYVD
+RIEFIPVN"
+        }
+      },
+      seq {
+        id {
+          local str "CPAA_BACTJ"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CPAA_BACTJ"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 602,
+          seq-data ncbieaa "FGTLGVLASIVISTINLATSPSIGDAFALVSSIGEYWPETKTSFPLSVAD
+VNRLIREALDQNAINRATGKFNGLMDTYNTVYLKNLQDWYDTRIPANPQGDSQLREAARRSLEEIERDFRKALAGEFA
+EAGSQIVLLPIYAQAANIHLLILKDAMQFRTDLGLIRPVGVPITTSAEDPFESEFLLRIKKYTDHCISYYDDGLAKIR
+SRGSDGETWWEFNKFRREMTLTVLDLVALYPTHNIKLYPIPTQTELSRVVYTDPVGCFGNRKSDIFSRLNFDYLENRL
+TRPREPFNYLNSVQLFASTVSNSNNGEVLRGNLNKIMFEGGWTASRSGDGVTTGTPFSTMDWSYGWGYPRKHYAEITS
+RSQALPGLNNSIHVIVGIDSFRAIGPGGQGDHTFSLPGGDMYDCGKVQINPLEDYRNSDHWISDMMTINQSVQLASNP
+TQTFAFSALSLGWHHSSAGNRNVYVYDKITQIPATKTVREHPMIKGPGFTGGDLADLSSNSDILQYDLRSDYDDRLTE
+DVPFRIRIRCASIGVSTISVDNWGSSSPQVTVASTAASLDTLKYESFQYVSIPGNYYFDSAPRIRLLRQPGRLLVDRI
+EIIPVN"
+        }
+      },
+      seq {
+        id {
+          local str "CJAA_BACTJ"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CJAA_BACTJ"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 585,
+          seq-data ncbieaa "VRAGLGKGLGIVSTIVGFFGGSIILDTIGLFYQISELLWPEDDTQQYTWQ
+DIMNHVEDLIDKRITEVIRGNAIRTLADLQGKVDDYNNWLKKWKDDPKSTGNLSTLVTKFTALDSDFNGAIRTVNNQG
+SPGYELLLLPVYAQIANLHLLLLRDAQIYGDKWWSARANARDNYYQIQLEKTKEYTEYCINWYNKGLNDFRTAGQWVN
+FNRYRREMTLTVLDIISMFPIYDARLYPTEVKTELTREIYSDVINGEIYGLMTPYFSFEKAESLYTRAPHLFTWLKGF
+RFVTNSISYWTFLSGGQNKYSYTNNSSINEGSFRGQDTDYGGTSSTINIPSNSYVYNLWTENYEYIYPWGDPVNITKM
+NFSVTDNNSSKELIYGAHRTNKPVVRTDFDFLTNKEGTELAKYNDYNHILSYMLINGETFGQKRHGYSFAFTHSSVDP
+NNTIAANKITQIPVVKASSINGSISIEKGPGFTGGDLVKMRADSGLTMRFKAELLDKKYRVRIRYKCNYSSKLILRKW
+KGEGYIQQQIHNISPTYGAFSYLESFTITTTENIFDLTMEVTYPYGRQFVEDIPSLILDKIEFLPTN"
+        }
+      },
+      seq {
+        id {
+          local str "CAAA_BACTI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CAAA_BACTI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 581,
+          seq-data ncbieaa "IVGVSAGIIVVGTMLGAFAAPVLAAGIISFGTLLPIFWQGSDPANVWQDL
+LNIGGRPIQEIDKNIINVLTSIVTPIKNQLDKYQEFFDKWEPARTHANAKAVHDLFTTLEPIIDKDLDMLKNNASYRI
+PTLPAYAQIATWHLNLLKHAATYYNIWLQNQGINPSTFNSSNYYQGYLKRKIQEYTDYCIQTYNAGLTMIRTNTNATW
+NMYNTYRLEMTLTVLDLIAIFPNYDPEKYPIGVKSELIREVYTNVNSDTFRTITELENGLTRNPTLFTWINQGRFYTR
+NSRDILDPYDIFSFTGNQMAFTHTNDDRNIIWGAVHGNIISQDTSKVFPFYRNKPIDKVEIVRHREYSDIIYEMIFFS
+NSSEVFRYSSNSTIENNYKRTDSYMIPKQTWKNEEYGHTLSYIKTDNYIFSVVRERRRVAFSWTHTSVDFQNTIDLDN
+ITQIHALKALKVSSDSKIVKGPGHTGGDLVILKDSMDFRVRFLKNVSRQYQVRIRYATNAPKTTVFLTGIDTISVELP
+STTSRQNPNATDLTYADFGYVTFPRTVPNKTFEGEDTLLMTLYGTPNHSYNIYIDKIEFIPIT"
+        }
+      },
+      seq {
+        id {
+          local str "C4BA_BACTI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">C4BA_BACTI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 593,
+          seq-data ncbieaa "SSSVSTALKVAGAILKFVNPPAGTVLTVLSAVLPILWPTNTPTPERVWND
+FMTNTGNLIDQTVTAYVRTDANAKMTVVKDYLDQYTTKFNTWKREPNNQSYRTAVITQFNLTSAKLRETAVYFSNLVG
+YELLLLPIYAQVANFNLLLIRDGLINAQEWSLARSAGDQLYNTMVQYTKEYIAHSITWYNKGLDVLRNKSNGQWITFN
+DYKREMTIQVLDILALFASYDPRRYPADKIDNTKLSKTEFTREIYTALVESPSSKSIAALEAALTRDVHLFTWLKRVD
+FWTNTIYQDLRFLSANKIGFSYTNSSAMQESGIYGSSGFGSNLTHQIQLNSNVYKTSITDTSSPSNRVTKMDFYKIDG
+TLASYNSNITPTPEGLRTTFFGFSTNENTPNQPTVNDYTHILSYIKTDVIDYNSNRVSFAWTHKIVDPNNQIYTDAIT
+QVPAVKSNFLNATAKVIKGPGHTGGDLVALTSNGTLSGRMEIQCKTSIFNDPTRSYGLRIRYAANSPIVLNVSYVLQG
+VSRGTTISTESTFSRPNNIIPTDLKYEEFRYKDPFDAIVPMRLSSNQLITIAIQPLNMTSNNQVIIDRIEIIPIT"
+        }
+      },
+      seq {
+        id {
+          local str "COAA_BACTJ"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">COAA_BACTJ"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 598,
+          seq-data ncbieaa "NISPSPAAAITSKIVSIVLKTLAKAVASSLADSIKSSLGISKTITENNVS
+QVSMVQVHQIINRRIQETILDLGESSLNGLVAIYNRDYLGALEAWNNNKSNINYQTNVAEAFKTVEREFFTKLKGIYR
+TSSSQITLLPTFTQAANLHLSMLRDAVMYQEGWNLQSHINYSKELDDALEDYTNYCVEVYTKGLNALRGSTAIDWLEF
+NSFRRDMTLMVLDLVAIFPNYNPVRYPLSTKISLSRKIYTDPVGRTDSPSFGDWTNTGRTLANFNDLEREVTDSPSLV
+KWLGDMTIYTGAIDSYRPTSPGDRIGVWYGNINAFYHTGRTDVVMFRQTGDTAYEDPSTFISNILYDDIYKLDLRAAA
+VSTIQGAMDTTFGVSSSRFFDIRGRNQLYQSNKPYPSLPITITFPGEESSEGNANDYSHLLCDVKILQEDSSNICEGR
+SSLLSHAWTHASLDRNNTILPDEITQIPAVTAYELRGNSSVVAGPGSTGGDLVKMSYHSVWSFKVYCSELKNYRVRIR
+YASHGNCQFLMKRWPSTGVAPRQWARHNVQGTFSNSMRYEAFKYLDIFTITPEENNFAFTIDLESGGDLFIDKIEFIP
+VS"
+        }
+      }
+    }
+  }
+}

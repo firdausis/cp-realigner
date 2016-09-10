@@ -1,0 +1,4056 @@
+Cdd ::= {
+  name "bb40022",
+  id {
+    gid {
+      accession "acc_bb40022",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                32,
+                3
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                55,
+                23
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                68,
+                38
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                70,
+                40
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                81,
+                48
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                95,
+                63
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                106,
+                73
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                109,
+                75
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                133,
+                95
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                138,
+                97
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                147,
+                106
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                160,
+                116
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                172,
+                121
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                185,
+                124
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                192,
+                131
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                199,
+                137
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                205,
+                146
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1a0h_A"
+              },
+              starts {
+                232,
+                155
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                35,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                55,
+                17
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                68,
+                32
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                70,
+                34
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                81,
+                42
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                95,
+                56
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                106,
+                66
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1b2i_A"
+              },
+              starts {
+                109,
+                68
+              },
+              len 11
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1bht_A"
+              },
+              starts {
+                4,
+                60
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1bht_A"
+              },
+              starts {
+                13,
+                69
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1bht_A"
+              },
+              starts {
+                19,
+                74
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1bht_A"
+              },
+              starts {
+                32,
+                90
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1bht_A"
+              },
+              starts {
+                55,
+                110
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1bht_A"
+              },
+              starts {
+                68,
+                125
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1bht_A"
+              },
+              starts {
+                70,
+                127
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1bht_A"
+              },
+              starts {
+                81,
+                135
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1bht_A"
+              },
+              starts {
+                95,
+                150
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1bht_A"
+              },
+              starts {
+                106,
+                160
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1bht_A"
+              },
+              starts {
+                109,
+                162
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1i71_A"
+              },
+              starts {
+                34,
+                0
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1i71_A"
+              },
+              starts {
+                55,
+                18
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1i71_A"
+              },
+              starts {
+                68,
+                33
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1i71_A"
+              },
+              starts {
+                70,
+                35
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1i71_A"
+              },
+              starts {
+                81,
+                43
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1i71_A"
+              },
+              starts {
+                95,
+                57
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1i71_A"
+              },
+              starts {
+                106,
+                67
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1i71_A"
+              },
+              starts {
+                109,
+                69
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                35,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                55,
+                17
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                68,
+                32
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                70,
+                34
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                81,
+                42
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                85,
+                45
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                95,
+                55
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                106,
+                65
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1kdu_"
+              },
+              starts {
+                112,
+                70
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                0,
+                32
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                3,
+                37
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                13,
+                47
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                20,
+                51
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                27,
+                54
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                32,
+                62
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                55,
+                82
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                68,
+                97
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                70,
+                99
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                81,
+                107
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                95,
+                122
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                106,
+                132
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1nl1_A"
+              },
+              starts {
+                109,
+                134
+              },
+              len 13
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1pk2_"
+              },
+              starts {
+                32,
+                3
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1pk2_"
+              },
+              starts {
+                55,
+                23
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1pk2_"
+              },
+              starts {
+                68,
+                38
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1pk2_"
+              },
+              starts {
+                70,
+                40
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1pk2_"
+              },
+              starts {
+                95,
+                65
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "1pk2_"
+              },
+              starts {
+                106,
+                75
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "5hpg_A"
+              },
+              starts {
+                34,
+                0
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "5hpg_A"
+              },
+              starts {
+                55,
+                18
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "5hpg_A"
+              },
+              starts {
+                68,
+                33
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "5hpg_A"
+              },
+              starts {
+                70,
+                36
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "5hpg_A"
+              },
+              starts {
+                81,
+                44
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "5hpg_A"
+              },
+              starts {
+                95,
+                59
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "5hpg_A"
+              },
+              starts {
+                106,
+                69
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "5hpg_A"
+              },
+              starts {
+                109,
+                71
+              },
+              len 13
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                3,
+                3
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                9,
+                7
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                13,
+                11
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                22,
+                17
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                32,
+                30
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                55,
+                52
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                68,
+                65
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                70,
+                67
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                95,
+                92
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                138,
+                135
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                147,
+                144
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                157,
+                154
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                160,
+                157
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                192,
+                189
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                205,
+                202
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                216,
+                213
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                226,
+                223
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                236,
+                233
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                237,
+                234
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                238,
+                235
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                255,
+                253
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                275,
+                273
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                282,
+                280
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                296,
+                293
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                297,
+                294
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                305,
+                302
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                314,
+                311
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                331,
+                328
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                337,
+                334
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                340,
+                335
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                345,
+                341
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                347,
+                343
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                349,
+                345
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                354,
+                362
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                359,
+                379
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                375,
+                395
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                384,
+                407
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                389,
+                416
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                397,
+                423
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                403,
+                430
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                431,
+                458
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                439,
+                464
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "KRM1_HUMAN"
+              },
+              starts {
+                460,
+                474
+              },
+              len 1
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                0,
+                206
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                2,
+                207
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                3,
+                210
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                20,
+                220
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                30,
+                228
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                32,
+                233
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                55,
+                253
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                68,
+                268
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                75,
+                270
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                82,
+                273
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                95,
+                287
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                106,
+                297
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                138,
+                329
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                147,
+                338
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                157,
+                348
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                159,
+                349
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                160,
+                350
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                184,
+                368
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                192,
+                376
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                205,
+                389
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                216,
+                400
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                220,
+                401
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                226,
+                420
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                236,
+                435
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                237,
+                458
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                238,
+                466
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                255,
+                480
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                275,
+                500
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                291,
+                508
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                300,
+                513
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                305,
+                526
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                321,
+                535
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                326,
+                536
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                331,
+                541
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                345,
+                546
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                347,
+                548
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                349,
+                550
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                354,
+                567
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                358,
+                569
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                359,
+                582
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                375,
+                601
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                384,
+                618
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                389,
+                628
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                403,
+                643
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                411,
+                645
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_DROME"
+              },
+              starts {
+                431,
+                668
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                0,
+                274
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                3,
+                279
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                13,
+                289
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                15,
+                290
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                19,
+                293
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                32,
+                309
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                55,
+                329
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                68,
+                344
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                70,
+                346
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                81,
+                354
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                95,
+                369
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                106,
+                379
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                109,
+                381
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                133,
+                401
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                138,
+                406
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                147,
+                415
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                154,
+                419
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                160,
+                422
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                173,
+                427
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                185,
+                428
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                192,
+                435
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                205,
+                452
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                216,
+                463
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                220,
+                464
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                226,
+                483
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                236,
+                498
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                237,
+                522
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                238,
+                530
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                255,
+                544
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                275,
+                564
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                282,
+                575
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                300,
+                589
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                305,
+                602
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                321,
+                611
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                326,
+                612
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                331,
+                617
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                345,
+                622
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                347,
+                624
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                349,
+                626
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                354,
+                643
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                358,
+                645
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                359,
+                658
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                375,
+                677
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                384,
+                694
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                389,
+                704
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                403,
+                719
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                411,
+                721
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                431,
+                744
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "ROR1_HUMAN"
+              },
+              starts {
+                454,
+                773
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                0,
+                259
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                3,
+                264
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                21,
+                268
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                32,
+                282
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                55,
+                302
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                68,
+                317
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                70,
+                319
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                95,
+                344
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                106,
+                354
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                138,
+                380
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                147,
+                389
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                157,
+                399
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                160,
+                402
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                171,
+                407
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                184,
+                414
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                191,
+                420
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                192,
+                421
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                206,
+                434
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                216,
+                444
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                220,
+                445
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                226,
+                457
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                236,
+                472
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                257,
+                483
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                261,
+                486
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                269,
+                493
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                275,
+                499
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                282,
+                510
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                300,
+                513
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                305,
+                526
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                314,
+                535
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                326,
+                543
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                331,
+                548
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                345,
+                553
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                347,
+                555
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                349,
+                557
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                354,
+                584
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                358,
+                586
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                359,
+                599
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                368,
+                602
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                375,
+                612
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                384,
+                638
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "HGFA_HUMAN"
+              },
+              starts {
+                389,
+                644
+              },
+              len 11
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                0,
+                56
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                2,
+                57
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                3,
+                59
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                13,
+                70
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                32,
+                89
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                44,
+                96
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                55,
+                104
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                68,
+                119
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                70,
+                121
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                78,
+                127
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                95,
+                144
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                138,
+                191
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                147,
+                203
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                157,
+                220
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                160,
+                233
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                192,
+                272
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                205,
+                289
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                216,
+                302
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                226,
+                325
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                236,
+                340
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                259,
+                341
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                275,
+                368
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                282,
+                379
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                296,
+                399
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                297,
+                430
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                305,
+                446
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                314,
+                465
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                331,
+                504
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                337,
+                527
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                345,
+                536
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                347,
+                556
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                349,
+                579
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                354,
+                809
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                359,
+                826
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                370,
+                831
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                375,
+                840
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "KRM2_HUMAN",
+                local str "NETR_HUMAN"
+              },
+              starts {
+                384,
+                866
+              },
+              len 5
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1a0h_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1a0h_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 157,
+          seq-data ncbieaa "SPLLETCVPDRGREYRGRLAVTTHGSRCLAWSSEQAKALSKDQDFNPAVP
+LAENFCRNPDGDEEGAWCYVADQPGDFEYCDLNYCEEPVDGDLGDRLGEDPDAAIEGRTSEDHFQPFFNEKTFGAGEA
+DCGLRPLFEKKQVQDQTEKELFESYIEGR"
+        }
+      },
+      seq {
+        id {
+          local str "1b2i_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1b2i_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 79,
+          seq-data ncbieaa "CMHGSGENYDGKISKTMSGLECQAWDSQSPHAHGYIPSKFPNKNLKKNYC
+RNPDRELRPWCFTTDPNKRWELCDIPRCT"
+        }
+      },
+      seq {
+        id {
+          local str "1bht_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1bht_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 176,
+          seq-data ncbieaa "RRNTIHEFKKSAKTTLIKIDPALKIKTKKVNTADQCANRCTRNKGLPFTC
+KAFVFDKARKQCLWFPFNSMSSGVKKEFGHEFDLYENKDYIRNCIIGKGRSYKGTVSITKSGIKCQPWSSMIPHEHSF
+LPSSYRGKDLQENYCRNPRGEEGGPWCFTSNPEVRYEVCDIPQCSEVE"
+        }
+      },
+      seq {
+        id {
+          local str "1i71_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1i71_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 83,
+          seq-data ncbieaa "DCYHGDGQSYRGSFSTTVTGRTCQSWSSMTPHWHQRTTEYYPNGGLTRNY
+CRNPDAEIRPWCYTMDPSVRWEYCNLTQCPVME"
+        }
+      },
+      seq {
+        id {
+          local str "1kdu_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1kdu_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 79,
+          seq-data ncbieaa "CYEGNGHFYRGKASTDTMGRPCLPWNSATVLQQTYHAHRSDAGLGKNYCR
+NPDNRRRPWCYVQGLKPLVQECMVHDCAD"
+        }
+      },
+      seq {
+        id {
+          local str "1nl1_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1nl1_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 147,
+          seq-data ncbieaa "ANKGFLXXVRKGNLXRXCLXXPCSRXXAFXALXSLSATDAFWAKYTACES
+ARNPREKLNECLEGNCAEGVGMNYRGNVSVTRSGIECQLWRSRYPHKPEINSTTHPGADLRENFCRNPDGSITGPWCY
+TTSPTLRREECSVPVCGQD"
+        }
+      },
+      seq {
+        id {
+          local str "1pk2_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1pk2_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 90,
+          seq-data ncbieaa "SEGNSDCYFGNGSAYRGTHSLTESGASCLPWNSMILIGKVYTAQNPSAQA
+LGLGKHNYCRNPDGDAKPWCHVLKNRRLTWEYCDVPSCST"
+        }
+      },
+      seq {
+        id {
+          local str "5hpg_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">5hpg_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 84,
+          seq-data ncbieaa "DCMFGNGKGYRGKRVTTVTGTPCQDWAAQEPHRHSIFTPETNPRAGLEKN
+YCRNPDGDVGGPWCYTTNPRKLYDYCDVPQCAAP"
+        }
+      },
+      seq {
+        id {
+          local str "KRM2_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KRM2_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 462,
+          seq-data ncbieaa "MGTQALQGFLFLLFLPLLQPRGASAGSLHSPGLSECFQVNGADYRGHQNR
+TGPRGAGRPCLFWDQTQQHSYSSASDPHGRWGLGAHNFCRNPDGDVQPWCYVAETEEGIYWRYCDIPSCHMPGYLGCF
+VDSGAPPALSGPSGTSTKLTVQVCLRFCRMKGYQLAGVEAGYACFCGSESDLARGRLAPATDCDQICFGHPGQLCGGD
+GRLGVYEVSVGSCQGNWTAPQGVIYSPDFPDEYGPDRNCSWALGPPGAALELTFRLFELADPRDRLELRDAASGSLLR
+AFDGARPPPSGPLRLGTAALLLTFRSDARGHAQGFALTYRGLQDAAEDPEAPEGSAQTPAAPLDGANVSCSPRPGAPP
+AAIGARVFSTVTAVSVLLLLLLGLLRPLRRRSCLLAPGKGPPALGASRGPRRSWAVWYQQPRGVALPCSPGDPQAEGS
+AAGYRPLSASSQSSLRSLISAL"
+        }
+      },
+      seq {
+        id {
+          local str "KRM1_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KRM1_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 475,
+          seq-data ncbieaa "MAPPAARLALLSAAALTLAARPAPSPGLGPGPECFTANGADYRGTQNWTA
+LQGGKPCLFWNETFQHPYNTLKYPNGEGGLGEHNYCRNPDGDVSPWCYVAEHEDGVYWKYCEIPACQMPGNLGCYKDH
+GNPPPLTGTSKTSNKLTIQTCISFCRSQRFKFAGMESGYACFCGNNPDYWKYGEAASTECNSVCFGDHTQPCGGDGRI
+ILFDTLVGACGGNYSAMSSVVYSPDFPDTYATGRVCYWTIRVPGASHIHFSFPLFDIRDSADMVELLDGYTHRVLARF
+HGRSRPPLSFNVSLDFVILYFFSDRINQAQGFAVLYQAVKEELPQERPAVNQTVAEVITEQANLSVSAARSSKVLYVI
+TTSPSHPPQTVPGSNSWAPPMGAGSHRVEGWTVYGLATLLILTVTAIVAKILLHVTFKSHRVPASGDLRDCHQPGTSG
+EIWSIFYKPSTSISIFKKKLKGQSQQDDRNPLVSD"
+        }
+      },
+      seq {
+        id {
+          local str "ROR1_DROME"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ROR1_DROME"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 685,
+          seq-data ncbieaa "MNKYSAFIVCISLVLLFTKKDVGSHNVDSRIYGFQQSSGICHIYNGTICR
+DVLSNAHVFVSPNLTMNDLEERLKAAYGVIKESKDMNANCRMYALPSLCFSSMPICRTPERTNLLYFANVATNAKQLK
+NVSIRRKRTKSKDIKNISIFKKKSTIYEDVFSTDISSKYPPTRESENLKRICREECELLENELCQKEYAIAKRHPVIG
+MVGVEDCQKLPQHKDCLSLGITIEVDKTENCYWEDGSTYRGVANVSASGKPCLRWSWLMKEISDFPELIGQNYCRNPG
+SVENSPWCFVDSSRERIIELCDIPKCADKIWIAIVGTTAAIILIFIIIFAIILFKRRTIMHYGMRNIHNINTPSADKN
+IYGNSQLNNAQDAGRGNLGNLSDHVALNSKLIERNTLLRINHFTLQDVEFLEELGEGAFGKVYKGQLLQPNKTTITVA
+IKALKENASVKTQQDFKREIELISDLKHQNIVCILGVVLNKEPYCMLFEYMANGDLHEFLISNSPTEGKSLSQLEFLQ
+IALQISEGMQYLSAHHYVHRDLAARNCLVNEGLVVKISDFGLSRDIYSSDYYRVQSKSLLPVRWMPSESILYGKFTTE
+SDVWSFGVVLWEIYSYGMQPYYGFSNQEVINLIRSRQLLSAPENCPTAVYSLMIECWHEQSVKRPTFTDISNRLKTWH
+EGHFKASNPEM"
+        }
+      },
+      seq {
+        id {
+          local str "ROR1_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ROR1_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 937,
+          seq-data ncbieaa "MHRPRRRGTRPPLLALLAALLLAARGAAAQETELSVSAELVPTSSWNISS
+ELNKDSYLTLDEPMNNITTSLGQTAELHCKVSGNPPPTIRWFKNDAPVVQEPRRLSFRSTIYGSRLRIRNLDTTDTGY
+FQCVATNGKEVVSSTGVLFVKFGPPPTASPGYSDEYEEDGFCQPYRGIACARFIGNRTVYMESLHMQGEIENQITAAF
+TMIGTSSHLSDKCSQFAIPSLCHYAFPYCDETSSVPKPRDLCRDECEILENVLCQTEYIFARSNPMILMRLKLPNCED
+LPQPESPEAANCIRIGIPMADPINKNHKCYNSTGVDYRGTVSVTKSGRQCQPWNSQYPHTHTFTALRFPELNGGHSYC
+RNPGNQKEAPWCFTLDENFKSDLCDIPACDSKDSKEKNKMEILYILVPSVAIPLAIALLFFFICVCRNNQKSSSAPVQ
+RQPKHVRGQNVEMSMLNAYKPKSKAKELPLSAVRFMEELGECAFGKIYKGHLYLPGMDHAQLVAIKTLKDYNNPQQWM
+EFQQEASLMAELHHPNIVCLLGAVTQEQPVCMLFEYINQGDLHEFLIMRSPHSDVGCSSDEDGTVKSSLDHGDFLHIA
+IQIAAGMEYLSSHFFVHKDLAARNILIGEQLHVKISDLGLSREIYSADYYRVQSKSLLPIRWMPPEAIMYGKFSSDSD
+IWSFGVVLWEIFSFGLQPYYGFSNQEVIEMVRKRQLLPCSEDCPPRMYSLMTECWNEIPSRRPRFKDIHVRLRSWEGL
+SSHTSSTTPSGGNATTQTTSLSASPVSNLSNPRYPNYMFPSQGITPQGQIAGFIGPPIPQNQRFIPINGYPIPPGYAA
+FPAAHYQPTGPPRVIQHCPPPKSRSPSSASGSTSTGHVTSLPSSGSNQEANIPLLPHMSIPNHPGGMGITVFGNKSQK
+PYKIDSKQASLLGDANIHGHTESMISAEL"
+        }
+      },
+      seq {
+        id {
+          local str "HGFA_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">HGFA_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 655,
+          seq-data ncbieaa "MGRWAWVPSPWPPPGLGPFLLLLLLLLLLPRGFQPQPGGNRTESPEPNAT
+ATPAIPTILVTSVTSETPATSAPEAEGPQSGGLPPPPRAVPSSSSPQAQALTEDGRPCRFPFRYGGRMLHACTSEGSA
+HRKWCATTHNYDRDRAWGYCVEATPPPGGPAALDPCASGPCLNGGSCSNTQDPQSYHCSCPRAFTGKDCGTEKCFDET
+RYEYLEGGDRWARVRQGHVEQCECFGGRTWCEGTRHTACLSSPCLNGGTCHLIVATGTTVCACPPGFAGRLCNIEPDE
+RCFLGNGTGYRGVASTSASGLSCLAWNSDLLYQELHVDSVGAAALLGLGPHAYCRNPDNDERPWCYVVKDSALSWEYC
+RLEACESLTRVQLSPDLLATLPEPASPGRQACGRRHKKRTFLRPRIIGGSSSLPGSHPWLAAIYIGDSFCAGSLVHTC
+WVVSAAHCFSHSPPRDSVSVVLGQHFFNRTTDVTQTFGIEKYIPYTLYSVFNPSDHDLVLIRLKKKGDRCATRSQFVQ
+PICLPEPGSTFPAGHKCQIAGWGHLDENVSGYSSSLREALVPLVADHKCSSPEVYGADISPNMLCAGYFDCKSDACQG
+DSGGPLACEKNGVAYLYGIISWGDGCGRLHKPGVYTRVANYVDWINDRIRPPRRLVAPS"
+        }
+      },
+      seq {
+        id {
+          local str "NETR_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">NETR_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 875,
+          seq-data ncbieaa "MTLARFVLALMLGALPEVVGFDSVLNDSLHHSHRHSPPAGPHYPYYLPTQ
+QRPPTTRPPPPLPRFPRPPRALPAQRPHALQAGHTPRPHPWGCPAGEPWVSVTDFGAPCLRWAEVPPFLERSPPASWA
+QLRGQRHNFCRSPDGAGRPWCFYGDARGKVDWGYCDCRHGSVRLRGGKNEFEGTVEVYASGVWGTVCSSHWDDSDASV
+ICHQLQLGGKGIAKQTPFSGLGLIPIYWSNVRCRGDEENILLCEKDIWQGGVCPQKMAAAVTCSFSHGPTFPIIRLAG
+GSSVHEGRVELYHAGQWGTVCDDQWDDADAEVICRQLGLSGIAKAWHQAYFGEGSGPVMLDEVRCTGNELSIEQCPKS
+SWGEHNCGHKEDAGVSCTPLTDGVIRLAGGKGSHEGRLEVYYRGQWGTVCDDGWTELNTYVVCRQLGFKYGKQASANH
+FEESTGPIWLDDVSCSGKETRFLQCSRRQWGRHDCSHREDVSIACYPGGEGHRLSLGFPVRLMDGENKKEGRVEVFIN
+GQWGTICDDGWTDKDAAVICRQLGYKGPARARTMAYFGEGKGPIHVDNVKCTGNERSLADCIKQDIGRHNCRHSEDAG
+VICDYFGKKASGNSNKESLSSVCGLRLLHRRQKRIIGGKNSLRGGWPWQVSLRLKSSHGDGRLLCGATLLSSCWVLTA
+AHCFKRYGNSTRSYAVRVGDYHTLVPEEFEEEIGVQQIVIHREYRPDRSDYDIALVRLQGPEEQCARFSSHVLPACLP
+LWRERPQKTASNCYITGWGDTGRAYSRTLQQAAIPLLPKRFCEERYKGRFTGRMLCAGNLHEHKRVDSCQGDSGGPLM
+CERPGESWVVYGVTSWGYGCGVKDSPGVYTKVSAFVPWIKSVTKL"
+        }
+      }
+    }
+  }
+}

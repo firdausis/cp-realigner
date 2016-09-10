@@ -1,0 +1,394 @@
+Cdd ::= {
+  name "bb11021",
+  id {
+    gid {
+      accession "acc_bb11021",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1aac_"
+              },
+              starts {
+                4,
+                0
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1aac_"
+              },
+              starts {
+                24,
+                25
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1aac_"
+              },
+              starts {
+                51,
+                38
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1aac_"
+              },
+              starts {
+                76,
+                50
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1aac_"
+              },
+              starts {
+                92,
+                57
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1aac_"
+              },
+              starts {
+                96,
+                69
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1aac_"
+              },
+              starts {
+                97,
+                70
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1aac_"
+              },
+              starts {
+                103,
+                74
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1aac_"
+              },
+              starts {
+                130,
+                97
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1pmy_"
+              },
+              starts {
+                17,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1pmy_"
+              },
+              starts {
+                24,
+                13
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1pmy_"
+              },
+              starts {
+                78,
+                28
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1pmy_"
+              },
+              starts {
+                86,
+                35
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1pmy_"
+              },
+              starts {
+                96,
+                52
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1pmy_"
+              },
+              starts {
+                97,
+                54
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1pmy_"
+              },
+              starts {
+                125,
+                80
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1kdi_"
+              },
+              starts {
+                15,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1kdi_"
+              },
+              starts {
+                24,
+                9
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1kdi_"
+              },
+              starts {
+                77,
+                35
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1kdi_"
+              },
+              starts {
+                96,
+                62
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1kdi_"
+              },
+              starts {
+                97,
+                63
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "1ov8_A",
+                local str "1kdi_"
+              },
+              starts {
+                125,
+                89
+              },
+              len 13
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1aac_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1aac_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 105,
+          seq-data ncbieaa "DKATIPSESPFAAAEVADGAIVVDIAKMKYETPELHVKVGDTVTWINREA
+MPHNVHFVAGVLGEAALKGPMMKKEQAYSLTFTEAGTYDYHCTPHPFMRGKVVVE"
+        }
+      },
+      seq {
+        id {
+          local str "1pmy_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1pmy_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 123,
+          seq-data ncbieaa "DEVAVKMLNSGPGGMMVFDPALVRLKPGDSIKFLPTDKGHNVETIKGMAP
+DGADYVKTTVGQEAVVKFDKEGVYGFKCAPHYMMGMVALVVVGDKRDNLEAAKSVQHNKLTQKRLDPLFAQIQ"
+        }
+      },
+      seq {
+        id {
+          local str "1kdi_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1kdi_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 102,
+          seq-data ncbieaa "AKVEVGDEVGNFKFYPDSITVSAGEAVEFTLVGETGHNIVFDIPAGAPGT
+VASELKAASMDENDLLSEDEPSFKAKVSTPGTYTFYCTPHKSANMKGTLTVK"
+        }
+      },
+      seq {
+        id {
+          local str "1ov8_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ov8_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 139,
+          seq-data ncbieaa "ANAPGGSNVVNETPAQTVEVRAAPDALAFAQTSLSLPANTVVRLDFVNQN
+NLGVQHNWVLVNGGDDVAAAVNTAAQNNADALFVPPPDTPNALAWTAMLNAGESGSVTFRTPAPGTYLYICTFPGHYL
+AGMKGTLTVTP"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2215 @@
+Cdd ::= {
+  name "bbs12013",
+  id {
+    gid {
+      accession "acc_bbs12013",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                21,
+                24
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                43,
+                48
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                47,
+                49
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                53,
+                57
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                59,
+                61
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                79,
+                81
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                90,
+                92
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                122,
+                125
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                126,
+                130
+              },
+              len 70
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                197,
+                200
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                204,
+                201
+              },
+              len 59
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                264,
+                260
+              },
+              len 58
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                322,
+                318
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                348,
+                344
+              },
+              len 59
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                408,
+                405
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                410,
+                407
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                431,
+                428
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                463,
+                455
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                478,
+                458
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                497,
+                463
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                502,
+                465
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                506,
+                468
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                508,
+                471
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                530,
+                493
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                574,
+                537
+              },
+              len 90
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1evu_A"
+              },
+              starts {
+                665,
+                627
+              },
+              len 49
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                21,
+                21
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                43,
+                43
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                46,
+                44
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                53,
+                51
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                72,
+                64
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                79,
+                72
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                86,
+                77
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                90,
+                82
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                122,
+                114
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                126,
+                119
+              },
+              len 196
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                322,
+                316
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                348,
+                342
+              },
+              len 59
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                408,
+                403
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                410,
+                405
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                431,
+                426
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                506,
+                461
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                509,
+                463
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                530,
+                484
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                574,
+                528
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1g0d_A"
+              },
+              starts {
+                602,
+                553
+              },
+              len 112
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                21,
+                21
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                43,
+                43
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                46,
+                44
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                53,
+                51
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                79,
+                76
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                90,
+                87
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                120,
+                116
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                122,
+                118
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                126,
+                122
+              },
+              len 196
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                323,
+                318
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                348,
+                343
+              },
+              len 60
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                408,
+                405
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                410,
+                407
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                431,
+                428
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                503,
+                463
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                508,
+                468
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                530,
+                490
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                574,
+                534
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "1l9m_A"
+              },
+              starts {
+                603,
+                562
+              },
+              len 111
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                21,
+                21
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                43,
+                45
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                48,
+                46
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                53,
+                51
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                79,
+                77
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                90,
+                88
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                123,
+                117
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                126,
+                121
+              },
+              len 72
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                205,
+                193
+              },
+              len 59
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                265,
+                252
+              },
+              len 57
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                322,
+                309
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                348,
+                335
+              },
+              len 60
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                408,
+                397
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                410,
+                401
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                431,
+                422
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                478,
+                459
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                481,
+                461
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                503,
+                464
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                508,
+                470
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                530,
+                492
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                567,
+                528
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                574,
+                538
+              },
+              len 86
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGM4_HUMAN"
+              },
+              starts {
+                661,
+                624
+              },
+              len 53
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                21,
+                21
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                43,
+                45
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                53,
+                55
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                79,
+                81
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                90,
+                92
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                125,
+                122
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                126,
+                124
+              },
+              len 72
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                206,
+                196
+              },
+              len 116
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                322,
+                312
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                348,
+                338
+              },
+              len 59
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                408,
+                399
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                410,
+                401
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                431,
+                422
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                477,
+                460
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                503,
+                471
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                508,
+                476
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                530,
+                498
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "EP42_HUMAN"
+              },
+              starts {
+                574,
+                542
+              },
+              len 140
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                0,
+                0
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                21,
+                27
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                43,
+                51
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                47,
+                52
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                53,
+                60
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                79,
+                88
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                90,
+                99
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                122,
+                131
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                126,
+                136
+              },
+              len 72
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                204,
+                208
+              },
+              len 59
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                264,
+                267
+              },
+              len 58
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                322,
+                325
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                348,
+                355
+              },
+              len 59
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                409,
+                416
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                410,
+                419
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                431,
+                440
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                478,
+                477
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                497,
+                482
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                502,
+                484
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                506,
+                487
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                508,
+                490
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                530,
+                513
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "ANNU_SCHAM"
+              },
+              starts {
+                574,
+                557
+              },
+              len 140
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                0,
+                0
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                21,
+                26
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                43,
+                50
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                47,
+                51
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                53,
+                59
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                59,
+                63
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                79,
+                87
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                90,
+                98
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                122,
+                135
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                126,
+                140
+              },
+              len 70
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                197,
+                210
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                204,
+                211
+              },
+              len 118
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                322,
+                329
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                348,
+                355
+              },
+              len 59
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                408,
+                416
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                410,
+                420
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                431,
+                447
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                478,
+                484
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                497,
+                489
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                502,
+                491
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                506,
+                494
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                508,
+                497
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                530,
+                519
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                574,
+                563
+              },
+              len 90
+            },
+            {
+              dim 2,
+              ids {
+                local str "TGM5_HUMAN",
+                local str "TGMH_TACTR"
+              },
+              starts {
+                665,
+                653
+              },
+              len 49
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1evu_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1evu_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 676,
+          seq-data ncbieaa "LNVTSVHLFKERWDTNKVDHHTDKYENNKLIVRRGQSFYVQIDFSRPYDP
+RRDLFRVEYVIGRYPQENKGTYIPVPIVSELQSGKWGAKIVMREDRSVRLSIQSSPKCIVGKFRMYVAVWTPYGVLRT
+SRNPETDTYILFNPWCEDDAVYLDNEKEREEYVLNDIGVIFYGEVNDIKTRSWSYGQFEDGILDTCLYVMDRAQMDLS
+GRGNPIKVSRVGSAMVNAKDDEGVLVGSWDNIYAYGVPPSAWTGSVDILLEYRSSENPVRYGQCWVFAGVFNTFLRCL
+GIPARIVTNYFSAHDNDANLQMDIFLEEDGNVNSKLTKDSVWNYHCWNEAWMTRPDLPVGFGGWQAVDSTPQENSDGM
+YRCGPASVQAIKHGHVCFQFDAPFVFAEVNSDLIYITAKKDGTHVVENVDATHIGKLIVTKQIGGDGMMDITDTYKFQ
+EGQEEERLALETALMYGAKKPLNTSNVDMDFEVENAVLGKDFKLSITFRNNSHNRYTITAYLSANITFYTGVPKAEFK
+KETFDVTLEPLSFKKEAVLIQAGEYMGQLLEQASLHFFVTARINETRDVLAKQKSTVLTIPEIIIKVRGTQVVGSDMT
+VTVQFTNPLKETLRNVWVHLDGPGVTRPMKKMFREIRPNSTVQWEEVCRPWVSGHRKLIASMSSDSLRHVYGELDVQI
+QR"
+        }
+      },
+      seq {
+        id {
+          local str "1g0d_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1g0d_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 665,
+          seq-data ncbieaa "GLIVDVNGRSHENNLAHRTREIDRERLIVRRGQPFSITLQCSDSLPPKHH
+LELVLHLGKRDEVVIKVQKEHGARDKWWFNQQGAQDEILLTLHSPANAVIGHYRLAVLVMSPDGHIVERADKISFHML
+FNPWCRDDMVYLPDESKLQEYVMNEDGVIYMGTWDYIRSIPWNYGQFEDYVMDICFEVLDNSPAALKNSEMDIEHRSD
+PVYVGRTITAMVNSNGDRGVLTGRWEEPYTDGVAPYRWTGSVPILQQWSKAGVRPVKYGQCWVFAAVACTVLRCLGIP
+TRPITNFASAHDVDGNLSVDFLLNERLESLDSRQRSDSSWNFHCWVESWMSREDLPEGNDGWQVLDPTPQELSDGEFC
+CGPCPVAAIKEGNLGVKYDAPFVFAEVNADTIYWIVQKDGQRRKITEDHASVGKNISTKSVYGNHREDVTLHYKYPEG
+SQKEREVYKKAGRRVTRLQLSIKHAQPVFGTDFDVIVEVKNEGGRDAHAQLTMLAMAVTYNSLRRGECQRKTISVTVP
+AHKAHKEVMRLHYDDYVRCVSEHHLIRVKALLDAPGPIMTVANIPLSTPELLVQVPGKAVVWEPLTAYVSFTNPLPVP
+LKGGVFTLEGAGLLSATQIHVNGAVAPSGKVSVKLSFSPMRTGVRKLLVDFDSDRLKDVKGVTTVVVHK"
+        }
+      },
+      seq {
+        id {
+          local str "1l9m_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1l9m_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 673,
+          seq-data ncbieaa "LGVQSINWQTAFNRQAHHTDKFSSQELILRRGQNFQVLMIMNKGLGSNER
+LEFIVSTGPYPSESAMTKAVFPLSNGSSGGWSAVLQASNGNTLTISISSPASAPIGRYTMALQIFSQGGISSVKLGTF
+ILLFNPWLNVDSVFMGNHAEREEYVQEDAGIIFVGSTNRIGMIGWNFGQFEEDILSICLSILDRSLNFRRDAATDVAS
+RNDPKYVGRVLSAMINSNDDNGVLAGNWSGTYTGGRDPRSWDGSVEILKNWKKSGLSPVRYGQCWVFAGTLNTALRSL
+GIPSRVITNFNSAHDTDRNLSVDVYYDPMGNPLDKGSDSVWNFHVWNEGWFVRSDLGPSYGGWQVLDATPQERSQGVF
+QCGPASVIGVREGDVQLNFDMPFIFAEVNADRITWLYDNTTGKQWKNSVNSHTIGRYISTKAVGSNARMDVTDKYKYP
+EGSDQERQVFQKALGKLKPEPSIIGKLKVAGMLAVGKEVNLVLLLKNLSRDTKTVTVNMTAWTIIYNGTLVHEVWKDS
+ATMSLDPEEEAEHPIKISYAQYERYLKSDNMIRITAVCKVPDESEVVVERDIILDNPTLTLEVLNEARVRKPVNVQML
+FSNPLDEPVRDCVLMVEGSGLLLGNLKIDVPTLGPKERSRVRFDILPSRSGTKQLLADFSCNKFPAIKAMLSIDVAE"
+        }
+      },
+      seq {
+        id {
+          local str "TGM5_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TGM5_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 714,
+          seq-data ncbieaa "LEVALTDLQSSRNNVRHHTEEITVDHLLVRRGQAFNLTLYFRNRSFQPGL
+DNIIFVVETGPLPDLALGTRAVFSLARHHSPSPWIAWLETNGATSTEVSLCAPPTAAVGRYLLKIHIDSFQGSVTAYQ
+LGEFILLFNPWCPEDAVYLDSEPQRQEYVMNDYGFIYQGSKNWIRPCPWNYGQFEDKIIDICLKLLDKSLHFQTDPAT
+DCALRGSPVYVSRVVCAMINSNDDNGVLNGNWSENYTDGANPAEWTGSVAILKQWNATGCQPVRYGQCWVFAAVMCTV
+MRCLGIPTRVITNFDSGHDTDGNLIIDEYYDNTGRILGNKKKDTIWNFHVWNECWMARKDLPPAYGGWQVLDATPQEM
+SNGVYCCGPASVRAIKEGEVDLNYDTPFVFSMVNADCMSWLVQGGKEQKLHQDTSSVGNFISTKSIQSDERDDITENY
+KYEEGSLQERQVFLKALQKLKARSFHGSQRGAELQPSRPTSLSQDSPRSLHTPSLRPSDVVQVSLKFKLLDPPNMGQD
+ICFVLLALNMSSQFKDLKVNLSAQSLLHDGSPLSPFWQDTAFITLSPKEAKTYPCKISYSQYSQYLSTDKLIRISALG
+EEKSSPEKILVNKIITLSYPSITINVLGAAVVNQPLSIQVIFSNPLSEQVEDCVLTVEGSGLFKKQQKVFLGVLKPQH
+QASIILETVPFKSGQRQIQANMRSNKFKDIKGYRNVYVDF"
+        }
+      },
+      seq {
+        id {
+          local str "TGM4_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TGM4_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 677,
+          seq-data ncbieaa "LQVLHIDFLNQDNAVSHHTWEFQTSSPVFRRGQVFHLRLVLNQPLQSYHQ
+LKLEFSTGPNPSIAKHTLVVLDPRTPSDHYNWQATLQNESGKEVTVAVTSSPNAILGKYQLNVKTGNHILKSEENILY
+LLFNPWCKEDMVFMPDEDERKEYILNDTGCHYVGAARSIKCKPWNFGQFEKNVLDCCISLLTESSLKPTDRRDPVLVC
+RAMCAMMSFEKGQGVLIGNWTGDYEGGTAPYKWTGSAPILQQYYNTKQAVCFGQCWVFAGILTTVLRALGIPARSVTG
+FDSAHDTERNLTVDTYVNENGEKITSMTHDSVWNFHVWTDAWMKRPDLPKGYDGWQAVDATPQERSQGVFCCGPSPLT
+AIRKGDIFIVYDTRFVFSEVNGDRLIWLVKMVNGQEELHVISMETTSIGKNISTKAVGQDRRRDITYEYKYPEGSSEE
+RQVMDHAFLLLSSEREHRRPVKENFLHMSVQSDDVLLGNSVNFTVILKRKTAALQNVNILGSFELQLYTGKKMAKLCD
+LNKTSQIQGQVSEVTLTLDSKTYINSLAILDDEPVIRGFIIAEIVESKEIMASEVFTSFQYPEFSIELPNTGRIGQLL
+VCNCIFKNTLAIPLTDVKFSLESLGISSLQTSDHGTVQPGETIQSQIKCTPIKTGPKKFIVKLSSKQVKEINAQKIVL
+ITK"
+        }
+      },
+      seq {
+        id {
+          local str "EP42_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">EP42_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 682,
+          seq-data ncbieaa "LGIKSCDFQAARNNEEHHTKALSSRRLFVRRGQPFTIILYFRAPVRAFLP
+ALKKVALTAQTGEQPSKINRTQATFPISSLGDRKWWSAVVEERDAQSWTISVTTPADAVIGHYSLLLQVSGRKQLLLG
+QFTLLFNPWNREDAVFLKNEAQRMEYLLNQNGLIYLGTADCIQAESWDFGQFEGDVIDLSLRLLSKDKQVEKWSQPVH
+VARVLGALLHFLKEQRVLPTPQTQATQEGALLNKRRGSVPILRQWLTGRGRPVYDGQAWVLAAVACTVLRCLGIPARV
+VTTFASAQGTGGRLLIDEYYNEEGLQNGEGQRGRIWIFQTSTECWMTRPALPQGYDGWQILDPSAPNGGGVLGSCDLV
+PVRAVKEGTVGLTPAVSDLFAAINASCVVWKCCEDGTLELTDSNTKYVGNNISTKGVGSDRCEDITQNYKYPEGSLQE
+KEVLERVEKEKMEREKDNGIRPPSLETASPLYLLLKAPSSLPLRGDAQISVTLVNHSEQEKAVQLAIGVQAVHYNGVL
+AAKLWRKKLHLTLSANLEKIITIGLFFSNFERNPPENTFLRLTAMATHSESNLSCFAQEDIAICRPHLAIKMPEKAEQ
+YQPLTASVSLQNSLDAPMEDCVISILGRGLIHRERSYRFRSVWPENTMCAKFQFTPTHVGLQRLTVEVDCNMFQNLTN
+YKSVTVVA"
+        }
+      },
+      seq {
+        id {
+          local str "ANNU_SCHAM"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ANNU_SCHAM"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 697,
+          seq-data ncbieaa "ASVKEVDVLLAENGDAHRTRHYELMDREKEPRLVVRRGQPFAVSVTLSRP
+YNPDIDAISFVFTVEDAEKPSYGQGTLVAVPLLAKGAESGAAWNAVLDSSADDILRIQITPAADAIVGKWKMDIDTKL
+KNDGAVSYSYKDPFYILYNPWCRQDQVFLEGEELLQEYVLNDTGLIWRGSYNRLRPCVWKYAQFEKEILDCALYLVSK
+IGGVRPSECGDPVRVCRAISAAVNSPDDNGAVMGNWSNDYGGGTPPTKWIGSMKILQQFYKNKKPVKYGQCWVFAGVL
+TTVCRALGLPARTVTTYSAAHDTQNSLTVDYFVDDKGEIMEEMNSDSIWNFHVWTEVWMERPDLMPGDGAHYGGWQAV
+DSTPQELSDNMYRCGPAPVVAVKQGEVLRPYDSAYVFAEVNADKVFWRYSGPTQPLKLIRKDMLGIGQNISTKAVGRF
+QREDITNTYKYPEKSVEERAAMLKALRQSESLFSRYYLNEDFNDIHFNFELRDDIVIGSPFSVVVVMKNRSNQQDYTV
+TVLLRVDTVLYTGHVKDGVKKEKVERLIKAGAVEEVRIDVSYEDYYKHLVDQCAFNIACLATVHDTNYEYFAQDDFRV
+RKPDIKIKLEGEPVQGQEMSAVATLKNPLPIPVKKGQFLIEGPGIAKTQKIKLSQNIAPGEEASVNFKFTPKYDGRAT
+IAAKFSSKELDDVDGFLNFMVEP"
+        }
+      },
+      seq {
+        id {
+          local str "TGMH_TACTR"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TGMH_TACTR"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 702,
+          seq-data ncbieaa "LQVESVELYTRDNAREHNTFMYDLVDGTKPVLILRRGQPFSIAIRFKRNY
+NPQQDRLKLEIGFGQQPLITKGTLIMLPVSGSDTFTKDKTQWDVRLRQHDGAVITLEIQIPAAVAVGVWKMKIVSQLT
+SEEQPNVSAVTHECKNKTYILFNPWCKQDSVYMEDEQWRKEYVLSDVGKIFTGSFKQPVGRRWIFGQFTDSVLPACML
+ILERSGLDYTARSNPIKVVRAISAMVNNIDDEGVLEGRWQEPYDDGVAPWMWTGSSAILEKYLKTRGVPVKYGQCWVF
+AGVANTVSRALGIPSRTVTNYDSAHDTDDTLTIDKWFDKNGDKIEDATSDSIWNFHVWNDCWMARPDLPTGYGGWQAY
+DSTPQETSEGVYQTGPASVLAVQRGEIGYMFDSPFVFSEVNADVVHWQEDDSSETGYKKLKIDSYRVGRLLLTKKIGV
+DDDFGDADAEDITDQYKNKEGTDEERMSVLNAARSSGFNYAFNLPSPEKEDVYFNLLDIEKIKIGQPFHVTVNIENQS
+SETRRVSAVLSASSIYYTGITGRKIKRENGNFSLQPHQKEVLSIEVTPDEYLEKLVDYAMIKLYAIATVKETQQTWSE
+EDDFMVEKPNLELEIRGNLQVGTAFVLAISLTNPLKRVLDNCFFTIEAPGVTGAFRVTNRDIQPEEVAVHTVRLIPQK
+PGPRKIVATFSSRQLIQVVGSKQVEVLD"
+        }
+      }
+    }
+  }
+}

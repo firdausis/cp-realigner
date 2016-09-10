@@ -1,0 +1,717 @@
+Cdd ::= {
+  name "bbs12018",
+  id {
+    gid {
+      accession "acc_bbs12018",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                1,
+                0
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                5,
+                5
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                49,
+                49
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                52,
+                52
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                56,
+                56
+              },
+              len 139
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                196,
+                195
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                248,
+                236
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                299,
+                286
+              },
+              len 106
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                488,
+                392
+              },
+              len 84
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                573,
+                476
+              },
+              len 83
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                660,
+                559
+              },
+              len 133
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                793,
+                692
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                796,
+                697
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1a8i_"
+              },
+              starts {
+                830,
+                728
+              },
+              len 68
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                0,
+                2
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                5,
+                8
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                12,
+                12
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                52,
+                47
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                56,
+                52
+              },
+              len 135
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                195,
+                187
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                233,
+                224
+              },
+              len 68
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                304,
+                292
+              },
+              len 102
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                489,
+                394
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                494,
+                396
+              },
+              len 78
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                573,
+                474
+              },
+              len 83
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                660,
+                557
+              },
+              len 133
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                793,
+                690
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                796,
+                695
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "1ahp_A"
+              },
+              starts {
+                832,
+                730
+              },
+              len 66
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                22,
+                0
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                49,
+                30
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                52,
+                34
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                56,
+                39
+              },
+              len 118
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                176,
+                157
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                200,
+                166
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                241,
+                203
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                248,
+                207
+              },
+              len 53
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                304,
+                260
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                335,
+                290
+              },
+              len 57
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                396,
+                347
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                494,
+                355
+              },
+              len 78
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                573,
+                433
+              },
+              len 83
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                661,
+                516
+              },
+              len 132
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                793,
+                649
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                796,
+                654
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "PHS2_SOLTU",
+                local str "PHSM_STRPN"
+              },
+              starts {
+                830,
+                685
+              },
+              len 67
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1a8i_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1a8i_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 796,
+          seq-data ncbieaa "LAGVENVTELKKNFNRHLHFTLVKDRNVATPRDYYFALAHTVRDHLVGRW
+IRTQQHYYEKDPKRIYYLSLEFYMGRTLQNTMVNLALENACDEATYQLGLDMEELEEIEEDAGLGNGGLGRLAACFLD
+SMATLGLAAYGYGIRYEFGIFNQKICGGWQMEEADDWLRYGNPWEKARPEFTLPVHFYGRVEHTSQGAKWVDTQVVLA
+MPYDTPVPGYRNNVVNTMRLWSAKAPNGYIQAVLDRNLAENISRVLYPNDNFFEGKELRLKQEYFVVAATLQDIIRRF
+KSSKFRTNFDAFPDKVAIQLNDTHPSLAIPELMRVLVDLERLDWDKAWEVTVKTCAYTNHTVIPEALERWPVHLLETL
+LPRHLQIIYEINQRFLNRVAAAFPGDVDRLRRMSLVEEGAVKRINMAHLCIAGSHAVNGVARIHSEILKKTIFKDFYE
+LEPHKFQNKTNGITPRRWLVLCNPGLAEIIAERIGEEYISDLDQLRKLLSYVDDEAFIRDVAKVKQENKLKFAAYLER
+EYKVHINPNSLFDVQVKRIHEYKRQLLNCLHVITLYNRIKKEPNKFVVPRTVMIGGKAAPGYHMAKMIIKLITAIGDV
+VNHDPVVGDRLRVIFLENYRVSLAEKVIPAADLSEQISTAGTEASGTGNMXFMLNGALTIGTMDGANVEMAEEAGEEN
+FFIFGMRVEDVDRLDQRGYNAQEYYDRIPELRQIIEQLSSGFFSPKQPDLFKDIVNMLMHHDRFKVFADYEEYVKCQE
+RVSALYKNPREWTRMVIRNIATSGKFSSDRTIAQYAREIWGVEP"
+        }
+      },
+      seq {
+        id {
+          local str "1ahp_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ahp_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 796,
+          seq-data ncbieaa "SQPIFNDKQFQEALSRQWQRYGLNSAAEMTPRQWWLAVSEALAEMLRAQP
+FAKPVANQRHVNYISMEFLIGRLTGNNLLNLGWYQDVQDSLKAYDINLTDLLEEEIDPALGAGGLGRLAACFLDSMAT
+VGQSATGYGLNYQYGLFRQSFVDGKQVEAPDDWHRSNYPWFRHNEALDVQVGIGGAVTKDGRWEPEFTITGQAWDLPV
+VGYRNGVAQPLRLWQATHAHPFDLTKFNDGDFLRAEQQGINAEKLTKVLYPNDNHTAGKKLRLMQQYFQCACSVADIL
+RRHHLAGRELHELADYEVIQLNDTHPTIAIPELLRVLIDEHQMSWDDAWAITSKTFAYTNHTLMPEALERWDVKLVKG
+LLPRHMQIINEINTRFKTLVEKTWPGDEKVWAKLAVVHDKQVHMANLCVVGGFAVNGVAALHSDLVVKDLFPEYHQLW
+PNKFHNVTNGITPRRWIKQCNPALAALLDKSLQKEWANDLDQLINLVKLADDAKFRDLYRVIKQANKVRLAEFVKVRT
+GIDINPQAIFDIQIKRLHEYKRQHLNLLRILALYKEIRENPQADRVPRVFLFGAKAAPGYYLAKNIIFAINKVADVIN
+NDPLVGDKLKVVFLPDYCVSAAEKLIPAADISEQISTAGKEASGTGNMKLALNGALTVGTLDGANVEIAEKVGEENIF
+IFGHTVKQVKAILAKGYDPVKWRKKDKVLDAVLKELESGKYSDGDKHAFDQMLHSIGKQGGDPYLVMADFAAYVEAQK
+QVDVLYRDQEAWTRAAILNTARCGMFSSDRSIRDYQARIWQAAR"
+        }
+      },
+      seq {
+        id {
+          local str "PHSM_STRPN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PHSM_STRPN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 752,
+          seq-data ncbieaa "MLSLQEFVQNRYNKTIAECSNEELYLALLNYSKLASSQKPVNTGKKKVYY
+ISAEFLIGKLLSNNLINLGLYDDVKKELAAAGKDLIEVEEVELEPSLGNGGLGRLAACFIDSIATLGLNGDGVGLNYH
+FGLFQQVLKNNQQETIPNAWLTEQNWLVRSSRSYQVPFADFTLTSTLYDIDVTGYETATKNRLRLFDLDSVDSSIIKD
+GINFDKTDIARNLTLFLYPDDSDRQGELLRIFQQYFMVSNGAQLIIDEAIEKGSNLHDLADYAVVQINDTHPSMVIPE
+LIRLLTARGIDLDEAISIVRSMTAYTNHTILAEALEKWPLEFLQEVVPHLVPIIEELDRRVKAEYKDPAVQIIDESGR
+VHMAHMDIHYGYSVNGVAALHTEILKNSELKAFYDLYPEKFNNKTNGITFRRWLMHANPRLSHYLDEILGDGWHHEAD
+ELEKLLSYEDKAVVKEKLESIKAHNKRKLARHLKEHQGVEINPNSIFDIQIKRLHEYKRQQMNALYVIHKYLDIKAGN
+IPARPITIFFGGKAAPAYTIAQDIIHLILCMSEVIANDPAVAPHLQVVMVENYNVTAASFLIPACDISEQISLASKEA
+SGTGNMKFMLNGALTLGTMDGANVEIAELVGEENIYIFGEDSETVIDLYAKAAYKSSEFYAREAIKPLVDFIVSDAVL
+AAGNKERLERFYNELINKDWFMTLLDLEDYIKVKEQMLADYEDRDAWLDKVIVNISKAGFFSSDRTIAQYNEDIWHLN"
+        }
+      },
+      seq {
+        id {
+          local str "PHS2_SOLTU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PHS2_SOLTU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 898,
+          seq-data ncbieaa "DVFQPDSTSVLSSIKYHAEFTPSFSPEKFELPKAYYATAESVRDTLIINW
+NATYEFYEKMNVKQAYYLSMEFLQGRALLNAIGNLGLTGPYADALTKLGYSLEDVARQEPDAALGNGGLGRLASCFLD
+SMATLNYPAWGYGLRYQYGLFKQLITKDGQEEVAENWLEMGNPWEIVRNDISYPVKFYGKVIEGADGRKEWAGGEDIT
+AVAYDVPIPGYKTKTTINLRLWTTKLAAEAFDLYAFNNGDHAKAYEAQKKAEKICYVLYPGDESLEGKTLRLKQQYTL
+CSASLQDIIARFEKRSGNAVNWDQFPEKVAVQMNDTHPTLCIPELLRILMDVKGLSWKQAWEITQRTVAYTNHTVLPE
+ALEKWSFTLLGELLPRHVEIIAMIDEELLHTILAEYGTEDLDLLQEKLNQMRILDNVEIPSSVLELLIKAEESAADVE
+KAADEEQEEEGKDDSKDEETEAVKAETTNEEEETEVKKVEVEDSQAKIKRIFGPHPNKPQVVHMANLCVVSGHAVNGV
+AEIHSEIVKDEVFNEFYKLWPEKFQNKTNGVTPRRWLSFCNPELSEIITKWTGSDDWLVNTEKLAELRKFADNEELQS
+EWRKAKGNNKMKIVSLIKEKTGYVVSPDAMFDVQIKRIHEYKRQLLNIFGIVYRYKKMKEMSPEERKEKFVPRVCIFG
+GKAFATYVQAKRIVKFITDVGETVNHDPEIGDLLKVVFVPDYNVSVAEVLIPGSELSQHISTAGMEASGTSNMKFSMN
+GCLLIGTLDGANVEIREEVGEDNFFLFGAQAHEIAGLRKERAEGKFVPDPRFEEVKAFIRTGVFGTYNYEELMGSLEG
+NEGYGRADYFLVGKDFPDYIECQDKVDEAYRDQKKWTKMSILNTAGSFKFSSDRTIHQYARDIWRIEP"
+        }
+      }
+    }
+  }
+}

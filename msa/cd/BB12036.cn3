@@ -1,0 +1,623 @@
+Cdd ::= {
+  name "bb12036",
+  id {
+    gid {
+      accession "acc_bb12036",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "2ak2_"
+              },
+              starts {
+                0,
+                3
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "2ak2_"
+              },
+              starts {
+                39,
+                42
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "2ak2_"
+              },
+              starts {
+                75,
+                78
+              },
+              len 142
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "2ak3_A"
+              },
+              starts {
+                0,
+                6
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "2ak3_A"
+              },
+              starts {
+                39,
+                45
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "2ak3_A"
+              },
+              starts {
+                75,
+                80
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "2ak3_A"
+              },
+              starts {
+                103,
+                103
+              },
+              len 99
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "2ak3_A"
+              },
+              starts {
+                203,
+                202
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1zak_A"
+              },
+              starts {
+                0,
+                3
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1zak_A"
+              },
+              starts {
+                39,
+                42
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1zak_A"
+              },
+              starts {
+                75,
+                79
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1zak_A"
+              },
+              starts {
+                101,
+                102
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1zak_A"
+              },
+              starts {
+                105,
+                105
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1zak_A"
+              },
+              starts {
+                153,
+                149
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1zak_A"
+              },
+              starts {
+                190,
+                184
+              },
+              len 27
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1qf9_A"
+              },
+              starts {
+                0,
+                6
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1qf9_A"
+              },
+              starts {
+                39,
+                45
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1qf9_A"
+              },
+              starts {
+                77,
+                82
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1qf9_A"
+              },
+              starts {
+                105,
+                109
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1qf9_A"
+              },
+              starts {
+                155,
+                132
+              },
+              len 62
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "3adk_"
+              },
+              starts {
+                0,
+                8
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "3adk_"
+              },
+              starts {
+                39,
+                47
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "3adk_"
+              },
+              starts {
+                75,
+                85
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "3adk_"
+              },
+              starts {
+                77,
+                86
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "3adk_"
+              },
+              starts {
+                101,
+                107
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "3adk_"
+              },
+              starts {
+                105,
+                110
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "3adk_"
+              },
+              starts {
+                155,
+                133
+              },
+              len 61
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1uky_"
+              },
+              starts {
+                0,
+                8
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1uky_"
+              },
+              starts {
+                39,
+                48
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1uky_"
+              },
+              starts {
+                75,
+                86
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1uky_"
+              },
+              starts {
+                101,
+                109
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1uky_"
+              },
+              starts {
+                105,
+                112
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "1zip_",
+                local str "1uky_"
+              },
+              starts {
+                155,
+                135
+              },
+              len 61
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1zip_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1zip_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 217,
+          seq-data ncbieaa "MNLVLMGLPGAGKGTQAEKIVAAYGIPHISTGDMFRAAMKEGTPLGLQAK
+QYMDRGDLVPDEVTIGIVRERLSKDDCQNGFLLDGFPRTVAQAEALETMLADIGRKLDYVIHIDVRQDVLMERLTGRR
+ICRNCGATYHLIFHPPAKPGVCDKCGGELYQRADDNEATVANRLEVNMKQMKPLVDFYEQKGYLRNINGEQDMEKVFA
+DIRELLGGLAR"
+        }
+      },
+      seq {
+        id {
+          local str "2ak2_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">2ak2_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 220,
+          seq-data ncbieaa "PKGVRAVLLGPPGAGKGTQAPKLAKNFCVCHLATGDMLRAMVASGSELGK
+KLKATMDAGKLVSDEMVLELIEKNLETPPCKNGFLLDGFPRTVRQAEMLDDLMEKRKEKLDSVIEFSIPDSLLIRRIT
+GRLIHPQSGRSYHEEFNPPKEPMKDDITGEPLIRRSDDNKKALKIRLEAYHTQTTPLVEYYSKRGIHSAIDASQTPDV
+VFASILAAFSKATS"
+        }
+      },
+      seq {
+        id {
+          local str "2ak3_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">2ak3_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 226,
+          seq-data ncbieaa "GASARLLRAAIMGAPGSGKGTVSSRITKHFELKHLSSGDLLRDNMLRGTE
+IGVLAKTFIDQGKLIPDDVMTRLVLHELKNLTQYNWLLDGFPRTLPQAEALDRAYQIDTVINLNVPFEVIKQRLTARW
+IHPGSGRVYNIEFNPPKTMGIDDLTGEPLVQREDDRPETVVKRLKAYEAQTEPVLEYYRKKGVLETFSGTETNKIWPH
+VYAFLQTKLPQRSQETSVTP"
+        }
+      },
+      seq {
+        id {
+          local str "1zak_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1zak_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 220,
+          seq-data ncbieaa "ADPLKVMISGAPASGKGTQCELIKTKYQLAHISAGDLLRAEIAAGSENGK
+RAKEFMEKGQLVPDEIVVNMVKERLRQPDAQENGWLLDGYPRSYSQAMALETLEIRPDTFILLDVPDELLVERVVGRR
+LDPVTGKIYHLKYSPPENEEIASRLTQRFDDTEEKVKLRLETYYQNIESLLSTYENIIVKVQGDATVDAVFAKIDELL
+GSILEKKNEMVSST"
+        }
+      },
+      seq {
+        id {
+          local str "1qf9_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1qf9_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 194,
+          seq-data ncbieaa "MEKSKPNVVFVLGGPGSGKGTQCANIVRDFGWVHLSAGDLLRQEQQSGSK
+DGEMIATMIKNGEIVPSIVTVKLLKNAIDANQGKNFLVDGFPRNEENNNSWEENMKDFVDTKFVLFFDCPEEVMTQRL
+LKRGESSGRSDDNIESIKKRFNTFNVQTKLVIDHYNKFDKVKIIPANRDVNEVYNDVENLFKSMGF"
+        }
+      },
+      seq {
+        id {
+          local str "3adk_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">3adk_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 194,
+          seq-data ncbieaa "MEEKLKKSKIIFVVGGPGSGKGTQCEKIVQKYGYTHLSTGDLLRAEVSSG
+SARGKMLSEIMEKGQLVPLETVLDMLRDAMVAKVDTSKGFLIDGYPREVKQGEEFERKIGQPTLLLYVDAGPETMTKR
+LLKRGETSGRVDDNEETIKKRLETYYKATEPVIAFYEKRGIVRKVNAEGSVDDVFSQVCTHLDTLK"
+        }
+      },
+      seq {
+        id {
+          local str "1uky_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1uky_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 196,
+          seq-data ncbieaa "PAFSPDQVSVIFVLGGPGAGKGTQCEKLVKDYSFVHLSAGDLLRAEQGRA
+GSQYGELIKNCIKEGQIVPQEITLALLRNAISDNVKANKHKFLIDGFPRKMDQAISFERDIVESKFILFFDCPEDIML
+ERLLERGKTSGRSDDNIESIKKRFNTFKETSMPVIEYFETKSKVVRVRCDRSVEDVYKDVQDAIRDSL"
+        }
+      }
+    }
+  }
+}

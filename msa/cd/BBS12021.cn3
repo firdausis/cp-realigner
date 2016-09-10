@@ -1,0 +1,439 @@
+Cdd ::= {
+  name "bbs12021",
+  id {
+    gid {
+      accession "acc_bbs12021",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "1hpi_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "1hpi_"
+              },
+              starts {
+                18,
+                17
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "1hpi_"
+              },
+              starts {
+                32,
+                26
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "1hpi_"
+              },
+              starts {
+                54,
+                45
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "1hpi_"
+              },
+              starts {
+                62,
+                53
+              },
+              len 18
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "2hip_A"
+              },
+              starts {
+                1,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "2hip_A"
+              },
+              starts {
+                10,
+                6
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "2hip_A"
+              },
+              starts {
+                32,
+                23
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "2hip_A"
+              },
+              starts {
+                54,
+                42
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "2hip_A"
+              },
+              starts {
+                62,
+                52
+              },
+              len 18
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "1hlq_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "1hlq_A"
+              },
+              starts {
+                32,
+                29
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "1hlq_A"
+              },
+              starts {
+                54,
+                47
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "1hlq_A"
+              },
+              starts {
+                62,
+                55
+              },
+              len 18
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "HPIS_THIPF"
+              },
+              starts {
+                0,
+                1
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "HPIS_THIPF"
+              },
+              starts {
+                54,
+                51
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "HPIS_THIPF"
+              },
+              starts {
+                62,
+                59
+              },
+              len 18
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "HPIS_PARSP"
+              },
+              starts {
+                0,
+                0
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "HPIS_PARSP"
+              },
+              starts {
+                32,
+                27
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "HPIS_PARSP"
+              },
+              starts {
+                58,
+                46
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1hip_",
+                local str "HPIS_PARSP"
+              },
+              starts {
+                62,
+                50
+              },
+              len 18
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1hpi_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1hpi_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 71,
+          seq-data ncbieaa "MERLSEDDPAAQALEYRHDASSVQHPAYEEGQTCLNCLLYTDASAQDWGP
+CSVFPGKLVSANGWCTAWVAR"
+        }
+      },
+      seq {
+        id {
+          local str "1hip_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1hip_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 80,
+          seq-data ncbieaa "ANAVAADNATAIALKYNQDATKSERVAAARPGLPPEEQHCADCQFMQADA
+AGATDEWKGCQLFPGKLINVNGWCASWTLK"
+        }
+      },
+      seq {
+        id {
+          local str "2hip_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">2hip_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 70,
+          seq-data ncbieaa "EPRAEDGHAHDYVNEAADASGHPRYQEGQLCENCAFWGEAVQDGWGRCTH
+PDFDEVLVKAEGWCSVYAPA"
+        }
+      },
+      seq {
+        id {
+          local str "1hlq_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1hlq_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 73,
+          seq-data ncbieaa "APLVAETDANAKSLGYVADTTKADKTKYPKHTKDQSCSTCALYQGKTAPQ
+GACPLFAGKEVVAKGWCSAWAKK"
+        }
+      },
+      seq {
+        id {
+          local str "HPIS_THIPF"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">HPIS_THIPF"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 77,
+          seq-data ncbieaa "LPHVDAATNPIAQSLHYIEDANASERNPVTKTELPGSEQFCHNCSFIQAD
+SGAWRPCTLYPGYTVSEDGWCLSWAHK"
+        }
+      },
+      seq {
+        id {
+          local str "HPIS_PARSP"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">HPIS_PARSP"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 68,
+          seq-data ncbieaa "LPPLDPSAEQAQALNYVKDTAEAADHPAHQEGEQCDNCMFFQADSQGCQL
+FPQNSVEPAGWCQSWTAQ"
+        }
+      }
+    }
+  }
+}

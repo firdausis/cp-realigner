@@ -1,0 +1,4311 @@
+Cdd ::= {
+  name "bbs50010",
+  id {
+    gid {
+      accession "acc_bbs50010",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                5,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                22,
+                16
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                31,
+                28
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                57,
+                56
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                59,
+                57
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                66,
+                62
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                81,
+                78
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                110,
+                112
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                113,
+                117
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                131,
+                133
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                141,
+                141
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                150,
+                149
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                165,
+                155
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                192,
+                159
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                242,
+                171
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                248,
+                178
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                252,
+                182
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                260,
+                185
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                287,
+                215
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYS_AQUAE"
+              },
+              starts {
+                288,
+                219
+              },
+              len 39
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                5,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                22,
+                16
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                31,
+                28
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                57,
+                56
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                66,
+                66
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                81,
+                82
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                110,
+                115
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                113,
+                120
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                141,
+                146
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                150,
+                154
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                165,
+                160
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                192,
+                164
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                242,
+                176
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                248,
+                183
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                252,
+                187
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                260,
+                190
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                287,
+                219
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYSM_BOVIN"
+              },
+              starts {
+                288,
+                223
+              },
+              len 39
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                5,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                22,
+                16
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                31,
+                28
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                57,
+                56
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                59,
+                57
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                66,
+                62
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                81,
+                78
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                110,
+                112
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                113,
+                117
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                141,
+                143
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                150,
+                151
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                165,
+                157
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                192,
+                161
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                242,
+                173
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                248,
+                180
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                252,
+                184
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                260,
+                187
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                287,
+                216
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1ser_A"
+              },
+              starts {
+                288,
+                220
+              },
+              len 39
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                4,
+                0
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                28,
+                23
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                31,
+                27
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                57,
+                55
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                59,
+                56
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                66,
+                63
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                81,
+                79
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                110,
+                110
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                113,
+                115
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                121,
+                121
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                141,
+                139
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                154,
+                151
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                165,
+                153
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                192,
+                157
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                225,
+                182
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                248,
+                206
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                252,
+                211
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                260,
+                214
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                271,
+                224
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                287,
+                243
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                288,
+                247
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                318,
+                273
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYT_THETN"
+              },
+              starts {
+                321,
+                275
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                0,
+                0
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                31,
+                32
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                57,
+                60
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                59,
+                61
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                66,
+                71
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                81,
+                87
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                110,
+                118
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                113,
+                123
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                121,
+                129
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                141,
+                147
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                192,
+                175
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                225,
+                200
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                248,
+                224
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                252,
+                229
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                260,
+                232
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                271,
+                242
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                287,
+                261
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                288,
+                265
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                318,
+                291
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYTM_YEAST"
+              },
+              starts {
+                321,
+                293
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                2,
+                0
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                31,
+                33
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                57,
+                50
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                59,
+                51
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                66,
+                63
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                81,
+                79
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                110,
+                108
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                113,
+                113
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                119,
+                118
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                141,
+                138
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                165,
+                153
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                192,
+                157
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                242,
+                169
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                248,
+                176
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                252,
+                179
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                260,
+                182
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                287,
+                209
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                288,
+                213
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1h4q_A"
+              },
+              starts {
+                321,
+                245
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                2,
+                0
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                31,
+                33
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                50,
+                49
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                57,
+                58
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                59,
+                59
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                66,
+                71
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                81,
+                87
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                110,
+                116
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                113,
+                121
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                119,
+                126
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                141,
+                146
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                165,
+                161
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                192,
+                165
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                242,
+                177
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                248,
+                184
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                252,
+                187
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                260,
+                190
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                287,
+                217
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                288,
+                221
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCLE"
+              },
+              starts {
+                321,
+                253
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                2,
+                0
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                31,
+                33
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                50,
+                49
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                57,
+                58
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                59,
+                59
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                66,
+                71
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                81,
+                87
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                110,
+                116
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                113,
+                121
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                119,
+                126
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                141,
+                146
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                165,
+                161
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                192,
+                165
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                242,
+                177
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                248,
+                184
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                252,
+                187
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                260,
+                190
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                287,
+                217
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                288,
+                221
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_BORBU"
+              },
+              starts {
+                321,
+                253
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                2,
+                0
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                31,
+                33
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                50,
+                49
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                57,
+                58
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                59,
+                59
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                66,
+                71
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                81,
+                87
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                110,
+                116
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                113,
+                121
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                119,
+                126
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                141,
+                146
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                165,
+                161
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                192,
+                165
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                242,
+                177
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                248,
+                184
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                252,
+                187
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                260,
+                190
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                287,
+                217
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                288,
+                221
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_CLOST"
+              },
+              starts {
+                321,
+                253
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                2,
+                0
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                31,
+                33
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                50,
+                49
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                57,
+                58
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                59,
+                59
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                66,
+                71
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                81,
+                87
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                110,
+                117
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                113,
+                122
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                119,
+                127
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                141,
+                147
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                165,
+                162
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                192,
+                166
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                242,
+                178
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                248,
+                185
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                252,
+                189
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                260,
+                192
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                287,
+                222
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                288,
+                226
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "YHI0_YEAST"
+              },
+              starts {
+                321,
+                258
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                2,
+                0
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                31,
+                52
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                50,
+                68
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                57,
+                77
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                59,
+                78
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                66,
+                90
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                81,
+                106
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                110,
+                135
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                113,
+                140
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                119,
+                145
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                141,
+                165
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                165,
+                180
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                192,
+                184
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                242,
+                196
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                248,
+                203
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                252,
+                206
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                260,
+                209
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                287,
+                236
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                288,
+                240
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCPN"
+              },
+              starts {
+                321,
+                272
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                2,
+                0
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                31,
+                52
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                50,
+                68
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                57,
+                77
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                59,
+                78
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                66,
+                90
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                81,
+                106
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                110,
+                135
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                113,
+                140
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                119,
+                145
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                141,
+                165
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                165,
+                180
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                192,
+                184
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                242,
+                196
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                248,
+                203
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                252,
+                206
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                260,
+                209
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                287,
+                236
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                288,
+                240
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_MYCGE"
+              },
+              starts {
+                321,
+                272
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                1,
+                0
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                31,
+                34
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                50,
+                50
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                57,
+                59
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                59,
+                60
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                66,
+                72
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                81,
+                88
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                110,
+                118
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                113,
+                123
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                141,
+                149
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                152,
+                159
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                165,
+                163
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                192,
+                167
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                242,
+                179
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                248,
+                186
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                252,
+                189
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                260,
+                192
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                287,
+                219
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                288,
+                223
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1nj8_A"
+              },
+              starts {
+                321,
+                255
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                1,
+                0
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                31,
+                33
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                50,
+                49
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                57,
+                58
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                59,
+                59
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                66,
+                71
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                81,
+                87
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                110,
+                117
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                113,
+                122
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                141,
+                148
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                152,
+                158
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                165,
+                162
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                192,
+                166
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                242,
+                178
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                248,
+                185
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                252,
+                188
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                260,
+                191
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                287,
+                218
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                288,
+                222
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_METTH"
+              },
+              starts {
+                321,
+                254
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                1,
+                0
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                31,
+                33
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                50,
+                49
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                57,
+                58
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                59,
+                59
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                66,
+                71
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                81,
+                87
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                110,
+                117
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                113,
+                122
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                141,
+                148
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                152,
+                158
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                165,
+                162
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                192,
+                166
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                242,
+                178
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                248,
+                185
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                252,
+                188
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                260,
+                191
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                287,
+                218
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                288,
+                222
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "SYP_ARCFU"
+              },
+              starts {
+                321,
+                254
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                31,
+                31
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                59,
+                51
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                66,
+                59
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                81,
+                76
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                112,
+                100
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                113,
+                101
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                141,
+                127
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                180,
+                150
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                227,
+                187
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                248,
+                208
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                252,
+                212
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                260,
+                217
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                287,
+                244
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "SYH_CLOAB",
+                local str "1qe0_A"
+              },
+              starts {
+                288,
+                248
+              },
+              len 53
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "SYS_AQUAE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYS_AQUAE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 258,
+          seq-data ncbieaa "SGSRFTVIAGWGARLERALINFMLDLHTKKGYKEICPPHLVKPEILIGTG
+QLPKFEEDLYKCERDNLYLIPTAEVPLTNLYREEILKEENLPIYLTAYTPCYRREAGAYGKDIRGIIRQHQFDKVELV
+KIVHPDTSYDELEKLVKDAEEVLQLLGLPYRVVELCTGDLGFSAAKTYDIEVWFPSQNKYREISSCSNCEDFQARRMN
+TRFKDSKTGKNRFVHTLNGSGLAVGRTLAAILENYQQEDGSVVVPEVLRDYV"
+        }
+      },
+      seq {
+        id {
+          local str "SYSM_BOVIN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYSM_BOVIN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 262,
+          seq-data ncbieaa "SGHRSYYLRGAGALLQHGLVNFTLNKLIHRGFTPMTVPDLLRGVVFEGCG
+MTPNAKPSQIYNIDPSRFEDLNLAGTAEVGLAGYFMDHSVAFRDLPIRMVCSSTCYRAETDTGKEPWGLYRVHHFTKV
+EMFGVTGPGLEQSSELLEEFLSLQMEILTELGLHFRVLDMPTQELGLPAYRKFDIEAWMPGRGRFGEVTSASNCTDFQ
+SRRLHIMFQTEAGELQFAHTVNATGCAVPRLLIALLESYQQKDGSVLVPPALQPYL"
+        }
+      },
+      seq {
+        id {
+          local str "1ser_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ser_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 259,
+          seq-data ncbieaa "SGSRSYALKGDLALYELALLRFAMDFMARRGFLPMTLPSYAREKAFLGTG
+HFPAYRDQVWAIAETDLYLTGTAEVVLNALHSGEILPYEALPLRYAGYAPAFRSEAGSFGKDVRGLMRVHQFHKVEQY
+VLTEASLEASDRAFQELLENAEEILRLLELPYRLVEVATGDMGPGKWRQVDIEVYLPSEGRYRETHSCSALLDWQARR
+ANLRYRDPEGRVRYAYTLNNTALATPRILAMLLENHQLQDGRVRVPQALIPYM"
+        }
+      },
+      seq {
+        id {
+          local str "SYT_THETN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYT_THETN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 281,
+          seq-data ncbieaa "GPGFPFFHPKGMIIRNILEDFWRKEHIKRGYQEIRTPIILNEELWKRSGH
+WDHYKENMYFTEIDGQTYAIKPMNCPGAMLVYKSTLRSYRDLPLRLCELGLVHRHELSGVLHGLMRVRSFTQDDAHLF
+MTPEQVEDEILGVINLVDYFYKIFGFEYHVELSTRPENSMGTDEEWELATNALISALKRANLPYKVNEGEGAFYGPKI
+DFHLKDSIGRTWQCGTIQLDFQMPERFELEYIGPDGEKHRPIMLHRVIYGSIERFIGILTEHFAGAFPTWLAPVQ"
+        }
+      },
+      seq {
+        id {
+          local str "SYTM_YEAST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYTM_YEAST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 299,
+          seq-data ncbieaa "TDPLSPGSMFFLPNGAKIFNKLIEFMKLQQKFKFGFNEVVTPLIYKKTLW
+EKSGHWENYADDMFKVETTDEEKEEYGLKPMNCPGHCLIFGKKDRSYNELPLRFSDFSPLHRNEASGALSGLTRLRKF
+HQDDGHIFCTPSQVKSEIFNSLKLIDIVYNKIFPFVKGGSGAESNYFINFSTRPDHFIGDLKVWNHAEQVLKEILEES
+GKPWKLNPGDGAFYGPKLDIMVTDHLRKTHQVATIQLDFQLPERFDLKFKDQDNSYKRPIMIHRATFGSIERFMALLI
+DSNEGRWPFWLNPYQ"
+        }
+      },
+      seq {
+        id {
+          local str "1h4q_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1h4q_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 251,
+          seq-data ncbieaa "GPVRGTIVVRPYGYAIWENIQQVLDRMFKETGHQNAYFPLFIPMSFLRFS
+PELAVVTHAGGEELEEPLAVRPTSETVIGYMWSKWIRSWRDLPQLLNQWGNVVRWEMRTRPFLRTSEFLWQEGHTAHA
+TREEAEEEVRRMLSIYARLAREYAAIPVIEGLKTEKEKFAGAVYTTTIEALMKDGKALQAGTSHYLGENFARAFDIKF
+QDRDLQVKYVHTTSWGLSWRFIGAIIMTHGDDRGLVLPPRLAPIQ"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_MYCLE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_MYCLE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 259,
+          seq-data ncbieaa "GPAKGTMVIRPYGYRIWELLQDELDSKIKELGHENAYFPMLIPENYFNRE
+AEHVEGFHPELAVVTHAGGKELSEPLVIRPTSETVIGDMMAKWITSHRDLPLRLNQWSNVVRWELRPRMLLRTIEFLW
+QEGHSAHIEKSDALRETLFALDIYTTLARDMAAIPIVSGEKTAGERFAGALNTYTIEAMMRDGKALQSATTHYLGDNF
+ARAFNIRYTTAEEQQAFVHTTSFGLSTRMIGAIVMVHGDDKGLVLPPQVAPYQ"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_BORBU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_BORBU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 259,
+          seq-data ncbieaa "SPVKGCMVIMPYGYSIWSKIQSILDKKFKETGHENAYFPMLIPYSFLERE
+KDHIDGFSPEFAIIKDAGGESLAEPLVLRPTSETIIWNMYSKWIKSYRDLPLKINQWANVVRWEKRTRPFLRTTEFLW
+QEGHTAHATEEEALEETLLILDVYKRFIEDYLAIPVFCGKKSEKEKFAGAVSTYSIEALMQDKKALQAATSHYLGLNF
+AKAFDVKFQDKDGKMRHVFASSWGVSTRLIGALIMVHSDEKGLVLPPRIAPIE"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_CLOST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_CLOST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 259,
+          seq-data ncbieaa "SPVKGFMVIKPYGYAIWENIQAFLDRRFKETGHQNCYFPLLIPESLLNKE
+KEHVEGFAPEVAWVTHGGSEKLAERLCVRPTSETIICSMYSKWLTSYRELPYLYNQWCSVVRWEKSTRPFLRTSEFLW
+QEGHTLHETAEEAQAETLQMLAIYKEMAEDLLAIPVVDGRKSDRERFAGAAATYTIEALMHDGKALQSGTSHNLAQHF
+TKAFDITFQGRTGELEYPHHTSWGASTRLIGGIIMVHGDNRGLVLPPRVAPTQ"
+        }
+      },
+      seq {
+        id {
+          local str "YHI0_YEAST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">YHI0_YEAST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 264,
+          seq-data ncbieaa "YDVSGCYILRPPSYAIWENIQKWFDDKIKAIGVQNAYFPMFVSSRVLEKE
+KDHVEGFAPEVAWVTRAGSSELEEPIAIRPTSETVMYPYYAKWVQSYRDLPLKLNQWNSVVRWEFKHPQPFLRTREFL
+WQEGHTAHLTAKDAEEEVLQILDFYAGVYEELLAVPVVKGRKTEKEKFAGGDFTTTCEGYIPQTGRGIQGATSHHLGQ
+NFSKMFNLSVENPLGSDHPKIFAYQNSWGLSTRVIGVMVMIHSDNKGLVIPPRVSQFQ"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_MYCPN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_MYCPN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 278,
+          seq-data ncbieaa "GDVKGTNCFLPNSWNLWLQIQRLYNNATALIKLKDKVILKQFIPIEPLPY
+TVEQVQLPTLSFYSEYQKEKRHVEGFNPELFLIEQIGTKKLHDPLVLRPTSEIAFCNLWKKQSFSYQNLPVIYNQWTC
+VFRAEKNTRPFLRNSEFYWQETHGLFSDGVNSESAAIAFWKLYQDIIVNQLCIPAFVGLKSPNERFAGAQNTWTVESI
+MPDGQALQCATSHDLGQTFTKPFGLTFQNQANQQAIPYSFSCGISTRILGALLLTHSDDFGLVLPWKVAPIQ"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_MYCGE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_MYCGE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 278,
+          seq-data ncbieaa "GEVKGTVCFLNNSWGLWMEIQQLYNDAIANKNQLSAIALTKFQPTTSFCY
+QVFQVQLPTLSFYSEYQKEKTHIKGFNPELFLINQVGQKQLNDPLVLRPTSEIAFCNLWKKQELSYHDLPLIYNQWTQ
+VFRAEKNTRPFLRNSEFYWQETHGLFVDQSQSEQAAISFWNLYQDLIINKLCIPAFVGLKSESEKFAGAKNTWTIEAI
+MPDGQSLQCATSHDLGDTFTKSFTISYQSKTNQKMTPSSFSCGMSTRILGAIFLTHSDDYGLVLPWYLASKQ"
+        }
+      },
+      seq {
+        id {
+          local str "1nj8_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1nj8_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 261,
+          seq-data ncbieaa "RYPIKGCGVYLPYGFKIRRYTFEIIRNLLDESGHDEALFPMLIPEDLLAK
+EAEHIKGFEDEVYWVTHGGKTQLDVKLALRPTSETPIYYMMKLWVKVHTDLPIKIYQIVNTFRYETKHTRPLIRLREI
+MTFKEAHTAHSTKEEAENQVKEAISIYKKFFDTLGIPYLISKRPEWDKFPGAEYTMAFDTIFPDGRTMQIATVHNLGQ
+NFSKTFEIIFETPTGDKDYAYQTCYGISDRVIASIIAIHGDEKGLILPPIVAPIQ"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_METTH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_METTH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 260,
+          seq-data ncbieaa "RYPVKGMHVWMPHGFMIRKNTLKILRRILDRDHEEVLFPLLVPEDELAKE
+AIHVKGFEDEVYWVTHGGLSKLQRKLALRPTSETVMYPMFALWVRSHTDLPMRFYQVVNTFRYETKHTRPLIRVREIT
+TFKEAHTIHATASEAEEQVERAVEIYKEFFNSLGIPYLITRRPPWDKFPGSEYTVAFDTLMPDGKTLQIGTVHNLGQT
+FARTFEIKFETPEGDHEYVHQTCYGLSDRVIASVIAIHGDESGLCLPPDVAAHQ"
+        }
+      },
+      seq {
+        id {
+          local str "SYP_ARCFU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYP_ARCFU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 260,
+          seq-data ncbieaa "RYPVKGLYVWFPFGFKIRQLVYSKLREIMDREHDEVYFPALIPETELGKE
+GEHIKGFEDEVYWITHGGLTPLDVKLALRPTSETAMYPMFRLWVRNHADLPLKVYQIVNTFRYETKHTRPLIRLREIT
+SFKEAHTVHKDFEEAAEHVKKAIGFYKEFYDFLAIPYMVIRRPEWDKFPGAAYTIAFDTIMPDGRTLQIGTVHHLADN
+FARTFDIKYEAPNGEHYYAHQTCYGISERCIAALISVHGDDLGLVLPFEVAPVQ"
+        }
+      },
+      seq {
+        id {
+          local str "1qe0_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1qe0_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 301,
+          seq-data ncbieaa "MIKIPRGTQDILPEDSKKWRYIENQLDELMTFYNYKEIRTPIFESTDLFA
+REMYTFKDKGDRSITLRPEGTAAVVRSYIEHKMQGNPNQPIKLYYNGPMFRYYRQFNQFGVEAIGAENPSVDAEVLAM
+VMHIYQSFGLKHLKLVINSVGDMASRKEYNEALVKHFEPVIHEFCSDCQSRLHTDPMRILTAPRITDFLNEESKAYYE
+QVKAYLDDLGIPYTEDPNLVRGLDYYTHTAFELMMDNPNYDGAITTLCGGGRYNGLLELLDGPSETGIGFALSIERLL
+LALEEEGIELDIEENLD"
+        }
+      },
+      seq {
+        id {
+          local str "SYH_CLOAB"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SYH_CLOAB"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 343,
+          seq-data ncbieaa "KPSILPGFMELLPKEQLVFNDIVSKITGVYEQNGFLPMDTPIIEKEEVLL
+AKSAGETEKQVYRIDNEDRKQVLRFDLTVPFSRFAAQYMSDLTFPFKRYQLGKVYRGERNQKGRYREFYQCDVDVVGN
+GNLSIKNDAFIINMASKALRKIGLDSYKFQISNRKILTGVLEGLNITNMQEVMILIDKYDKITEEQFLSELNKLIGEE
+KAKVISKVIKISGSSDEVVENLKKVEIKNEMLEKGIEEVEEVIKYLKLFGVEDSEYAINLKIIRGLDYYTGTVFETLL
+TGNESYGSICSGGRYDNLAQNYTENVLPGVGMSIGITRLFFVLREIGFIENYNSSLNEK"
+        }
+      }
+    }
+  }
+}

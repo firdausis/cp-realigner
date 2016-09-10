@@ -1,0 +1,316 @@
+Cdd ::= {
+  name "bb12040",
+  id {
+    gid {
+      accession "acc_bb12040",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "1hrb_"
+              },
+              starts {
+                0,
+                6
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "1hrb_"
+              },
+              starts {
+                35,
+                37
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "1hrb_"
+              },
+              starts {
+                44,
+                39
+              },
+              len 46
+            },
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "1hrb_"
+              },
+              starts {
+                103,
+                85
+              },
+              len 26
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "HEML_NAEFO"
+              },
+              starts {
+                0,
+                7
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "HEML_NAEFO"
+              },
+              starts {
+                35,
+                38
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "HEML_NAEFO"
+              },
+              starts {
+                44,
+                41
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "HEML_NAEFO"
+              },
+              starts {
+                103,
+                91
+              },
+              len 26
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "HEMT_METJA"
+              },
+              starts {
+                0,
+                4
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "HEMT_METJA"
+              },
+              starts {
+                47,
+                48
+              },
+              len 82
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "HEMT_PSEAE"
+              },
+              starts {
+                0,
+                2
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "HEMT_PSEAE"
+              },
+              starts {
+                35,
+                33
+              },
+              len 62
+            },
+            {
+              dim 2,
+              ids {
+                local str "HEMT_CLOAB",
+                local str "HEMT_PSEAE"
+              },
+              starts {
+                99,
+                95
+              },
+              len 30
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1hrb_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1hrb_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 113,
+          seq-data ncbieaa "GFPIPDPYVWDPSFRTFYSIIDDEHKTLFNGIFHLAIDDNADNLGELRRC
+TGKHFLNQEVLMEASQYQFYDEHKKEHDGFINALDNWKGDVKWAKAWLVNHIKTIDFKYKGKI"
+        }
+      },
+      seq {
+        id {
+          local str "HEML_NAEFO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">HEML_NAEFO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 119,
+          seq-data ncbieaa "MATTIPSPFNWDSSFCVGNNELNEQHKKLFALINALDANRSSASALKELL
+DFVVMHFKAEEDLFAKVNFSDSTSHKETHDKFVQDALGLKTVGDAEIQFIKQWLVNHIKGSDMKYKGVL"
+        }
+      },
+      seq {
+        id {
+          local str "HEMT_METJA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">HEMT_METJA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 147,
+          seq-data ncbieaa "MKKEIIKWSKDFETGIKAFDDEHKILVKTLNDIYNLLNEGKRDEAKELLK
+RRVVNYAAKHFKHEEEVMEKYGYPDLERHRKTHEIFVKTVIEKLLPKIEEGSENDFRSALSFLVGWLTMHIAKPDKKY
+GEWFKEKGIVIEDEAVKID"
+        }
+      },
+      seq {
+        id {
+          local str "HEMT_CLOAB"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">HEMT_CLOAB"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 129,
+          seq-data ncbieaa "MFVWKDEFELGIDKIDNEHRKLFEIANKGYELLKNEFYVDKYDKIMDIIV
+ELKEYAEFHFSEEEDYLASIGYKKLFTHKLEHDSFIKKVESFNIKEIDYDQDKYIQEMLDFVVTWIKEHILEKDREYID"
+        }
+      },
+      seq {
+        id {
+          local str "HEMT_PSEAE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">HEMT_PSEAE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 153,
+          seq-data ncbieaa "MAHLVWQDDLNTGIQVIDNQHKRIVEMINHLHDAQQGKEHAAIAEVIEEL
+VDYTLSHFAFEETLMEDAGYQFSRAHKKIHELFIRRVSEYRVRFQAGEDVGDELKGLLSRWLFNHIRNDDAGYVDAVR
+HSMSELVKDKSEGGWLSRSMKRFFG"
+        }
+      }
+    }
+  }
+}

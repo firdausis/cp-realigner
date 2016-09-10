@@ -1,0 +1,4714 @@
+Cdd ::= {
+  name "bb30017",
+  id {
+    gid {
+      accession "acc_bb30017",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                28,
+                0
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                33,
+                5
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                38,
+                9
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                53,
+                24
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                60,
+                30
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                74,
+                46
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                84,
+                57
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                97,
+                70
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                141,
+                80
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                153,
+                88
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                168,
+                102
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                173,
+                108
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                188,
+                127
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                202,
+                150
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                229,
+                177
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                233,
+                182
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                260,
+                207
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                266,
+                214
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                279,
+                229
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                313,
+                262
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                320,
+                272
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                331,
+                279
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1mrp_"
+              },
+              starts {
+                351,
+                305
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                3,
+                5
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                13,
+                10
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                22,
+                16
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                33,
+                27
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                38,
+                31
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                53,
+                46
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                60,
+                52
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                74,
+                68
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                84,
+                79
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                97,
+                92
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                141,
+                102
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                153,
+                110
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                168,
+                124
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                173,
+                130
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                188,
+                149
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                202,
+                172
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                229,
+                199
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                233,
+                204
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                260,
+                229
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                266,
+                236
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                279,
+                251
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                313,
+                284
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                320,
+                294
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                331,
+                301
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_NEIMA"
+              },
+              starts {
+                351,
+                327
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                3,
+                9
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                22,
+                25
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                33,
+                36
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                38,
+                40
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                53,
+                55
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                60,
+                61
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                74,
+                77
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                84,
+                88
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                97,
+                101
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                141,
+                111
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                155,
+                119
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                168,
+                131
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                173,
+                137
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                188,
+                156
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                202,
+                179
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                229,
+                206
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                233,
+                211
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                260,
+                236
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                266,
+                243
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                279,
+                258
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                320,
+                302
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                331,
+                309
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                350,
+                327
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "FBPA_SERMA"
+              },
+              starts {
+                351,
+                334
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                28,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                33,
+                6
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                38,
+                10
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                53,
+                25
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                60,
+                31
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                74,
+                44
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                84,
+                55
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                97,
+                68
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                139,
+                88
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                153,
+                98
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                155,
+                99
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                167,
+                104
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                173,
+                111
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                188,
+                125
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                220,
+                137
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                229,
+                148
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                233,
+                153
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                260,
+                180
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                266,
+                187
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                285,
+                199
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                313,
+                226
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1atg_"
+              },
+              starts {
+                316,
+                228
+              },
+              len 3
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                27,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                33,
+                7
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                38,
+                11
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                53,
+                26
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                60,
+                32
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                74,
+                45
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                84,
+                56
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                97,
+                69
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                139,
+                89
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                142,
+                91
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                153,
+                98
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                155,
+                99
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                167,
+                110
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                173,
+                117
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                188,
+                131
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                199,
+                140
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                220,
+                141
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                229,
+                152
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                233,
+                157
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                259,
+                181
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                260,
+                182
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                266,
+                189
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                268,
+                190
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                285,
+                200
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                313,
+                227
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1wod_"
+              },
+              starts {
+                316,
+                229
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                3,
+                6
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                24,
+                20
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                33,
+                30
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                38,
+                34
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                53,
+                49
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                60,
+                55
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                74,
+                68
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                84,
+                79
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                97,
+                92
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                139,
+                112
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                153,
+                122
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                155,
+                123
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                167,
+                128
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                173,
+                135
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                188,
+                149
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                199,
+                158
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                220,
+                159
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                229,
+                170
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                233,
+                175
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                260,
+                202
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                266,
+                209
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                285,
+                221
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                313,
+                248
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_AZOVI"
+              },
+              starts {
+                316,
+                250
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                0,
+                0
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                3,
+                13
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                13,
+                20
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                24,
+                24
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                33,
+                34
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                38,
+                38
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                53,
+                53
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                60,
+                59
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                74,
+                72
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                84,
+                83
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                97,
+                96
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                139,
+                116
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                153,
+                126
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                155,
+                127
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                158,
+                129
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                167,
+                131
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                173,
+                138
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                188,
+                152
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                199,
+                161
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                220,
+                162
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                229,
+                173
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                233,
+                178
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                253,
+                195
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                260,
+                202
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                266,
+                209
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                285,
+                221
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                313,
+                248
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "MODA_RHOCA"
+              },
+              starts {
+                316,
+                250
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                28,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                33,
+                5
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                53,
+                25
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                60,
+                32
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                74,
+                47
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                84,
+                57
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                97,
+                70
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                120,
+                91
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                154,
+                120
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                176,
+                137
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                188,
+                149
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                202,
+                163
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                208,
+                168
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                229,
+                189
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                233,
+                193
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                258,
+                212
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                260,
+                214
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                266,
+                220
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                279,
+                233
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                320,
+                274
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1pot_"
+              },
+              starts {
+                352,
+                305
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                3,
+                8
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                17,
+                15
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                33,
+                31
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                53,
+                51
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                60,
+                58
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                74,
+                75
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                84,
+                85
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                97,
+                98
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                120,
+                119
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                154,
+                148
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                176,
+                165
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                188,
+                177
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                202,
+                191
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                208,
+                196
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                229,
+                217
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                233,
+                221
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                258,
+                240
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                260,
+                242
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                266,
+                248
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                279,
+                261
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                320,
+                302
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT2_HAEIN"
+              },
+              starts {
+                352,
+                333
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                3,
+                7
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                15,
+                23
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                17,
+                25
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                33,
+                41
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                53,
+                61
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                60,
+                68
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                74,
+                84
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                84,
+                94
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                97,
+                107
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                120,
+                128
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                154,
+                157
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                176,
+                174
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                188,
+                186
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                202,
+                200
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                208,
+                205
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                229,
+                226
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                233,
+                230
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                258,
+                249
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                260,
+                251
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                266,
+                257
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                279,
+                270
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                320,
+                311
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "POT1_HAEIN"
+              },
+              starts {
+                352,
+                342
+              },
+              len 18
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                25,
+                0
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                33,
+                13
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                38,
+                17
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                53,
+                32
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                60,
+                40
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                74,
+                53
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                84,
+                64
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                97,
+                77
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                140,
+                97
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                153,
+                106
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                155,
+                107
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                173,
+                126
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                180,
+                131
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                186,
+                134
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                188,
+                135
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                202,
+                147
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                229,
+                176
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                233,
+                181
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                260,
+                209
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                266,
+                215
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                281,
+                228
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                313,
+                259
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                316,
+                261
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                320,
+                267
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                331,
+                274
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "1sbp_"
+              },
+              starts {
+                351,
+                300
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                3,
+                1
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                17,
+                15
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                33,
+                36
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                38,
+                40
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                53,
+                56
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                60,
+                64
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                74,
+                77
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                84,
+                88
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                97,
+                102
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                140,
+                122
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                153,
+                131
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                155,
+                132
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                173,
+                151
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                180,
+                156
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                186,
+                159
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                188,
+                160
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                202,
+                172
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                229,
+                201
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                233,
+                206
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                260,
+                234
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                266,
+                240
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                281,
+                253
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                313,
+                284
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                316,
+                286
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                320,
+                292
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                331,
+                299
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "CYSP_ECOLI"
+              },
+              starts {
+                351,
+                325
+              },
+              len 13
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                0,
+                6
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                3,
+                14
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                15,
+                30
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                19,
+                33
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                33,
+                52
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                38,
+                56
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                53,
+                71
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                60,
+                79
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                74,
+                92
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                84,
+                103
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                97,
+                116
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                140,
+                136
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                153,
+                145
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                155,
+                146
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                173,
+                165
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                180,
+                170
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                186,
+                173
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                188,
+                174
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                203,
+                186
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                229,
+                214
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                234,
+                219
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                260,
+                245
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                265,
+                249
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                266,
+                250
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                281,
+                263
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                313,
+                294
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                316,
+                296
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                320,
+                303
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                331,
+                310
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNP7"
+              },
+              starts {
+                351,
+                336
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                0,
+                9
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                3,
+                11
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                15,
+                27
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                17,
+                32
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                33,
+                53
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                38,
+                57
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                53,
+                72
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                60,
+                80
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                74,
+                93
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                84,
+                104
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                97,
+                117
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                140,
+                137
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                153,
+                146
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                155,
+                147
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                173,
+                166
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                180,
+                171
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                186,
+                174
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                188,
+                175
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                203,
+                187
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                229,
+                215
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                233,
+                220
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                260,
+                247
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                266,
+                253
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                281,
+                266
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                313,
+                297
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                316,
+                299
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                320,
+                305
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                331,
+                312
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "POTF_ECOLI",
+                local str "SUBI_SYNY3"
+              },
+              starts {
+                351,
+                338
+              },
+              len 14
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1mrp_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1mrp_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 309,
+          seq-data ncbieaa "DITVYNGQHKEAATAVAKAFEQETGIKVTLNSGKSEQLAGQLKEEGDKTP
+ADVFYTEQTATFADLSEAGLLAPISEQTIQQTAQKGVPLAPKKDWIALSGRSRVVVYDHTKLSEKDMEKSVLDYATPK
+WKGKIGYVSTSGAFLEQVVALSKMKGDKVALNWLKGLKENGKLYAKNSVALQAVENGEVPAALINNYYWYNLAKEKGV
+ENLKSRLYFVRHQDPGALVSYSGAAVLKASKNQAEAQKFVDFLASKKGQEALVAARAEYPLRADVVSPFNLEPYEKLE
+APVVSATTAQDKEHAIKLIEEAGLK"
+        }
+      },
+      seq {
+        id {
+          local str "FBPA_NEIMA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FBPA_NEIMA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 331,
+          seq-data ncbieaa "MKTSIRYALLAAALTAATPALADITVYNGQHKEAAQAVADAFTRATGIKV
+KLNSAKGDQLAGQIKEEGSRSPADVFYSEQIPALATLSAANLLEPLPASTINETRGKGVPVAAKKDWVALSGRSRVVV
+YDTRKLSEKDLEKSVLNYATPKWKNRIGYAPTSGAFLEQVVAIVKLKGEAAALKWLKGLKEYGKPYAKNSVALQAVEN
+GEIDAALINNYYWHAFAREKGVQNVHTRLNFVRHRDPGALVTYSGAAVLKSSQNKDEAKKFVAFLASKEGQRALTAVR
+AEYPLNPHVVSTFNLEPIAKLEAPQVSATTVSEKEHATRLLEQAGMK"
+        }
+      },
+      seq {
+        id {
+          local str "FBPA_SERMA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FBPA_SERMA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 338,
+          seq-data ncbieaa "MKLRISSLGPVALLASSMMLAFGAQAASADQGIVIYNAQHENLVKSWVDG
+FTKDTGIKVTLRNGGDSELGNQLVQEGSASPADVFLTENSPAMVLVDNAKLFAPLDAATLAQVEPQYRPSHGRWIGIA
+ARSTVFVYNPAKLSDAQLPKSLLDLAKPEWKGRWAASPSGADFQAIVSALLELKGEKATLAWLKAMKTNFTAYKGNST
+VMKAVNAGQVDSGVIYHYYPFVDGAKTGENSNNIKLYYFKHQDPGAFVSISGGGVLASSKHQQQAQAFIKWITGKQGQ
+EILRTNNAFEYAVGVGAASNPKLVPLKDLDAPKVDAAQLNSKKVVELMTEAGLL"
+        }
+      },
+      seq {
+        id {
+          local str "1atg_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1atg_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 231,
+          seq-data ncbieaa "ELKVVTATNFLGTLEQLAGQFAKQTGHAVVISSGSSGPVYAQIVNGAPYN
+VFFSADEKSPEKLDNQGFALPGSRFTYAIGKLVLWSAKPGLVDNQGKVLAGNGWRHIAISNPQIAPYGLAGTQVLTHL
+GLLDKLTAQERIVEANSVGQAHSQTASGAADLGFVALAQIIQAAAKIPGSHWFPPANYYEPIVQQAVITKSTAEKANA
+EQFMSWMKGPKAVAIIKAAGYVLPQ"
+        }
+      },
+      seq {
+        id {
+          local str "1wod_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1wod_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 231,
+          seq-data ncbieaa "GKITVFAAASLTNAMQDIATQFKKEKGVDVVSSFASSSTLARQIEAGAPA
+DLFISADQKWMDYAVDKKAIDTATRQTLLGNSLVVVAPKASVQKDFTIDSKTNWTSLLNGGRLAVGDPEHVPAGIYAK
+EALQKLGAWDTLSPKLAPAEDVRGALALVERNEAPLGIVYGSDAVASKGVKVVATFPEDSHKKVEYPVAVVEGHNNAT
+VKAFYDYLKGPQAAEIFKRYGFTIK"
+        }
+      },
+      seq {
+        id {
+          local str "MODA_AZOVI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">MODA_AZOVI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 252,
+          seq-data ncbieaa "MSFSLSRLVVALGAGLLACAAQAAEVQVAVAANFTAPMKDIASQFEKDTG
+HKVITSFGPTGGFYSQIQNGAPFEVFLAADDTTPEKLEKEGGTVAGSRFTYAVGKLVLWSAKPGYVDDQGAVLKKNAF
+KHLSIANPKTAPYGAAAVQVLAKLGLTEATKSKLVEGASIAQAHQFVATGNAELGFVALSQVYKDGKLTGGSGWNVPG
+DLYEPIRQDAVILTKGKDNPAAQALVDYLKGPKATEVIKAYGYGLQ"
+        }
+      },
+      seq {
+        id {
+          local str "MODA_RHOCA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">MODA_RHOCA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 252,
+          seq-data ncbieaa "MTQFPQTLRAGATALALVMGLALPAAAGEVIAAVAANFTEPAKEIGALFT
+EKTGHTVTYAFGPSGQFYTQITQGAPFEVFLSADASRPKKAVEEGYAVPGSDFTYAVGKLVLWSADPARVDDKGAVLK
+TDLEHVAIADPKSAPYGAAAIEVMQKLGVYETLEPKLVTGKSISQAYEFAATGNAPVGFVAYSQVIGKEGGSSWMVPQ
+DLYKPIKQDAVLLKTGAEDAAAKAYLDFLKTPEALEIIRKYGYVTE"
+        }
+      },
+      seq {
+        id {
+          local str "1pot_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1pot_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 322,
+          seq-data ncbieaa "NNTLYFYNWTEYVPPGLLEQFTKETGIKVIYSTYESNETMYAKLKTYKDG
+AYDLVVPSTYYVDKMRKEGMIQKIDKSKLTNFSNLDPDMLNKPFDPNNDYSIPYIWGATAIGVNGDAVDPKSVTSWAD
+LWKPEYKGSLLLTDDAREVFQMALRKLGYSGNTTDPKEIEAAYNELKKLMPNVAAFNSDNPANPYMEGEVNLGMIWNG
+SAFVARQAGTPIDVVWPKEGGIFWMDSLAIPANAKNKEGALKLINFLLRPDVAKQVAETIGYPTPNLAARKLLSPEVA
+NDKTLYPDAETIKNGEWQNDVGAASSIYEEYYQKLKAG"
+        }
+      },
+      seq {
+        id {
+          local str "POT2_HAEIN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POT2_HAEIN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 350,
+          seq-data ncbieaa "MKKFFAHSLKNLFLSTTALFAASAFANNKLYVYNWTDYVPSDLVAQFSKE
+TGIEVIYSTFESNEEMYAKLKLTQNTGSGYDLVFPSSYYVNKMIKEKMLQPIDQSKLTNIHQIPKHLLNKEFDPENKY
+SLPYVYGLTGIEVNADEIDPKTITSWADLWKPEFKGKVLMTSDAREVFHVALLLDGKSPNTTNEEDIKTAYERLEKLL
+PNVATFNSDSPEVPYVQGEVAIGMIWNGSAYLAQKENQSLQFVYPKEGAIFWMDNYAIPTTAKNVEGAHKFIDFLLRP
+ENAKIVIERMGFSMPNNGAKTLLSAEVANDPKLFPPAEEVEKGIMQGDVGEAVDIYEKYWGKLKTN"
+        }
+      },
+      seq {
+        id {
+          local str "POT1_HAEIN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POT1_HAEIN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 360,
+          seq-data ncbieaa "MKKFAGLITASFVAATLTACNDKDAKQETAKATAAANDTVYLYTWTEYVP
+DGLLDEFTKETGIKVIVSSLESNETMYAKLKTQGESGGYDVIAPSNYFVSKMAREGMLKELDHSKLPVLKELDPDWLN
+KPYDKGNKYSLPQLLGAPGIAFNTNTYKGEQFTSWADLWKPEFANKVQLLDDAREVFNIALLKIGQDPNTQDPAIIKQ
+AYEELLKLRPNVLSFNSDNPANSFISGEVEVGQLWNGSVRIAKKEKAPLNMVFPKEGPVLWVDTLAIPATAKNSEGAH
+KLINYMLGKKTAEKLTLAIGYPTSNIEAKKALPKEITEDPAIYPSADILKNSHWQDDVGDAIQFYEQYYQELKAAK"
+        }
+      },
+      seq {
+        id {
+          local str "POTF_ECOLI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POTF_ECOLI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 370,
+          seq-data ncbieaa "MTALNKKWLSGLVAGALMAVSVGTLAAEQKTLHIYNWSDYIAPDTVANFE
+KETGIKVVYDVFDSNEVLEGKLMAGSTGFDLVVPSASFLERQLTAGVFQPLDKSKLPEWKNLDPELLKLVAKHDPDNK
+FAMPYMWATTGIGYNVDKVKAVLGENAPVDSWDLILKPENLEKLKSCGVSFLDAPEEVFATVLNYLGKDPNSTKADDY
+TGPATDLLLKLRPNIRYFHSSQYINDLANGDICVAIGWAGDVWQASNRAKEAKNGVNVSFSIPKEGAMAFFDVFAMPA
+DAKNKDEAYQFLNYLLRPDVVAHISDHVFYANANKAATPLVSAEVRENPGIYPPADVRAKLFTLKVQDPKIDRVRTRA
+WTKVKSGK"
+        }
+      },
+      seq {
+        id {
+          local str "1sbp_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1sbp_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 309,
+          seq-data ncbieaa "KDIQLLNVSYDPTRELYEQYNKAFSAHWKQETGDNVVIDQSHGGSGKQAT
+SVINGIEADTVTLALAYDVNAIAERGRIDKNWIKRLPDDSAPYTSTIVFLVRKGNPKQIHDWNDLIKPGVSVITPNPK
+SSGGARWNYLAAWGYALHHNNNDQAKAEDFVKALFKNVEVLDSGARGSTNTFVERGIGDVLIAWENEALLATNELGKD
+KFEIVTPSESILAEPTVSVVDKVVEKKDTKAVAEAYLKYLYSPEGQEIAAKNFYRPRDADVAKKYDDAFPKLKLFTID
+EVFGGWAKAQKDHFADGGTFDQISK"
+        }
+      },
+      seq {
+        id {
+          local str "CYSP_ECOLI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CYSP_ECOLI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 338,
+          seq-data ncbieaa "MAVNLLKKNSLALVASLLLAGHVQATELLNSSYDVSRELFAALNPPFEQQ
+WAKDNGGDKLTIKQSHAGSSKQALAILQGLKADVVTYNQVTDVQILHDKGKLIPADWQSRLPNNSSPFYSTMGFLVRK
+GNPKNIHDWNDLVRSDVKLIFPNPKTSGNARYTYLAAWGAADKADGGDKGKTEQFMTQFLKNVEVFDTGGRGATTTFA
+ERGLGDVLISFESEVNNIRKQYEAQGFEVVIPKTNILAEFPVAWVDKNVQANGTEKAAKAYLNWLYSPQAQTIITDYY
+YRVNNPEVMDKLKDKFPQTELFRVEDKFGSWPEVMKTHFTSGGELDKLLAAGRN"
+        }
+      },
+      seq {
+        id {
+          local str "SUBI_SYNP7"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SUBI_SYNP7"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 350,
+          seq-data ncbieaa "MKTAWTRRSFLQSAALATATVITIAACGGNNQSSSGGSGQPVEVTLVSYA
+VTQAAYEQIIPKFAAQWKEKTGQEVRFNQSYGGSGSQTRAVIDGLEADVVALALESDINQIEKAGLIQPGWQQRVPNN
+GIITNSVVALVTQEGNPKGIKDWTDLTKPGVRIVTANPKTSGGARWNFLGAWGSVTQTGGTEEQALQFTTDIYKNVPI
+LAKDARESTDVFTKGQADVLLNYENELILAQQKGEKVDYAIPPVNINIQGPVAVVDTYTDKHGTRKVSEAFVQFLFTP
+EAQAEFAKVGFRPALPEGVDPQLLAPFPKIQTWFTVADLGGWAKVQPEFFGDGGWFDKVQQAVAGR"
+        }
+      },
+      seq {
+        id {
+          local str "SUBI_SYNY3"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SUBI_SYNY3"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 352,
+          seq-data ncbieaa "MARSAFGWGFSVIAVLMVGSITACNTTTTTEPGQGENASQAPANLTLVSY
+AVTRDAFEKIIPKFTEEWKSKTGQDVTFEQSYGGSGSQTRAVVDGLEADIVALALSSDVQKIESAGLIQPGWEQEAPN
+GSIVTNSVIAFVTKASDNIKVEKWADLANPEVKVITANPKTSGGARWNFLGIWGSVTKTGGTEEQAFDFAGKVLANAP
+VLPKDARESTDVFYKQGQGNVLLNYENEVLLAKQKGENQPYIIPQDFNVSISGPVAVVDTTVDKKGTREVRDAFVQYL
+FTPEAQQIFAETGFRPVNEEVLAKFASQYPKVENLATIEEFGGWKKAQAEFFDEGGIFDKVITKIGRQ"
+        }
+      }
+    }
+  }
+}

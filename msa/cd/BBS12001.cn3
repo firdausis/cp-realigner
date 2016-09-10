@@ -1,0 +1,4161 @@
+Cdd ::= {
+  name "bbs12001",
+  id {
+    gid {
+      accession "acc_bbs12001",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                16,
+                20
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                23,
+                34
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                42,
+                55
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                61,
+                74
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                76,
+                88
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                79,
+                91
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                113,
+                131
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                142,
+                160
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                169,
+                189
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                207,
+                229
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                219,
+                243
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                221,
+                251
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                229,
+                265
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                239,
+                278
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                242,
+                283
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                264,
+                303
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                269,
+                308
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                279,
+                314
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                334,
+                321
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                344,
+                329
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                358,
+                345
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                361,
+                346
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                368,
+                355
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                370,
+                358
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                374,
+                363
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                408,
+                402
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                414,
+                412
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ac5_"
+              },
+              starts {
+                435,
+                429
+              },
+              len 35
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                11,
+                9
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                23,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                27,
+                24
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                42,
+                39
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                61,
+                58
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                76,
+                72
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                79,
+                75
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                114,
+                109
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                118,
+                111
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                142,
+                137
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                173,
+                164
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                207,
+                202
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                219,
+                216
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                221,
+                224
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                229,
+                237
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                241,
+                247
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                242,
+                249
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                261,
+                264
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                264,
+                265
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                269,
+                271
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                279,
+                277
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                334,
+                284
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                339,
+                287
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                341,
+                288
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                344,
+                289
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                358,
+                305
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                368,
+                317
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                370,
+                320
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                374,
+                325
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                408,
+                364
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                414,
+                369
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                418,
+                372
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ysc_"
+              },
+              starts {
+                435,
+                385
+              },
+              len 35
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                10,
+                10
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                23,
+                23
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                28,
+                26
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                42,
+                40
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                61,
+                59
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                79,
+                77
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                112,
+                108
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                113,
+                109
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                142,
+                138
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                169,
+                162
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                173,
+                163
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                207,
+                197
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                219,
+                209
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                221,
+                215
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                229,
+                223
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                231,
+                224
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                239,
+                232
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                242,
+                237
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                265,
+                257
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                269,
+                262
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                284,
+                273
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                295,
+                279
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                307,
+                285
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                313,
+                294
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                345,
+                323
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                358,
+                338
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                368,
+                348
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                370,
+                351
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                374,
+                356
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                408,
+                390
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                414,
+                397
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "1ivy_A"
+              },
+              starts {
+                434,
+                413
+              },
+              len 36
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                10,
+                4
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                23,
+                17
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                28,
+                20
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                42,
+                34
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                61,
+                53
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                79,
+                71
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                114,
+                105
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                118,
+                106
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                142,
+                130
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                169,
+                162
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                207,
+                204
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                219,
+                218
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                221,
+                226
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                229,
+                239
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                241,
+                249
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                242,
+                252
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                266,
+                267
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                269,
+                270
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                279,
+                276
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                334,
+                283
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                339,
+                286
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                341,
+                287
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                344,
+                288
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                347,
+                290
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                358,
+                303
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                368,
+                315
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                370,
+                318
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                374,
+                323
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                408,
+                362
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                414,
+                367
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                418,
+                368
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPS1_PENJA"
+              },
+              starts {
+                435,
+                381
+              },
+              len 35
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                10,
+                8
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                23,
+                21
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                42,
+                41
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                61,
+                60
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                76,
+                74
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                79,
+                77
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                114,
+                111
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                142,
+                139
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                169,
+                166
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                207,
+                204
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                219,
+                218
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                221,
+                226
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                224,
+                228
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                229,
+                238
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                241,
+                248
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                242,
+                251
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                264,
+                266
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                269,
+                271
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                279,
+                277
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                334,
+                284
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                339,
+                287
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                341,
+                288
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                344,
+                289
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                358,
+                305
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                361,
+                306
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                368,
+                315
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                370,
+                318
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                374,
+                323
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                408,
+                362
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                414,
+                367
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                418,
+                368
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBPX_ORYSA"
+              },
+              starts {
+                435,
+                381
+              },
+              len 35
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                10,
+                6
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                23,
+                19
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                42,
+                38
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                61,
+                57
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                76,
+                71
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                79,
+                74
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                114,
+                108
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                142,
+                136
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                170,
+                163
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                207,
+                200
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                219,
+                214
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                221,
+                222
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                229,
+                228
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                239,
+                244
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                242,
+                249
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                267,
+                264
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                269,
+                266
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                279,
+                272
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                334,
+                279
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                339,
+                282
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                341,
+                283
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                344,
+                284
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                357,
+                295
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                358,
+                298
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                361,
+                300
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                368,
+                309
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                370,
+                312
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                373,
+                314
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                374,
+                316
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                408,
+                355
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                414,
+                360
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CPVL_HUMAN"
+              },
+              starts {
+                435,
+                377
+              },
+              len 35
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                11,
+                10
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                23,
+                22
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                42,
+                41
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                61,
+                60
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                79,
+                78
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                112,
+                109
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                113,
+                110
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                142,
+                139
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                169,
+                163
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                207,
+                201
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                219,
+                213
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                221,
+                221
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                229,
+                229
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                239,
+                239
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                242,
+                244
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                265,
+                263
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                269,
+                268
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                284,
+                269
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                296,
+                271
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                310,
+                276
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                313,
+                282
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                345,
+                311
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                358,
+                326
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                368,
+                336
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                370,
+                339
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                374,
+                344
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                408,
+                378
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                414,
+                385
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                420,
+                386
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YUA6_CAEEL"
+              },
+              starts {
+                433,
+                397
+              },
+              len 37
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                10,
+                10
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                23,
+                23
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                42,
+                42
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                61,
+                61
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                79,
+                84
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                113,
+                118
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                117,
+                121
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                142,
+                146
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                169,
+                173
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                207,
+                211
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                219,
+                223
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                221,
+                225
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                229,
+                232
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                239,
+                242
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                242,
+                245
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                269,
+                273
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                280,
+                283
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                285,
+                285
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                313,
+                316
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                342,
+                344
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                358,
+                360
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                368,
+                370
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                370,
+                372
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                374,
+                377
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                408,
+                411
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                414,
+                417
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "CBP1_HORVU"
+              },
+              starts {
+                432,
+                428
+              },
+              len 38
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                10,
+                10
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                23,
+                23
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                28,
+                26
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                42,
+                40
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                61,
+                59
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                79,
+                77
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                112,
+                108
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                113,
+                109
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                142,
+                138
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                169,
+                162
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                173,
+                165
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                207,
+                199
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                219,
+                211
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                221,
+                219
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                229,
+                227
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                238,
+                234
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                239,
+                235
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                242,
+                240
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                265,
+                260
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                269,
+                265
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                274,
+                266
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                284,
+                272
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                309,
+                277
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                313,
+                284
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                345,
+                313
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                358,
+                328
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                368,
+                338
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                370,
+                340
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                374,
+                345
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                408,
+                379
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                414,
+                389
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                433,
+                406
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "YSS2_CAEEL"
+              },
+              starts {
+                435,
+                407
+              },
+              len 35
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                7,
+                0
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                10,
+                13
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                23,
+                26
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                28,
+                29
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                42,
+                46
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                61,
+                66
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                79,
+                79
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                114,
+                113
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                142,
+                141
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                170,
+                168
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                207,
+                205
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                219,
+                219
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                221,
+                227
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                229,
+                240
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                242,
+                246
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                261,
+                261
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                264,
+                262
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                269,
+                268
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                279,
+                277
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                318,
+                285
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                323,
+                289
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                341,
+                306
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                344,
+                307
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                358,
+                323
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                361,
+                324
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                368,
+                333
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                370,
+                336
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                374,
+                341
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                408,
+                380
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                414,
+                385
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NF31_NAEFO",
+                local str "RISC_HUMAN"
+              },
+              starts {
+                435,
+                402
+              },
+              len 33
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1ac5_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ac5_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 464,
+          seq-data ncbieaa "KVAYELLPGLSEVPDPSNIPQMHAGHIPLRSEDADEQDSSDLEYFFWKFT
+NNDSNGNVDRPLIIWLNGGPGCSSMDGALVESGPFRVNSDGKLYLNEGSWISKGDLLFIDQPTGTGFSVEQNKDEGKI
+DKNKFDEDLEDVTKHFMDFLENYFKIFPEDLTRKIILSGESYAGQYIPFFANAILNHNKFSKIDGDTYDLKALLIGNG
+WIDPNTQSLSYLPFAMEKKLIDESNPNFKHLTNAHENCQNLINSASTDEAAHFSYQECENILNLLLSYTRESSQKGTA
+DCLNMYNFNLKDSYPSCGMNWPKDISFVSKFFSTPGVIDSLHLDSDKIDHWKECTNSVGTKLSNPISKPSIHLLPGLL
+ESGIEIVLFNGDKDLICNNKGVLDTIDNLKWGGIKGFSDDAVSFDWIHKSKSTDDSEEFSGYVKYDRNLTFVSVYNAS
+HMVPFDKSLVSRGIVDIYSNDVMI"
+        }
+      },
+      seq {
+        id {
+          local str "1ysc_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ysc_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 420,
+          seq-data ncbieaa "KIKDPKILGIDPNVTQYTGYLDVEDEDKHFFFWTFESRNDPAKDPVILWL
+NGGPGCSSLTGLFFELGPSSIGPDLKPIGNPYSWNSNATVIFLDQPVNVGFSYSGSSGVSNTVAAGKDVYNFLELFFD
+QFPEYVNKGQDFHIAGESYAGHYIPVFASEILSHKDRNFNLTSVLIGNGLTDPLTQYNYYEPMACGEGGEPSVLPSEE
+CSAMEDSLERCLGLIESCYDSQSVWSCVPATIYCNNAQLAPYQRTGRNVYDIRKDCEGGNLCYPTLQDIDDYLNQDYV
+KEAVGAEVDHYESCNFDINRNFLFAGDWMKPYHTAVTDLLNQDLPILVYAGDKDFICNWLGNKAWTDVLPWKYDEEFA
+SQKVRNWTASITDEVAGEVKSYKHFTYLRVFNGGHMVPFDVPENALSMVNEWIHGGFS"
+        }
+      },
+      seq {
+        id {
+          local str "1ivy_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ivy_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 449,
+          seq-data ncbieaa "QDEIQRLPGLAKQPSFRQYSGYLKSSGSKHLHYWFVESQKDPENSPVVLW
+LNGGPGCSSLDGLLTEHGPFLVQPDGVTLEYNPYSWNLIANVLYLESPAGVGFSYSDDKFYATNDTEVAQSNFEALQD
+FFRLFPEYKNNKLFLTGESYAGIYIPTLAVLVMQDPSMNLQGLAVGNGLSSYEQNDNSLVYFAYYHGLLGNRLWSSLQ
+THCCSQNKCNFYDNKDLECVTNLQEVARIVGNSGLNIYNLYAPCAGGVPSHFRYEKDTVVVQDLGNIFTRLPLKRMWH
+QALLRSGDKVRMDPPCTNTTAASTYLNNPYVRKALNIPEQLPQWDMCNFLVNLQYRRLYRSMNSQYLKLLSSQKYQIL
+LYNGDVDMACNFMGDEWFVDSLNQKMEVQRRPWLVKYGDSGEQIAGFVKEFSHIAFLTIKGAGHMVPTDKPLAAFTMF
+SRFLNKQPY"
+        }
+      },
+      seq {
+        id {
+          local str "CPS1_PENJA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CPS1_PENJA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 416,
+          seq-data ncbieaa "SGICETTPGVNQYSGYLSVGSNMNMWFWFFEARNNPQQAPLAAWFNGGPG
+CSSMIGLFQENGPCHFVNGDSTPSLNENSWNNYANMIYIDQPIGVGFSYGTDDVTSTVTAAPYVWNLLQAFYAQRPEY
+ESRDFAIFTESYGGHYGPEFASYIEQQNAAIKAGSVTGQNVNIVALGVNNGWIDSTIQEKAYIDFSYNNSYQQIIDSS
+TRDSLLDAYNNQCLPALQQCSQSGSTSDCTNADSVCYQNIEGPISSSGDFDVYDIREPSNDPYPPKTYSTYLSDPTVV
+KAIGARTNYQECPNGPYNKFASTGDNPRSFLSTLSSVVQSGINVLVWAGDADWICNWLGNYEVANAVDFPGNAQFSAL
+DLAPYTVNGVEKGQFKTVDNFSFLKVYGAGHEVPYYQPDTALQAFKQIIQKKPI"
+        }
+      },
+      seq {
+        id {
+          local str "CBPX_ORYSA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CBPX_ORYSA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 416,
+          seq-data ncbieaa "MATGKSGGSSAEDLGHHAGYYRLPNTHDARLFYFFFESRGSKGEDDPVVI
+WLTGGPGCSSELALFYENGPFHIADNMSLVWNDFGWDQESNLIYVDQPTGTGFSYSSNPRDTRHDEAGVSNDLYAFLQ
+AFFTEHPNFAKNDFYITGESYAGHYIPAFASRVYKGNKNSEGIHINLKGFAIGNGLTDPAIQYKAYTDYSLDMGLITK
+SQFNRINKIVPTCELAIKLCGTSGTISCLGAYVVCNLICSSIETIIGKKNYYDIRKPCVGSLCYDLSNMEKFLQLKSV
+RESLGVGDIQFVSCSPTVYQAMLLDWMRNLEVGIPELLENDIKVLIYAGEYDLICNWLGNSRWVNSMEWSGKEAFVSS
+SEEPFTVDGKEAGILKSYGPLSFLKVHDAGHMVPMDQPKVALEMLMRWTSGNLS"
+        }
+      },
+      seq {
+        id {
+          local str "CPVL_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CPVL_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 412,
+          seq-data ncbieaa "LSLVGPFPGLNMKSYAGFLTVNKTYNSNLFFWFFPAQIQPEDAPVVLWLQ
+GGPGGSSMFGLFVEHGPYVVTSNMTLRDRDFPWTTTLSMLYIDNPVGTGFSFTDDTHGYAVNEDDVARDLYSALIQFF
+QIFPEYKNNDFYVTGESYAGKYVPAIAHLIHSLNPVREVKINLNGIAIGDGYSDPESIIGGYAEFLYQIGLLDEKQKK
+YFQKQCHECIEHIRKQNWLEAFEILDKLLDGDLTSDPSYFQNVTGCSNYYNFLRCTEPEDQLYYVKFLSLPEVRQAIH
+VGNQTFNDGTIVEKYLREDTVQSVKPWLTEIMNNYKVLIYNGQLDIIVAAALTEHSLMGMDWKGSQEYKKAEKKVWKI
+FKSDSEVAGYIRQAGDFHQVIIRGGGHILPYDQPLRAFDMINRFIYGKGW"
+        }
+      },
+      seq {
+        id {
+          local str "YUA6_CAEEL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">YUA6_CAEEL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 434,
+          seq-data ncbieaa "SALITNLPGAPISNFKQYSGYYNVGTKKNHMLHYWFVESQSNPSTDPVLL
+WLTGGPGCSGLSALLTEWGPWNVNTDGATLRTNPYSWNKNASILTLEAPAGVGYSYATDNNIATGDDQTASENWEALV
+AFFNEFPQYKGNDFYVTGESYGGIYVPTLVQTILDRQSQSHINIKGLAIGNGCVSANEGVDSLVNFLYHHGVVDQAKW
+EHMKTSCCHNDTDACPWHSFSEFSACGEFVEATQQTAWNGGLNPYNMYADCISTSASFRFGMEYERRFNKKYTPEVLG
+TVPCLDESPVTNYLNRQDVRKALGIPSSLPAWSICSNAISYGYKRQYGDMTSRVLNAVNNNNLKMMLYNGDVDLACNA
+LMGQRFTDKLGLTLSKKKTHFTVKGQIGGYVTQYKGSQVTFATVRGAGHMVPTDKPAVAEHIIQSFLFNKAF"
+        }
+      },
+      seq {
+        id {
+          local str "CBP1_HORVU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CBP1_HORVU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 466,
+          seq-data ncbieaa "GAEVTGLPGFDGALPSKHYAGYVTVDEGHGRNLFYYVVESERDPGKDPVV
+LWLNGGPGCSSFDGFVYEHGPFNFESGGSVKSLPKLHLNPYAWSKVSTMIYLDSPAGVGLSYSKNVSDYETGDLKTAT
+DSHTFLLKWFQLYPEFLSNPFYIAGESYAGVYVPTLSHEVVKGIQGGAKPTINFKGYMVGNGVCDTIFDGNALVPFAH
+GMGLISDEIYQQASTSCHGNYWNATDGKCDTAISKIESLISGLNIYDILEPCYHSRSIKEVNLQNSKLPQSFKDLGTT
+NKPFPVRTRMLGRAWPLRAPVKAGRVPSWQEVASGVPCMSDEVATAWLDNAAVRSAIHAQSVSAIGPWLLCTDKLYFV
+HDAGSMIAYHKNLTSQGYRAIIFSGDHDMCVPFTGSEAWTKSLGYGVVDSWRPWITNGQVSGYTEGYEHGLTFATIKG
+AGHTVPEYKPQEAFAFYSRWLAGSKL"
+        }
+      },
+      seq {
+        id {
+          local str "NF31_NAEFO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">NF31_NAEFO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 470,
+          seq-data ncbieaa "DHLVTQLPGLSGNIGVKSYTGYLLANATRGRYLFYWFFESMRNPSQDPLV
+MWTNGGPGCSSLGGEASEHGLFLVNADGATITRNPYSWNRVSNILYIEQPVGVGFSYSNSTDDYQNLNDVQAASDMNN
+ALRDFLTRFPQFIGRETYLAGESYGGVYVPTTAYNIVEGNGKGQQPYVNLVGILVGNGVTDAEADSNSIPPMMKYHSL
+ISIKYYEEGYKACQGDFYANQNLPACQKFLTDSSNAMGNINPYYIYDSCPWLGINLQQKLKTTQEMTFQVLDPKTQQP
+VKIHPLFQMYKHGGWSKRVANERNFAPRFETDAPCVPNQSIAKYFRRLDVQQALGVRRKTADPNGWNICTGIINYTQV
+YSTILPFYAKLLPHIRILVYSGDTDMVVNGLGTQAAIDKLQLQETSSWRTWEFDSALGTVVGGYIRKFEKSGKGLTFI
+TVRGAGHMVPLVKPDSAFYMFKNFIDGTCC"
+        }
+      },
+      seq {
+        id {
+          local str "YSS2_CAEEL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">YSS2_CAEEL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 442,
+          seq-data ncbieaa "TDKVNDLPGLTFTPDFFHYSGYLRAWTDKYLHYWLTESSRAPTQDPLVLW
+LNGGPGCSSLDGLIEELGPFHVKDFGNSIYYNEYAWNKFANVLFLESPAGVGYSYSTNFNLTVSDDEVSLHNYMALLD
+FLSKFPEYKGRDFWITGESYAGVYIPTLAVRILNDKKNFPNFKGVAIGNGALNFPNNYNTMVPFYYYHALVRDDLYND
+IARNCCNNNIGTCDIYSKFFDPNCRDKVINALDGTNELNMYNLYDVCYYNPTTNLKKAFIERQMRIAVGLPARKHNAA
+TTVPLCAQTNNTHVYLNRADVRKSLHIPSSLPAWEECSDQVGKNYVVTHFNVIPEFQTMIAAGIKILVYNGDVDTACN
+SIMNQQFLTSLNLTVLGEQEKVNEAWHYSGQTGTAVAGFQTKFAGNVDFLTVRGSGHFVPEDKPKESQQMIFNFINNK
+DY"
+        }
+      },
+      seq {
+        id {
+          local str "RISC_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">RISC_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 435,
+          seq-data ncbieaa "PLLLGLNAGAVIDWPTEEGKEVWDYVTVRKDAYMFWWLYYATNSCKNFSE
+LPLVMWLQGGPGGSSTGFGNFEEIGPLDSDLKPRKTTWLQAASLLFVDNPVGTGFSYVNGSGAYAKDLAMVASDMMVL
+LKTFFSCHKEFQTVPFYIFSESYGGKMAAGIGLELYKAIQRGTIKCNFAGVALGDSWISPVDSVLSWGPYLYSMSLLE
+DKGLAEVSKVAEQVLNAVNKGLYREATELWGKAEMIIEQNTDGVNFYNILTKSTPTSTMESSLEFTQSHLVCLCQRHV
+RHLQRDALSQLMNGPIRKKLKIIPEDQSWGGQATNVFVNMEEDFMKPVISIVDELLEAGINVTVYNGQLDLIVDTMGQ
+EAWVRKLKWPELPKFSQLKWKALYSDPKSLETSAFVKSYKNLAFYWILKAGHMVPSDQGDMALKMMRLVTQQE"
+        }
+      }
+    }
+  }
+}

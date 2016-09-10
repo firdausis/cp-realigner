@@ -1,0 +1,1658 @@
+Cdd ::= {
+  name "bbs12027",
+  id {
+    gid {
+      accession "acc_bbs12027",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "1a3w_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "1a3w_A"
+              },
+              starts {
+                35,
+                36
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "1a3w_A"
+              },
+              starts {
+                63,
+                65
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "1a3w_A"
+              },
+              starts {
+                81,
+                84
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "1a3w_A"
+              },
+              starts {
+                92,
+                92
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "1a3w_A"
+              },
+              starts {
+                125,
+                122
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "1a3w_A"
+              },
+              starts {
+                164,
+                161
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "1a3w_A"
+              },
+              starts {
+                199,
+                195
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_LACDE"
+              },
+              starts {
+                0,
+                0
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_LACDE"
+              },
+              starts {
+                35,
+                35
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_LACDE"
+              },
+              starts {
+                61,
+                60
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_LACDE"
+              },
+              starts {
+                63,
+                63
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_LACDE"
+              },
+              starts {
+                78,
+                76
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_LACDE"
+              },
+              starts {
+                81,
+                80
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_LACDE"
+              },
+              starts {
+                92,
+                88
+              },
+              len 72
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_LACDE"
+              },
+              starts {
+                164,
+                160
+              },
+              len 52
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYC_ARATH"
+              },
+              starts {
+                0,
+                0
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYC_ARATH"
+              },
+              starts {
+                35,
+                35
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYC_ARATH"
+              },
+              starts {
+                63,
+                64
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYC_ARATH"
+              },
+              starts {
+                78,
+                77
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYC_ARATH"
+              },
+              starts {
+                81,
+                81
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYC_ARATH"
+              },
+              starts {
+                92,
+                89
+              },
+              len 72
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYC_ARATH"
+              },
+              starts {
+                164,
+                162
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYC_ARATH"
+              },
+              starts {
+                199,
+                196
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY1_SYNY3"
+              },
+              starts {
+                0,
+                0
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY1_SYNY3"
+              },
+              starts {
+                35,
+                35
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY1_SYNY3"
+              },
+              starts {
+                61,
+                60
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY1_SYNY3"
+              },
+              starts {
+                63,
+                63
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY1_SYNY3"
+              },
+              starts {
+                78,
+                77
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY1_SYNY3"
+              },
+              starts {
+                81,
+                80
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY1_SYNY3"
+              },
+              starts {
+                89,
+                85
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY1_SYNY3"
+              },
+              starts {
+                123,
+                117
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY1_SYNY3"
+              },
+              starts {
+                164,
+                158
+              },
+              len 52
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METEX"
+              },
+              starts {
+                0,
+                0
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METEX"
+              },
+              starts {
+                35,
+                35
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METEX"
+              },
+              starts {
+                61,
+                60
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METEX"
+              },
+              starts {
+                63,
+                63
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METEX"
+              },
+              starts {
+                78,
+                77
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METEX"
+              },
+              starts {
+                81,
+                79
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METEX"
+              },
+              starts {
+                89,
+                84
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METEX"
+              },
+              starts {
+                123,
+                116
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METEX"
+              },
+              starts {
+                164,
+                157
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METEX"
+              },
+              starts {
+                202,
+                191
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_CHLMU"
+              },
+              starts {
+                0,
+                0
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_CHLMU"
+              },
+              starts {
+                35,
+                35
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_CHLMU"
+              },
+              starts {
+                61,
+                60
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_CHLMU"
+              },
+              starts {
+                63,
+                62
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_CHLMU"
+              },
+              starts {
+                81,
+                80
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_CHLMU"
+              },
+              starts {
+                84,
+                82
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_CHLMU"
+              },
+              starts {
+                89,
+                84
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_CHLMU"
+              },
+              starts {
+                123,
+                116
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_CHLMU"
+              },
+              starts {
+                164,
+                157
+              },
+              len 52
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY2_ECOLI"
+              },
+              starts {
+                0,
+                0
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY2_ECOLI"
+              },
+              starts {
+                35,
+                35
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY2_ECOLI"
+              },
+              starts {
+                61,
+                60
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY2_ECOLI"
+              },
+              starts {
+                63,
+                63
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY2_ECOLI"
+              },
+              starts {
+                81,
+                81
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY2_ECOLI"
+              },
+              starts {
+                89,
+                86
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY2_ECOLI"
+              },
+              starts {
+                123,
+                118
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY2_ECOLI"
+              },
+              starts {
+                164,
+                159
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPY2_ECOLI"
+              },
+              starts {
+                199,
+                193
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_BORBU"
+              },
+              starts {
+                0,
+                0
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_BORBU"
+              },
+              starts {
+                39,
+                35
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_BORBU"
+              },
+              starts {
+                62,
+                56
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_BORBU"
+              },
+              starts {
+                63,
+                58
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_BORBU"
+              },
+              starts {
+                83,
+                76
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_BORBU"
+              },
+              starts {
+                89,
+                78
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_BORBU"
+              },
+              starts {
+                123,
+                110
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_BORBU"
+              },
+              starts {
+                164,
+                151
+              },
+              len 52
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYG_RICCO"
+              },
+              starts {
+                35,
+                1
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYG_RICCO"
+              },
+              starts {
+                64,
+                28
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYG_RICCO"
+              },
+              starts {
+                81,
+                43
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYG_RICCO"
+              },
+              starts {
+                89,
+                48
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYG_RICCO"
+              },
+              starts {
+                123,
+                80
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYG_RICCO"
+              },
+              starts {
+                164,
+                121
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYG_RICCO"
+              },
+              starts {
+                199,
+                155
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THELI"
+              },
+              starts {
+                0,
+                0
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THELI"
+              },
+              starts {
+                35,
+                35
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THELI"
+              },
+              starts {
+                61,
+                60
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THELI"
+              },
+              starts {
+                63,
+                63
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THELI"
+              },
+              starts {
+                79,
+                77
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THELI"
+              },
+              starts {
+                81,
+                79
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THELI"
+              },
+              starts {
+                89,
+                84
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THELI"
+              },
+              starts {
+                123,
+                116
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THELI"
+              },
+              starts {
+                164,
+                157
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THELI"
+              },
+              starts {
+                199,
+                191
+              },
+              len 3
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METJA"
+              },
+              starts {
+                0,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METJA"
+              },
+              starts {
+                6,
+                5
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METJA"
+              },
+              starts {
+                41,
+                34
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METJA"
+              },
+              starts {
+                61,
+                53
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METJA"
+              },
+              starts {
+                63,
+                56
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METJA"
+              },
+              starts {
+                92,
+                72
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METJA"
+              },
+              starts {
+                97,
+                75
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METJA"
+              },
+              starts {
+                125,
+                100
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METJA"
+              },
+              starts {
+                164,
+                139
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_METJA"
+              },
+              starts {
+                199,
+                173
+              },
+              len 17
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THEAC"
+              },
+              starts {
+                0,
+                0
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THEAC"
+              },
+              starts {
+                39,
+                35
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THEAC"
+              },
+              starts {
+                61,
+                56
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THEAC"
+              },
+              starts {
+                63,
+                59
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THEAC"
+              },
+              starts {
+                90,
+                73
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THEAC"
+              },
+              starts {
+                125,
+                104
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THEAC"
+              },
+              starts {
+                164,
+                143
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "KPYK_MYCGE",
+                local str "KPYK_THEAC"
+              },
+              starts {
+                199,
+                177
+              },
+              len 17
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1a3w_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1a3w_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 212,
+          seq-data ncbieaa "TLVALRKAGLNIVRMNFSHGSYEYHKSVIDNARKSEELYPGRPLAIALDT
+KGPEIRTGTTTNDVDYPIPPNHEMIFTTDDKYAKACDDKIMYVDYKNITKVISAGRIIYVDDGVLSFQVLEVVDTLKV
+KALNAGKICSHKGVNLPGTDVDLPALSEKDKEDLRFGVKNGVHMVFASFIRTANDVLTIREVLGEQGKDVKIIVKIEN
+QQGVNN"
+        }
+      },
+      seq {
+        id {
+          local str "KPYK_LACDE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPYK_LACDE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 212,
+          seq-data ncbieaa "TITKLAEAGANVFRFNFSHGNHEEHLARMNMVREVEKKTGKLLGIALDTK
+GAEIRTTDQEGGKFTINTGDEIRVSMDATKAGNKDMIHVTYPGLFDDTHVGGTVLIDDGAVGLTIKAKDEEKRELVCE
+AQNTGVIGSKKGVNAPGVEIRLPGITEKDTDDIRFGLKHGINFIFASFVRKAQDVLDIRALCEEANASYVKIFPKIES
+QEGIDN"
+        }
+      },
+      seq {
+        id {
+          local str "KPYC_ARATH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPYC_ARATH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 213,
+          seq-data ncbieaa "MVEKLLMAGMSVARFNFSHGSYEYHQETLDNLRQAMLNTGMLCAVMLDTK
+GPEIRTGFLKDGKPIQLKQGQEITISTDYDLKGDEKTICMSYKKLAQDVNPGMVILCADGTISLKVLSCDKEKGTVRC
+RCENTSMLGERKNVNLPGVVVDLPTLTEKDKQDILEWGVPNQIDMIALSFVRKGSDLVQVRKLLGKHAKTILLMSKVE
+NQEGVAN"
+        }
+      },
+      seq {
+        id {
+          local str "KPY1_SYNY3"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPY1_SYNY3"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 210,
+          seq-data ncbieaa "VIRQMVDAGMNVARLNFSHGSYEDHATMVRLLRSVEQEMDTPITLLQDLQ
+GPKIRIGQLPGGEKQLREGEKVSLVPVEIGDRHPGAVGIDYPHLATEAKVGERILLDDGLLEMKVVSIQDPEVICEVV
+TGGILKSRKGVNLPGLVLTLPSMTTKDKQDLEFGLSQGIDWVSLSFVRKGEDIHTLKQFLAERGHPDLPVIAKIEKPQ
+AIDN"
+        }
+      },
+      seq {
+        id {
+          local str "KPYK_METEX"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPYK_METEX"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 205,
+          seq-data ncbieaa "MIEKLFHAGADVFRINMSHLAREKLPERIEVIRTIEREGKRPIGILVDLQ
+GPKLRLGTFVGDAAVLENGQTFVLDSDPTPGDTDRVFLPHPEILSALEPSHGILIDDGKLRLIVTEVSEGRAVTRVEV
+GGRISNRKGVSLPHTALPVPAMTEKDRGDLEAGLAAGADWIAVSFVQRPEDVAEVKKVAAGRALVMAKIEKPQALTR"
+        }
+      },
+      seq {
+        id {
+          local str "KPYK_CHLMU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPYK_CHLMU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 209,
+          seq-data ncbieaa "MLEKLLDAGMNVARLNFSHGTHESHGRTIAILKELREKRQVPLAIMLDTK
+GPEIRLGQVESPIKVKPGDRLTLTSKEILGSKEAGVTLYPSCVFPFVRERAPVLIDDGYIQAVVVNAQEHLIEIEFQN
+SGEIKSNKSLSIKDIDVALPFMTEKDITDLKFGVEQELDLIAASFVRCNEDIDSMRKVLENFGRPNMPIIAKIENHLG
+VQN"
+        }
+      },
+      seq {
+        id {
+          local str "KPY2_ECOLI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPY2_ECOLI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 211,
+          seq-data ncbieaa "NLEKVIAAGANVVRMNFSHGSPEDHKMRADKVREIAAKLGRHVAILGDLQ
+GPKIRVSTFKEGKVFLNIGDKFLLDANLGKGEGDKEKVGIDYKGLPADVVPGDILLLDDGRVQLKVLEVQGMKVFTEV
+TVGGPLSNNKGINKLGGGLSAEALTEKDKADIKTAALIGVDYLAVSFPRCGEDLNYARRLARDAGCDAKIVAKVERAE
+AVCSQ"
+        }
+      },
+      seq {
+        id {
+          local str "KPYK_BORBU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPYK_BORBU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 203,
+          seq-data ncbieaa "HIKDLHDAGVNVIRLNTAHQSHEDTIKVIDNVRKISNKIALMIDTKGPEV
+RTANIENPIIVKTGDKVIISTSPINEPNNFQTNYDGFVKEVPQGSKVLIDDGELEMTVVAKLPDRLICEIKNDGQIKN
+KKSINTPGISLKLQSVTEKDKGFIELAAKYNVDFIAHSFVRHSKDVQDVQEILTASGNPDVKIISKIENQEGIDN"
+        }
+      },
+      seq {
+        id {
+          local str "KPYG_RICCO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPYG_RICCO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 172,
+          seq-data ncbieaa "NAQSHDNVVSIMLDTKGPEVRSGDVPQPMLKEGQEFNPTIRRGVSTQDTV
+SVNYDDFVNDVVVGDILLVDGGMMSLAVKSKTSDLVKCVVVDGGELKSRRHLNVRGKSARLPSITDKDWGDIKFGVDN
+QVDFYAVSFVKDAKVVHELKEYLKRCNADIHVIVKIESADSIPN"
+        }
+      },
+      seq {
+        id {
+          local str "KPYK_THELI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPYK_THELI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 194,
+          seq-data ncbieaa "SIKKMIKAGMSVARINFSHGTLEEHAKTIETVRDVAEKLERRVAILGDLP
+GLKMRVGKIKGDSVTLRKGDKVVLTTRDIEGDETTIPVEFKDLPKLVSKGDTIYLSDGYIMLRVEEVRENEVECVVVN
+GGILFSHKGINIPKANLPIEAITPRDFEIIEFAIEHGVDAIGLSFVGSVYDVLKVKSFLEKKSADL"
+        }
+      },
+      seq {
+        id {
+          local str "KPYK_MYCGE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPYK_MYCGE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 216,
+          seq-data ncbieaa "NIEAIIKSGVSVIRLNFSHGTHEEQQVRIKIVRDVAKAMNIPVSIMLDTN
+GPEIRIVETKKEGLKITKDSEVIINTMSKMIASDNQFAVSDASGKYNMVNDVNIGQKILVDDGKLTLVVTRVDKQHNQ
+VICVAKNDHTVFTKKRLNLPNAQYSIPFLSEKDLKDIDFGLSQGIDYIAASFVNTVADIKQLRDYLKLKNASGVKIIA
+KIESNHALNN"
+        }
+      },
+      seq {
+        id {
+          local str "KPYK_METJA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPYK_METJA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 190,
+          seq-data ncbieaa "KLDKAINLIDGVRFNMSHATTDYCEKFLNILEKNNIAKVMDLKGIKIRIK
+EVKLKNKILKMGEKVVIGEDIKLNYNIDTIEEGHFILINDGKIKLRVVEKTDKIIAVVEVGGEIKEGMGVNLPDTRIE
+LPIIDETDLKNIKFAVEKDFEYIALSFVRNKEDVKELKDIISEYKGDCEVISKIETKEGLKN"
+        }
+      },
+      seq {
+        id {
+          local str "KPYK_THEAC"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">KPYK_THEAC"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 194,
+          seq-data ncbieaa "IMKQMIDNGLSLVRINSAHADIKDVSKITQMVRSINRDVGIMIDLKGPEL
+RTGEFAGGTLKISSGKDYVMGKDIVLNNMNVLSAVQVGDRILMSDGEVSFEVESTDPFTIRALNDGVLRDRSRVNIPG
+RFIELGTITDRDRAFIREGIADGVDFFALSFVQKSENVDSLRDFVIDSGGDQYIISKIETKSGLDN"
+        }
+      }
+    }
+  }
+}

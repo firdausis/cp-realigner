@@ -1,0 +1,4765 @@
+Cdd ::= {
+  name "bb12031",
+  id {
+    gid {
+      accession "acc_bb12031",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                10,
+                0
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                43,
+                32
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                76,
+                57
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                147,
+                128
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                176,
+                157
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                179,
+                159
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                246,
+                226
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                248,
+                227
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                285,
+                262
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                290,
+                267
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                315,
+                287
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                318,
+                289
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                333,
+                303
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                348,
+                306
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                372,
+                317
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                390,
+                318
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                392,
+                320
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                425,
+                328
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                472,
+                336
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                473,
+                337
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                480,
+                341
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                484,
+                344
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                491,
+                352
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                508,
+                357
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                517,
+                366
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                541,
+                388
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                545,
+                392
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                560,
+                401
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                570,
+                406
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                582,
+                408
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                598,
+                421
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                600,
+                423
+              },
+              len 85
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                685,
+                509
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                703,
+                526
+              },
+              len 76
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                779,
+                602
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                829,
+                652
+              },
+              len 90
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                919,
+                742
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                953,
+                774
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                957,
+                776
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                977,
+                792
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "1bgx_T"
+              },
+              starts {
+                994,
+                805
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                21,
+                0
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                43,
+                21
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                76,
+                47
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                147,
+                118
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                176,
+                147
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                177,
+                148
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                179,
+                156
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                246,
+                223
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                248,
+                224
+              },
+              len 42
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                290,
+                266
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                311,
+                284
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                322,
+                286
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                347,
+                310
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                372,
+                323
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                388,
+                324
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                392,
+                328
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                431,
+                336
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                442,
+                338
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                455,
+                340
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                461,
+                345
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                466,
+                350
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                468,
+                352
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                471,
+                355
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                473,
+                357
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                480,
+                361
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                484,
+                364
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                508,
+                370
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                517,
+                379
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                541,
+                400
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                545,
+                404
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                549,
+                407
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                556,
+                414
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                557,
+                415
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                568,
+                424
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                578,
+                430
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                589,
+                431
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                600,
+                442
+              },
+              len 85
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                686,
+                527
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                703,
+                543
+              },
+              len 76
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                779,
+                619
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                829,
+                669
+              },
+              len 90
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                919,
+                759
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                957,
+                795
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_ANATH"
+              },
+              starts {
+                994,
+                828
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                17,
+                0
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                43,
+                29
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                76,
+                55
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                147,
+                128
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                176,
+                157
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                177,
+                158
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                179,
+                164
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                246,
+                231
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                290,
+                275
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                318,
+                302
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                388,
+                323
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                392,
+                327
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                425,
+                335
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                455,
+                354
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                461,
+                359
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                466,
+                364
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                468,
+                366
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                472,
+                367
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                473,
+                368
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                480,
+                372
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                484,
+                375
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                508,
+                381
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                517,
+                390
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                540,
+                412
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                545,
+                417
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                556,
+                428
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                557,
+                429
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                568,
+                441
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                578,
+                447
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                600,
+                469
+              },
+              len 85
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                686,
+                554
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                703,
+                570
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                732,
+                598
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                779,
+                645
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                829,
+                696
+              },
+              len 90
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                919,
+                786
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                957,
+                822
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_LACLA"
+              },
+              starts {
+                994,
+                855
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                17,
+                0
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                43,
+                25
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                76,
+                51
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                147,
+                122
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                176,
+                151
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                177,
+                152
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                179,
+                154
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                246,
+                221
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                290,
+                265
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                317,
+                292
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                322,
+                296
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                327,
+                299
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                372,
+                316
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                395,
+                317
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                413,
+                339
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                434,
+                347
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                454,
+                361
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                466,
+                369
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                468,
+                371
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                486,
+                374
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                491,
+                380
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                517,
+                406
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                545,
+                448
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                556,
+                466
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                557,
+                469
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                568,
+                481
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                575,
+                488
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                600,
+                513
+              },
+              len 85
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                685,
+                599
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                702,
+                616
+              },
+              len 77
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                779,
+                693
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                829,
+                743
+              },
+              len 83
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                914,
+                826
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                919,
+                831
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                957,
+                867
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_RICFE"
+              },
+              starts {
+                994,
+                900
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                17,
+                0
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                43,
+                27
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                76,
+                53
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                147,
+                124
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                176,
+                153
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                177,
+                154
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                179,
+                159
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                246,
+                226
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                248,
+                227
+              },
+              len 42
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                290,
+                269
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                311,
+                289
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                317,
+                297
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                346,
+                326
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                358,
+                336
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                370,
+                348
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                374,
+                352
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                378,
+                355
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                381,
+                356
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                392,
+                367
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                413,
+                388
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                425,
+                400
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                455,
+                421
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                466,
+                434
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                468,
+                453
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                471,
+                457
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                473,
+                461
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                479,
+                468
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                491,
+                481
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                517,
+                510
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                545,
+                538
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                556,
+                549
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                557,
+                550
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                569,
+                560
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                571,
+                561
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                574,
+                563
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                575,
+                565
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                600,
+                590
+              },
+              len 85
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                686,
+                675
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                703,
+                691
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                731,
+                718
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                779,
+                766
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                829,
+                816
+              },
+              len 90
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                919,
+                906
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                957,
+                942
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_TREPA"
+              },
+              starts {
+                994,
+                975
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                20,
+                0
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                43,
+                24
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                76,
+                50
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                147,
+                121
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                176,
+                150
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                177,
+                151
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                179,
+                155
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                246,
+                222
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                248,
+                223
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                278,
+                252
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                284,
+                255
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                290,
+                263
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                311,
+                283
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                350,
+                291
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                358,
+                297
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                384,
+                309
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                392,
+                317
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                413,
+                338
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                425,
+                350
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                455,
+                371
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                466,
+                384
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                479,
+                386
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                484,
+                388
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                491,
+                396
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                494,
+                398
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                517,
+                422
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                536,
+                440
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                545,
+                449
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                556,
+                460
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                557,
+                461
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                569,
+                471
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                571,
+                472
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                574,
+                474
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                575,
+                476
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                600,
+                501
+              },
+              len 83
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                684,
+                584
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                686,
+                585
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                703,
+                601
+              },
+              len 76
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                779,
+                677
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                829,
+                727
+              },
+              len 90
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                919,
+                817
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                957,
+                853
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_BORBU"
+              },
+              starts {
+                994,
+                886
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                14,
+                0
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                43,
+                33
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                76,
+                59
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                147,
+                130
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                176,
+                161
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                177,
+                163
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                179,
+                172
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                246,
+                239
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                248,
+                240
+              },
+              len 42
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                290,
+                282
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                326,
+                310
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                332,
+                315
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                346,
+                335
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                370,
+                359
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                387,
+                362
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                392,
+                368
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                413,
+                393
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                425,
+                405
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                453,
+                426
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                479,
+                440
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                491,
+                453
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                517,
+                480
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                538,
+                500
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                545,
+                507
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                556,
+                519
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                557,
+                521
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                569,
+                531
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                571,
+                532
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                574,
+                534
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                575,
+                536
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                600,
+                562
+              },
+              len 85
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                685,
+                648
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                703,
+                665
+              },
+              len 76
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                779,
+                741
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                829,
+                789
+              },
+              len 90
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                919,
+                897
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                954,
+                930
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                957,
+                931
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_SYNY3"
+              },
+              starts {
+                994,
+                964
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                6,
+                0
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                43,
+                38
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                76,
+                64
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                147,
+                135
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                176,
+                164
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                177,
+                165
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                179,
+                171
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                246,
+                238
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                248,
+                239
+              },
+              len 42
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                290,
+                281
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                317,
+                308
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                322,
+                309
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                402,
+                326
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                413,
+                341
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                425,
+                354
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                434,
+                358
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                444,
+                364
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                466,
+                386
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                468,
+                388
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                471,
+                392
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                473,
+                398
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                479,
+                404
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                509,
+                408
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                517,
+                416
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                545,
+                444
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                556,
+                455
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                557,
+                456
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                561,
+                457
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                568,
+                465
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                575,
+                473
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                600,
+                498
+              },
+              len 85
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                686,
+                583
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                702,
+                600
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                722,
+                619
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                732,
+                628
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                779,
+                679
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                829,
+                729
+              },
+              len 90
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                919,
+                819
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                957,
+                855
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_MYCLE"
+              },
+              starts {
+                994,
+                888
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                13,
+                0
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                43,
+                32
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                76,
+                59
+              },
+              len 71
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                150,
+                130
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                176,
+                156
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                177,
+                157
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                181,
+                159
+              },
+              len 65
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                246,
+                227
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                282,
+                262
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                290,
+                272
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                327,
+                299
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                356,
+                311
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                370,
+                328
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                374,
+                336
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                403,
+                346
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                431,
+                356
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                454,
+                369
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                466,
+                381
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                480,
+                383
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                491,
+                395
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                494,
+                396
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                517,
+                422
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                538,
+                441
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                545,
+                448
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                561,
+                460
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                568,
+                468
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                575,
+                471
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                600,
+                496
+              },
+              len 83
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                688,
+                579
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                703,
+                593
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                732,
+                621
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                779,
+                669
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                830,
+                717
+              },
+              len 78
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                909,
+                795
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                919,
+                805
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                957,
+                840
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "DPO1_RHILE",
+                local str "DPO1_HELPJ"
+              },
+              starts {
+                993,
+                873
+              },
+              len 23
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1bgx_T"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1bgx_T"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 828,
+          seq-data ncbieaa "MRGMLPLFEPKGRVLLVDGHHLAYRTFHALKGLTTSRGEPVQAVYGFAKS
+LLKALKEDGDAVIVVFDAKAPSFRHEAYGGYKAGRAPTPEDFPRQLALIKELVDLLGLARLEVPGYEADDVLASLAKK
+AEKEGYEVRILTADKDLYQLLSDRIHVLHPEGYLITPAWLWEKYGLRPDQWADYRALTGDESDNLPGVKGIGEKTARK
+LLEEWGSLEALLKNLDRLKPAIREKILAHMDDLKLSWDLAKVRTDLPLEVDFAKRREPDRERLRAFLERLEFGSLLHE
+FGLLESPKALEEAPWPPPEGAFVGFVLSRKEPMWADLLALAAARGGRVHRAPEPYKALRDLKEARGLLAKDLSVLALR
+EGLGLPPGDDPMLLAYLLDPSNTTPEGVARRYGGEWTEEAGERAALSERLFANLWGRLEGEERLLWLYREVERPLSAV
+LAHMEATGVRLDVAYLRALSLEVAEEIARLEAEVFRLAGHPFNLNSRDQLERVLFDELGLPAIGKTEKTGKRSTSAAV
+LEALREAHPIVEKILQYRELTKLKSTYIDPLPDLIHPRTGRLHTRFNQTATATGRLSSSDPNLQNIPVRTPLGQRIRR
+AFIAEEGWLLVALDYSQIELRVLAHLSGDENLIRVFQEGRDIHTETASWMFGVPREAVDPLMRRAAKTINFGVLYGMS
+AHRLSQELAIPYEEAQAFIERYFQSFPKVRAWIEKTLEEGRRRGYVETLFGRRRYVPDLEARVKSVREAAERMAFNMP
+VQGTAADLMKLAMVKLFPRLEEMGARMLLQVHDELVLEAAEAVARLAKEVMEGVYPLAVPLEVEVGIGEDWLSAKE"
+        }
+      },
+      seq {
+        id {
+          local str "DPO1_RHILE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">DPO1_RHILE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 1016,
+          seq-data ncbieaa "MPNSIWTSSDARAIHARMKKGDHLFLVDGSGFIFRAFHALPPLTRKTDGL
+PIGAVSGFCNMLWKLLRDARNTDVGVTPTHLAVIFDYSAKTFRKDLYDAYKANRSAPPEELIPQFGLIREATRAFNLP
+CIETEGFEADDIIATYARQAEATGADVTIVSSDKDLMQLVSPNVHMYDSMKDKQIGIPDVIEKWGVPPEKMIDLQAMT
+GDSVDNVPGIPGIGPKTAAQLLEEYGDLDTLLERATEIKQVKRRETILANIDMARLSRDLVRLRTDVPLDLDLDALVL
+EPQNGPKLIGFLKTMEFTTLTRRVAEACDCDASAIEPAIVRIEWGETARGPDLDAAEPEPVAGGIPEVSGESVPMPPR
+AKAKSAVEGAFSPADLAKARAEAFATLPFDHSAYVTIRDLVTLDRWIADARATGLVAFDTETTSLDAMQAELVGFSLA
+IADNTADPTGTKIRAAYVPLVHKNGVGDLLGGGLADNQIPMRDALPRLKALLEDESVLKVAQNLKYDYLLLKRYGIET
+RSFDDTMLISYVLDAGTGAHGMDPLSEKFLGHTPIPYKDVAGSGKANVTFDLVDIDRATHYAAEDADVTLRLWLVLKP
+RLAAAGLTSVYERLERPLLPVLARMEARGITVDRQILSRLSGELAQGAARLEDEIYVLAGERFNIGSPKQLGDILFGK
+MGLSGGSKTKTGQWSTSAQVLEDLAAAGFELPRKIVDWRQVTKLKSTYTDALPGYVHPETKRVHTSYSLASTTTGRLS
+SSEPNLQNIPVRTAEGRKIRTAFISTPGHKLISADYSQIELRVLAHVAEIPQLTKAFEDGVDIHAMTASEMFGVPVEG
+MPGEVRRRAKAINFGIIYGISAFGLANQLSIERSEAGDYIKKYFERFPGIRDYMESRKAMARDKGYVETIFGRRINYP
+EIRSSNPSVRAFNERAAINAPIQGSAADVIRRAMIKIEPALVEVGLADRVRMLLQVHDELIFEVEDQDVEKAMPVIVS
+VMENATMPALEMRVPLRVDARAATNWDEAH"
+        }
+      },
+      seq {
+        id {
+          local str "DPO1_ANATH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">DPO1_ANATH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 850,
+          seq-data ncbieaa "MKLVIFDGNSILYRAFFALPELTTSNNIPTNAIYGFVNVILKYLEQEKPD
+YVAVAFDKRGREARKSEYEEYKANRKPMPDNLQVQIPYVREILYAFNIPIIEFEGYEADDVIGSLVNQFKNTGLDIVI
+ITGDRDTLQLLDKNVVVKIVSTKFDKTVEDLYTVENVKEKYGVWANQVPDYKALVGDQSDNIPGVKGIGEKSAQKLLE
+EYSSLEEIYQNLDKIKSSIREKLEAGKDMAFLSKRLATIVCDLPLNVKLEDLRTKEWNKERLYEILVQLEFKSIIKRL
+GLSEVVQFEFVQQRTDIPDVEQKELESISQIRSKEIPLMFVQGEKCFYLYDQESNTVFITSNKLLIEEILKSDTVKIM
+YDLKNIFHQLNLEDTNNIKNCEDVMIASYVLDSTRSSYELETLFVSYLNTDIEAVKKDKKIVSVVLLKRLWDELLRLI
+DLNSCQFLYESIERPLIPVLYEMEKTGFKVDRDALIQYTKEIENKILKLETQIYQIAGEWFNINSPKQLSYILFEKLK
+LPVIKKTKTGYSTDAEVLEELFDKHEIVPLILDYRMYTKILTTYCQGLLQAINPSSGRVHTTFIQTGTATGRLASSDP
+NLQNIPVKYDEGKLIRKVFVPEGGHVLIDADYSQIELRILAHISEDERLISAFKNNVDIHSQTAAEVFGVDIADVTPE
+MRSQAKAVNFGIVYGISDYGLARDIKISRKEAAEFINKYFERYPKVKEYLDNTVKFARDNGFVLTLFNRKRYIKDIKS
+TNRNLRGYAERIAMNSPIQGSPADIMKLAMIKVYQKLKENNLKSKIILQVHDELLIEAPYEEKDIVKEIVKREMENAV
+RLKVPLVVEVKEGLNWYETK"
+        }
+      },
+      seq {
+        id {
+          local str "DPO1_LACLA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">DPO1_LACLA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 877,
+          seq-data ncbieaa "MENKDRLLLIDGSSVAFRAFFALYNQIDRFKAPNGLHTNAIFAFHTMLSS
+LMERIEPTHVLIAFDAGKTTFRTEMFADYKGGRSKTPDEFREQLPFIKEMIEKLGIRHYELANYEADDIIGTLDKMAE
+APNVNFDVTIVTGDKDMIQLVDGNTRVEISKKGVAEFEEFTPDYLLEKMGLTPAQFIDLKALMGDSSDNYPGVTKVGE
+KTGLKLLQEFGSLENLYENVDSLKASKMKENLIADKEMAFLSQQLATINTKAPIEIGLDDTLLKGKKVDELSQFYDEM
+GFAQFKSKLLAEAGGEVTDEKVVDEIDFEIVTDGSISEKVNADDFFYLETLGENYHREQIVAFAWGNAEKIYVSKNID
+LLTKMKFPENTYDFKKNRVLLSHLDIELPLVKFDAMLAKYLISTTEDNKISTIARLFNSGHLATDEEIFGKGTKIALP
+DDAVLFEHLARKIKVLALAKEKMMAELLENEQEHLLSDMELPLAEVLAKMEITGIAVSQNTLEEIGAENEEKLASLTR
+EIYDLAGEEFNINSPKQLGVILFEKLQLPVGKKTKTGYSTAVDVLEDLAALSPVVAKILEYRQINKVQSTYVKGLIPQ
+IADDGKIHTRYVQDLTQTGRLSSVDPNLQNIPVRLEEGRKIRKAFVPSKDSLLLSSDYSQIELRVLAHISGDEHLIDA
+FKHGADIHTSTAMRVFGIEKAEDVTANDRRNAKAVNFGVVYGISDFGLARNLGITRKDAKNYIETYFERYPGIKTYME
+NIVREARDKGFVETMSHRRRKIPDINARNFNVRGFAERTAINSPIQGSAADILKIAMINLDKALSARDFKSKLLLQVH
+DEIILDVPLEELDEIKVLVKQTMEEAIELAVPLKVDENTGKTWYEAK"
+        }
+      },
+      seq {
+        id {
+          local str "DPO1_RICFE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">DPO1_RICFE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 922,
+          seq-data ncbieaa "MTQKNTLLLIDGYGFVFRAYYAQQPLTSPKGEPVGALYGFASMLLKLLSD
+FKPKHVAVVFDSGGKNFRHHIYPEYKANRPPPPEDLVVQLPLVRDVASNLNFPILEKNGYEADDIIATFAAKTAALGE
+DVVVISSDKDLLQLMGENIKIYDPLKGKYITEDDVVKKFGTTSDKLREVMALIGDRSDNIPGVPSIGPKTASSLITQF
+GSVENIFNSLEQVSSLKQRETLQNSKEAALISWQLIGLDSNVDLDFQLNNLEWSPPNSDKLTGFLQEYGFKSLYKRAE
+NLFDIKINDHKEIVENKVTEAKEISNASELADFAKKAEKIGIFGIYLLQHKGDNVALILSLQNQSYIIKISNTSHDLF
+SYNTKNNNDWFSDIIFNLLTDKSIRKITYSLKPLLKFYAEQSHEITAIEDLELMQYALSAGLSQKNLFEEALKEDNRH
+LSKPAYREEFKGDTEALATAAYKSVREDASTGSTSKLPLETKFGKMSNVINESARIVAEFTSLYKQNILELKDNKAFR
+LYSNIDLPICFILDKMEKIGIKVDANYLNQLSAEFGAEILKLEEEIFALSGTKFNIGSPKQLGEILFEKMQLPFGKAS
+AKASSYSTGAEILEKLSEHGYNIADLLLRWRQLTKLKNTYTDSLPKQIDNITHRVHTTFLQTSTTTGRLSSQEPNLQN
+VPIRSSEGNKIRQAFIAEEGYKLISADYSQIELRILSHIANIDALKQAFINKDDIHTQTACQIFNLQKHELTSEHRRK
+AKAINFGIIYGISAFGLAKQLNVSNGEASEYIKKYFAEYKGVQEYMEQTKAFASSNGYVINFFGRKCFVPLIHDKKLK
+QFAERAAINAPIQGTNADIIKIAMINLDQEIEKNNLKTRLVLQIHDELLFEVPEDEVELVTPIIKKIMENSTNMDVPI
+ITEIRVGNNWMEIH"
+        }
+      },
+      seq {
+        id {
+          local str "DPO1_TREPA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">DPO1_TREPA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 997,
+          seq-data ncbieaa "MQEKKTLYLLDAYGLIYRSYHAFARAPLINDSGANVSAVYGFFRSLHTLL
+CHYRPRYFVAVFDSLTPTFRHVQYPAYKAKRDKTSAELYAQIPLIEEILCALGITVLRHDGFEADDLIATLAKRVAAE
+HCHVVIISSDKDVLQLVCDTVQVLRLDIDHKWTCCDAAYVQQRWTVMPTQLLDLFSLMGDSSDNVPGVRGIGPKTAAH
+LLHCFGTLDGIYRHTYSLKEALRTKIVCGKKDAFFSRSLIELRDDVPCVFSLEDSCCIPLDVTSAARIFVREGLHALA
+QQYRACVQEIDTEATNDTLQMTESSVLTSGRCANECFLSQVEGRASTPEVNSVLKSELKTSAVSGAIPIENRDLRQDV
+MLARSAGHYRGVTDPVELKRIIDCACANGVVAFDCETDGLHPHDTRLVGFSICFQEAEAFYVPLIVPDVSLHTESTQC
+TCARSTNVETEKECTEQHGVSASAVQDPAYVQAVMHQLRRLWNDETLTLVMHNGKFDYHVMHRAGVFEHCACNIFDTM
+VAAWLLDPDRGTYGMDVLAASFFQIRTITFEEVVAKGQTFAHVPYECAVRYAAEDADITFRLYHYLKLRLETAGLLSV
+FETIEMPLLPILARMEEVGIFLRKDVVQQLTRSFSDLIQQYEHDIFSLAGHEFNIGSPKQLQTVLFQELHLPPGKKNT
+QGYSTDHSVLKKLARKHPIAEKILLFRDLSKLRSTYTESLAKLADQTGRVHTSFVQIGTATGRLSSRNPNLQNIPIKS
+TEGRKIRQAFQATVGHELISADYTQIELVVLAHLSQDRNLLNAFRQHIDIHALTAAYIFNVSIDDVQPAMRRIAKTIN
+FGIVYGMSAFRLSDELKISQKEAQSFIYRYFETYPGVYAFSTQVAEQTRKTGYVTSLAGRRRYIRTIDSRNTLERARA
+ERMALNTQIQSSAADIVKIAMIAIQRAFARRPLRAQLLLQVHDELIFEAPAAETAIVKEILFAEMEHAVELSIPLRIH
+VESGNSWGDFH"
+        }
+      },
+      seq {
+        id {
+          local str "DPO1_BORBU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">DPO1_BORBU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 908,
+          seq-data ncbieaa "MKELYLIDALNIIFRNYHVMKNYPLLNTQGENVNAFIGFFKTLFFIIKEK
+NPEHLIITFDSEVPTFRKQKYPSYKATRDLPPDDLIPQIGWIKEGLLKAKIPIFEMEGYEADDLLASFAKKAAKNNYL
+TYIISPDKDLLQTMSEYVKILKIENNSFIEMDNEYVTKKFGVNSFQIKDYLAIVGDRSDNIPGIKGIGAKGAANLLRE
+FKTLDGIYSNLEIINKKHRELLIKEKENAFLSYELVSLEENLKIPEIENFALKNFSEEIISLFEKHSAIALIKTYKKD
+ILKQEKENADQKSLFKQEPTTNSLDDINTIDTENVKYRSITTKIELDDLIESLKKAKYISIDTETSSLDTYTAKLIGI
+SISFKEFEGYYIPIEAKGKIYIEKNYIIQKFNNLFESNPKIIGQNYKFDYKILKNNGFNPIPPYFDTMIAAYLIDTNS
+KVSLDFLAEKYLMHKNIKYEDVIQKNDNFANISLEMATSYSSEDADITFRLFNIFTKKLKEDKLDKLMHEIEMPFNKV
+IIEMEENGIYLDKEYLKEYGKELGKELEAIENEIIKSIGIDFNLNSPKQMHEILFEKLNLKLPEKMKKDSTDIKVLES
+LREQHESIENLIKYRQIAKLKSTYTDNLIELINYKTNRLHTSFIQTKTATGRITSINPNLQNIPIKDEKGRKIRKAFK
+PENGNIFISADYSQIELAILAHLSQDEVLIKAFENNKDIHTETASKLFKIEEKEITPNLRRIAKSINFGIIYRMSDFR
+LAKELGITKEEAKGFINSYFDSYPKIKEFIINQINFVRNAGYSETILKRRRYIKEINSNNYLERSAAERIAINSIIQG
+SAADIMKIAMVKVFNEFKSKKMESKILLQVHDEMLIESPIEEENEVKKILKIMMETAYTLNLPLRANIETGKSWGEIH"
+        }
+      },
+      seq {
+        id {
+          local str "DPO1_SYNY3"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">DPO1_SYNY3"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 986,
+          seq-data ncbieaa "MFMSAKSPLLLLVDGHSLAFRAYYAFGLSKKGPLRTTAGIPTSVCFGFLN
+SLMQVMESQKPAAIAIAFDRREPTFRHEADGAYKSNRQETPEDFAEDLSYLQQLLEALNLQTITYAGYEADDILGTLA
+CQGSDAGYQVKILSGDRDLFQLVSPEKNISVLYLTRNPFSSNTGYDELDWQGVVDKMGVTPAQIVDFKALCGDKSDCI
+PGINGIGEKTAIKLLAEYETLEKVYENLAQIKGALKTRLDNGKDDAMHSQMLARIVVDVPLPVTWEDLQLTGFSTDRL
+VPLLEKLELRTFIDKIQAFHRNFSDNQSPVPMGNEADNGEPKKTVKAKKSKEKVNPDDSQQLSLFDGVPVVNQEDGLI
+TIQLPKQIQPQIITTIAQLEALVEELKKHTDADFPVAWDTETDSLDPLVANLVGIGCAWGQEPNQVAYIPLKHHQGEQ
+LSLGIIKDLLGEILGNAIYPKVLQNAKFDRRVLAHHGIELGGVVLDTMLASYVLQPEETHNLTDLCRRYNLGLVALSY
+KDLGLKKDQTIADLPLETAGQYCGLDCYATYLLASKLQKELDQYPELKEILKEIEQPLEKILAAMEDRGIRIDCDYLQ
+TLSQQLAENLLTIETAAYEAAGESFNLSSPKQLGTILFDKLGLDRKKSRKTKTGYSTDHATLEKLQGDHPIIDAILEH
+RTLAKLKSTYVDALPELVNGQTQRIHTDFNQAVTSTGRLSSSNPNLQNIPIRSDFSRQIRRAFLPQKDWLLVSADYSQ
+IELRILAHLSQEPVLLQAYGDRQDVHGVTAKLLFGKEDITPAERNLGKTINFGVIYGMGAQRFARETGISAVEGREFI
+DRYHRTYAQVFDYLETMKLEAIAKGYVTTIVGRRRYFNFVTEALRQLRGKTVTELDLVDVKMNYNDAQLLRSAANAPI
+QGSSADIIKIAMVKLAKLLESYQTRMLLQVHDELIFEMPPEEWEELAPLIQNTMEQALTLSVPLVVEMHRGSNWMEAK"
+        }
+      },
+      seq {
+        id {
+          local str "DPO1_MYCLE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">DPO1_MYCLE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 911,
+          seq-data ncbieaa "MSAAMTAEVCEDHTKPMLMLLDGNSLAFRAFYALPTENFKTRGGLTTNAV
+YGFTAMLINLLREEAPTHIAAAFDVSRKTFRSECYAGYKANRSSIPAEFHGQIDITKEVLGALGITVFAEAGFEADDL
+IATLATQAENEGYRVLVVTGDRDALQLVSNDVTVLYPRKGVSELTRFTPEAVIEKYGVTPAQYPDLAALRGDPSDNLP
+GIPGVGEKTAAKWIVDYGSLQGLVDNVESVRGKVGEALRTHLASVVRNRELTELVKDVPLVQTSDTLRLQPWDRDRIH
+RLFDNLEFRVLRDRLFEALAAAGERVPEVDEGFDVRGGLLESGTVGRWLAKHADDGRRSGLAIVGTHLPHGGDATALA
+VAAADGNGGYIDTAMLTPDDDDALAAWLADPDNPKALHEAKLAMHDLAGRGWTLGGITSDTALAAYLVRPGQRSFTLD
+DLSLRYLRRELRAETPEQEQFSLLDNVDEVDKQAIQTLILRARAVVDLAAALDAELDLIDSTSLLGEMELPVQQVLAD
+MEKAGIAADLRLLTELQSQFGDQIRDAAEAAYAVIGKQINLSSPKQLQVVLFEELGMPKTKRTKTGYTTDADALQSLF
+CKTEHPFLQHLLTHRDVTRLKVTVDGLLNAVAADGRIHTTFNQTIATTGRLSSTEPNLQNIPIRTNAGRQIRDAFVVG
+SENNGYTELMTADYSQIEMRIMAHLSRDEGLIEAFHTGEDLHSFVASRAFGIPIEDITPELRRRVKAMSYGLAYGLSA
+YGLATQLKISTEEAKLQMEQYFARFGGVRDYLMDVVEQARKDGYTSTVLGRRRYLPELDSSNRQIREAAERAALNAPI
+QGSAADIIKVAMIAVDKSLKQAKLASRMLLQVHDELLFEVAIGEREQIEAMVREQMGSAYPLDVPLEVSVGFGRSWGA
+AAH"
+        }
+      },
+      seq {
+        id {
+          local str "DPO1_HELPJ"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">DPO1_HELPJ"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 897,
+          seq-data ncbieaa "MEQPVIKEGTLALIDTFAYLFRSYYMSAKNKPLTNDKGFPTGLLTGLVGM
+VKKFYKDRKNMPFIVFALESQTKTKRAEKLGEYKQNRKDAPKEMLLQIPIALEWLQKMGFTCVEVGGFEADDVIASLA
+TLSPYKTRIYSKDKDFNQLLSDKIALFDGKTEFLAKDCVEKYGILPSQFTDYQGIVGDSSDNYKGVKGIGSKNAKELL
+QRLGSLEKIYENLDLAKNLLSPKMYQALIQDKGSAFLSKELATLERGCIKEFDFLSCAFPSENPLLKIKDELKEYGFI
+STLRDLENSPFIVENVPILNSTPILDNTPALDNAPKKSRMIVLESAEPLSMFLEKLENPNARVFMRLVLDKDKKILAL
+AFLLQDQGYFLPLEEALFSPFSLEFLQNAFSQMLQHACIIGHDLKPLLSFLKAKYQVPLENIRIQDTQILAFLKNPEK
+VGFDEVLKEYLKEDLIPHEKIKDFKTKSKAEKSELLSMELNALKRLCEYFEKGGLEEDLLTLARDIETPFVKVLMGME
+FQGFKIDAPYFKRLEQEFKNELNVLERQILDLIGVDFNLNSPKQLGEVLYDKLGLPKNKSHSTDEKNLLKILDKHPSI
+PLILEYRELNKLFNTYTTPLLRLKDKDDKIHTTFIQTGTATGRLSSHSPNLQNIPVRSPKGLLIRKGFIASSKEYCLL
+GVDYSQIELRLLAHFSQDKDLMEAFLKGRDIHLETSKALFGEDLAKEKRSIAKSINFGLVYGMGSKKLSETLSIPLSE
+AKSYIEAYFKRFPSIKDYLNGMREEILKTSKAFTLLGRYRVFDFTGVNDYVKGNYLREGVNAIFQGSASDLLKLGMLK
+VSERFKNNPSVRLLLQVHDELIFEIEEKNAPELQQEIQRILNDEVYPLRVPLETSAFIAKRWNELKG"
+        }
+      }
+    }
+  }
+}

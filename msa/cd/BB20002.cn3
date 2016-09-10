@@ -1,0 +1,2258 @@
+Cdd ::= {
+  name "bb20002",
+  id {
+    gid {
+      accession "acc_bb20002",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STK_HYDAT"
+              },
+              starts {
+                3,
+                46
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STK_HYDAT"
+              },
+              starts {
+                7,
+                48
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STK_HYDAT"
+              },
+              starts {
+                13,
+                54
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STK_HYDAT"
+              },
+              starts {
+                34,
+                75
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STK_HYDAT"
+              },
+              starts {
+                51,
+                92
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STK_HYDAT"
+              },
+              starts {
+                62,
+                104
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STK_HYDAT"
+              },
+              starts {
+                75,
+                116
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SRC1_XENLA"
+              },
+              starts {
+                2,
+                63
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SRC1_XENLA"
+              },
+              starts {
+                7,
+                65
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SRC1_XENLA"
+              },
+              starts {
+                13,
+                74
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SRC1_XENLA"
+              },
+              starts {
+                34,
+                95
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SRC1_XENLA"
+              },
+              starts {
+                51,
+                112
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SRC1_XENLA"
+              },
+              starts {
+                62,
+                124
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SRC1_XENLA"
+              },
+              starts {
+                75,
+                136
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "FGR_HUMAN"
+              },
+              starts {
+                2,
+                60
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "FGR_HUMAN"
+              },
+              starts {
+                7,
+                63
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "FGR_HUMAN"
+              },
+              starts {
+                13,
+                72
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "FGR_HUMAN"
+              },
+              starts {
+                34,
+                93
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "FGR_HUMAN"
+              },
+              starts {
+                51,
+                110
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "FGR_HUMAN"
+              },
+              starts {
+                62,
+                122
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "FGR_HUMAN"
+              },
+              starts {
+                75,
+                134
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SR42_DROME"
+              },
+              starts {
+                2,
+                42
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SR42_DROME"
+              },
+              starts {
+                7,
+                45
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SR42_DROME"
+              },
+              starts {
+                13,
+                58
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SR42_DROME"
+              },
+              starts {
+                34,
+                79
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SR42_DROME"
+              },
+              starts {
+                51,
+                96
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SR42_DROME"
+              },
+              starts {
+                62,
+                108
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SR42_DROME"
+              },
+              starts {
+                75,
+                120
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "BTK_HUMAN"
+              },
+              starts {
+                0,
+                184
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "BTK_HUMAN"
+              },
+              starts {
+                2,
+                186
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "BTK_HUMAN"
+              },
+              starts {
+                12,
+                196
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "BTK_HUMAN"
+              },
+              starts {
+                13,
+                209
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "BTK_HUMAN"
+              },
+              starts {
+                34,
+                230
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "BTK_HUMAN"
+              },
+              starts {
+                51,
+                247
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "BTK_HUMAN"
+              },
+              starts {
+                62,
+                258
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STAC_HUMAN"
+              },
+              starts {
+                0,
+                253
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STAC_HUMAN"
+              },
+              starts {
+                2,
+                256
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STAC_HUMAN"
+              },
+              starts {
+                12,
+                270
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STAC_HUMAN"
+              },
+              starts {
+                13,
+                280
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STAC_HUMAN"
+              },
+              starts {
+                34,
+                301
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STAC_HUMAN"
+              },
+              starts {
+                51,
+                318
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STAC_HUMAN"
+              },
+              starts {
+                61,
+                327
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "STAC_HUMAN"
+              },
+              starts {
+                62,
+                328
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL_DROME"
+              },
+              starts {
+                0,
+                180
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL_DROME"
+              },
+              starts {
+                2,
+                183
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL_DROME"
+              },
+              starts {
+                7,
+                186
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL_DROME"
+              },
+              starts {
+                13,
+                199
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL_DROME"
+              },
+              starts {
+                34,
+                220
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL_DROME"
+              },
+              starts {
+                51,
+                237
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL_DROME"
+              },
+              starts {
+                62,
+                249
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL_DROME"
+              },
+              starts {
+                75,
+                261
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL1_CAEEL"
+              },
+              starts {
+                0,
+                89
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL1_CAEEL"
+              },
+              starts {
+                2,
+                92
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL1_CAEEL"
+              },
+              starts {
+                13,
+                110
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL1_CAEEL"
+              },
+              starts {
+                34,
+                131
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL1_CAEEL"
+              },
+              starts {
+                51,
+                148
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL1_CAEEL"
+              },
+              starts {
+                62,
+                172
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ABL1_CAEEL"
+              },
+              starts {
+                75,
+                184
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PEXD_YEAST"
+              },
+              starts {
+                12,
+                291
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PEXD_YEAST"
+              },
+              starts {
+                13,
+                301
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PEXD_YEAST"
+              },
+              starts {
+                34,
+                323
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PEXD_YEAST"
+              },
+              starts {
+                51,
+                345
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PEXD_YEAST"
+              },
+              starts {
+                62,
+                356
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PIG1_BOVIN"
+              },
+              starts {
+                0,
+                769
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PIG1_BOVIN"
+              },
+              starts {
+                2,
+                772
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PIG1_BOVIN"
+              },
+              starts {
+                7,
+                775
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PIG1_BOVIN"
+              },
+              starts {
+                12,
+                780
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PIG1_BOVIN"
+              },
+              starts {
+                18,
+                791
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PIG1_BOVIN"
+              },
+              starts {
+                34,
+                807
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PIG1_BOVIN"
+              },
+              starts {
+                51,
+                824
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "PIG1_BOVIN"
+              },
+              starts {
+                62,
+                835
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "NPH1_CANFA"
+              },
+              starts {
+                8,
+                23
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "NPH1_CANFA"
+              },
+              starts {
+                13,
+                35
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "NPH1_CANFA"
+              },
+              starts {
+                34,
+                56
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "NPH1_CANFA"
+              },
+              starts {
+                51,
+                73
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "NPH1_CANFA"
+              },
+              starts {
+                62,
+                84
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "CC15_SCHPO"
+              },
+              starts {
+                0,
+                835
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "CC15_SCHPO"
+              },
+              starts {
+                2,
+                838
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "CC15_SCHPO"
+              },
+              starts {
+                12,
+                848
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "CC15_SCHPO"
+              },
+              starts {
+                13,
+                861
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "CC15_SCHPO"
+              },
+              starts {
+                34,
+                882
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "CC15_SCHPO"
+              },
+              starts {
+                51,
+                899
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "CC15_SCHPO"
+              },
+              starts {
+                62,
+                913
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SS81_YEAST"
+              },
+              starts {
+                0,
+                267
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SS81_YEAST"
+              },
+              starts {
+                2,
+                270
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SS81_YEAST"
+              },
+              starts {
+                13,
+                295
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SS81_YEAST"
+              },
+              starts {
+                34,
+                318
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SS81_YEAST"
+              },
+              starts {
+                51,
+                334
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SS81_YEAST"
+              },
+              starts {
+                62,
+                345
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ARH6_HUMAN"
+              },
+              starts {
+                0,
+                124
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ARH6_HUMAN"
+              },
+              starts {
+                2,
+                127
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ARH6_HUMAN"
+              },
+              starts {
+                12,
+                142
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ARH6_HUMAN"
+              },
+              starts {
+                13,
+                155
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ARH6_HUMAN"
+              },
+              starts {
+                34,
+                176
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ARH6_HUMAN"
+              },
+              starts {
+                51,
+                193
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ARH6_HUMAN"
+              },
+              starts {
+                60,
+                201
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "ARH6_HUMAN"
+              },
+              starts {
+                62,
+                203
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "OPHL_HUMAN"
+              },
+              starts {
+                0,
+                728
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "OPHL_HUMAN"
+              },
+              starts {
+                2,
+                731
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "OPHL_HUMAN"
+              },
+              starts {
+                12,
+                746
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "OPHL_HUMAN"
+              },
+              starts {
+                14,
+                753
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "OPHL_HUMAN"
+              },
+              starts {
+                17,
+                755
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "OPHL_HUMAN"
+              },
+              starts {
+                34,
+                772
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "OPHL_HUMAN"
+              },
+              starts {
+                51,
+                789
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "OPHL_HUMAN"
+              },
+              starts {
+                62,
+                800
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SNX9_MOUSE"
+              },
+              starts {
+                0,
+                495
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SNX9_MOUSE"
+              },
+              starts {
+                2,
+                498
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SNX9_MOUSE"
+              },
+              starts {
+                12,
+                513
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SNX9_MOUSE"
+              },
+              starts {
+                13,
+                526
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SNX9_MOUSE"
+              },
+              starts {
+                17,
+                529
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SNX9_MOUSE"
+              },
+              starts {
+                31,
+                538
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SNX9_MOUSE"
+              },
+              starts {
+                34,
+                541
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SNX9_MOUSE"
+              },
+              starts {
+                51,
+                558
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SNX9_MOUSE"
+              },
+              starts {
+                60,
+                562
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "SNX9_MOUSE"
+              },
+              starts {
+                62,
+                564
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1ycs_B"
+              },
+              starts {
+                0,
+                111
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1ycs_B"
+              },
+              starts {
+                2,
+                114
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1ycs_B"
+              },
+              starts {
+                13,
+                127
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1ycs_B"
+              },
+              starts {
+                34,
+                148
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1ycs_B"
+              },
+              starts {
+                51,
+                168
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1ycs_B"
+              },
+              starts {
+                61,
+                177
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1ycs_B"
+              },
+              starts {
+                62,
+                178
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1hjd_A"
+              },
+              starts {
+                13,
+                8
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1hjd_A"
+              },
+              starts {
+                34,
+                29
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1hjd_A"
+              },
+              starts {
+                51,
+                49
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1hjd_A"
+              },
+              starts {
+                62,
+                67
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1ihv_A"
+              },
+              starts {
+                14,
+                39
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1awj_",
+                local str "1ihv_A"
+              },
+              starts {
+                17,
+                41
+              },
+              len 11
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1awj_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1awj_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 77,
+          seq-data ncbieaa "KKPLPPTPEDNRRSFQEPEETLVIALYDYQTNDPQELALRCDEEYYLLDS
+SEIHWWRVQDKNGHEGYAPSSYLVEKS"
+        }
+      },
+      seq {
+        id {
+          local str "STK_HYDAT"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">STK_HYDAT"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 509,
+          seq-data ncbieaa "MGPCCSKQTKALNNQPDKSKSKDVVLKENTSPFSQNTNNIMHVSHNQPPN
+INPPMLGGPGVTIFVALYDYEARISEDLSFKKGERLQIINTADGDWWYARSLITNSEGYIPSTYVAPEKSYEAEEWYF
+GDVKRAEAEKRLMVRGLPSGTFLIRKAETAVGNFSLSVRDGDSVKHYRVRKLDTGGYFITTRAPFNSLYELVQHYTKD
+ADGLVCALTLPCPKDKPVTGGIAKDAWEIPRESLRLNRKLGAGQFGEVWAGVWNNTTQVAVKTLKPGTMSPASFLDEA
+GVMKKLRHKHLVQLYAICSDREPIYIVTEYMSGGSLLDYLSKGEGVNLQLPTLIDMAAQVASGMAFLEAQGYIHRDLA
+ARNILVGENYICKVADFGLARLIEDDEYTAHEGAKFPIKWTAPEAALYNRFTIKSDVWSFGILMAEIVTKGRIPYPGM
+TNAQTIAEVEKGYRMPIMPGCPEPLYNIMLQTWNKDPENRPTFDYLQGVLEDYFVSTEQGYRDLGEANS"
+        }
+      },
+      seq {
+        id {
+          local str "SRC1_XENLA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SRC1_XENLA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 531,
+          seq-data ncbieaa "GATKSKPREGGPRSRSLDIVEGSHQPFTSLSASQTPNKSLDSHRPPAQPF
+GGNCDLTPFGGINFSDTITSPQRTGPLAGGVTTFVALYDYESRTETDLSFKKGERLQIVNNTEGDWWLARSLSSGQTG
+YIPSNYVAPSDSIQAEEWYLGKITRREAERLLLSLENPRGTFLVRESETTKGAYCLSVSDYDANRGLNVKHYKIRKLD
+SGGFYITSRTQFISLQQLVAYYSKHADGLCHRLTTVCPTAKPQTQGLSRDAWEIPRDSLRLELKLGQGCFGEVWMGTW
+NGTTRVAIKTLKPGTMSPEAFLQEAQVMKKLRHEKLVQLYAVVSEEPIYIVTEYISKGSLLDFLKGEMGRYLRLPQLV
+DMAAQIASGMAYVERMNYVHRDLRAANILVGENLVCKVADFGLARLIEDNEYTARQGAKFPIKWTAPEAALYGRFTIK
+SDVWSFGILLTELTTKGRVPYPGMVNREVLDQVERGYRMPCPPDCPESLHDLMFQCWRKDPEERPTFEYLQAFLEDYF
+TATEPQYQPGDNL"
+        }
+      },
+      seq {
+        id {
+          local str "FGR_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">FGR_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 529,
+          seq-data ncbieaa "MGCVFCKKLEPVATAKEDAGLEGDFRSYGAADHYGPDPTKARPASSFAHI
+PNYSNFSSQAINPGFLDSGTIRGVSGIGVTLFIALYDYEARTEDDLTFTKGEKFHILNNTEGDWWEARSLSSGKTGCI
+PSNYVAPVDSIQAEEWYFGKIGRKDAERQLLSPGNPQGAFLIRESETTKGAYSLSIRDWDQTRGDHVKHYKIRKLDMG
+GYYITTRVQFNSVQELVQHYMEVNDGLCNLLIAPCTIMKPQTLGLAKDAWEISRSSITLERRLGTGCFGDVWLGTWNG
+STKVAVKTLKPGTMSPKAFLEEAQVMKLLRHDKLVQLYAVVSEEPIYIVTEFMCHGSLLDFLKNPEGQDLRLPQLVDM
+AAQVAEGMAYMERMNYIHRDLRAANILVGERLACKIADFGLARLIKDDEYNPCQGSKFPIKWTAPEAALFGRFTIKSD
+VWSFGILLTELITKGRIPYPGMNKREVLEQVEQGYHMPCPPGCPASLYEAMEQTWRLDPEERPTFEYLQSFLEDYFTS
+AEPQYQPGDQT"
+        }
+      },
+      seq {
+        id {
+          local str "SR42_DROME"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SR42_DROME"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 517,
+          seq-data ncbieaa "MGNCLTTQKGEPDKPADRIKLDDPPTIGVGVGVPQIPMPSHAGQPPEQIR
+PVPQIPESETAGANAKIFVALYDYDARTDEDLSFRKGEHLEILNDTQGDWWLARSKKTRSEGYIPSNYVAKLKSIEAE
+PWYFRKIKRIEAEKKLLLPENEHGAFLIRDSESRHNDYSLSVRDGDTVKHYRIRQLDEGGFFIARRTTFRTLQELVEH
+YSKDSDGLCVNLCKPCVQIEKPVTEGLSHRTRDQWEIDRTSLKFVRKLGSGQFGDVWEGLWNNTTPVAIKTLKSGTMD
+PKDFLAEAQIMKKLRHTKLIQLYAVCTVEEPIYIITELMKHGSLLEYLQAIAGKGRSLKMQTLIDMAAQIAAGMAYLE
+SQNYIHRDLAARNVLVGDGNIVKIADFGLARLIKEDEYEARVGARFPIKWTAPEAANYSKFSIKSDVWSFGILLTELV
+TYGRIPYPGMTNAEVLTQVEHGYRMPQPPNCEPRLYEIMLECWHKDPMRRPTFETLQWKLEDFYTSDQSDYKEAQAY"
+        }
+      },
+      seq {
+        id {
+          local str "BTK_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">BTK_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 659,
+          seq-data ncbieaa "MAAVILESIFLKRSQQKKKTSPLNFKKRLFLLTVHKLSYYEYDFERGRRG
+SKKGSIDVEKITCVETVVPEKNPPPERQIPRRGEESSEMEQISIIERFPYPFQVVYDEGPLYVFSPTEELRKRWIHQL
+KNVIRYNSDLVQKYHPCFWIDGQYLCCSQTAKNAMGCQILENRNGSLKPGSSHRKTKKPLPPTPEEDQILKKPLPPEP
+AAAPVSTSELKKVVALYDYMPMNANDLQLRKGDEYFILEESNLPWWRARDKNGQEGYIPSNYVTEAEDSIEMYEWYSK
+HMTRSQAEQLLKQEGKEGGFIVRDSSKAGKYTVSVFAKSTGDPQGVIRHYVVCSTPQSQYYLAEKHLFSTIPELINYH
+QHNSAGLISRLKYPVSQQNKNAPSTAGLGYGSWEIDPKDLTFLKELGTGQFGVVKYGKWRGQYDVAIKMIKEGSMSED
+EFIEEAKVMMNLSHEKLVQLYGVCTKQRPIFIITEYMANGCLLNYLREMRHRFQTQQLLEMCKDVCEAMEYLESKQFL
+HRDLAARNCLVNDQGVVKVSDFGLSRYVLDDEYTSSVGSKFPVRWSPPEVLMYSKFSSKSDIWAFGVLMWEIYSLGKM
+PYERFTNSETAEHIAQGLRLYRPHLASEKVYTIMYSCWHEKADERPTFKILLSNILDVMDEES"
+        }
+      },
+      seq {
+        id {
+          local str "STAC_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">STAC_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 402,
+          seq-data ncbieaa "MIPPSSPREDGVDGLPKEAVGAEQPPSPASTSSQESKLQKLKRSLSFKTK
+SLRSKSADNFFQRTNSEDMKLQAHMVAEISPSSSPLPAPGSLTSTPARAGLHPGGKAHAFQEYIFKKPTFCDVCNHMI
+VGTNAKHGLRCKACKMSIHHKCTDGLAPQRCMGKLPKGFRRYYSSPLLIHEQFGCIKEVMPIACGNKVDPVYETLRFG
+TSLAQRTKKGSSGSGSDSPHRTSTSDLVEVPEEANGPGGGYDLRKRSNSVFTYPENGTDDFRDPAKNINHQGSLSKDP
+LQMNTYVALYKFVPQENEDLEMRPGDIITLLEDSNEDWWKGKIQDRIGFFPANFVQRLQQNEKIFRCVRTFIGCKEQG
+QITLKENQICVSSEEEQDGFIRVLSGKKKGLIPLDVLENI"
+        }
+      },
+      seq {
+        id {
+          local str "ABL_DROME"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ABL_DROME"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 1331,
+          seq-data ncbieaa "MGAQQGKDRGAHSGGGGSGAPVSCIGLSSSPVASVSPHCISSSSGVSSAP
+LGGGSTLRGSRIKSSSSGVASGSGSGGGGGGSGSGLSQRSGGHKDARCNPTVGLNIFTEHNGTKHSSFRGHPGKYHMN
+LEALLQSRPLPHIPAGSTRPLFWRIAELQQHQQDSGGLGLQGSSLGGGHSSTTSVFESAHRWTSKENLLAPGPEEDDP
+QLFVALYDFQAGGENQLSLKKGEQVRILSYNKSGEWCEAHSDSGNVGWVPSNYVTPLNSLEKHSWYHGPISRNAAEYL
+LSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRISEDPDGKVFVTQEAKFNTLAELVHHHSVPHEGHGLITPLLYP
+APKQNKPTVFPLSPEPDEWEICRTDIMMKHKLGGGQYGEVYEAVWKRYGNTVAVKTLKEDTMALKDFLEEAAIMKEMK
+HPNLVQLIGVCTREPPFYIITEFMSHGNLLDFLRSAGRETLDAVALLYMATQIASGMSYLESRNYIHRDLAARNCLVG
+DNKLVKVADFGLARLMRDDTYTAHAGAKFPIKWTAPEGLAYNKFSTKSDVWAFGVLLWEIATYGMSPYPAIDLTDVYH
+KLDKGYRMERPPGCPPEVYDLMRQCWQWDATDRPTFKSIHHALEHMFQESSITEAVEKQLNANATSASSSAPSTSGVA
+TGGGATTTTAASGCASSSSATASLSLTPQMVKKGLPGGQALTPNAHHNDPHQQQASTPMSETGSTSTKLSTFSSQGKG
+NVQMRRTTNKQGKQAPAPPKRTSLLSSSRDSTYREEDPANARCNFIDDLSTNGLARDINSLTQRYDSETDPAADPDTD
+ATGDSLEQSLSQVIAAPVTNKMQHSLHSGGGGGGIGPRSSQQHSSFKRPTGTPVMGNRGLETRQSKRSQLHSQAPGPG
+PPSTQPHHGNNGVVTSAHPITVGALDVMNVKQVVNRYGTLPKGARIGAYLDSLEDSSEAAPALPATAPSLPPANGHAT
+PPAARLNPKASPIPPQQMIRSNSSGGVTMQNNAAASLNKLQRHRTTTEGTMMTFSSFRAGGSSSSPKRSASGVASGVQ
+PALANLEFPPPPLDLPPPPEEFEGGPPPPPPAPESAVQAIQQHLHAQLPNNGNISNGNGTNNNDSSHNDVSNIAPSVE
+EASSRFGVSLRKREPSTDSCSSLGSPPEDLKEKLITEIKAAGKDTAPASHLANGSGIAVVDPVSLLVTELAESMNLPK
+PPPQQQQKLTNGNSTGSGFKAQLKKVEPKKMSAPMPKRTANTIIDFKAHLRRVDKEKEPATPAPAPATVAVANNANCN
+TTGTLNRKEDGSKKFSQAMQKTEIKIDVTNSNV"
+        }
+      },
+      seq {
+        id {
+          local str "ABL1_CAEEL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ABL1_CAEEL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 1224,
+          seq-data ncbieaa "MGHSHSTGKEINDNELFTCEDPVFDQPVASPKSEISSKLAEEIERSKSPL
+ILEVSPRTPDSVQMFRPTFDTFRPPNSDSSTFRGSQSREDLVACSSMNSVNNVHDMNTVSSSSSSSAPLFVALYDFHG
+VGEEQLSLRKGDQVRILGYNKNNEWCEARLYSTRKNDASNQRRLGEIGWVPSNFIAPYNSLDKYTWYHGKISRSDSEA
+ILGSGITGSFLVRESETSIGQYTISVRHDGRVFHYRINVDNTEKMFITQEVKFRTLGELVHHHSVHADGLICLLMYPA
+SKKDKGRGLFSLSPNAPDEWELDRSEIIMHNKLGGGQYGDVYEGYWKRHDCTIAVKALKEDAMPLHEFLAEAAIMKDL
+HHKNLVRLLGVCTHEAPFYIITEFMCNGNLLEYLRRTDKSLLPPIILVQMASQIASGMSYLEARHFIHRDLAARNCLV
+SEHNIVKIADFGLARFMKEDTYTAHAGAKFPIKWTAPEGLAFNTFSSKSDVWAFGVLLWEIATYGMAPYPGVELSNVY
+GLLENGFRMDGPQGCPPSVYRLMLQCWNWSPSDRPRFRDIHFNLENLISSNSLNDEVQKQLKKNNDKKLESDKRRSNV
+RERSDSKSRHSSHHDRDRDRESLHSRNSNPEIPNRSFIRTDDSVSFFNPSTTSKVTSFRAQGPPFPPPPQQNTKPKLL
+KSVLNSNARHASEEFERNEQDDVVPLAEKNVRKAVTRLGGTMPKGQRIDAYLDSMRRVDSWKESTDADNEGAGSSSLS
+RTVSNDSLDTLPLPDSMNSSTYVKMHPASGENVFLRQIRSKLKKRSETPELDHIDSDTADETTKSEKSPFGSLNKSSI
+KYPIKNAPEFSENHSRVSPVPVPPSRNASVSVRPDSKAEDSSDETTKDVGMWGPKHAVTRKIEIVKNDSYPNVEGELK
+AKIRNLRHVPKEESNTSSQEDLPLDATDNTNDSIIVIPRDEKAKVRQLVTQKVSPLQHHRPFSLQCPNNSTSSAISHS
+EHADSSETSSLSGVYEERMKPELPRKRSNGDTKVVPVTWIINGEKEPNGMARTKSLRDITSKFEQLGTASTIESKIEE
+AVPYREHALEKKGTSKRFSMLEGSNELKHVVPPRKNRNQDESGSIDEEPVSKDMIVSLLKVIQKEFVNLFNLASSEIT
+DEKLQQFVIMADNVQKLHSTCSVYAEQISPHSKFRFKELLSQLEIYNRQIKFSHNPRAKPVDDKLKMAFQDCFDQIMR
+LVDR"
+        }
+      },
+      seq {
+        id {
+          local str "PEXD_YEAST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PEXD_YEAST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 386,
+          seq-data ncbieaa "MSSTAVPRPKPWETSASLEEPQRNAQSLSAMMTSNQQDSRPTEESNNSNS
+ASESAPEVLPRPAALNSSGTYGESNTIPGIYGNSNYGIPYDNNPYSMNSIYGNSIGRYGYGGSYYGNNYGSFYGGGYG
+AGAGYGMNNGSGLGESTKATFQLIESLIGAVTGFAQMLESTYMATHNSFFTMISVAEQFGNLKEMLGSFFGIFAIMKF
+LKKILYRATKGRLGIPPKNFAESEGSKNKLIEDFQKFNDSGTINSNEKATRRKISWKPLLFFLMAVFGFPYLLNKFIT
+KLQTSGTIRASQGNGSEPIDPSKLEFARALYDFVPENPEMEVALKKGDLMAILSKKDPLGRDSDWWKVRTKNGNIGYI
+PYNYIEIIKRRKKIEHVDDETRTH"
+        }
+      },
+      seq {
+        id {
+          local str "PIG1_BOVIN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PIG1_BOVIN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 1291,
+          seq-data ncbieaa "MAGAASPCANGCGPSAPSDAEVVHLCRSLEVGTVMTLFYSKKSQRPERKT
+FQVKLETRQITWSRGADKIEGAIDIREIKEIRPGKTSRDFDRYQEDPAFRPDQSHCFVILYGMEFRLKTLSLQATSED
+EVNMWIRGLTWLMEDTLQAATPLQIERWLRKQFYSVDRNREDRISAKDLKNMLSQVNYRVPNMRFLRERLTDLEQRTS
+DITYGQFAQLYRSLMYSAQKTMDLPFLEASALRAGERPELCRVSLPEFQQFLLEYQGELWAVDRLQVQEFMLSFLRDP
+LREIEEPYFFLDEFVTFLFSKENSIWNSQLDEVCPDTMNNPLSHYWISSSHNTYLTGDQFSSESSLEAYARCLRMGCR
+CIELDCWDGPDGMPVIYHGHTLTTKIKFSDVLHTIKEHAFVASEYPVILSIEDHCSIAQQRNMAQYFKKVLGDTLLTK
+PVDIAADGLPSPNQLKRKILIKHKKLAEGSAYEEVPTSVMYSENDISNSIKNGILYLEDPVNHEWYPHYFVLTSSKIY
+YSEETSSDQGNEDEEEPKEASGSTELHSNEKWFHGKLGAGRDGRHIAERLLTEYCIETGAPDGSFLVRESETFVGDYT
+LSFWRNGKVQHCRIHSRQDAGTPKFFLTDNLVFDSLYDLITHYQQVPLRCNEFEMRLSEPVPQTNAHESKEWYHASLT
+RAQAEHMLMRVPRDGAFLVRKRNEPNSYAISFRAEGKIKHCRVQQEGQTVMLGNSEFDSLVDLISYYEKHPLYRKMKL
+RYPINEEALEKIGTAEPDYGALYEGRNPGFYVEANPMPTFKCAVKALFDYKAQREDELTFTKSAIIQNVEKQEGGWWR
+GDYGGKKQLWFPSNYVEEMVSPAALEPEREHLDENSPLGDLLRGVLDVPACQIAVRPEGKNNRLFVFSISMASVAHWS
+LDVAADSQEELQDWVKKIREVAQTADARLTEGKMMERRKKIALELSELVVYCRPVPFDEEKIGTERACYRDMSSFPET
+KAEKYVNKAKGKKFLQYNRLQLSRIYPKGQRLDSSNYDPLPMWICGSQLVALNFQTPDKPMQMNQALFLAGGHCGYVL
+QPSVMRDEAFDPFDKSSLRGLEPCAICIEVLGARHLPKNGRGIVCPFVEIEVAGAEYDSIKQKTEFVVDNGLNPVWPA
+KPFHFQISNPEFAFLRFVVYEEDMFSDQNFLAQATFPVKGLKTGYRAVPLKNNYSEGLELASLLVKIDVFPAKQENGD
+LSPFGGASLRERSCDASGPLFHGRAREGSFEARYQQPFEDFRISQEHLADHFDGRDRRTPRRTRVNGDNRL"
+        }
+      },
+      seq {
+        id {
+          local str "NPH1_CANFA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">NPH1_CANFA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 565,
+          seq-data ncbieaa "GEEEDEEEEEEEESEEGGGEEEESEEEEEEKQENESHHQATSKEYIAVGD
+FTAQQAGDLTFKKREILLIIEKKPDGWWIAKNAKGNKGLIPRTYVEPYNKEEGQDTSEEEDSEEDVEVGDQTAGGEEV
+KQRTDSHWSAVQKAISEQINTVDVLTTMGAIPAGFRPSTLFQLLEEGNQFRASYFLQPELTPSQLAFRDLMWDAKTGT
+IRSRPSRVSFILTLWSCKMIPLPGTSIQVLSRHVRLCIFDGNKVLSNIHTVRATWQSKKPKTWTFSPQVTGILPCLLD
+GDCFIRSNSSSPDLGILFELGISYIRNSTGERGELSCGWVFLKLFDASGIPIPAKTYELFLNGGTPYEKGVEVDPSVS
+RRAYGSVFHQMMTMRRQPQLLVKLRSLNRRSRDLLSLLPETLIGSMCTIHLLIFYRQILGDVLLKDRTSMQSADLISN
+PVLATFPKLLEQPDMMDALRSSWAEKESTLKRSEKRDKEFLKAMFLLVYHDCVVPLLHSTLLPPFRWAEEETEAARWK
+VIADFLKQNQENGGALQALLSPDGVHEPFDISEQTYDLLGEIRKNVA"
+        }
+      },
+      seq {
+        id {
+          local str "CC15_SCHPO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CC15_SCHPO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 927,
+          seq-data ncbieaa "MEVNGVSQSEAAPYVTKSSVKFRDNFWGSEDAGMDALMSRTKSSLSVLES
+IDEFYAKRASIEREYASKLQELAASSADIPEVGSTLNNILSMRTETGSMAKAHEEVSQQINTELRNKIREYIDQTEQQ
+KVVAANAIEELYQKKTALEIDLSEKKDAYEYSCNKLNSYMRQTKKMTGRELDKYNLKIRQAALAVKKMDAEYRETNEL
+LLTVTREWIDRWTEVCDAFQHIEEYRLEFLKTNMWAYANIISTACVKDDESCEKIRLTLENTNIDEDITQMIQNEGTG
+TTIPPLPEFNDYFKENGLNYDIDQLISKAPSYPYSSSRPSASASLASSPTRSAFRPKTSETVSSEVVSSPPTSPLHSP
+VKPVSNEQVEQVTEVELSIPVPSIQEAESQKPVLTGSSMRRPSVTSPTFEVAARPLTSMDVRSSHNAETEVQAIPAAT
+DISPEVKEGKNSENAITKDNDDIILSSQLQPTATGSRSSRLSFSRHGHGSQTSLGSIKRKSIMERMGRPTSPFMGSSF
+SNMGSRSTSPTKEGFASNQHATGASVQSDELEDIDPRANVVLNVGPNMLSVGEAPVESTSKEEDKDVPDPIANAMAEL
+SSSMRRRQSTSVDDEAPVSLSKTSSSTRLNGLGYHSRNTSIASDIDGVPKKSTLGAPPAAHTSAQMQRMSNSFASQTK
+QVFGEQRTENSARESLRHSRSNMSRSPSPMLSRRSSTLRPSFERSASSLSVRQSDVVSPAPSTRARGQSVSGQQRPSS
+SMSLYGEYNKSQPQLSMQRSVSPNPLGPNRRSSSVLQSQKSTSSNTSNRNNGGYSGSRPSSEMGHRYGSMSGRSMRQV
+SQRSTSRARSPEPTNRNSVQSKNVDPRATFTAEGEPILGYVIALYDYQAQIPEEISFQKGDTLMVLRTQEDGWWDGEI
+INVPNSKRGLFPSNFVQTV"
+        }
+      },
+      seq {
+        id {
+          local str "SS81_YEAST"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SS81_YEAST"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 367,
+          seq-data ncbieaa "MSISSKIRPTPRKPSRMATDHSFKMKKFYADPFAISSISLAIVSWVIAIG
+GSISSASTNESFPRFTWWGIVYQFLIICSLMLFYCFDLVDHYRIFITTSIAVAFVYNTNSATNLVYADGPKKAAASAG
+VILLSIINLIWILYYGGDNASPTNRWIDSFSIKGIRPSPLENSLHRARRRGNRNTTPYQNNVYNDAIRDSGYATQFDG
+YPQQQPSHTNYVSSTALAGFENTQPNTSEAVNLHLNTLQQRINSASNAKETNDNSNNQTNTNIGNTFDTDFSNGNTET
+TMGDTLGLYSDIGDDNFIYKAKALYPYDADDDDAYEISFEQNEILQVSDIEGRWWKARRANGETGIIPSNYVQLIDGP
+EEMHR"
+        }
+      },
+      seq {
+        id {
+          local str "ARH6_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ARH6_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 776,
+          seq-data ncbieaa "MNPEEQIVTWLISLGVLESPKKTICDPEEFLKSSLKNGVVLCKLINRLMP
+GSVEKFCLDPQTEADCINNINDFLKGCATLQVEIFDPDDLYSGVNFSKVLSTLLAVNKATEDQLSERPCGRSSSLSAA
+NTSQTNPQGAVSSTVSGLQRQSKTVEMTENGSHQLIVKARFNFKQTNEDELSVCKGDIIYVTRVEEGGWWEGTLNGRT
+GWFPSNYVREIKSSERPLSPKAVKGFETAPLTKNYYTVVLQNILDTEKEYAKELQSLLVTYLRPLQSNNNLSTVEVTS
+LLGNFEEVCTFQQTLCQALEECSKFPENQHKVGGCLLSLMPHFKSMYLAYCANHPSAVNVLTQHSDELEQFMENQGAS
+SPGILILTTNLSKPFMRLEKYVTLLQELERHMEDTHPDHQDILKAIVAFKTLMGQCQDLRKRKQLELQILSEPIQAWE
+GEDIKNLGNVIFMSQVMVQYGACEEKEERYLMLFSNVLIMLSASPRMSGFIYQGKIPIAGTVVTRLDEIEGNDCTFEI
+TGNTVERIVVHCNNNQDFQEWLEQLNRLIRGPASCSSLSKTSSSSCSAHSSFSSTGQPRGPLEPPQIIKPWSLSCLRP
+APPLRPSAALGYKERMSYILKESSKSPKTMKKFLHKRKTERKPSEEEYVIRKSTAALEEDAQILKVIEAYCTSANFQQ
+GHGSSTRKDSIPQVLLPEEEKLIIEETRSNGQTIMEEKSLVDTVYALKDEVRELKQENKRMKQCLEEELKSRRDLEKL
+VRRLLKQTDECIRGESSSKTSILP"
+        }
+      },
+      seq {
+        id {
+          local str "OPHL_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">OPHL_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 814,
+          seq-data ncbieaa "MGLPALEFSDCCLDSPHFRETLKSHEAELDKTNKFIKELIKDGKSLISAL
+KNLSSAKRKFADSLNEFKFQCIGDAETDDEMCIARSLQEFATVLRNLEDERIRMIENASEVLITPLEKFRKEQIGAAK
+EAKKKYDKETEKYCGILEKHLNLSSKKKESQLQEADSQVDLVRQHFYEVSLEYVFKVQEVQERKMFEFVEPLLAFLQG
+LFTFYHHGYELAKDFGDFKTQLTISIQNTRNRFEGTRSEVESLMKKMKENPLEHKTISPYTMEGYLYVQEKRHFGTSW
+VKHYCTYQRDSKQITMVPFDQKSGGKGGEDESVILKSCTRRKTDSIEKRFCFDVEAVDRPGVITMQALSEEDRRLWME
+AMDGREPVYNSNKDSQSEGTAQLDSIGFSIIRKCIHAVETRGINEQGLYRIVGVNSRVQKLLSVLMDPKTASETETDI
+CAEWEIKTITSALKTYLRMLPGPLMMYQFQRSFIKAAKLENQESRVSEIHSLVHRLPEKNRQMLQLLMNHLANVANNH
+KQNLMTVANLGVVFGPTLLRPQEETVAAIMDIKFQNIVIEILIENHEKIFNTVPDMPLTNAQLHLSRKKSSDSKPPSC
+SERPLTLFHTVQSTEKQEQRNSIINSSLESVSSNPNSILNSSSSLQPNMNSSDPDLAVVKPTRPNSLPPNPSPTSPLS
+PSWPMFSAPSSPMPTSSTSSDSSPVRSVAGFVWFSVAAVVLSLARSSLHAVFSLLVNFVPCHPNLHLLFDRPEEAVHE
+DSSTPFRKAKALYACKAEHDSELSFTAGTVFDNVHPSQEPGWLEGTLNGKTGLIPENYVEFL"
+        }
+      },
+      seq {
+        id {
+          local str "SNX9_MOUSE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SNX9_MOUSE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 595,
+          seq-data ncbieaa "MATKARVMYDFAAEPGNNELTVTEGEIITVTNPNVGGGWLEGKNNKGEQG
+LVPTDYVEILPNDGKDPFSCGNSVADQAFLDSLTASTAQTNSSSANSNNQVGGGNDPWTAWNAPKPGNWDSSDAWGSR
+TDGTSAQRNSSANNWDTGFGHPQAYQGPATGDDDEWDEDWDDPKSSSPYFKDSEPAEAGGIQRGNSRAGASSMKLPLN
+KFPGFAKPGMEQYLLAKQLAKPKEKIAIIVGDYGPMWVYPTSTFDCVVADPRKGSKMYGLKSYIEYQLTPTNTNRSVN
+HRYKHFDWLYERLLVKFGSAIPIPSLPDKQVTGRFEEEFIKMRMERLQAWMTRMCRHPVVSESEVFQQFLNFRDEKEW
+KTGKRKAEKDELVGVMIFSTMEPEAPDLDLIEIEQKCDAVGKFTKAMDDGVKELLTVGQEHWKRCTGPLPKEYQKIGK
+ALQSLAAVFSSSGYQGETDLNDAITEAGKTYEEIASLVAEQPKKDLHFLMECNHEYKGFLGCFPDIIGAHKGAIEKVK
+ESDKLVATSKITPQDKQTMVKRVGTMSYALQAEMNHFHSNRIYDYNSVIRLYLEQQVQFYETIAEKLRQALSRFPVM"
+        }
+      },
+      seq {
+        id {
+          local str "1ycs_B"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ycs_B"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 193,
+          seq-data ncbieaa "PLALLLDSSLEGEFDLVQRIIYEVDDPSLPNDEGITALHNAVCAGHTEIV
+KFLVQFGVNVNAADSDGWTPLHCAASCNNVQVCKFLVESGAAVFAMTYSDMQTAADKCEEMEEGYTQCSQFLYGVQEK
+MGIMNKGVIYALWDYEPQNDDELPMKEGDCMTIIHREDEDEIEWWWARLNDKEGYVPRNLLGLYP"
+        }
+      },
+      seq {
+        id {
+          local str "1hjd_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1hjd_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 101,
+          seq-data ncbieaa "ADRKLCADQECSHPISMAVALQDYMAPDCRFLTIHRGQVVYVFSKLKGRG
+RLFWGGSVQGDYYGDLAARLGYFPSSIVREDQTLKPGKVDVKTDKWDFYCQ"
+        }
+      },
+      seq {
+        id {
+          local str "1ihv_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ihv_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 52,
+          seq-data ncbieaa "MIQNFRVYYRDSRDPVWKGPAKLLWKGEGAVVIQDNSDIKVVPRRKAKII
+RD"
+        }
+      }
+    }
+  }
+}

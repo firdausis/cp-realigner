@@ -1,0 +1,753 @@
+Cdd ::= {
+  name "bbs12012",
+  id {
+    gid {
+      accession "acc_bbs12012",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                0,
+                9
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                10,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                16,
+                25
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                33,
+                43
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                44,
+                56
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                60,
+                72
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                82,
+                85
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                101,
+                100
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                130,
+                137
+              },
+              len 42
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                182,
+                179
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                191,
+                193
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                215,
+                207
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                219,
+                213
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                257,
+                244
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                264,
+                248
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                275,
+                260
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1bqb_A"
+              },
+              starts {
+                310,
+                288
+              },
+              len 13
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                0,
+                9
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                10,
+                30
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                13,
+                34
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                38,
+                50
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                45,
+                57
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                60,
+                72
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                82,
+                85
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                101,
+                100
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                106,
+                102
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                110,
+                104
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                130,
+                132
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                178,
+                179
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                191,
+                197
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                214,
+                219
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                219,
+                226
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                257,
+                257
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                274,
+                276
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "PRT1_ERWCA"
+              },
+              starts {
+                310,
+                305
+              },
+              len 13
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                0,
+                8
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                10,
+                28
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                13,
+                32
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                37,
+                48
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                45,
+                55
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                60,
+                77
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                91,
+                92
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                103,
+                101
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                110,
+                106
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                130,
+                132
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                182,
+                179
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                191,
+                190
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                221,
+                209
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                261,
+                248
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                282,
+                263
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "PRZN_RENSA",
+                local str "1ezm_"
+              },
+              starts {
+                306,
+                278
+              },
+              len 17
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1bqb_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1bqb_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 301,
+          seq-data ncbieaa "AAATGTGKGVLGDTKDININSIDGGFSLEDLTHQGKLSAYNFNDQTGQAT
+LITNEDENFVKDDQRAGVDANYYAKQTYDYYKNTFGRESYDNHGSPIVSLTHVNHYGGQDNRNNAAWIGDKMIYGDGD
+GRTFTNLSGANDVVAHEITHGVTQQTANLEYKDQSGALNESFSDVFGYFVDDEDFLMGEDVYTPGKEGDALRSMSNPE
+QFGQPSHMKDYVYTEKDNGGVHTNSGIPNKAAYNVIQAIGKSKSEQIYYRALTEYLTSNSNFKDLKDALYQAAKDLYE
+QQTAEQVYEAWNEVGVE"
+        }
+      },
+      seq {
+        id {
+          local str "PRT1_ERWCA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PRT1_ERWCA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 318,
+          seq-data ncbieaa "DEQRHCAQQTLMHVQSLMVSHHPRPEPHEKLPAGQANRSIHDAEQQQQLP
+GKLVRAEGQPSNGDIAVDEAYSYLGVTYDFFWKIFQRNSLDAEGLPLAGTVHYGQDYQNAFWNGQQMVFGDGDGKIFN
+RFTIALDVVAHELTHGITENEAGLIYFRQSGALNESLSDVFGSMVKQYHLGQTTEQADWLIGAELLADGIHGMGLRSM
+SHPGTAYDDELLGIDPQPSHMNEYVNTREDNGGVHLNSGIPNRAFYLAAIALGGHSWEKAGRIWYDTLCDKTLPQNAD
+FEIFARHTIQHAAKRFNHTVADIVQQSWETVGVE"
+        }
+      },
+      seq {
+        id {
+          local str "1ezm_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ezm_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 295,
+          seq-data ncbieaa "EAGGPGGNQKIGKYTYGSDYGPLIVNDRCEMDDGNVITVDMNSSTDDSKT
+TPFRFACPTNTYKQVNGAYSPLNDAHFFGGVVFKLYRDWFGTSPLTHKLYMKVHYGRSVENAYWDGTAMLFGDGATMF
+YPLVSLDVAAHEVSHGFTEQNSGLIYRGQSGGMNEAFSDMAGEAAEFYMRGKNDFLIGYDIKKGSGALRYMDQPSRDG
+RSIDNASQYYNGIDVHHSSGVYNRAFYLLANSPGWDTRKAFEVFVDANRYYWTATSNYNSGACGVIRSAQNRNYSAAD
+VTRAFSTVGVT"
+        }
+      },
+      seq {
+        id {
+          local str "PRZN_RENSA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PRZN_RENSA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 323,
+          seq-data ncbieaa "DRTDRKDINRVVCDANSKVIDLEASNADALLKCGKTQANKPTRIEGQAAS
+SVADVNSVYNFLNDTASFYGANTKANDLTALIGNDEGDGLGKAMRAVVRICVTDSQNGEQCPFANAFWYNGQMTYGQG
+VTTDDITGHELTHGVTEKTNGLVYANESGAINESMSDVFGEFIDLSNGSSDDTAANRWAIGEGSSLGVIRSMKDPGKY
+GEPAIYKGSNWKPTATNPNDNNDQGGVHSNSGVGNKLAFLITDGQTFNGQTVTGIGIAKAAQLYWAAQRQLTANATYS
+SLGKALNSACSANVSNNVAGTTAANCTQVANAIKAVGIK"
+        }
+      }
+    }
+  }
+}

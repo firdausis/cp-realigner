@@ -1,0 +1,1744 @@
+Cdd ::= {
+  name "bbs12023",
+  id {
+    gid {
+      accession "acc_bbs12023",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                5,
+                0
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                16,
+                12
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                27,
+                26
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                29,
+                29
+              },
+              len 51
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                80,
+                81
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                90,
+                89
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                105,
+                103
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                137,
+                133
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                149,
+                141
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                152,
+                143
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                181,
+                163
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                184,
+                165
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                196,
+                179
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                200,
+                185
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                236,
+                219
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                245,
+                220
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                266,
+                242
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                288,
+                263
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                301,
+                277
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                303,
+                281
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                312,
+                295
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                320,
+                306
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                325,
+                314
+              },
+              len 51
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                381,
+                365
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                421,
+                404
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                437,
+                433
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                447,
+                443
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                487,
+                479
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                495,
+                483
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                503,
+                490
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                518,
+                499
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                522,
+                500
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                539,
+                512
+              },
+              len 64
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                603,
+                576
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                636,
+                609
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                665,
+                636
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "1lcf_"
+              },
+              starts {
+                686,
+                661
+              },
+              len 20
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                7,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                16,
+                10
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                29,
+                22
+              },
+              len 51
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                80,
+                74
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                87,
+                79
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                90,
+                80
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                105,
+                94
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                149,
+                134
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                184,
+                157
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                199,
+                171
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                200,
+                174
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                245,
+                204
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                266,
+                226
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                305,
+                259
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                312,
+                272
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                320,
+                283
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                325,
+                291
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                349,
+                314
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                379,
+                343
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                421,
+                384
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                437,
+                407
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                446,
+                415
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                447,
+                416
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                487,
+                452
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                495,
+                456
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                503,
+                463
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                518,
+                472
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                522,
+                473
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                539,
+                485
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                585,
+                530
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                603,
+                548
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                636,
+                581
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                656,
+                599
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                665,
+                607
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFE_PAROL"
+              },
+              starts {
+                686,
+                632
+              },
+              len 21
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                7,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                16,
+                10
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                27,
+                24
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                29,
+                28
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                71,
+                69
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                80,
+                79
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                87,
+                84
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                90,
+                85
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                105,
+                99
+              },
+              len 40
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                149,
+                139
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                153,
+                140
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                181,
+                159
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                196,
+                178
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                200,
+                184
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                236,
+                218
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                266,
+                249
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                289,
+                270
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                301,
+                283
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                303,
+                286
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                312,
+                301
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                320,
+                312
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                325,
+                319
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                349,
+                340
+              },
+              len 88
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                437,
+                430
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                447,
+                441
+              },
+              len 55
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                503,
+                496
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                518,
+                505
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                539,
+                521
+              },
+              len 64
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                603,
+                585
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                636,
+                619
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                655,
+                636
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                663,
+                645
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRFM_HUMAN"
+              },
+              starts {
+                686,
+                672
+              },
+              len 22
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                4,
+                0
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                16,
+                12
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                27,
+                26
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                29,
+                28
+              },
+              len 51
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                80,
+                79
+              },
+              len 116
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                196,
+                195
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                200,
+                199
+              },
+              len 66
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                266,
+                265
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                301,
+                300
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                303,
+                302
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                312,
+                311
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                320,
+                319
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                325,
+                324
+              },
+              len 112
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                437,
+                436
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                447,
+                446
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                494,
+                491
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                537,
+                528
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                559,
+                533
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                591,
+                552
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                603,
+                567
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                634,
+                596
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                636,
+                598
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                663,
+                625
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TRF_BLADI",
+                local str "TRF_MANSE"
+              },
+              starts {
+                687,
+                647
+              },
+              len 18
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1lcf_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1lcf_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 691,
+          seq-data ncbieaa "GRRRSVQWCAVSNPEATKCFQWQRNMRKVRGPPVSCLKRDSPIQCIQAIA
+ENRADAVTLDGGFIYEAGLAPYKLRPVAAEVYGTERQPRTHYYAVAVVKKGGSFQLNELQGLKSCHTGLRRTAGWNVP
+IGTLRPFLNWTGPPEPIEAAVARFFSASCVPGADKGQFPNLCRLCAGTGENKCAFSSQEPYFSYSGAFKCLKDGAGDV
+AFIRESTVFEDLSDEAERDEYELLCPDNTRKPVDKFKDCHLARVPSHAVVARSVNGKEDAIWNLLRQAQEKFGKDKSP
+KFQLFGSPSGQKDLLFKDSAIGFSRVPPRIDSGLYLGSGYFTAIQNLRKSEEEVAARRARVVWCAVGEQELRKCNQWS
+GLSEGSVTCSSASTTEDCIALVLKGEADAMSLDGGYVYTAGKCGLVPVLAENYKSQQSSDPDPNCVDRPVEGYLAVAV
+VRRSDTSLTWNSVKGKKSCHTAVDRTAGWNIPMGLLFNQTGSCKFDEYFSQSCAPGSDPRSNLCALCIGDEQGENKCV
+PNSNERYYGYTGAFRCLAENAGDVAFVKDVTVLQNTDGNNNEAWAKDLKLADFALLCLDGKRKPVTEARSCHLAMAPN
+HAVVSRMDKVERLKQVLLHQQAKFGRNGSDCPDKFCLFQSETKNLLFNDNTECLARLHGKTTYEKYLGPQYVAGITNL
+KKCSTSPLLEACEFLRK"
+        }
+      },
+      seq {
+        id {
+          local str "TRFE_PAROL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRFE_PAROL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 664,
+          seq-data ncbieaa "IDTVKWCVTSTKENLKCTALAAAAPVFSCVARASITDCLTAIKAGEADAI
+TLDGGEIYTAGLDEYKLHPIIAEQYGTSTDTCYYAVAVAKKNTGFGLHQLMGKKSCHTGVGKSAGWNIPIGTLLSMDF
+IKWKGSDDKKLEEVVGEFFHSSCAPGATDSANLCKLCIGDCSKSSETEPYYNYHGAFQCLKDGKGDVAFVKHLTVPEE
+EKNDYELLCKDNTRKPIDQFENCDLAKVPSHAVVTRKDNEELAQFIWQSLSSVKNFNLFSSTPYGGKNLMFKDSTTTL
+VQLPLNVDHTMYLGPHYLESVKALKIVNIPSTTSDAMKWCAVGRSESDKCDSWSVASLVQDGTTIDCIKGNTVDDCLK
+KIMHKEADAMAVDGGQVYTAGKCGLVPAMVEQYDQGQCSAPGAARLYYAVAVIKKGSGVTWENLRNKRSCHTGIGRNA
+GWNIPMGLIYEQTKNCNFSAFFSSSCAPGADPSSQLCAQCAGNAESINKCKASNEERYYAYAGAFRCLAEGKGDVAFV
+KHSIVKENTDGQGPEWAKAFLSNDYELICPSKGPVSVENFMSCNLAKVNAHAVVTRPEIRTKVVTFLNNQQSHFGNSA
+SEESFKMFTSPDGENLLFKYSTKCLQEIPAHLDYKGFLGQEYMTVMSSLRTCKESTSDLEQLCTYNMC"
+        }
+      },
+      seq {
+        id {
+          local str "TRFM_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRFM_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 706,
+          seq-data ncbieaa "GMEVRWCATSDPEQHKCGNMSEAFREAGIQPSLLCVRGTSADHCVQLIAA
+QEADAITLDGGAIYEAGKEHGLKPVVGEVYDQEVGTSYYAVAVVRRSSHVTIDTLKGVKSCHTGINRTVGWNVPVGYL
+VESGRLSVMGCDVLKAVSDYFGGSCVPGAGETSYSESLCRLCRGDSSGEGVCDKSPLERYYDYSGAFRCLAEGAGDVA
+FVKHSTVLENTDGKTLPSWGQALLSQDFELLCRDGSRADVTEWRQCHLARVPAHAVVVRADTDGGLIFRLLNEGQRLF
+SHEGSSFQMFSSEAYGQKDLLFKDSTSELVPIATQTYEAWLGHEYLHAMKGLLCDPNRLPPYLRWCVLSTPEIQKCGD
+MAVAFRRQRLKPEIQCVSAKSPQHCMERIQAEQVDAVTLSGEDIYTAGKKYGLVPAAGEHYAPEDSSNSYYVVAVVRR
+DSSHAFTLDELRGKRSCHAGFGSPAGWDVPVGALIQRGFIRPKDCDVLTAVSEFFNASCVPVNNPKNYPSSLCALCVG
+DEQGRNKCVGNSQERYYGYRGAFRCLVENAGDVAFVRHTTVFDNTNGHNSEPWAAELRSEDYELLCPNGARAEVSQFA
+ACNLAQIPPHAVMVRPDTNIFTVYGLLDKAQDLFGDDHNKNGFKMFDSSNYHGQDLLFKDATVRAVPVGEKTTYRGWL
+GLDYVAALEGMSSQQCSGAAAPAPGAPLLPLL"
+        }
+      },
+      seq {
+        id {
+          local str "TRF_BLADI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRF_BLADI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 708,
+          seq-data ncbieaa "TPEGSPHHEIYKVCVPEGALESCHRMSQESDLHMTCVAARDRIECLDKIK
+HREADFAPVDPEDMYVAAKIPQQDFIIFKEIRTKEEPDEEFRYEAVCVIHKDLDITSIHGLQGLKSCHTGVGRNVGYK
+IPITKLRHMGVLGPLNNSDLTPRENELHALSHLFSEACLVGKWAPDPAQNQALKAKYPNLCALCEHPEICDYPDKYSG
+YDGALRCLAEHGGQVAWTKVYYVKKHFGMAIGAGEAVPTGQNPDDYAYLCPDATKKPITGKPCIWAARPWQGYMANHD
+LDNDIADLRAKISLADTIGETENADWLSKVLDLNNKTIPIDNQGPYSPENYLNKANYTDVIERDTGAPHRPVRFCVTS
+DAELEKCRVLKRAAYSRDIRPAFDCVREAGLHECLRTVRDDGADVITLDGGEVFVAQRQYNLKPIVAEQYGEHGSLYY
+AVAVVRKDSTYQSIEDLRGAKSCHTGYGRNAGWNVPLYTLLSKELISKNSCPYSSALSSYFSGGSCVPGAQLPENNPA
+NQNPDSLCSICAGNLDAPNNDPAWKCSASNDESFFGYSGAFRCLASGEGQVAFVKHTTVPENTDGHNQAAWTAGLRSE
+DFELLCADGGRASINEYSRCHLAEVPPHMVVTSNDKTDIQLNEIRHAILAAGDLYSRRPDLFKLFGDFGGTKDLLFKN
+SATGLLSVENGSPLMQRYSEILEVIRACENQPTP"
+        }
+      },
+      seq {
+        id {
+          local str "TRF_MANSE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TRF_MANSE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 665,
+          seq-data ncbieaa "NAAKSSYKLCVPAAYMKDCEQMLEVPTKSKVALECVPARDRVECLSFVQQ
+RQADFVPVDPEDMYVASKIPNQDFVVFQEYRTDEEPDAPFRYEAVIVVHKDLPINNLDQLKGLRSCHTGVNRNVGYKI
+PLTMLMKRAVFPKMNDHSISPKENELKALSTFFAKSCIVGKWSPDPKTNSAWKSQYSHLCSMCEHPERCDYPDNYSGY
+EGALRCLAHNNGEVAFTKVIFTRKFFGLPVGTTPASPSNENPEEFRYLCVDGSKAPITGKACSWAARPWQGLIGHNDV
+LAKLAPLREKVKQLADSGAADKPEWFTKVLGLSEKIHHVADNIPIKPIDYLNKANYTEVIERGHGAPELVVRLCVTSN
+VALSKCRAMSVFAFSRDIRPILDCVQENSEDACLKSVQDNGSDLASVDDMRVAAAAKKYNLHPVFHEVYGELKTPNYA
+VAVVKKGTAYNKIDDLRGKKSCHSSYSTFSGLHAPLFYLINKRAIQSDHCVKNLGEFFSGGSCLPGVDKPENNPSGDD
+VSKLKKQCGSDSSAWKCLEEDRGDVAFVSSADLSHFDANQYELLCLNRDAGGRDVLSSFATCNVAMAPSRTWVAAKDF
+LSDVSIAHTPLSLAQMLATRPDLFNIYGEFLKNNNVIFNNAAKGLATTEKLDFEKFKTIHDVISSCGLA"
+        }
+      }
+    }
+  }
+}

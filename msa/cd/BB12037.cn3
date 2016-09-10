@@ -1,0 +1,5154 @@
+Cdd ::= {
+  name "bb12037",
+  id {
+    gid {
+      accession "acc_bb12037",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                43,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                48,
+                5
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                62,
+                19
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                67,
+                21
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                94,
+                48
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                138,
+                83
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                156,
+                101
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                162,
+                102
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                182,
+                124
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                214,
+                157
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                257,
+                200
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                295,
+                240
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                309,
+                254
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                330,
+                275
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                333,
+                282
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                346,
+                295
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                382,
+                335
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                384,
+                336
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                387,
+                341
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                398,
+                352
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                405,
+                353
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                413,
+                361
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                429,
+                377
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                461,
+                409
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                478,
+                426
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                509,
+                452
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                514,
+                457
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                539,
+                481
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                556,
+                482
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                569,
+                495
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                578,
+                505
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1acj_"
+              },
+              starts {
+                598,
+                525
+              },
+              len 3
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                43,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                48,
+                5
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                62,
+                19
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                67,
+                21
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                94,
+                48
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                138,
+                83
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                156,
+                101
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                163,
+                102
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                182,
+                123
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                214,
+                162
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                257,
+                205
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                295,
+                245
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                309,
+                263
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                330,
+                284
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                333,
+                289
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                346,
+                302
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                382,
+                342
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                387,
+                349
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                398,
+                360
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                405,
+                361
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                413,
+                369
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                430,
+                385
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                461,
+                416
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                478,
+                433
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                509,
+                459
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                514,
+                464
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                556,
+                490
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                569,
+                503
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                576,
+                510
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                578,
+                515
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1dx4_A"
+              },
+              starts {
+                598,
+                535
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                42,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                48,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                63,
+                20
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                86,
+                40
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                94,
+                48
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                138,
+                72
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                156,
+                90
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                160,
+                92
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                182,
+                122
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                214,
+                154
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                257,
+                197
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                295,
+                235
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                309,
+                249
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                330,
+                273
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                333,
+                280
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                346,
+                293
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                362,
+                307
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                382,
+                331
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                387,
+                336
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                398,
+                347
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                408,
+                352
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                413,
+                357
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                429,
+                373
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                461,
+                407
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                478,
+                424
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                509,
+                450
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                514,
+                455
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                553,
+                482
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                569,
+                498
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                576,
+                505
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                578,
+                510
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                598,
+                530
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "1akn_"
+              },
+              starts {
+                609,
+                536
+              },
+              len 11
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                22,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                44,
+                16
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                48,
+                20
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                67,
+                32
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                94,
+                59
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                136,
+                83
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                161,
+                103
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                183,
+                130
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                188,
+                133
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                214,
+                159
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                257,
+                202
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                295,
+                240
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                312,
+                254
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                330,
+                276
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                333,
+                280
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                346,
+                293
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                364,
+                309
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                382,
+                335
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                387,
+                342
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                398,
+                354
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                413,
+                369
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                429,
+                387
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                461,
+                419
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                478,
+                440
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                509,
+                466
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                514,
+                472
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                556,
+                498
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                569,
+                512
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                576,
+                517
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                578,
+                522
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CAEBR"
+              },
+              starts {
+                598,
+                542
+              },
+              len 20
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                0,
+                2131
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                16,
+                2150
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                38,
+                2175
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                41,
+                2183
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                48,
+                2201
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                62,
+                2216
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                94,
+                2247
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                137,
+                2271
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                161,
+                2290
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                182,
+                2313
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                214,
+                2345
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                257,
+                2390
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                295,
+                2430
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                309,
+                2444
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                330,
+                2468
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                333,
+                2471
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                346,
+                2484
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                382,
+                2524
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                387,
+                2530
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                398,
+                2541
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                405,
+                2542
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                413,
+                2552
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                427,
+                2565
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                429,
+                2568
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                461,
+                2601
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                475,
+                2611
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                484,
+                2618
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                507,
+                2638
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                514,
+                2645
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                553,
+                2678
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                569,
+                2695
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                575,
+                2697
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                576,
+                2700
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                578,
+                2705
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                600,
+                2727
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                606,
+                2731
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "THYG_MOUSE"
+              },
+              starts {
+                668,
+                2761
+              },
+              len 5
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                22,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                38,
+                19
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                41,
+                29
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                48,
+                36
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                67,
+                48
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                94,
+                75
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                138,
+                103
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                160,
+                122
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                182,
+                146
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                188,
+                151
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                216,
+                177
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                257,
+                218
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                295,
+                256
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                313,
+                270
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                330,
+                291
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                333,
+                298
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                346,
+                311
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                389,
+                352
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                398,
+                361
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                405,
+                364
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                415,
+                370
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                429,
+                380
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                461,
+                413
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                478,
+                432
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                507,
+                457
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                514,
+                464
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                553,
+                492
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                569,
+                508
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                576,
+                512
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                578,
+                518
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                600,
+                538
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "CRYS_DICDI"
+              },
+              starts {
+                607,
+                542
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                24,
+                0
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                38,
+                17
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                41,
+                21
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                48,
+                28
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                67,
+                40
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                94,
+                68
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                120,
+                93
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                137,
+                94
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                160,
+                113
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                184,
+                137
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                214,
+                167
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                257,
+                210
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                295,
+                248
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                309,
+                263
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                331,
+                285
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                333,
+                291
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                346,
+                309
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                382,
+                353
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                387,
+                355
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                398,
+                366
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                413,
+                383
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                429,
+                396
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                461,
+                429
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                478,
+                454
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                480,
+                455
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                509,
+                478
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                514,
+                483
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                556,
+                511
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                569,
+                525
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                576,
+                530
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST6_DROMA"
+              },
+              starts {
+                578,
+                535
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                13,
+                0
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                16,
+                3
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                28,
+                9
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                38,
+                19
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                41,
+                22
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                48,
+                29
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                64,
+                43
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                94,
+                73
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                123,
+                97
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                138,
+                98
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                156,
+                116
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                182,
+                142
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                214,
+                174
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                257,
+                217
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                295,
+                255
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                309,
+                269
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                330,
+                290
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                333,
+                297
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                346,
+                314
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                362,
+                326
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                382,
+                350
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                387,
+                352
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                398,
+                363
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                413,
+                381
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                428,
+                393
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                429,
+                394
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                459,
+                423
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                461,
+                427
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                478,
+                452
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                507,
+                475
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                514,
+                482
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                556,
+                509
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                569,
+                522
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                576,
+                531
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTE_MYZPE"
+              },
+              starts {
+                578,
+                536
+              },
+              len 16
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                33,
+                0
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                38,
+                6
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                41,
+                9
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                48,
+                16
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                62,
+                30
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                67,
+                32
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                94,
+                59
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                136,
+                87
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                156,
+                109
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                160,
+                110
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                182,
+                135
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                214,
+                167
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                257,
+                210
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                295,
+                250
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                309,
+                264
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                330,
+                286
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                333,
+                290
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                346,
+                303
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                363,
+                318
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                382,
+                345
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                387,
+                352
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                415,
+                363
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                429,
+                380
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                461,
+                412
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                481,
+                437
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                509,
+                460
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                514,
+                465
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                554,
+                492
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                569,
+                508
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                578,
+                518
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                598,
+                541
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST2_CAEEL"
+              },
+              starts {
+                615,
+                547
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                20,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                23,
+                2
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                38,
+                20
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                41,
+                23
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                48,
+                30
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                62,
+                44
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                66,
+                45
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                94,
+                73
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                138,
+                101
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                156,
+                121
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                182,
+                149
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                188,
+                154
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                214,
+                180
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                257,
+                223
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                295,
+                263
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                309,
+                277
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                330,
+                301
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                333,
+                303
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                346,
+                322
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                382,
+                366
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                387,
+                372
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                398,
+                383
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                409,
+                384
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                412,
+                386
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                413,
+                390
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                431,
+                401
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                461,
+                432
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                478,
+                454
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                506,
+                480
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                514,
+                488
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                554,
+                516
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                569,
+                531
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                576,
+                540
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                578,
+                545
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                583,
+                547
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "ESTJ_HELVI"
+              },
+              starts {
+                598,
+                562
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                40,
+                0
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                41,
+                1
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                48,
+                8
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                64,
+                22
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                94,
+                52
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                138,
+                76
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                160,
+                94
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                182,
+                118
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                188,
+                123
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                214,
+                151
+              },
+              len 43
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                257,
+                194
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                295,
+                231
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                309,
+                246
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                330,
+                270
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                333,
+                277
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                346,
+                295
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                384,
+                333
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                387,
+                337
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                398,
+                348
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                405,
+                351
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                412,
+                357
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                413,
+                361
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                429,
+                374
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                461,
+                407
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                478,
+                431
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                512,
+                459
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                514,
+                462
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                558,
+                495
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                569,
+                506
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                576,
+                513
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                578,
+                518
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "EST1_CULPI"
+              },
+              starts {
+                598,
+                538
+              },
+              len 2
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                48,
+                7
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                67,
+                19
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                94,
+                46
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                123,
+                70
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                136,
+                76
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                161,
+                96
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                182,
+                119
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                218,
+                152
+              },
+              len 39
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                257,
+                191
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                294,
+                226
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                295,
+                229
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                315,
+                243
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                330,
+                262
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                334,
+                269
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                346,
+                281
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                362,
+                294
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                382,
+                322
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                389,
+                323
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                413,
+                332
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                429,
+                345
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                462,
+                377
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                484,
+                397
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                514,
+                428
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                556,
+                455
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                569,
+                468
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "NLG4_HUMAN",
+                local str "PCD_ARTOX"
+              },
+              starts {
+                578,
+                479
+              },
+              len 14
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1acj_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1acj_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 528,
+          seq-data ncbieaa "SELLVNTKSGKVMGTRVPVLSSHISAFLGIPFAEPPVGNMRFRRPEPKKP
+WSGVWNASTYPNNCQQYVDEQFPGFSGSEMWNPNREMSEDCLYLNIWVPSPRPKSTTVMVWIYGGGFYSGSSTLDVYN
+GKYLAYTEEVVLVSLSYRVGAFGFLALHGSQEAPGNVGLLDQRMALQWVHDNIQFFGGDPKTVTIFGESAGGASVGMH
+ILSPGSRDLFRRAILQSGSPNCPWASVSVAEGRRRAVELGRNLNCNLNSDEELIHCLREKKPQELIDVEWNVLPFDSI
+FRFSFVPVIDGEFFPTSLESMLNSGNFKKTQILLGVNKDEGSFFLLYGAPGFSKDSESKISREDFMSGVKLSVPHAND
+LGLDAVTLQYTDWMDDNNGIKNRDGLDDIVGDHNVICPLMHFVNKYTKFGNGTYLYFFNHRASNLVWPEWMGVIHGYE
+IEFVFGLPLVKELNYTAEEEALSRRIMHYWATFAKTGNPNEPSKWPLFTTKEQKFIDLNTEPMKVHQRLRVQMCVFWN
+QFLPKLLNAT"
+        }
+      },
+      seq {
+        id {
+          local str "1dx4_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1dx4_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 537,
+          seq-data ncbieaa "DRLVVQTSSGPVRGRSVTVQGREVHVYTGIPYAKPPVEDLRFRKPVPAEP
+WHGVLDATGLSATCVQERYEYFPGFSGEEIWNPNTNVSEDCLYINVWAPATTNGLPILIWIYGGGFMTGSATLDIYNA
+DIMAAVGNVIVASFQYRVGAFGFLHLAPEMPSEFAEEAPGNVGLWDQALAIRWLKDNAHAFGGNPEWMTLFGESAGSS
+SVNAQLMSPVTRGLVKRGMMQSGTMNAPWSHMTSEKAVEIGKALINDCNCNASMLKTNPAHVMSCMRSVDAKTISVQQ
+WNSYSGILSFPSAPTIDGAFLPADPMTLMKTADLKDYDILMGNVRDEGTYFLLYDFIDYFDKDDATALPRDKYLEIMN
+NIFGKATQAEREAIIFQYTSWEGNPGYQNQQQIGRAVGDHFFTCPTNEYAQALAERGASVHYYYFTHRTSTSLWGEWM
+GVLHGDEIEYFFGQPLNNSLQYRPVERELGKRMLSAVIEFAKTGNPAQDGEEWPNFSKEDPVYYIFSTDDKIEKLARG
+PLAARCSFWNDYLPKVRSW"
+        }
+      },
+      seq {
+        id {
+          local str "1akn_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1akn_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 547,
+          seq-data ncbieaa "AKLGSVYTEGGFVEGVNKKLSLFGDSIDIFKGIPFAAAPKALEKPERHPG
+WQGTLKAKSFKKRCLQATLTQDSTYGNEDCLYLNIWVPQGRKEVSHDLPVMIWIYGGAFLMGASQGANFLSNYLYDGE
+EIATRGNVIVVTFNYRVGPLGFLSTGDSNLPGNYGLWDQHMAIAWVKRNIEAFGGDPDNITLFGESAGGASVSLQTLS
+PYNKGLIKRAISQSGVGLCPWAIQQDPLFWAKRIAEKVGCPVDDTSKMAGCLKITDPRALTLAYKLPLGSTEYPKLHY
+LSFVPVIDGDFIPDDPVNLYANAADVDYIAGTNDMDGHLFVGMDVPAINSNKQDVTEEDFYKLVSGLTVTKGLRGANA
+TYEVYTEPWAQDSSQETRKKTMVDLETDILFLIPTKIAVAQHKSHAKSANTYTYLFSQPSRMPIYPKWMGADHADDLQ
+YVFGKPFATPLGYRAQDRTVSKAMIAYWTNFARTGDPNTGHSTVPANWDPYTLEDDNYLEINKQMDSNSMKLHLRTNY
+LQFWTQTYQALPTVTSAGASLLPPEDNSQ"
+        }
+      },
+      seq {
+        id {
+          local str "NLG4_HUMAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">NLG4_HUMAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 816,
+          seq-data ncbieaa "MSRPQGLLWLPLLFTPVCVMLNSNVLLWLTALAIKFTLIDSQAQYPVVNT
+NYGKIRGLRTPLPNEILGPVEQYLGVPYASPPTGERRFQPPEPPSSWTGIRNTTQFAAVCPQHLDERSLLHDMLPIWF
+TANLDTLMTYVQDQNEDCLYLNIYVPTEDDIHDQNSKKPVMVYIHGGSYMEGTGNMIDGSILASYGNVIVITINYRLG
+ILGFLSTGDQAAKGNYGLLDQIQALRWIEENVGAFGGDPKRVTIFGSGAGASCVSLLTLSHYSEGLFQKAIIQSGTAL
+SSWAVNYQPAKYTRILADKVGCNMLDTTDMVECLRNKNYKELIQQTITPATYHIAFGPVIDGDVIPDDPQILMEQGEF
+LNYDIMLGVNQGEGLKFVDGIVDNEDGVTPNDFDFSVSNFVDNLYGYPEGKDTLRETIKFMYTDWADKENPETRRKTL
+VALFTDHQWVAPAVATADLHAQYGSPTYFYAFYHHCQSEMKPSWADSAHGDEVPYVFGIPMIGPTELFSCNFSKNDVM
+LSAVVMTYWTNFAKTGDPNQPVPQDTKFIHTKPNRFEEVAWSKYNPKDQLYLHIGLKPRVRDHYRATKVAFWLELVPH
+LHNLNEIFQYVSTTTKVPPPDMTSFPYGTRRSPAKIWPTTKRPAITPANNPKHSKDPHKTGPEDTTVLIETKRDYSTE
+LSVTIAVGASLLFLNILAFAALYYKKDKRRHETHRRPSPQRNTTNDIAHIQNEEIMSLQMKQLEHDHECESLQAHDTL
+RLTCPPDYTLTLRRSPDDIPLMTPNTITMIPNTLTGMQPLHTFNTFSGGQNSTNLPHGHSTTRV"
+        }
+      },
+      seq {
+        id {
+          local str "EST1_CAEBR"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">EST1_CAEBR"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 562,
+          seq-data ncbieaa "MRVLLASLLIFGACWAGPVVNTNYGKVEGFEYGAAEVFLAIPFAKPPVDN
+LRFEKPEAPEPWEDVYQATQFRNDCTPHYRLVAQFSSYSGEDCLTLNVIKPKTIEKKLPVLFWVHGGGYEIGSGSQHG
+YEFFADRYTSQGVIVVTIQYRLGFMGFFSEGTSDAPGNYGLFDQAAALRFVKENIGNFGGDPDDITIWGYSAGAASVS
+QLTMSPYTHDLYSKAIIMSASSFVGWATGPNVIDTSKQLAEILGCPWPGAKECMKKKTLHEIFDAVETQGWTTGTIDI
+LRWSPVIDGDYLPKNPENLINDAPIKPTLIGMSNKEGSYFATMNMGRVIADFGLSPEEIPKVDEDFISEIIDRKLLYN
+NRYGENRQKVWDQILDYYTKQGKPERDLNGFYVDRYAELLSDITFNVPILREITARVERKTPVWTYRFDHYNEQIWKK
+YIPEQAKGSPHANEYHYLFNMPVMAQIDFKKEPESWLQRDLIDMVVSFAKTGVPHIQDVEWRPVSDPDDVNFLNFQSS
+GVSVKHGLFQEPLDFWNNLREREGFDLVDPAYSKTTSNSEKDEL"
+        }
+      },
+      seq {
+        id {
+          local str "THYG_MOUSE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">THYG_MOUSE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 2766,
+          seq-data ncbieaa "MTALVLWVSTLLSSVCLVAANIFEYQVDAQPLRPCELQREKAFLKQAEYV
+PQCSEDGSFQTVQCQNDGQSCWCVDSDGREVPGSRQLGRPTVCLSFCQLHKQRILLGSYINSTDALYLPQCQDSGNYA
+PVQCDLQRVQCWCVDTEGMEVYGTRQQGRPTRCPRSCEIRNRRLLHGVGDRSPPQCTADGEFMPVQCKFVNTTDMMIF
+DLIHNYNRFPDAFVTFSSFRGRFPEVSGYCYCADSQGRELAETGLELLLDEIYDTIFAGLDQASTFTQSTMYRILQRR
+FLAIQLVISGRFRCPTKCEVEQFAATRFGHSYIPRCHRDGHYQTVQCQTEGMCWCVDAQGREVPGTRQQGQPPSCAAD
+QSCALERQQALSRFYFETPDYFSPQDLLSSEDRLAPVSGVRSDTSCPPRIKELFVDSGLLRSIAVEHYQRLSESRSLL
+REAIRAVFPSRELAGLALQFTTNPKRLQQNLFGGTFLANAAQFNLSGALGTRSTFNFSQFFQQFGLPGFLNRDRVTTL
+AKLLPVRLDSSSTPETLRVSEKTVAMNKRVVGNFGFKVNLQENQDALKFLVSLLELPEFLVFLQRAVSVPEDIARDLG
+DVMEMVFSAQACKQMPGKFFVPSCTAGGSYEDIQCYAGECWCVDSRGKELDGSRVRGGRPRCPTKCEKQRAQMQSLAS
+AQPAGSSFFVPTCTREGYFLPVQCFNSECYCVDTEGQVIPGTQSTVGEAKQCPSVCQLQAEQAFLGVVGVLLSNSSMV
+PSISNVYIPQCSASGQWRHVQCDGPHEQVFEWYERWKTQNGDGQELTPAALLMKIVSYREVASRNFSLFLQSLYDAGQ
+QRIFPVLAQYPSLQDVPQVVLEGATTPPGENIFLDPYIFWQILNGQLSQYPGPYSDFNMPLEHFNLRSCWCVDEAGQK
+LDGTQTKPGEIPACPGPCEEVKLRVLKFIKETEEIVSASNASSFPLGESFLVAKGIQLTSEELDLPPQFPSRDAFSEK
+FLRGGEYAIRLAAQSTLTFYQSLRASLGKSDGAASLLWSGPYMPQCNMIGGWEPVQCHAGTGQCWCVDGRGEFIPGSL
+MSRSSQMPQCPTNCELSRASGLISAWKQAGPQRNPGPGDLFIPVCLQTGEYVRKQTSGTGTWCVDPASGEGMPVNTNG
+SAQCPGLCDVLKSRALSRKVGLGYSPVCEALDGAFSPVQCDLAQGSCWCVLGSGEEVPGTRVVGTQPACESPQCPLPF
+SGSDVADGVIFCETASSSGVTTVQQCQLLCRQGLRSAFSPGPLICSLESQHWVTLPPPRACQRPQLWQTMQTQAHFQL
+LLPPGKMCSVDYSGLLQAFQVFILDELITRGFCQIQVKTFGTLVSSTVCDNSSIQVGCLTAERLGVNVTWKLQLEDIS
+VGSLPDLYSIERAVTGQDLLGRFADLIQSGRFQLHLDSKTFSADTTLYFLNGDSFVTSPRTQLGCMEGFYRVPTTRQD
+ALGCVKCPEGSFSQDGRCTPCPAGTYQEQAGSSACIPCPRGRTTITTGAFSKTHCVTDCQKNEAGLQCDQNGQYQASQ
+KNRDSGEVFCVDSEGRKLQWLQTEAGLSESQCLMIRKFDKAPESKVIFDANSPVIVKSSVPSADSPLVQCLTDCANDE
+ACSFLTVSTMESEVSCDFYSWTRDNFACVTSDQEQDAMGSLKATSFGSLRCQVKVRNSGKDSLAVYVKKGYESTAAGQ
+KSFEPTGFQNVLSGLYSPVVFSASGANLTDTHIYCLLACDNDSCCDGFIITQVKGGPTICGLLSSPDILLCHINDWRD
+TSATQANATCAGVTYDQGSRQMTLSLGGQEFLQGLALLEGTQDSFTSFQQVYLWKDSDMGSRPESMGCERGMVPRSDF
+PGDMATELFSPVDITQVIVNTSHSLPSQQYWLFTHLFSAEQANLWCLSRCAQEPIFCQLADITKSSSLYFTCFLYPEA
+QVCDNVMESNAKNCSQILPHQPTALFRRKVVLNDRVKNFYTRLPFQKLTGISIRDKVPMSGKLISNGFFECERLCDRD
+PCCTGFGFLNVSQLQGGEVTCLTLNSMGIQTCNEESGATWRILDCGSEDTEVHTYPFGWYQKPAVWSDTPSFCPSAAL
+QSLTEEKVTSDSWQTLALSSVIVDPSIKHFDVAHISTAATSNFSMAQDFCLQQCSRHQDCLVTTLQIQPGVVRCVFYP
+DIQNCIHSLRSHTCWLLLHEEATYIYRKSGIPLVQSDVTSTPSVRIDSFGQLQGGSQVIKVGTAWKQVYRFLGVPYAA
+PPLADNRFRAPEVLNWTGSWDATKPRASCWQPGTRTPTPPQINEDCLYLNVFVPENLVSNASVLVFFHNTMEMEGSGG
+QLTIDGSILAAVGNFIVVTANYRLGVFGFLSSGSDEVAGNWGLLDQVAALTWVQSHIGAFGGDPQRVTLAADRSGADV
+ASIHLLISRPTRLQLFRKALLMGGSALSPAAIISPERAQQQAAALAKEVGCPTSSIQEVVSCLRQKPANILNDAQTKL
+LAVSGPFHYWGPVVDGQYLRELPSRRLKRPLPVKVDLLIGGSQDDGLINRAKAVKQFEESQGRTNSKTAFYQALQNSL
+GGEDSDARILAAAVWYYSLEHSTDDYASFSRALENATRDYFIICPMVNMASLWARRTRGNVFMYHVPESYGHGSLELL
+ADVQYAFGLPFYSAYQGQFSTEEQSLSLKVMQYFSNFIRSGNPNYPHEFSRKAAEFATPWPDFIPGAGGESYKELSAQ
+LPNRQGLKQADCSFWSKYIQTLKDADGAKDAQLTKSEEEDLEVGPGLEEDLSGSLEPVPKSYSK"
+        }
+      },
+      seq {
+        id {
+          local str "CRYS_DICDI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CRYS_DICDI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 550,
+          seq-data ncbieaa "MNKIIILLIILLSFDIISAAKKFGRKGIRTLGDNEVLLSDGAIRGTVTDT
+HRVFYGIPFARPPIDELRYEDPQPPKPWSYVRDGTKQRDQCIQDCKLGKGSCSEVGTSEDCLYLDVFIPRTVNPGSKV
+PVMVFIPGGAFTQGTGSCPLYDGLKFANSSVIVVNVNYRLGVLGFLCTGLLSGNFGFLDQVMALDWVQENIEVFGGDK
+NQVTIYGESAGAFSVAAHLSSEKSEGKFHRAILSSTPYTVGLKSQTVARGFAGRFSSKIGCDLEDIDCHRSKSPEEIL
+AIQKELGLAIGDKILDAFTIWSPVVDGINVNEQPLTMIKQGTTHDVPTIIGDNQDEAILFVYMTYKNVVIPSSYRTMV
+HVLFGIANGNKVLEHYPLPGFLKDSRPILSKLLTDYLFRCPGRYHVSKSAQANESPIYHYQYKQVLSGGHSFEACEGL
+VCHGTELPMVFNTYESALDLDLEEEEEEFAEQLNNYFVNFIKYSNPSHPNGLPTPKVWNPTTKTTNTSLVMKLGFEVK
+DLITNDPKCDLFDSLSYNGYTKDQNRMRKSKK"
+        }
+      },
+      seq {
+        id {
+          local str "EST6_DROMA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">EST6_DROMA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 542,
+          seq-data ncbieaa "MNYVGLIIVLSCLWLGSNASDPDDPLLVQLPQGKLRGRDNGSYYSYESIP
+YAEPPIGDLRFEAPEPYKQKWSDIFEATKTPVACLQWDQFTPGANKLVGEEDCLTVSIYKPKNSKRSSFPVVAHIHGG
+AFMFGAAWQNGHENVMREGKFILVKISYRLGPLGFASTGDRDLPGNYGLKDQRLALKWIKQNIASFGGEPENILLIGH
+SAGGASVHLQMLREDFGQLAKAAFSFSGNALDPWVVQKGARGRAFELGRNVGCESSEDSASLKKCLKSKPASELVTAV
+RKFLIFSYVPFAPFSPVLEPSDAPDAFLTQDPREVIKSGKFGQVPWAVSYVTEDGGYNAALLLKERKSGIAIDDLNDR
+WLELAPYFLFYRDTKTKKDMDDYSRKIKEDYLGNQKFDIESYSELQRLFTDILFKNSTQESLDLHRKYGKSPAYAYVY
+DNPAEKGIAQVLANRTDYDFGTVHGDDYFLIFENFVREVEMRPDEEIISRNFINMLADFASSDNGVLKYGECAFKNNV
+GSEKFQLLAIYIDGCQNRQHVEFP"
+        }
+      },
+      seq {
+        id {
+          local str "ESTE_MYZPE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ESTE_MYZPE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 552,
+          seq-data ncbieaa "MKNTCGILLNLFLFIGCFLTCSASNTPKVQVHSGEIAGGFEYTYNGRKIY
+SFLGIPYASPPVQNNRFKEPQPVQPWLGVWNATVPGSACLGIEFGSGSKIIGQEDCLFLNVYTPKLPQENSAGDLMNV
+IVHIHGGGYYFGEGILYGPHYLLDNNDFVYVSINYRLGVLGFASTGDGVLTGNNGLKDQVAALKWIQQNIVAFGGDPN
+SVTITGMSAGASSVHNHLISPMSKGLFNRAIIQSGSAFCHWSTAENVAQKTKYIANLMGCPTNNSVEIVECLRSRPAK
+AIAKSYLNFMPWRNFPFTPFGPTVEVAGYEKFLPDIPEKLVPHDIPVLISIAQDEGLIFSTFLGLENGFNELNNNWNE
+HLPHILDYNYTISNENLRFKTAQDIKEFYFGDKPISKETKSNLSKMISDRSFGYGTSKAAQHIAAKNTAPVYFYEFGY
+SGNYSYVAFFDPKSYSRGSSPTHGDETSYVLKMDGFYVYDNEEDRKMIKTMVNIWATFIKSGVPDTENSEIWLPVSKN
+LADPFRFTKITQQQTFEAREQSTTGIMNFGVAYH"
+        }
+      },
+      seq {
+        id {
+          local str "EST2_CAEEL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">EST2_CAEEL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 556,
+          seq-data ncbieaa "GGFLSHLTPEQNVEALKASCGPVRGNIYKHDDVIVDGYLGIPYAKPPVGE
+LRFKKPVTVDVWTEIKDCYKYGPACVQTGGFEQIAGPRTPTPEEAGCLTLNVFTPRNASSEFKNGRPVMVYIHGGGYE
+LCASSDFCAYSLSGTLPLKDVVVVSINYRLGVFGFLTTGDNVCPGNFGLWDQTLALKWVQKHISSFGGDPNCVTVFGQ
+SAGGASTDLLSLSPHSRDLFQRFIPISGTAHCDFAIRASENQAKIFREFAEFHGFSGRDSSALFKWYQEQSPETLSNV
+KGYKKSISGFLTFIPNLDGDFFPKPLDELRKEAPKKQMMTGVTEYEGLMLASMNPAFSPADVGLTLMPQGIYGKDVVS
+NPDEIQKIFYEKYVEGVDKSDELAMRKKLCEALGDEFFNVGVIQAAKNAAKHGNEVYFYTFEYVNPDSFGMWDGMMPF
+KAAVHCTELRYLLGEGVYSKFEPTEEDRKVMETTTTLFSNFAKYGNPNGKGATAEIWEKYSLNRPERHYRISYPKCEM
+RDVYHEGRIQFLEKIDGDSDKYQNWSMERRSRQRFNFF"
+        }
+      },
+      seq {
+        id {
+          local str "ESTJ_HELVI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ESTJ_HELVI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 564,
+          seq-data ncbieaa "MTSHVLALAFLLHACTALAWQETNSRSVVAHLDSGIIRGVPRSADGIKFA
+SFLGVPYAKQPVGELRFKELEPLEPWDNILNATNEGPICFQTDVLYGRLMAASEMSEACIYANIHVPWQSLPRVRGTT
+PLRPILVFIHGGGFAFGSGHEDLHGPEYLVTKNVIVITFNYRLNVFGFLSMNTTKIPGNAGLRDQVTLLRWVQRNAKN
+FGGDPSDITIAGQSAGASAAHLLTLSKATEGLFKRAILMSGTGMSYFFTTSPLFAAYISKQLLQILGINETDPEEIHR
+QLIDLPAEKLNEANAVLIEQIGLTTFLPIVESPLPGVTTIIDDDPEILIAEGRGKNVPLLIGFTSSECETFRNRLLNF
+DLVKKIQDNPTIIIPPKLLFMTPPELLMELAKTIERKYYNGTISIDNFVKSCSDGFYEYPALKLAQKRAETGGAPLYL
+YRFAYEGQNSIIKKVMGLNHEGVGHIEDLTYVFKVNSMSEALHASPSENDVKMKNLMTGYFLNFIKCSQPTCEDNNSL
+EVWPANNGMQYEDIVSPTIIRSKEFASRQQDIIEFFDSFTSRSPLE"
+        }
+      },
+      seq {
+        id {
+          local str "EST1_CULPI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">EST1_CULPI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 540,
+          seq-data ncbieaa "MSLESLTVQTKYGPVRGKRNVSLLGQEYVSFQGIPYARAPEGELRFKAPV
+PPQKWTETLDCTQQCEPCYHFDRRLQKIVGCEDSLKINVFAKEINPSTPLPVMLYIYGGGFTEGTSGTELYGPDFLVQ
+KDIVLVSFNYRIGALGFLCCQSEQDGVPGNAGLKDQNLAIRWVLENIAAFGGDPKRVTLAGHSAGAASVQYHLISDAS
+KDLFQRRIVMSGSTYSSWSLTRQRNWVEKLAKAIGWDGQGGESGALRFLRRAKPEDIVAHQEKLLTDQDMQDDIFTPF
+GPTVEPYLTEQCIIPKAPFEMARTAWGDKIDIMIGGTSEEGLLLLQKIKLHPELLSHPHLFLGNVPPNLKISMEKRIE
+FAAKLKQRYYPDSIPSMENNLGYVHMMSDRVFWHGLHRTILARAARSRARTFVYRICLDSEFYNHYRIMMIDPKLRGT
+AHADELSYLFSNFTQQVPGKETFEYRGLQTLVDVFSAFVINGDPNCGMTAKGGVVFEPNAQTKPTFKCLNIANDGVAF
+VDYPDADRLDMWDAMYVNDELF"
+        }
+      },
+      seq {
+        id {
+          local str "PCD_ARTOX"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PCD_ARTOX"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 493,
+          seq-data ncbieaa "MITRPIAHTTAGDLGGCLEDGLYVFRGVPYAEPPVGDLRWRAARPHAGWT
+GVRDASAYGPSAPQPVEPGGSPILGTHGDPPFDEDCLTLNLWTPNLDGGSRPVLVWIHGGGLLTGSGNLPNYATDTFA
+RDGDLVGISINYRLGPLGFLAGMGDENVWLTDQVEALRWIADNVAAFGGDPNRITLVGQSGGAYSIAALAQHPVARQL
+FHRAILQSPPFGMQPHTVEESTARTKALARHLGHDDIEALRHEPWERLIQGTIGVLMEHTKFGEWPLAFYPVFDEATI
+PRHPIESIIDSDIEIIIGWTRDEGTFPFAFDPQVSQADRDQVESWLQKRFGDHAASAYEAHAGDGTSPWTVIANVVGD
+ELFHSAGYRVADERATRRPVRAYQFDVVSPLSDGALGAVHCIEMPFTFANLDRWTGKPFVDGLDPDVVARVTNVLHQA
+WIAFVRTGDPTHDQLPVWPTFRADDPAVLVVGDEGAEVARDLARPDHVSVRTL"
+        }
+      }
+    }
+  }
+}

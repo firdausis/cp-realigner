@@ -1,0 +1,317 @@
+Cdd ::= {
+  name "bbs12006",
+  id {
+    gid {
+      accession "acc_bbs12006",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1al2_ad"
+              },
+              starts {
+                0,
+                0
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1al2_ad"
+              },
+              starts {
+                49,
+                49
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1al2_ad"
+              },
+              starts {
+                59,
+                60
+              },
+              len 123
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1al2_ad"
+              },
+              starts {
+                187,
+                183
+              },
+              len 48
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1bbt_ac"
+              },
+              starts {
+                0,
+                0
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1bbt_ac"
+              },
+              starts {
+                49,
+                50
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1bbt_ac"
+              },
+              starts {
+                59,
+                58
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1bbt_ac"
+              },
+              starts {
+                74,
+                65
+              },
+              len 111
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1bbt_ac"
+              },
+              starts {
+                187,
+                176
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1bbt_ac"
+              },
+              starts {
+                206,
+                190
+              },
+              len 29
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1mec_ac"
+              },
+              starts {
+                0,
+                0
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1mec_ac"
+              },
+              starts {
+                49,
+                49
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1mec_ac"
+              },
+              starts {
+                59,
+                59
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1mec_ac"
+              },
+              starts {
+                77,
+                71
+              },
+              len 108
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bev_ac",
+                local str "1mec_ac"
+              },
+              starts {
+                187,
+                179
+              },
+              len 48
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1al2_ad"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1al2_ad"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 231,
+          seq-data ncbieaa "GLPVMNTPGSNQYLTADNFQSPCALPEFDVTPPIDIPGEVKNMMELAEID
+TMIPFDLSATKKNTMEMYRVRLSDKPHTDDPILCLSLSPASDPRLSHTMLGEILNYYTHWAGSLKFTFLFCGSMMATG
+KLLVSYAPPGADPPKKRKEAMLGTHVIWDIGLQSSCTMVVPWISNTTYRQTIDDSFTEGGYISVFYQTRIVVPLSTPR
+EMDILGFVSACNDFSVRLLRDTTHI"
+        }
+      },
+      seq {
+        id {
+          local str "1bbt_ac"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1bbt_ac"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 219,
+          seq-data ncbieaa "IFPVACSDGYGGLVTTDPKTADPVYGKVFNPPRNQLPGRFTNLLDVAEAC
+PTFLRFEGGVPYVTTKTDSDRVLAQFDMSLAAKHMSNTFLAGLAQYYTQYSGTINLHFMFTGPTDAKARYMVAYAPPG
+MEPPKTPEAAAHCIHAEWDTGLNSKFTFSIPYLSAADYTYTASDVAETTNVQGWVCLFQITHGKADGDALVVLASAGK
+DFELRLPVDARAE"
+        }
+      },
+      seq {
+        id {
+          local str "1bev_ac"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1bev_ac"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 235,
+          seq-data ncbieaa "GLPTKPGPGSYQFMTTDEDCSPCILPDFQPTPEIFIPGKVNNLLEIAQVE
+SILEANNREGVEGVERYVIPVSVQDALDAQIYALRLELGGSGPLSSSLLGTLAKHYTQWSGSVEITCMFTGTFMTTGK
+VLLAYTPPGGDMPRNREEAMLGTHVIWDFGLQSSITLVIPWISASHFRGVSNDDVLNYQYYAAGHVTIWYQTNMVIPP
+GFPNTAGIIMMIAAQPNFSFRIQKDREDM"
+        }
+      },
+      seq {
+        id {
+          local str "1mec_ac"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1mec_ac"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 227,
+          seq-data ncbieaa "PIPVTIREHAGTWYSTLPDSTVPIYGKTPVAPANYMVGEYKDFLEIAQIP
+TFIGNKMPNAVPYIEASNTAVKTQPLAVYQVTLSCSCLANTFLAALSRNFAQYRGSLVYTFVFTGTAMMKGKFLIAYT
+PPGAGKPTSRDQAMQATYAIWDLGLNSSYSFTVPFISPTHFRMVGTDQANITNVDGWVTVWQLTPLTYPPGCPTSAKI
+LTMVSAGKDFSLKMPISPAPW"
+        }
+      }
+    }
+  }
+}

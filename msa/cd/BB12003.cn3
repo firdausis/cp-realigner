@@ -1,0 +1,785 @@
+Cdd ::= {
+  name "bb12003",
+  id {
+    gid {
+      accession "acc_bb12003",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1aho_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1aho_"
+              },
+              starts {
+                5,
+                5
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1aho_"
+              },
+              starts {
+                18,
+                18
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1aho_"
+              },
+              starts {
+                20,
+                19
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1aho_"
+              },
+              starts {
+                44,
+                43
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1aho_"
+              },
+              starts {
+                59,
+                58
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1aho_"
+              },
+              starts {
+                63,
+                61
+              },
+              len 3
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1i6f_A"
+              },
+              starts {
+                1,
+                0
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1i6f_A"
+              },
+              starts {
+                5,
+                4
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1i6f_A"
+              },
+              starts {
+                18,
+                17
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1i6f_A"
+              },
+              starts {
+                20,
+                18
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1i6f_A"
+              },
+              starts {
+                42,
+                35
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1i6f_A"
+              },
+              starts {
+                44,
+                37
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "1i6f_A"
+              },
+              starts {
+                59,
+                52
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "AEP_MESMA"
+              },
+              starts {
+                0,
+                19
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "AEP_MESMA"
+              },
+              starts {
+                5,
+                24
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "AEP_MESMA"
+              },
+              starts {
+                18,
+                37
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "AEP_MESMA"
+              },
+              starts {
+                42,
+                56
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "AEP_MESMA"
+              },
+              starts {
+                44,
+                60
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "AEP_MESMA"
+              },
+              starts {
+                57,
+                72
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "AEP_MESMA"
+              },
+              starts {
+                59,
+                75
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCAT_MESMA"
+              },
+              starts {
+                0,
+                18
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCAT_MESMA"
+              },
+              starts {
+                5,
+                24
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCAT_MESMA"
+              },
+              starts {
+                18,
+                37
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCAT_MESMA"
+              },
+              starts {
+                42,
+                56
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCAT_MESMA"
+              },
+              starts {
+                44,
+                60
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCAT_MESMA"
+              },
+              starts {
+                57,
+                72
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCAT_MESMA"
+              },
+              starts {
+                59,
+                75
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_ANDAU"
+              },
+              starts {
+                0,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_ANDAU"
+              },
+              starts {
+                5,
+                6
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_ANDAU"
+              },
+              starts {
+                18,
+                21
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_ANDAU"
+              },
+              starts {
+                42,
+                40
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_ANDAU"
+              },
+              starts {
+                44,
+                42
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_ANDAU"
+              },
+              starts {
+                59,
+                58
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_CENLL"
+              },
+              starts {
+                0,
+                18
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_CENLL"
+              },
+              starts {
+                5,
+                24
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_CENLL"
+              },
+              starts {
+                18,
+                39
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_CENLL"
+              },
+              starts {
+                42,
+                58
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_CENLL"
+              },
+              starts {
+                44,
+                60
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "SCX6_CENLL"
+              },
+              starts {
+                59,
+                76
+              },
+              len 8
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "BIRT_PARTR"
+              },
+              starts {
+                0,
+                1
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "BIRT_PARTR"
+              },
+              starts {
+                5,
+                7
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "BIRT_PARTR"
+              },
+              starts {
+                18,
+                22
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "BIRT_PARTR"
+              },
+              starts {
+                42,
+                41
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bmr_",
+                local str "BIRT_PARTR"
+              },
+              starts {
+                44,
+                43
+              },
+              len 15
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1aho_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1aho_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 64,
+          seq-data ncbieaa "VKDGYIVDDVNCTYFCGRNAYCNEECTKLKGESGYCQWASPYGNACYCYK
+LPDHVRTKGPGRCH"
+        }
+      },
+      seq {
+        id {
+          local str "1bmr_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1bmr_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 67,
+          seq-data ncbieaa "VRDGYIAQPENCVYHCFPGSSGCDTLCKEKGGTSGHCGFKVGHGLACWCN
+ALPDNVGIIVEGEKCHS"
+        }
+      },
+      seq {
+        id {
+          local str "1i6f_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1i6f_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 60,
+          seq-data ncbieaa "KDGYPVDSKGCKLSCVANNYCDNQCKMKKASGGHCYAMSCYCEGLPENAK
+VSDSATNICG"
+        }
+      },
+      seq {
+        id {
+          local str "AEP_MESMA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">AEP_MESMA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 85,
+          seq-data ncbieaa "MKLFLLLVISASMLIDGLVNADGYIRGSNGCKVSCLLGNEGCNKECRAYG
+ASYGYCWTWKLACWCQGLPDDKTWKSESNTCGGKK"
+        }
+      },
+      seq {
+        id {
+          local str "SCAT_MESMA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SCAT_MESMA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 85,
+          seq-data ncbieaa "MKIIIFLIVCSFVLIGVKADNGYLLNKYTGCKIWCVINNESCNSECKLRR
+GNYGYCYFWKLACYCEGAPKSELWAYETNKCNGKM"
+        }
+      },
+      seq {
+        id {
+          local str "SCX6_ANDAU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SCX6_ANDAU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 66,
+          seq-data ncbieaa "GRDGYVVKNGTNCKYSCEIGSEYEYCGPLCKRKNAKTGYCYAFACWCIDV
+PDDVKLYGDDGTYCSS"
+        }
+      },
+      seq {
+        id {
+          local str "SCX6_CENLL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">SCX6_CENLL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 85,
+          seq-data ncbieaa "MNSLLMIIGCLVLIGTVWTKEGYLVNMKTGCKYGCYELGDNGYCDRKCKA
+ESGNYGYCYTVGCWCEGLPNSKPTWPLPGKSCSGK"
+        }
+      },
+      seq {
+        id {
+          local str "BIRT_PARTR"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">BIRT_PARTR"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 58,
+          seq-data ncbieaa "ADVPGNYPLDKDGNTYKCFLLGGNEECLNVCKLHGVQYGYCYASKCWCEY
+LEDDKDSV"
+        }
+      }
+    }
+  }
+}

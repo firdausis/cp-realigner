@@ -1,0 +1,3020 @@
+Cdd ::= {
+  name "bbs12008",
+  id {
+    gid {
+      accession "acc_bbs12008",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                10,
+                10
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                24,
+                16
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                30,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                37,
+                24
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                62,
+                52
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                85,
+                74
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                96,
+                84
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                113,
+                101
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                143,
+                132
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                144,
+                133
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                179,
+                166
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                206,
+                195
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                237,
+                226
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                304,
+                293
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                313,
+                301
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1buc_A"
+              },
+              starts {
+                347,
+                335
+              },
+              len 34
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                10,
+                10
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                24,
+                16
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                30,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                35,
+                24
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                62,
+                51
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                85,
+                73
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                96,
+                83
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                113,
+                100
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                143,
+                130
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                144,
+                131
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                177,
+                164
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                206,
+                195
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                237,
+                226
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                304,
+                293
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                313,
+                301
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1ivh_A"
+              },
+              starts {
+                347,
+                335
+              },
+              len 34
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                10,
+                10
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                24,
+                16
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                30,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                37,
+                24
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                62,
+                49
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                85,
+                71
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                89,
+                74
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                96,
+                80
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                113,
+                97
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                143,
+                127
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                144,
+                128
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                177,
+                158
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                206,
+                189
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                237,
+                220
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                304,
+                287
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                312,
+                295
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1rx0_A"
+              },
+              starts {
+                347,
+                330
+              },
+              len 34
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                1,
+                0
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                10,
+                10
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                24,
+                16
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                30,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                37,
+                24
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                62,
+                49
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                86,
+                71
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                96,
+                80
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                113,
+                97
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                120,
+                102
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                143,
+                125
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                144,
+                126
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                183,
+                159
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                206,
+                184
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                237,
+                216
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                307,
+                283
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                313,
+                285
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "1r2j_A"
+              },
+              starts {
+                348,
+                318
+              },
+              len 33
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                10,
+                11
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                24,
+                17
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                30,
+                22
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                37,
+                25
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                62,
+                50
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                80,
+                65
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                85,
+                69
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                96,
+                79
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                113,
+                97
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                143,
+                128
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                144,
+                129
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                146,
+                130
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                178,
+                161
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                199,
+                181
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                206,
+                190
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                237,
+                221
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                304,
+                288
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                313,
+                296
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P76200"
+              },
+              starts {
+                347,
+                330
+              },
+              len 34
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                0,
+                3
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                12,
+                12
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                24,
+                16
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                30,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                37,
+                24
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                62,
+                49
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                85,
+                71
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                113,
+                99
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                118,
+                103
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                143,
+                129
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                144,
+                131
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                178,
+                164
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                206,
+                194
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                237,
+                225
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                304,
+                292
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                312,
+                300
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q10535"
+              },
+              starts {
+                347,
+                345
+              },
+              len 34
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                0,
+                3
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                10,
+                13
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                14,
+                15
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                24,
+                17
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                30,
+                22
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                37,
+                25
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                62,
+                50
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                70,
+                57
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                85,
+                71
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                96,
+                81
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                113,
+                98
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                143,
+                129
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                144,
+                131
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                177,
+                166
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                206,
+                197
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                237,
+                228
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                304,
+                296
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                312,
+                304
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q8jzn5"
+              },
+              starts {
+                347,
+                339
+              },
+              len 34
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                0,
+                4
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                15,
+                13
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                24,
+                14
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                30,
+                19
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                35,
+                22
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                62,
+                49
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                86,
+                70
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                113,
+                97
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                143,
+                127
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                144,
+                128
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                178,
+                161
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                206,
+                190
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                237,
+                221
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                304,
+                288
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                312,
+                297
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P71539"
+              },
+              starts {
+                347,
+                332
+              },
+              len 34
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                10,
+                10
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                24,
+                16
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                30,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                37,
+                24
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                62,
+                49
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                80,
+                66
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                85,
+                70
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                96,
+                80
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                113,
+                97
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                143,
+                127
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                144,
+                128
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                177,
+                161
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                206,
+                192
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                237,
+                223
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                304,
+                290
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                310,
+                295
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                312,
+                297
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P79274"
+              },
+              starts {
+                347,
+                332
+              },
+              len 34
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                10,
+                10
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                24,
+                16
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                30,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                37,
+                24
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                62,
+                49
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                85,
+                71
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                96,
+                81
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                113,
+                97
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                143,
+                127
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                144,
+                128
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                179,
+                161
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                206,
+                190
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                237,
+                221
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                304,
+                288
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                313,
+                296
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "P45954"
+              },
+              starts {
+                347,
+                330
+              },
+              len 34
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                10,
+                10
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                24,
+                16
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                30,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                37,
+                24
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                56,
+                42
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                62,
+                48
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                85,
+                70
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                96,
+                80
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                113,
+                97
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                143,
+                128
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                144,
+                130
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                182,
+                162
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                206,
+                188
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                231,
+                212
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                237,
+                218
+              },
+              len 66
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                304,
+                285
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                313,
+                293
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q92947"
+              },
+              starts {
+                347,
+                327
+              },
+              len 34
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                0,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                10,
+                10
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                24,
+                16
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                30,
+                21
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                37,
+                24
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                62,
+                49
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                85,
+                71
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                89,
+                74
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                96,
+                80
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                113,
+                97
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                143,
+                127
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                144,
+                128
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                177,
+                162
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                206,
+                193
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                237,
+                224
+              },
+              len 67
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                304,
+                291
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                313,
+                299
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "Q9kje8",
+                local str "Q9vsa3"
+              },
+              starts {
+                347,
+                333
+              },
+              len 34
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1buc_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1buc_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 369,
+          seq-data ncbieaa "LAHDFGEKKLAPTVTERDHKGIYDKELIDELLSLGITGAYFEEKYGGSGD
+DGGDVLSYILAVEELAKYDAGVAITLSATVSLCANPIWQFGTEAQKEKFLVPLVEGTKLGAFGLTEPNAGTDASGQQT
+IATKNDDGTYTLNGSKIFITNGGAADIYIVFAMTDKSKGNHGITAFILEDGTPGFTYGKKEDKMGIHTSQTMELVFQD
+VKVPAENMLGEEGKGFKIAMMTLDGGRIGVAAQALGIAEAALADAVEYSKQRVQFGKPLCKFQSISFKLADMKMQIEA
+ARNLVYKAACKKQEGKPFTVDAAIAKRVASDVAMRVTTEAVQIFGGYGYSEEYPVARHMRDAKITQIYEGTNEVQLMV
+TGGALLR"
+        }
+      },
+      seq {
+        id {
+          local str "1ivh_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1ivh_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 369,
+          seq-data ncbieaa "TMAKFLQEHLAPKAQEIDRSNEFKNLREFWKQLGNLGVLGITAPVQYGGS
+GLGYLEHVLVMEEISRASGAVGLSYGAHSNLCINQLVRNGNEAQKEKYLPKLISGEYIGALAMSEPNAGSDVVSMKLK
+AEKKGNHYILNGNKFWITNGPDADVLIVYAKTDLAAVPASRGITAFIVEKGMPGFSTSKKLDKLGMRGSNTCELIFED
+CKIPAANILGHENKGVYVLMSGLDLERLVLAGGPLGLMQAVLDHTIPYLHVREAFGQKIGHFQLMQGKMADMYTRLMA
+CRQYVYNVAKACDEGHCTAKDCAGVILYSAECATQVALDGIQCFGGNGYINDFPMGRFLRDAKLYEIGAGTSEVRRLV
+IGRAFNA"
+        }
+      },
+      seq {
+        id {
+          local str "1rx0_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1rx0_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 364,
+          seq-data ncbieaa "VAFDFAAREMAPNMAEWDQKELFPVDVMRKAAQLGFGGVYIQTDVGGSGL
+SRLDTSVIFEALATGCTSTTAYISIHNMCAWMIDSFGNEEQRHKFCPPLCTMEKFASYCLTEPGSGSDAASLLTSAKK
+QGDHYILNGSKAFISGAGESDIYVVMCRTGGPGPKGISCIVVEKGTPGLSFGKKEKKVGWNSQPTRAVIFEDCAVPVA
+NRIGSEGQGFLIAVRGLNGGRINIASCSLGAAHASVILTRDHLNVRKQFGEPLASNQYLQFTLADMATRLVAARLMVR
+NAAVALQEERKDAVALCSMAKLFATDECFAICNQALQMHGGYGYLKDYAVQQYVRDSRVHQILEGSNEVMRILISRSL
+LQ"
+        }
+      },
+      seq {
+        id {
+          local str "1r2j_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1r2j_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 351,
+          seq-data ncbieaa "ERDALLTDLVGDRAAEWDTSGELPRDLLVRLGADGLLCAEVAAEHGGLGL
+GSRENGEFTAHVGSLCSSLRSVMTSQGMAAWTVQRLGDAGQRATFLKELTSGLAAVGFSERQAGSDLSAMRTRVRLDG
+DTAVVDGHKVWTTAAAYADHLVVFGLQEDGSGAVVVVPADTPGVRVERVPKPSGCRAAGHADLHLDQVRVPAGAVLAG
+SGASLPMLVAASLAYGRKSVAWGCVGILRACRTAAVAHARTREQFGRPLGDHQLVAGHIADLWTAEQIAARVCEYASD
+HMVPATILAKHVAAERAAAGAATAAQVLASAGAGHVVERAYRDAKLMEIIEGSSEMCRVMLAQHALA"
+        }
+      },
+      seq {
+        id {
+          local str "P76200"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">P76200"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 364,
+          seq-data ncbieaa "SIRELITTNFPEEYFRTCDQNGTYPREFMRALADNGISMLGVPEEFGGIP
+ADYVTQMLALMEVSKCGAPAFLITNGQCIHSMRRFGSAEQLRKTAESTLETGDPAYALALTEPGAGSDNNSATTTYTR
+KNGKVYINGQKTFITGAKEYPYMLVLARDPQPKDPKKAFTLWWVDSSKPGIKINPLHKIGWHMLSTCEVYLDNVEVEE
+SDMVGEEGMGFLNVMYNFEMERLINAARSTGFAECAFEDAARYANQRIAFGKPIGHNQMIQEKLALMAIKIDNMRNMV
+LKVAWQADQHQSLRTSAALAKLYCARTAMEVIDDAIQIMGGLGYTDEARVSRFWRDVRCERIGGGTDEIMIYVAGRQI
+LK"
+        }
+      },
+      seq {
+        id {
+          local str "Q10535"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">Q10535"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 379,
+          seq-data ncbieaa "FLVKLREFLDTVDGSVIERAAQIPDEYVKGLAELGCFGLKIPSEYGGLNM
+SQVAYNRVLMMVTTVHSSLGALLSAHQSIGVPEPLKLAGTAEQKRRFLPRCAAGAISAFLLTEPDVGSDPARMASTAT
+PIDDGQAYELEGVKLWTTNGVVADLLVVMARVPRSEGHRGGISAFVVEADSPGITVERRNKFMGLRGIENGVTRLHRV
+RVPKDNLIGREGDGLKIALTTLNAGRLSLPAIATGVAKQALKIAREWSVERVQWGKPVGQHEAVASKISFIAATNYAL
+DAVVELSSQMADEGRNDIRIEAALAKLWSSEMACLVGDELLQIRGGRGYETAESLAARGERAVPVEQMVRDLRINRIF
+EGSSEIMRLLIAREAVD"
+        }
+      },
+      seq {
+        id {
+          local str "Q8jzn5"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">Q8jzn5"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 373,
+          seq-data ncbieaa "FVGPLEKFFTEEVDSRKIDQEGKIPVDTLEKLKSLGLFGIQVPEEYGGLG
+LSNTMYARLGEIISLDASITVTLAAHQAIGLKGIILVGNDEQKAKYLPKLSSGEHIAAFCLTEPASGSDAASIQTRAT
+LSEDKKYFILNGSKVWITNGGLANIFTVFAKTEVVDSDGSKTDKMTAFIVERDFGGITNGKPEDKLGIRGSNTCEVHF
+ENTRVPVENVLGEVGGGFKVAMNILNSGRFSMGSAVAGMLKKLIELTAEYACTRKQFNRNLSEFGLIQEKFALMAQKA
+YVMESMAYLTSGMLDQPGFPDCSIEAAMVKVFSSEAAWQCVSEALQILGGSGYMKDYPYERMLRDARILLIFEGTNEI
+LRLFIALTGLQ"
+        }
+      },
+      seq {
+        id {
+          local str "Q9kje8"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">Q9kje8"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 381,
+          seq-data ncbieaa "VARRFTANELMPLEKVLLEREMRMWTDGYTLLPEADHARLMKITQEMGFW
+GIEVDEKLGGQGLGMFAKTLVVEEMSKSLIGFSHHGFTLPPDAPNLYYLEECGSPAQRDKYVRRYCRGEIDSAMMATE
+PGAGSDISGLTTTAVRENGQWVINGSKIFISKCDKDELFFICIAVTDKEAPTKRRFTAFILDKDTPGLRIGAEIPVIG
+AMPTWSVYLDNVRVGDEAVLGEVGDAFIPLQNRFGVRRIELAAHCTGMAERLIQMMIDQANLRKTFGVALADRQTVQN
+WIADSTIELEQVRLQLYFTAWKSDQGHKDLRLEAASLKIAATEMLTRVADRAIQLHGGLGLSREMGIEYVARMVRIWR
+VVEGASEIHRMSIAKKLLT"
+        }
+      },
+      seq {
+        id {
+          local str "P71539"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">P71539"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 366,
+          seq-data ncbieaa "AVASWVANYGHEYYLDKARKHEHTSELWAEAGKLGFLGVNLPEEYGGGGA
+GMYELSLVMEEMAAAGSALLLMVVSPAINGTIIAKFGTDDQKKRWLPGIADGSLTMAFAITEPDAGSNSHKITTTARR
+DGSDWIIKGQKVFISGIDQAQAVLVVGRSEEAKTGKLRPALFVVPTDAPGFSYTPIEMELVSPERQFQVFLDDVRLPA
+DALVGAEDAAIAQLFAGLNPERIMGAASAVGMGRFALGRAVDYVKTRKVWSTPIGAHQGLAHPLAQCHIEVELAKLMT
+QKAATLYDHGDDFGAAEAANMAKYAAAEASSRAVDQAVQSMGGNGLTKEYGVAAMMTSARLARIAPISREMVLNFVAQ
+TSLG"
+        }
+      },
+      seq {
+        id {
+          local str "P79274"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">P79274"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 366,
+          seq-data ncbieaa "SVRKFFQEEVIPHHAEWEKAGEVSRELWEKAGKQGLLGINIAERHGGIGG
+DLYSAAIVWEEQAYSNCTGPGFSLHSDIVMPYIANYGSEEQIKHFIPQMTAGKCIGAIAMTEPGAGSDLQGVRTNAKK
+DGSDWILNGSKVFITNGWLSDVVIVVAVTNREARSPAHGISLFLVENGMKGFVKGRKLHKIGLKAQDTAELFFEDVRL
+PASALLGEENKGFYYLMQELPQERLLIAELAVSASEFMFEETRNYVKQRKAFGKTVAHIQTVQHKLAELKTHICVTRA
+FVDSCLQLHETKRLESAAASMAKYWASELQNSVAYDCVQLHGGWGYMWEYPIARAYVDARVQPIYGGTNEIMKELIAR
+EIVH"
+        }
+      },
+      seq {
+        id {
+          local str "P45954"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">P45954"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 364,
+          seq-data ncbieaa "SVKKFAQEQIAPLVSTMDENSKMEKSVIQGLFQQGLMGIEVDPEYGGTGA
+SFLSTVLVIEELAKVDASVAVFCEIQNTLINTLIRKHGTEEQKATYLPQLTTEKVGSFCLSEAGAGSDSFALKTRADK
+EGDYYVLNGSKMWISSAEHAGLFLVMANVDPTIGYKGITSFLVDRDTPGLHIGKPENKLGLRASSTCPLTFENVKVPE
+ANILGQIGHGYKYAIGSLNEGRIGIAAQMLGLAQGCFDYTIPYIKERIQFGKRLFDFQGLQHQVAHVATQLEAARLLT
+YNAARLLEAGKPFIKEASMAKYYASEIAGQTTSKCIEWMGGVGYTKDYPVEKYFRDAKIGTIYEGASNIQLNTIAKHI
+DA"
+        }
+      },
+      seq {
+        id {
+          local str "Q92947"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">Q92947"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 361,
+          seq-data ncbieaa "TFRTYCQERLMPRILLANRNEVFHREIISEMGELGVLGPTIKGYGCAGVS
+SVAYGLLARELERVDSGYRSAMSVQSSLVMHPIYAYGSEEQRQKYLPQLAKGELLGCFGLTEPNSGSDPSSMETRAHY
+NSSNKSYTLNGTKTWITNSPMADLFVVWARCEDGCIRGFLLEKGMRGLSAPRIQGKFSLRASATGMIIMDGVEVPEEN
+VLPGASSLGGPFGCLNNARYGIAWGVLGASEFCLHTARQYALDRMQFGVPLARNQLIQKKLADMLTEITLGLHACLQL
+GRLKDQDKAAPEMVSLLKRNNCGKALDIARQARDMLGGNGISDEYHVIRHAMNLEAVNTYEGTHDIHALILGRAITG"
+        }
+      },
+      seq {
+        id {
+          local str "Q9vsa3"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">Q9vsa3"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 367,
+          seq-data ncbieaa "LARKFTREEIIPVAAQYDKSGEYPWPIIKKAWELGLMNNHIPADIGGLDL
+DVFTTCLSAEELAYGCTGIMTALEASGLGQTPVILSGNKEQKKKYLGRLLEEPLVAAYCVTEPGAGSDVSGIKTRAEK
+KGDEWVINGQKMWITNGGVANWYFVLARTNPDPKCPPSKAFTGFIVERDSPGLTPGRKELNMGQRASDTRGITFEDVR
+VPKENVLIGEGAGFKIAMGTFDKTRPPVAAGAVGLAQRCLDEALKYALERKTFGVPIAYHQAVQFMLADMAIGVETSR
+LAWRLSAWEIDQGRRNSYYASIAKCHAADMANKIASDAVQIFGGNGFNSEYPVEKLMRDAKIYQIYEGTSQIQRLIIS
+RNMYE"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2062 @@
+Cdd ::= {
+  name "bbs12004",
+  id {
+    gid {
+      accession "acc_bbs12004",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1amk_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1amk_"
+              },
+              starts {
+                17,
+                17
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1amk_"
+              },
+              starts {
+                32,
+                31
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1amk_"
+              },
+              starts {
+                38,
+                33
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1amk_"
+              },
+              starts {
+                58,
+                51
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1amk_"
+              },
+              starts {
+                72,
+                64
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1amk_"
+              },
+              starts {
+                106,
+                98
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1amk_"
+              },
+              starts {
+                154,
+                146
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1amk_"
+              },
+              starts {
+                155,
+                147
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1amk_"
+              },
+              starts {
+                161,
+                153
+              },
+              len 85
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1amk_"
+              },
+              starts {
+                247,
+                238
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1lyx_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1lyx_A"
+              },
+              starts {
+                17,
+                17
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1lyx_A"
+              },
+              starts {
+                38,
+                34
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1lyx_A"
+              },
+              starts {
+                55,
+                50
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1lyx_A"
+              },
+              starts {
+                58,
+                51
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1lyx_A"
+              },
+              starts {
+                106,
+                99
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1lyx_A"
+              },
+              starts {
+                154,
+                147
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1lyx_A"
+              },
+              starts {
+                155,
+                148
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1lyx_A"
+              },
+              starts {
+                160,
+                151
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1lyx_A"
+              },
+              starts {
+                161,
+                152
+              },
+              len 85
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "1lyx_A"
+              },
+              starts {
+                247,
+                237
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_LATCH"
+              },
+              starts {
+                0,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_LATCH"
+              },
+              starts {
+                17,
+                17
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_LATCH"
+              },
+              starts {
+                32,
+                31
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_LATCH"
+              },
+              starts {
+                38,
+                33
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_LATCH"
+              },
+              starts {
+                59,
+                51
+              },
+              len 47
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_LATCH"
+              },
+              starts {
+                106,
+                98
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_LATCH"
+              },
+              starts {
+                154,
+                146
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_LATCH"
+              },
+              starts {
+                155,
+                147
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_LATCH"
+              },
+              starts {
+                160,
+                150
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_LATCH"
+              },
+              starts {
+                161,
+                151
+              },
+              len 85
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_LATCH"
+              },
+              starts {
+                247,
+                236
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_BACAA"
+              },
+              starts {
+                0,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_BACAA"
+              },
+              starts {
+                17,
+                17
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_BACAA"
+              },
+              starts {
+                38,
+                35
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_BACAA"
+              },
+              starts {
+                53,
+                47
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_BACAA"
+              },
+              starts {
+                58,
+                52
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_BACAA"
+              },
+              starts {
+                106,
+                100
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_BACAA"
+              },
+              starts {
+                154,
+                148
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_BACAA"
+              },
+              starts {
+                155,
+                149
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_BACAA"
+              },
+              starts {
+                161,
+                155
+              },
+              len 95
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI1_BRUME"
+              },
+              starts {
+                0,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI1_BRUME"
+              },
+              starts {
+                17,
+                17
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI1_BRUME"
+              },
+              starts {
+                36,
+                34
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI1_BRUME"
+              },
+              starts {
+                57,
+                51
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI1_BRUME"
+              },
+              starts {
+                58,
+                53
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI1_BRUME"
+              },
+              starts {
+                106,
+                101
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI1_BRUME"
+              },
+              starts {
+                154,
+                149
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI1_BRUME"
+              },
+              starts {
+                155,
+                150
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI1_BRUME"
+              },
+              starts {
+                163,
+                156
+              },
+              len 42
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI1_BRUME"
+              },
+              starts {
+                206,
+                198
+              },
+              len 50
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_CHLCV"
+              },
+              starts {
+                0,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_CHLCV"
+              },
+              starts {
+                17,
+                17
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_CHLCV"
+              },
+              starts {
+                38,
+                35
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_CHLCV"
+              },
+              starts {
+                58,
+                55
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_CHLCV"
+              },
+              starts {
+                106,
+                103
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_CHLCV"
+              },
+              starts {
+                154,
+                151
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_CHLCV"
+              },
+              starts {
+                155,
+                152
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_CHLCV"
+              },
+              starts {
+                163,
+                158
+              },
+              len 93
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_MYCGE"
+              },
+              starts {
+                0,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_MYCGE"
+              },
+              starts {
+                17,
+                17
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_MYCGE"
+              },
+              starts {
+                38,
+                33
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_MYCGE"
+              },
+              starts {
+                58,
+                50
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_MYCGE"
+              },
+              starts {
+                106,
+                98
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_MYCGE"
+              },
+              starts {
+                145,
+                132
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_MYCGE"
+              },
+              starts {
+                154,
+                141
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_MYCGE"
+              },
+              starts {
+                155,
+                142
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_MYCGE"
+              },
+              starts {
+                161,
+                148
+              },
+              len 95
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_RHIET"
+              },
+              starts {
+                10,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_RHIET"
+              },
+              starts {
+                17,
+                7
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_RHIET"
+              },
+              starts {
+                58,
+                49
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_RHIET"
+              },
+              starts {
+                106,
+                97
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_RHIET"
+              },
+              starts {
+                155,
+                145
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_RHIET"
+              },
+              starts {
+                161,
+                152
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_RHIET"
+              },
+              starts {
+                208,
+                197
+              },
+              len 29
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_FRATU"
+              },
+              starts {
+                10,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_FRATU"
+              },
+              starts {
+                17,
+                7
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_FRATU"
+              },
+              starts {
+                38,
+                24
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_FRATU"
+              },
+              starts {
+                57,
+                39
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_FRATU"
+              },
+              starts {
+                58,
+                41
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_FRATU"
+              },
+              starts {
+                106,
+                89
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_FRATU"
+              },
+              starts {
+                154,
+                137
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_FRATU"
+              },
+              starts {
+                155,
+                138
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_FRATU"
+              },
+              starts {
+                161,
+                144
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_FRATU"
+              },
+              starts {
+                206,
+                188
+              },
+              len 31
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_RHILO"
+              },
+              starts {
+                0,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_RHILO"
+              },
+              starts {
+                17,
+                17
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_RHILO"
+              },
+              starts {
+                38,
+                35
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_RHILO"
+              },
+              starts {
+                55,
+                50
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_RHILO"
+              },
+              starts {
+                58,
+                53
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_RHILO"
+              },
+              starts {
+                106,
+                101
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_RHILO"
+              },
+              starts {
+                154,
+                149
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_RHILO"
+              },
+              starts {
+                155,
+                150
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_RHILO"
+              },
+              starts {
+                161,
+                157
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_RHILO"
+              },
+              starts {
+                205,
+                198
+              },
+              len 51
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_WOLSU"
+              },
+              starts {
+                2,
+                0
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_WOLSU"
+              },
+              starts {
+                17,
+                15
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_WOLSU"
+              },
+              starts {
+                38,
+                33
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_WOLSU"
+              },
+              starts {
+                58,
+                48
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_WOLSU"
+              },
+              starts {
+                106,
+                96
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_WOLSU"
+              },
+              starts {
+                148,
+                137
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_WOLSU"
+              },
+              starts {
+                154,
+                146
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_WOLSU"
+              },
+              starts {
+                160,
+                147
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_WOLSU"
+              },
+              starts {
+                161,
+                148
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_WOLSU"
+              },
+              starts {
+                208,
+                185
+              },
+              len 47
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_LISIN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_LISIN"
+              },
+              starts {
+                17,
+                18
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_LISIN"
+              },
+              starts {
+                36,
+                33
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_LISIN"
+              },
+              starts {
+                58,
+                53
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_LISIN"
+              },
+              starts {
+                106,
+                101
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_LISIN"
+              },
+              starts {
+                154,
+                149
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_LISIN"
+              },
+              starts {
+                155,
+                150
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_LISIN"
+              },
+              starts {
+                161,
+                156
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPI2_LISIN"
+              },
+              starts {
+                208,
+                201
+              },
+              len 48
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_UREPA"
+              },
+              starts {
+                1,
+                0
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_UREPA"
+              },
+              starts {
+                17,
+                16
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_UREPA"
+              },
+              starts {
+                36,
+                29
+              },
+              len 20
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_UREPA"
+              },
+              starts {
+                58,
+                49
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_UREPA"
+              },
+              starts {
+                106,
+                97
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_UREPA"
+              },
+              starts {
+                110,
+                99
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_UREPA"
+              },
+              starts {
+                154,
+                146
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_UREPA"
+              },
+              starts {
+                161,
+                147
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_UREPA"
+              },
+              starts {
+                206,
+                188
+              },
+              len 50
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_TROW8"
+              },
+              starts {
+                0,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_TROW8"
+              },
+              starts {
+                17,
+                17
+              },
+              len 41
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_TROW8"
+              },
+              starts {
+                58,
+                58
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_TROW8"
+              },
+              starts {
+                106,
+                119
+              },
+              len 48
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_TROW8"
+              },
+              starts {
+                154,
+                170
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_TROW8"
+              },
+              starts {
+                155,
+                184
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_TROW8"
+              },
+              starts {
+                161,
+                190
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "TPIS_BIFLO",
+                local str "TPIS_TROW8"
+              },
+              starts {
+                208,
+                227
+              },
+              len 48
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1amk_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1amk_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 247,
+          seq-data ncbieaa "PQPIAAANWKCNGTTASIEKLVQVFNEHTISHDVQCVVAPTFVHIPLVQA
+KLRNPKYVISAENAIAKSGAFTGEVSMPILKDIGVHWVILGHSERRTYYGETDEIVAQKVSEACKQGFMVIACIGETL
+QQREANQTAKVVLSQTSAIAAKLTKDAWNQVVLAYEPVWAIGTGKVATPEQAQEVHLLLRKWVSENIGTDVAAKLRIL
+YGGSVNAANAATLYAKPDINGFLVGGASLKPEFRDIIDATR"
+        }
+      },
+      seq {
+        id {
+          local str "1lyx_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1lyx_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 246,
+          seq-data ncbieaa "RKYFVAANWKCNGTLESIKSLTNSFNNLDFDPSKLDVVVFPVSVHYDHTR
+KLLQSKFSTGIQNVSKFGNGSYTGEVSAEIAKDLNIEYVIIGHFERRKYFHETDEDVREKLQASLKNNLKAVVCFGES
+LEQREQNKTIEVITKQVKAFVDLIDNFDNVILVYEPLWAIGTGKTATPEQAQLVHKEIRKIVKDTCGEKQANQIRILY
+GGSVNTENCSSLIQQEDIDGFLVGNASLKESFVDIIKSAM"
+        }
+      },
+      seq {
+        id {
+          local str "TPIS_LATCH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPIS_LATCH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 245,
+          seq-data ncbieaa "RKFFVGGNWKMNGDKKSLGELIQTLNAAKVPFTGEIVCAPPEAYLDFARL
+KVDPKFGVAAQNCYKVSKGAFTGEISPAMIKDCGVTWVILGHSERRHVFGESDELIGQKVSHALSEGLGVVACIGEKL
+DEREAGITEGVVFEVTEVIADDVKDWSKVVLAYEPVWAIGTGKTASPQQSQELHGKLRKWLKENVSETVADSVRIIYG
+GSVTGATCKELASEPDVDGFLVGGASLKPEFVEYKDVRQ"
+        }
+      },
+      seq {
+        id {
+          local str "TPIS_BACAA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPIS_BACAA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 250,
+          seq-data ncbieaa "RKPIIAGNWKMNKTLSEAVSFVEEVKGQIPAASAVDAVVCSPALFLERLV
+AATEGTDLQVGAQNMHFEKNGAFTGEISPVALSDLKVGYVVLGHSERREMFAETDESVNKKTIAAFEHGLTPIVCCGE
+TLEERESGKTFDLVAGQVTKALAGLTEEQVKATVIAYEPIWAIGTGKSSSSADANEVCAHIRKVVAEVVSPAAAEAVR
+IQYGGSVKPENIKEYMAQSDIDGALVGGASLEPASFLGLLGAVK"
+        }
+      },
+      seq {
+        id {
+          local str "TPIS_BIFLO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPIS_BIFLO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 256,
+          seq-data ncbieaa "RIPLVAGNWKMNFDHLEATYFVQKLVWLLRDAHFDFKRCEVALFPSFTSL
+RSVQVLVEADKLHVAYGAQSVSVTTQGAFTGDVSADMIAHLGCSYVIVGHSERRKYHPEDDANIVDQVRAVLAAGMQP
+ILCVGESFEERRQGIELDFAVGQVRDVTRDLNEEQAAKLIVAYEPVWAIGTGMVATPQSAQDAANAIRNDLKTTFGTK
+VSDSVRILYGGSVTSKNAAELISQPDVDGFLIGGAALDVEELAKIARLAL"
+        }
+      },
+      seq {
+        id {
+          local str "TPI1_BRUME"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPI1_BRUME"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 248,
+          seq-data ncbieaa "IRPLVAGNWKMNGKGESLTELRAIAAGLSSDLGRKLDAVICVPATLLSRA
+AETLEGETVGLGGQDAHFKTSGAHTGDISPEMLKEAGATHVILGHSERRTDHHESNKLICAKTEAAWAAGLVAIVCVG
+ETASERKAERALDVIGDQLSGSLPDGVTAENTIIAYEPIWAIGTGLTPTVQDVRAAHAFMREQLIERFGAKGAHLRLL
+YGGSVKPSNAAELLGVADVDGALVGGASLKAADFLAICETYR"
+        }
+      },
+      seq {
+        id {
+          local str "TPIS_CHLCV"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPIS_CHLCV"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 251,
+          seq-data ncbieaa "RKSYVFGNWKMHKTAKEAKDFLSIFCPFVKEISPASLVGIAPAFTTLSAC
+CESIKEMDSSIWLGAQNVHQDSSGAFTGEVSLPMLQEFHVNFVLLGHSECRHIFHEEDATIALKVGAAARSGVVPVLC
+IGETLEARENGTTKEVLSNQLMLGLAQLPETAPVIIAYEPVWAIGTGKVASTADVQEVHAFCREVLSRIFSKEKSEII
+SILYGGSVKADNAEGFARCPDVDGLLVGGASLDPQGFANVLRNFN"
+        }
+      },
+      seq {
+        id {
+          local str "TPIS_MYCGE"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPIS_MYCGE"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 243,
+          seq-data ncbieaa "RTRYLIGNWKTNKNLKDAVSFVEQFQQNKLNYNAKIGIAPVYVHLTEIKK
+IISDSLLLFAQDANFIESGSYTGTVSFTQLQDIGVNNSIIGHSERRKYYNETSAVINQKLFACLKASMQVVLCIGEAL
+GQEISFLKTDLTNCLDTIDKSLIKNLVIAYEPLWAIGTGKTATPEVANQTIKTIREYINDLYDENVANNISILYGGSV
+DHNNIQKLAIMEQIDGFLVGKASLEIKNFLEMARVYA"
+        }
+      },
+      seq {
+        id {
+          local str "TPIS_RHIET"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPIS_RHIET"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 226,
+          seq-data ncbieaa "MNPMQADAKQLLQEFKQLLQENEITEEKCNIGLAPVTLALTSTQAELANA
+ARSVFTVAQDVSRFGNMGAYTGEVSAELLKDSQIEYVLIGHSERREYFAESAAILNAKAQNALNAGLKVIYCVGESLE
+QRESGQAEVVVLQQICDLASVVTAEQWPHIVIAYEPIWAIGTGKTASPEDAQTMHAKIREGLTQITSHGANMAILYGG
+SVKAENAVELAACPDINGAL"
+        }
+      },
+      seq {
+        id {
+          local str "TPIS_FRATU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPIS_FRATU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 219,
+          seq-data ncbieaa "MNGNSTSIKELCSGISQVQYDTSRVAIAVFPSSVYVKEVISQLPEKVGVG
+LQNITFYDDGAYTGEISARMLEDIGCDYLLIGHSERRSLFAESDEDVFKKLNKIIDTTITPVVCIGESLDDRKSGKLK
+QVLATQLSLILENLSVEQLAKVVIAYEPVWAIGTGVVASLEQIQETHQFIRSLLAKVDERLAKNIKIVYGGSLKAENA
+KDILSLPDVDGGL"
+        }
+      },
+      seq {
+        id {
+          local str "TPI2_RHILO"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPI2_RHILO"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 249,
+          seq-data ncbieaa "VVYWVGTSWKMNKTLAEALDFAERLAGFIPGFDDRIQPFVIPPFTAVREV
+KRALSSTRIKVGAQNMHWADAGAWTGEISPPMLRDCGLDLVELGHSERREHFGETDRTVGLKTAAAVKHGMIPLICVG
+ETLAERESGQADAVLSAQVEGALQFLEGEAKTAKILFAYEPVWAIGDKGIPASADYADKQQALIKTVAGALLPSVPPV
+LYGGSVNPGNAAELVGQPNIDGLFIGRSAWQADGYIDILGRAS"
+        }
+      },
+      seq {
+        id {
+          local str "TPIS_WOLSU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPIS_WOLSU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 232,
+          seq-data ncbieaa "MILAANFKTNHTRKSTRHYLERLSNFLFETSCEHDIFLFPPPLALDFFDD
+IGGVCIGTQNAYPAPSGAFTGEVGSEQLEELAIQTILIGHSERRGILGESQAFCAEKFRYYASLGYTIFYCIGESLEV
+RRAGIEATIRHNLSQLEGIDLSYPKLIIAYEPIWAIGTGVSASLEQIQETHAALKAHLSCPLLYGGSVNLSNIAEILA
+LPEVDGALIGSASLKVEDFCQMIQKI"
+        }
+      },
+      seq {
+        id {
+          local str "TPI2_LISIN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPI2_LISIN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 249,
+          seq-data ncbieaa "RKPLVGINMKNYINTRAQTSEWLEATIPLLENFSDVDTFIFPSMGTLETT
+ANLLAGTSFGFGPQNMAPEKSGPLTGEFSVESIIDLNANYVEIGHAERKNLFHEKTSEIAKKIKLALDEKITPVVCVG
+EEVHANDTNELKNALKKQIEALFQTINLAQWENVVLAYEPEWAIGKASSAETNYIESAHQALREIIRELGGDETLVRI
+IYGGSVSKENAAEIVRQKNVDGLFVGRFGHKPQNFADIVSIVS"
+        }
+      },
+      seq {
+        id {
+          local str "TPIS_UREPA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPIS_UREPA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 238,
+          seq-data ncbieaa "MKYIIANFKMNATQELINHFLNNLTLFDEQKIIIGLAPGDLYLKTFVNLA
+EIKKVNLYAQNPSLHNKGPYTGQISCLQLLDINIKNALVGHSEIRIDFSQSIIDQKIKISMDLLEQVIICVGETFDAY
+KQNKSLNFVLNQLANIINYKGLKKIIIAYEPIWAIGTDLELDFKHINYMIEGIKTYLYNCTGINIPILYGGSVNDNNI
+NELCNQKLIDGFLIGNASLDVNVFNKIIDKCK"
+        }
+      },
+      seq {
+        id {
+          local str "TPIS_TROW8"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TPIS_TROW8"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 275,
+          seq-data ncbieaa "EKKIIAGNWKMNINHSQAVSYLQELNWRLIDNGHDFDACEIAVFPPFTDL
+RSVQTLVASDDIQISYGAQDVSAFSDGAHTGQISAQFLKDLDCKYVLIGHSEQRCLPCYPGNNSAINELNNKHDGLIA
+NKLLRSFAAGICPILCIGDISPGDHFDATLSRFRSVLSHLKAISDKKHSIGYALGSKTHFLDSDQLHMLVAYEPSSAI
+NSGNCANSGDIVRMAAAIKDIVNVRVLYGGGVNLFNASAVFNEDLLDGILVGRASLNASDFASLIKTCC"
+        }
+      }
+    }
+  }
+}

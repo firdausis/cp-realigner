@@ -1,0 +1,3506 @@
+Cdd ::= {
+  name "bb20020",
+  id {
+    gid {
+      accession "acc_bb20020",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                4,
+                2
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                30,
+                27
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                33,
+                30
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                44,
+                41
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                45,
+                43
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                85,
+                78
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                98,
+                89
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                108,
+                97
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                129,
+                118
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                133,
+                121
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                156,
+                143
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                159,
+                144
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                190,
+                175
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                217,
+                204
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                243,
+                232
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1mrj_"
+              },
+              starts {
+                254,
+                243
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                0,
+                5
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                33,
+                38
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                44,
+                51
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                45,
+                53
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                85,
+                88
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                96,
+                99
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                108,
+                109
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                129,
+                130
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                133,
+                133
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                157,
+                159
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                190,
+                194
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                217,
+                221
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                239,
+                242
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                243,
+                248
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                247,
+                251
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apg_A"
+              },
+              starts {
+                254,
+                258
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                0,
+                1
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                31,
+                31
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                33,
+                33
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                44,
+                47
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                45,
+                49
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                85,
+                84
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                98,
+                94
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                108,
+                102
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                111,
+                104
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                129,
+                122
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                131,
+                123
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                133,
+                124
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                153,
+                141
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                157,
+                147
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                190,
+                182
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                217,
+                209
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                239,
+                230
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                243,
+                236
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                247,
+                239
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "MLA1_VISAL"
+              },
+              starts {
+                254,
+                246
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                0,
+                1
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                32,
+                31
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                33,
+                32
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                44,
+                45
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                45,
+                47
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                85,
+                82
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                98,
+                92
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                108,
+                100
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                111,
+                102
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                129,
+                120
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                133,
+                123
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                153,
+                140
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                157,
+                146
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                190,
+                181
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                217,
+                208
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                243,
+                236
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                247,
+                239
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1abr_A"
+              },
+              starts {
+                254,
+                246
+              },
+              len 5
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                0,
+                1
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                32,
+                31
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                33,
+                32
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                44,
+                45
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                45,
+                47
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                85,
+                82
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                98,
+                92
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                108,
+                100
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                111,
+                102
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                129,
+                120
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                133,
+                123
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                153,
+                140
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                158,
+                146
+              },
+              len 32
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                190,
+                180
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                217,
+                207
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                243,
+                235
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                247,
+                238
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "ABRB_ABRPR"
+              },
+              starts {
+                254,
+                245
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                0,
+                20
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                33,
+                53
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                44,
+                64
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                45,
+                66
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                85,
+                101
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                99,
+                112
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                108,
+                119
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                111,
+                121
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                129,
+                139
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                159,
+                167
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                190,
+                198
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                217,
+                227
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                243,
+                255
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                248,
+                259
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_BRYDI"
+              },
+              starts {
+                254,
+                265
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                0,
+                23
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                4,
+                25
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                30,
+                50
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                33,
+                53
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                44,
+                64
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                45,
+                66
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                85,
+                101
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                99,
+                112
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                108,
+                119
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                111,
+                121
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                129,
+                139
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                133,
+                142
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                156,
+                164
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                159,
+                165
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                190,
+                196
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                217,
+                225
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                243,
+                253
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP2_MOMBA"
+              },
+              starts {
+                254,
+                264
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                0,
+                19
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                4,
+                21
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                30,
+                46
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                33,
+                49
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                44,
+                60
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                45,
+                62
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                85,
+                97
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                99,
+                108
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                108,
+                115
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                111,
+                117
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                129,
+                135
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                133,
+                138
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                156,
+                160
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                159,
+                161
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                190,
+                192
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                217,
+                222
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                243,
+                250
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_TRIAN"
+              },
+              starts {
+                254,
+                261
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                0,
+                20
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                4,
+                22
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                30,
+                47
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                33,
+                50
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                44,
+                61
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                45,
+                63
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                85,
+                98
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                98,
+                109
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                108,
+                117
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                111,
+                119
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                129,
+                137
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                133,
+                140
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                156,
+                162
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                159,
+                163
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                190,
+                194
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                217,
+                223
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                243,
+                251
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPA_LUFCY"
+              },
+              starts {
+                254,
+                262
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                0,
+                23
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                4,
+                25
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                30,
+                50
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                33,
+                53
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                44,
+                64
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                45,
+                66
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                85,
+                101
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                98,
+                112
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                108,
+                120
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                129,
+                141
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                133,
+                144
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                156,
+                166
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                159,
+                167
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                190,
+                198
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                217,
+                227
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                243,
+                255
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_MOMCH"
+              },
+              starts {
+                254,
+                266
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                0,
+                24
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                30,
+                53
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                33,
+                56
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                44,
+                67
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                45,
+                69
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                85,
+                104
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                98,
+                115
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                108,
+                123
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                111,
+                125
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                129,
+                143
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                133,
+                146
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                156,
+                168
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                159,
+                169
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                190,
+                200
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                217,
+                229
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                243,
+                257
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIP1_CUCFI"
+              },
+              starts {
+                254,
+                268
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                0,
+                47
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                30,
+                76
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                33,
+                79
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                44,
+                91
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                45,
+                93
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                85,
+                128
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                99,
+                139
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                108,
+                146
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                111,
+                148
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                129,
+                166
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                132,
+                167
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                157,
+                194
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                190,
+                227
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                217,
+                255
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                243,
+                281
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "RIPG_GELMU"
+              },
+              starts {
+                254,
+                292
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                33,
+                33
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                44,
+                44
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                45,
+                46
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                55,
+                55
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                95,
+                93
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                129,
+                131
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                154,
+                155
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                157,
+                158
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                190,
+                191
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                217,
+                219
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                238,
+                235
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                244,
+                239
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1qi7_A"
+              },
+              starts {
+                254,
+                249
+              },
+              len 4
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                33,
+                33
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                44,
+                44
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                45,
+                45
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                95,
+                96
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                129,
+                130
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                132,
+                132
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                157,
+                157
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                190,
+                190
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                217,
+                217
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                243,
+                243
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1apa_"
+              },
+              starts {
+                254,
+                254
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                3,
+                0
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                33,
+                32
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                45,
+                46
+              },
+              len 35
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                85,
+                81
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                99,
+                90
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                108,
+                97
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                111,
+                99
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                129,
+                117
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                133,
+                120
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                155,
+                141
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                157,
+                145
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                191,
+                178
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                217,
+                206
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                243,
+                222
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "RIPS_PHYAM",
+                local str "1dm0_A"
+              },
+              starts {
+                254,
+                234
+              },
+              len 7
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1mrj_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1mrj_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 247,
+          seq-data ncbieaa "DVSFRLSGATSSSYGVFISNLRKALPNERKLYDIPLLRSSLPGSQRYALI
+HLTNYADETISVAIDVTNVYIMGYRAGDTSYFFNEASATEAAKYVFKDAMRKVTLPYSGNYERLQTAAGKIRENIPLG
+LPALDSAITTLFYYNANSAASALMVLIQSTSEAARYKFIEQQIGKRVDKTFLPSLAIISLENSWSALSKQIQIASTNN
+GQFESPVVLINAQNQRVTITNVDAGVVTSNIALLLNRNNMA"
+        }
+      },
+      seq {
+        id {
+          local str "1apg_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1apg_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 267,
+          seq-data ncbieaa "IFPKQYPIINFTTAGATVQSYTNFIRAVRGRLTTGADVRHEIPVLPNRVG
+LPINQRFILVELSNHAELSVTLALDVTNAYVVGYRAGNSAYFFHPDNQEDAEAITHLFTDVQNRYTFAFGGNYDRLEQ
+LAGNLRENIELGNGPLEEAISALYYYSTGGTQLPTLARSFIICIQMISEAARFQYIEGEMRTRIRYNRRSAPDPSVIT
+LENSWGRLSTAIQESNQGAFASPIQLQRRNGSKFSVYDVSILIPIIALMVYRCAPPPSSQF"
+        }
+      },
+      seq {
+        id {
+          local str "MLA1_VISAL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">MLA1_VISAL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 254,
+          seq-data ncbieaa "YERLRLRVTHQTTGEEYFRFITLLRDYVSSGSFSNEIPLLRQSTIPVSDA
+QRFVLVELTNQGQDSVTAAIDVTNAYVVAYQAGDQSYFLRDAPRGAETHLFTGTTRSSLPFNGSYPDLERYAGHRDQI
+PLGIDQLIQSVTALRFPGGSTRTQARSILILIQMISEAARFNPILWRYRQYINSGASFLPDVYMLELETSWGQQSTQV
+QHSTDGVFNNPIRLAIPPGNFVTLTNVRDVIASLAIMLFVCGERPSSS"
+        }
+      },
+      seq {
+        id {
+          local str "1abr_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1abr_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 251,
+          seq-data ncbieaa "EDRPIKFSTEGATSQSYKQFIEALRERLRGGLIHDIPVLPDPTTLQERNR
+YITVELSNSDTESIEVGIDVTNAYVVAYRAGTQSYFLRDAPSSASDYLFTGTDQHSLPFYGTYGDLERWAHQSRQQIP
+LGLQALTHGISFFRSGGNDNEEKARTLIVIIQMVAEAARFRYISNRVRVSIQTGTAFQPDAAMISLENNWDNLSRGVQ
+ESVQDTFPNQVTLTNIRNEPVIVDSLSHPTVAVLALMLFVCNPPN"
+        }
+      },
+      seq {
+        id {
+          local str "ABRB_ABRPR"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">ABRB_ABRPR"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 527,
+          seq-data ncbieaa "QDQVIKFTTEGATSQSYKQFIEALRQRLTGGLIHGIPVLPDPTTLQERNR
+YISVELSNSDTESIEAGIDVSNAYVVAYRAGNRSYFLRDAPTSASRYLFTGTQQYSLRFNGSYIDLERLARQTRQQIP
+LGLQALRHAISFLQSGTDDQEIARTLIVIIQMASEAARYRFISYRVGVSIRTNTAFQPDAAMISLENNWDNLSGGVQQ
+SVQDTFPNAVTLRSVNNQPVIVDSLTHQSVAVLALMLFVCNPPNANQSPLLIRSIVEKSKICSSRYEPTVRIGGRNGM
+CVDVYDDGYHNGNRIIAWKCKDRLEENQLWTLKSDKTIRSNGKCLTTEGYAPGNYVMIYDCTSAVAEATYWEIWDNGT
+IINPKSALVLSAESSSMGGTLTVQTNEYLMRQGWRTGNNTSPFVTSISGYSDLCMQAQGSNVWLAYCDNNKKEQQWAL
+YTDGSIRSVQNTNNCLTSKDHKQGSPIVLMACSNGWASQRWLFRNDGSIYNLHDDMVMDVKRSDPSLKEIILHPYHGK
+PNQIWLTLF"
+        }
+      },
+      seq {
+        id {
+          local str "RIP2_BRYDI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">RIP2_BRYDI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 282,
+          seq-data ncbieaa "MRSIGFYSVLALYVGAHVTEDVDINFSLIGATGATYKTFIRNLRTKLTVG
+TPRVYDIPVLRNAAAGLARFQLVTLTNYNGESVTVALDVVNVYVVAYRAGNTAYFLADASTEANNVLFAGINHVRLPY
+GGNYDGLETAAGRISRENIELGFSEISSAIGNMFRHNPGTSVPRAFIVIIQTVSEAARFKYIEQRVSENVGTKFKPDP
+AFLSLQNAWGSLSEQIQIAQTRGGEFARPVELRTVSNTPTFVTNVNSPVVKGIALLLYFRVNVGTDNVFAMSLSTY"
+        }
+      },
+      seq {
+        id {
+          local str "RIP2_MOMBA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">RIP2_MOMBA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 286,
+          seq-data ncbieaa "MVKCLLLSFLIIAIFIGVPTAKGDVNFDLSTATAKTYTKFIEDFRATLPF
+SHKVYDIPLLYSTISDSRRFILLDLTSYAYETISVAIDVTNVYVVAYRTRDVSYFFKESPPEAYNILFKGTRKITLPY
+TGNYENLQTAAHKIRENIDLGLPALSSAITTLFYYNAQSAPSALLVLIQTTAEAARFKYIERHVAKYVATNFKPNLAI
+ISLENQWSALSKQIFLAQNQGGKFRNPVDLIKPTGERFQVTNVDSDVVKGNIKLLLNSRASTADENFITTMTLLGESV
+VN"
+        }
+      },
+      seq {
+        id {
+          local str "RIP1_TRIAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">RIP1_TRIAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 294,
+          seq-data ncbieaa "MALSFFFLAISLGSPTAIGDVSFDLSTATKKSYSSFITQLRDALPTQGTV
+CGIPLLPSTASGSQWFRFFNLTNYNDETVTVAVNVTNVYIVAYRADAVSYFFEDTPAEAFKLIFAGTKTVKLPYSGNY
+DKLQSVVGKQRDMIELGIPALSSAITNMVYYDYQSTAAALLVLIQCTAEAARYKYIEQQVSSHISSNFYPNQAVISLE
+NKWGALSKQIQIANRTGHGQFENPVELYNPDGTRFSVTNTSAGVVKGNIKLLLYYKASVGSEYDIPTTILHPGAMGML
+HNQNGNYVTM"
+        }
+      },
+      seq {
+        id {
+          local str "RIPA_LUFCY"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">RIPA_LUFCY"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 277,
+          seq-data ncbieaa "MKRFTVLILAIFVAASTVEADVRFSLSGSSSTSYSKFIGDLRKALPSNGT
+VYNITLLLSSASGASRYTLMTLSNYDGKAITVAVDVTNVYIMGYLVNSTSYFFNESDAKLASQYVFKGSTIVTLPYSG
+NYEKLQTAAGKIREKIPLGFPALDSAITTLFHYDSTAAAAAFLVIIQTTAEASRFKYIEGQIIERISKNQVPSLATIS
+LENEWSALSKQIQLAQTNNGTFKTPVVITDDKGQRVEITNVTSKVVTKNIQLLLNYKQNVAAFDEDVSAKH"
+        }
+      },
+      seq {
+        id {
+          local str "RIP1_MOMCH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">RIP1_MOMCH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 286,
+          seq-data ncbieaa "MSRFSVLSFLILAIFLGGSIVKGDVSFRLSGADPRSYGMFIKDLRNALPF
+REKVYNIPLLLPSVSGAGRYLLMHLFNYDGKTITVAVDVTNVYIMGYLADTTSYFFNEPAAELASQYVFRDARRKITL
+PYSGNYERLQIAAGKPREKIPIGLPALDSAISTLLHYDSTAAAGALLVLIQTTAEAARFKYIEQQIQERAYRDEVPSL
+ATISLENSWSGLSKQIQLAQGNNGIFRTPIVLVDNKGNRVQITNVTSKVVTSNIQLLLNTRNIAEGDNGDVSTTHGFS
+SY"
+        }
+      },
+      seq {
+        id {
+          local str "RIP1_CUCFI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">RIP1_CUCFI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 286,
+          seq-data ncbieaa "MNRFSVLMCLVILSIFHGVPTAEGDVTVKFSLLGSNHKSYSKFITSMRNA
+LPNAGDIYNIPLLVPSISGSRRYILMQLSNYEGNTITMAVDVTNVYIMGYLVNGTSYFFNETDAQLASKFVFQGTKSI
+TLPYSGNYQKLQSVARKERDSIPLGFMALDSAISTLYYYDSRSAPIAFLVLIQTTAEAARYKYIEKQIIDRISVSKVP
+DLAAISLENEWSLLSKQIQIAKSNNGQFQTPVKIINDKGILTEVTNVSSLVVTKNIMLLLNKLNIASFEDHVISTTMP
+QA"
+        }
+      },
+      seq {
+        id {
+          local str "RIPG_GELMU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">RIPG_GELMU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 316,
+          seq-data ncbieaa "MKGNMKVYWIKIAVATWFCCTTIVLGSTARIFSLPTNDEEETSKTLGLDT
+VSFSTKGATYITYVNFLNELRVKLKPEGNSHGIPLLRKKCDDPGKCFVLVALSNDNGQLAEIAIDVTSVYVVGYQVRN
+RSYFFKDAPDAAYEGLFKNTIKTRLHFGGSYPSLEGEKAYRETTDLGIEPLRIGIKKLDENAIDNYKPTEIASSLLVV
+IQMVSEAARFTFIENQIRNNFQQRIRPANNTISLENKWGKLSFQIRTSGANGMFSEAVELERANGKKYYVTAVDQVKP
+KIALLKFVDKDPKTSLAAELIIQNYESLVGFD"
+        }
+      },
+      seq {
+        id {
+          local str "RIPS_PHYAM"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">RIPS_PHYAM"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 261,
+          seq-data ncbieaa "INTITFDAGNATINKYATFMESLRNEAKDPSLKCYGIPMLPNTNSTIKYL
+LVKLQGASLKTITLMLRRNNLYVMGYSDPYDNKCRYHIFNDIKGTEYSDVENTLCPSSNPRVAKPINYNGLYPTLEKK
+AGVTSRNEVQLGIQILSSDIGKISGQGSFTEKIEAKFLLVAIQMVSEAARFKYIENQVKTNFNRDFSPNDKVLDLEEN
+WGKISTAIHNSKNGALPKPLELKNADGTKWIVLRVDEIKPDVGLLNYVNGTCQAT"
+        }
+      },
+      seq {
+        id {
+          local str "1qi7_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1qi7_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 253,
+          seq-data ncbieaa "VTSITLDLVNPTAGQYSSFVDKIRNNVKDPNLKYGGTDIAVIGPPSKEKF
+LRINFQSSRGTVSLGLKRDNLYVVAYLAMDNTNVNRAYYFKSEITSAELTALFPEATTANQKALEYTEDYQSIEKNAQ
+ITQGDKSRKELGLGIDLLLTFMEAVNKKARVVKNEARFLLIAIQMTAEVARFRYIQNLVTKNFPNKFDSDNKVIQFEV
+SWRKISTAIYGDAKNGVFNKDYDFGFGKVRQVKDLQMGLLMYLGKPK"
+        }
+      },
+      seq {
+        id {
+          local str "1apa_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1apa_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 261,
+          seq-data ncbieaa "INTITFDVGNATINKYATFMKSIHNQAKDPTLKCYGIPMLPNTNLTPKYL
+LVTLQDSSLKTITLMLKRNNLYVMGYADTYNGKCRYHIFKDISNTTERNDVMTTLCPNPSSRVGKNINYDSSYPALEK
+KVGRPRSQVQLGIQILNSGIGKIYGVDSFTEKTEAEFLLVAIQMVSEAARFKYIENQVKTNFNRAFYPNAKVLNLEES
+WGKISTAIHNAKNGALTSPLELKNANGSKWIVLRVDDIEPDVGLLKYVNGTCQAT"
+        }
+      },
+      seq {
+        id {
+          local str "1dm0_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1dm0_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 264,
+          seq-data ncbieaa "KEFTLDFSTAKTYVDSLNVIRSAIGTPLQTISSGGTSLLMIDDNLFAVDV
+RGIDPEEGRFNNLRLIVERNNLYVTGFVNRTNNVFYRFADFSHVTFPGTTAVTLSGDSSYTTLQRVAGISRTGMQINR
+HSLTTSYLDLMSHSGTSLTQSVARAMLRFVTVTAEALRFRQIQRGFRTTLDSYVMTAEDVDLTLNWGRLSSVLPDYHG
+QDSVRVGRISFGSINAILGSVALILNCFPSMCPADGRVRGITHNKILWDSSTLGAILM"
+        }
+      }
+    }
+  }
+}

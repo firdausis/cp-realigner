@@ -1,0 +1,1255 @@
+Cdd ::= {
+  name "bb12042",
+  id {
+    gid {
+      accession "acc_bb12042",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                0,
+                23
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                13,
+                39
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                31,
+                53
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                44,
+                68
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                51,
+                76
+              },
+              len 56
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                107,
+                137
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                128,
+                155
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                141,
+                172
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                164,
+                181
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                214,
+                226
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                224,
+                236
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                235,
+                246
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                245,
+                255
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                269,
+                285
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                273,
+                290
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                302,
+                318
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                320,
+                337
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                326,
+                341
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                362,
+                377
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                377,
+                396
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                378,
+                399
+              },
+              len 59
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                439,
+                458
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                450,
+                470
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                471,
+                477
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                500,
+                505
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                511,
+                513
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                535,
+                533
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "PGMU_ECOLI"
+              },
+              starts {
+                537,
+                537
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                13,
+                2
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                26,
+                13
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                39,
+                22
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                49,
+                27
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                51,
+                29
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                81,
+                56
+              },
+              len 23
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                106,
+                79
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                107,
+                80
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                128,
+                98
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                141,
+                115
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                182,
+                131
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                210,
+                153
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                223,
+                169
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                237,
+                179
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                245,
+                186
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                269,
+                213
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                273,
+                218
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                323,
+                263
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                349,
+                285
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                362,
+                302
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                377,
+                317
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                378,
+                320
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                382,
+                323
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                420,
+                357
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                429,
+                365
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                463,
+                377
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                478,
+                387
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                500,
+                408
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                510,
+                415
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                520,
+                422
+              },
+              len 12
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                535,
+                435
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "YB00_METJA"
+              },
+              starts {
+                537,
+                439
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                6,
+                0
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                13,
+                10
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                26,
+                21
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                39,
+                30
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                44,
+                35
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                51,
+                42
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                81,
+                69
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                107,
+                95
+              },
+              len 18
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                128,
+                113
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                141,
+                129
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                156,
+                139
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                182,
+                140
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                210,
+                162
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                223,
+                178
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                237,
+                188
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                245,
+                195
+              },
+              len 24
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                270,
+                221
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                274,
+                225
+              },
+              len 44
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                323,
+                269
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                349,
+                291
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                362,
+                308
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                377,
+                323
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                378,
+                326
+              },
+              len 38
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                420,
+                364
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                463,
+                385
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                465,
+                386
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                478,
+                394
+              },
+              len 21
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                500,
+                415
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                510,
+                422
+              },
+              len 7
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                520,
+                429
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                535,
+                445
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1c47_A",
+                local str "1k2y_X"
+              },
+              starts {
+                537,
+                449
+              },
+              len 10
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1c47_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1c47_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 561,
+          seq-data ncbieaa "VKIVTVKTKAYPDQKPGTSGLRKRVKVFQSSTNYAENFIQSIISTVEPAQ
+RQEATLVVGGDGRFYMKEAIQLIVRIAAANGIGRLVIGQNGILSTPAVSCIIRKIKAIGGIILTASHNPGGPNGDFGI
+KFNISNGGPAPEAITDKIFQISKTIEEYAICPDLKVDLGVLGKQQFDLENKFKPFTVEIVDSVEAYATMLRNIFDFNA
+LKELLSGPNRLKIRIDAMHGVVGPYVKKILCEELGAPANSAVNCVPLEDFGGHHPDPNLTYAADLVETMKSGEHDFGA
+AFDGDGDRNMILGKHGFFVNPSDSVAVIAANIFSIPYFQQTGVRGFARSMPTSGALDRVANATKIALYETPTGWKFFG
+NLMDASKLSLCGEESFGTGSDHIREKDGLWAVLAWLSILATRKQSVEDILKDHWHKFGRNFFTRYDYEEVEAEGATKM
+MKDLEALMFDRSFVGKQFSANDKVYTVEKADNFEYHDPVDGSVSKNQGLRLIFADGSRIIFRLSGTGSAGATIRLYID
+SYEKDNAKINQDPQVMLAPLISIALKVSQLQERTGRTAPTVIT"
+        }
+      },
+      seq {
+        id {
+          local str "PGMU_ECOLI"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">PGMU_ECOLI"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 546,
+          seq-data ncbieaa "MAIHNRAGQPAQQSDLINVAQLTAQYYVLKPEAGNAEHAVKFGTSGHRGS
+AARHSFNEPHILAIAQAIAEERAKNGITGPCYVGKDTHALSEPAFISVLEVLAANGVDVIVQENNGFTPTPAVSNAIL
+VHNKKGGPLADGIVITPSHNPPEDGGIKYNPPNGGPADTNVTKVVEDRANALLADGLKGVKRISLDEAMASGHVKEQD
+LVQPFVEGLADIVDMAAIQKAGLTLGVDPLGGSGIEYWKRIGEYYNLNLTIVNDQVDQTFRFMHLDKDGAIRMDCSSE
+CAMAGLLALRDKFDLAFANDPDYDRHGIVTPAGLMNPNHYLAVAINYLFQHRPQWGKDVAVGKTLVSSAMIDRVVNDL
+GRKLVEVPVGFKWFVDGLFDGSFGFGGEESAGASFLRFDGTPWSTDKDGIIMCLLAAEITAVTGKNPQEHYNELAKRF
+GAPSYNRLQAAATSAQKAALSKLSPEMVSASTLAGDPITARLTAAPGNGASIGGLKVMTDNGWFAARPSGTEDAYKIY
+CESFLGEEHRKQIEKEAVEIVSEVLKNA"
+        }
+      },
+      seq {
+        id {
+          local str "YB00_METJA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">YB00_METJA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 448,
+          seq-data ncbieaa "MGRLFGTSGIRMKNLSPKIAYKVGLAVAKKYKKVVVGRDTRTTGKLIETA
+LTAGILNGGGEVTTINIVPTPVLGFNARNYDVGIMITASHNPPEYNGIKLFNKNGLAFNKKEEDEIEEIIFKEDFIEV
+EWHSVGEIWEDSRAIRNYMEHILKNVEINEKFNVVIDCANASACLVSPYLFTDLGCHVISVNSHMDGRFIGRLPEPDE
+KNLKKTMDMIKGLNMSGDNYIGIAHDGDADRMVAIDEKGRLADFDKLLAAFSRYMVEKTGNKKIVTTVDASMIIDEYL
+KDLDVEIIRTKVGDVAVAEEMIKNSAVFGGEPSGTWIHADIHLTPDGILSGLRVLEMLDFYNKKLYEILDEIPSYVNL
+REKIPCEDDKKEKVMSYVIENGESLFKTVPETVDGARFNLENGWVLIRPSGTEPYIRVRVEAKNNKDAKELLEKGIKL
+VKEALSAL"
+        }
+      },
+      seq {
+        id {
+          local str "1k2y_X"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1k2y_X"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 459,
+          seq-data ncbieaa "KAPTLPASIFRAYDIRGVVGDTLTAETAYWIGRAIGSESLARGEPCVAVG
+RDGRLSGPELVKQLIQGLVDCGCQVSDVGMVPTPVLYYAANVLEGKSGVMLTGAHNPPDYNGFKIVVAGETLANEQIQ
+ALRERIEKNDLASGVGSVEQVDILPRYFKQIRDDIAMAKPMKVVVDCGNGVAGVIAPQLIEALGCSVIPLYCEVDGNF
+PNHHPDPGKPENLKDLIAKVKAENADLGLAFDGDGDRVGVVTNTGTIIYPDRLLMLFAKDVVSRNPGADIIFDVKCTR
+RLIALISGYGGRPVMWKTGHSLIKKKMKETGALLAGEMSGHVFFKERWFGFDDGIYSAARLLEILSQDQRDSEHVFSA
+FPSDISTPEINITVTEDSKFAIIEALQRDAQWGEGNITTLDGVRVDYPKGWGLVRASNTTPVLVLRFEADTEEELERI
+KTVFRNQLKAVDSSLPVPF"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,213 @@
+Cdd ::= {
+  name "bb11001",
+  id {
+    gid {
+      accession "acc_bb11001",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1j46_A",
+                local str "1aab_"
+              },
+              starts {
+                0,
+                3
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1j46_A",
+                local str "1aab_"
+              },
+              starts {
+                19,
+                24
+              },
+              len 53
+            },
+            {
+              dim 2,
+              ids {
+                local str "1j46_A",
+                local str "1aab_"
+              },
+              starts {
+                74,
+                77
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1j46_A",
+                local str "1k99_A"
+              },
+              starts {
+                0,
+                6
+              },
+              len 19
+            },
+            {
+              dim 2,
+              ids {
+                local str "1j46_A",
+                local str "1k99_A"
+              },
+              starts {
+                19,
+                25
+              },
+              len 66
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1j46_A",
+                local str "2lef_A"
+              },
+              starts {
+                2,
+                0
+              },
+              len 17
+            },
+            {
+              dim 2,
+              ids {
+                local str "1j46_A",
+                local str "2lef_A"
+              },
+              starts {
+                19,
+                17
+              },
+              len 66
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1aab_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1aab_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 83,
+          seq-data ncbieaa "GKGDPKKPRGKMSSYAFFVQTSREEHKKKHPDASVNFSEFSKKCSERWKT
+MSAKEKGKFEDMAKADKARYEREMKTYIPPKGE"
+        }
+      },
+      seq {
+        id {
+          local str "1j46_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1j46_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 85,
+          seq-data ncbieaa "MQDRVKRPMNAFIVWSRDQRRKMALENPRMRNSEISKQLGYQWKMLTEAE
+KWPFFQEAQKLQAMHREKYPNYKYRPRRKAKMLPK"
+        }
+      },
+      seq {
+        id {
+          local str "1k99_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1k99_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 91,
+          seq-data ncbieaa "MKKLKKHPDFPKKPLTPYFRFFMEKRAKYAKLHPEMSNLDLTKILSKKYK
+ELPEKKKMKYIQDFQREKQEFERNLARFREDHPDLIQNAKK"
+        }
+      },
+      seq {
+        id {
+          local str "2lef_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">2lef_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 86,
+          seq-data ncbieaa "MHIKKPLNAFMLYMKEMRANVVAESTLKESAAINQILGRRWHALSREEQA
+KYYELARKERQLHMQLYPGWSARDNYGKKKKRKREK"
+        }
+      }
+    }
+  }
+}

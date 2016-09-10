@@ -1,0 +1,742 @@
+Cdd ::= {
+  name "bbs12032",
+  id {
+    gid {
+      accession "acc_bbs12032",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1cb9_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1cb9_A"
+              },
+              starts {
+                2,
+                2
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1cb9_A"
+              },
+              starts {
+                4,
+                4
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1cb9_A"
+              },
+              starts {
+                34,
+                30
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1cb9_A"
+              },
+              starts {
+                50,
+                45
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1fas_"
+              },
+              starts {
+                0,
+                3
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1fas_"
+              },
+              starts {
+                4,
+                7
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1fas_"
+              },
+              starts {
+                15,
+                16
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1fas_"
+              },
+              starts {
+                34,
+                31
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1fas_"
+              },
+              starts {
+                50,
+                45
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1drs_"
+              },
+              starts {
+                0,
+                3
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1drs_"
+              },
+              starts {
+                4,
+                7
+              },
+              len 9
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1drs_"
+              },
+              starts {
+                15,
+                16
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1drs_"
+              },
+              starts {
+                35,
+                30
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1drs_"
+              },
+              starts {
+                50,
+                43
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1cod_"
+              },
+              starts {
+                0,
+                3
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1cod_"
+              },
+              starts {
+                3,
+                4
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1cod_"
+              },
+              starts {
+                4,
+                7
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1cod_"
+              },
+              starts {
+                34,
+                33
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "1cod_"
+              },
+              starts {
+                50,
+                46
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "NXL3_OPHHA"
+              },
+              starts {
+                0,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "NXL3_OPHHA"
+              },
+              starts {
+                2,
+                2
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "NXL3_OPHHA"
+              },
+              starts {
+                4,
+                4
+              },
+              len 45
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "NXL3_OPHHA"
+              },
+              starts {
+                50,
+                49
+              },
+              len 15
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "CADO_BUNCA"
+              },
+              starts {
+                0,
+                3
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "CADO_BUNCA"
+              },
+              starts {
+                2,
+                5
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "CADO_BUNCA"
+              },
+              starts {
+                4,
+                9
+              },
+              len 26
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "CADO_BUNCA"
+              },
+              starts {
+                34,
+                35
+              },
+              len 31
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "NXSH_BUNMU"
+              },
+              starts {
+                0,
+                3
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "NXSH_BUNMU"
+              },
+              starts {
+                2,
+                6
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "NXSH_BUNMU"
+              },
+              starts {
+                4,
+                8
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "NXSH_BUNMU"
+              },
+              starts {
+                18,
+                21
+              },
+              len 13
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "NXSH_BUNMU"
+              },
+              starts {
+                34,
+                34
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "NXSH_BUNMU"
+              },
+              starts {
+                53,
+                49
+              },
+              len 12
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "TXM2_NAJKA"
+              },
+              starts {
+                0,
+                3
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "TXM2_NAJKA"
+              },
+              starts {
+                2,
+                5
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "TXM2_NAJKA"
+              },
+              starts {
+                4,
+                7
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "TXM2_NAJKA"
+              },
+              starts {
+                34,
+                34
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "1kba_A",
+                local str "TXM2_NAJKA"
+              },
+              starts {
+                50,
+                49
+              },
+              len 15
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1cb9_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1cb9_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 60,
+          seq-data ncbieaa "LKCKKLVPLFSKTCPAGKNLCYKMFMVAAPHVPVKRGCIDVCPKSSLLVK
+YVCCNTDKCN"
+        }
+      },
+      seq {
+        id {
+          local str "1kba_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1kba_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 65,
+          seq-data ncbieaa "RTCLISPSSTPQTCPNGQDICFLKAQCDKFCSIRGPVIEQGCVATCPQFR
+SNYRSLLCCTTDNCN"
+        }
+      },
+      seq {
+        id {
+          local str "1fas_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1fas_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 60,
+          seq-data ncbieaa "TMCYSHTTTSRAILTNCGENSCYRKSRRHPPKMVLGRGCGCPPGDDYLEV
+KCCTSPDKCN"
+        }
+      },
+      seq {
+        id {
+          local str "1drs_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1drs_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 58,
+          seq-data ncbieaa "RICYNHLGTKPPTTETCQEDSCYKNIWTFDNIIRRGCGCFTPRGDMPGPY
+CCESDKCN"
+        }
+      },
+      seq {
+        id {
+          local str "1cod_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1cod_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 61,
+          seq-data ncbieaa "LECHNQQSSQTPTTTGCSGGETNCYKKRWRDHRGYRTERGCGCPSVKNGI
+EINCCTTDRCN"
+        }
+      },
+      seq {
+        id {
+          local str "NXL3_OPHHA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">NXL3_OPHHA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 64,
+          seq-data ncbieaa "TKCYVTPDVKSETCPAGQDLCYTETWCVAWCTVRGKRVSLTCAAICPIVP
+PKVSIKCCSTDACG"
+        }
+      },
+      seq {
+        id {
+          local str "CADO_BUNCA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">CADO_BUNCA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 66,
+          seq-data ncbieaa "MKCKICNFDTCRAGELKVCASGEKYCFKESWREARGTRIERGCAATCPKG
+SVYGLYVLCCTTDDCN"
+        }
+      },
+      seq {
+        id {
+          local str "NXSH_BUNMU"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">NXSH_BUNMU"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 61,
+          seq-data ncbieaa "IICRTRDTYQIPITFTNCEEGHVCYKYSTTETPNRILIHRGCAAKCPKRL
+RVICCSTDKCN"
+        }
+      },
+      seq {
+        id {
+          local str "TXM2_NAJKA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TXM2_NAJKA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 64,
+          seq-data ncbieaa "LTCVKEKSIFGVTTEDCPDGQNLCFKRWHMIVPGRYKKTRGCAATCPIAE
+NRDVIECCSTDKCN"
+        }
+      }
+    }
+  }
+}

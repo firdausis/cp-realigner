@@ -1,0 +1,547 @@
+Cdd ::= {
+  name "bbs12030",
+  id {
+    gid {
+      accession "acc_bbs12030",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "1d0e_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 50
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "1d0e_A"
+              },
+              starts {
+                52,
+                50
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "1d0e_A"
+              },
+              starts {
+                92,
+                87
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "1d0e_A"
+              },
+              starts {
+                100,
+                100
+              },
+              len 37
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "1d0e_A"
+              },
+              starts {
+                138,
+                137
+              },
+              len 57
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "1d0e_A"
+              },
+              starts {
+                196,
+                194
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "1d0e_A"
+              },
+              starts {
+                223,
+                222
+              },
+              len 16
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_CAEVC"
+              },
+              starts {
+                0,
+                1
+              },
+              len 66
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_CAEVC"
+              },
+              starts {
+                67,
+                67
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_CAEVC"
+              },
+              starts {
+                100,
+                100
+              },
+              len 123
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_CAEVC"
+              },
+              starts {
+                223,
+                223
+              },
+              len 16
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_BIV06"
+              },
+              starts {
+                2,
+                0
+              },
+              len 98
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_BIV06"
+              },
+              starts {
+                100,
+                98
+              },
+              len 94
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_BIV06"
+              },
+              starts {
+                196,
+                192
+              },
+              len 27
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_BIV06"
+              },
+              starts {
+                223,
+                219
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_BIV06"
+              },
+              starts {
+                225,
+                220
+              },
+              len 14
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_MPMV"
+              },
+              starts {
+                1,
+                0
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_MPMV"
+              },
+              starts {
+                16,
+                14
+              },
+              len 34
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_MPMV"
+              },
+              starts {
+                52,
+                48
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_MPMV"
+              },
+              starts {
+                67,
+                62
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_MPMV"
+              },
+              starts {
+                100,
+                95
+              },
+              len 94
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_MPMV"
+              },
+              starts {
+                195,
+                189
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_MPMV"
+              },
+              starts {
+                223,
+                217
+              },
+              len 16
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_RSVP"
+              },
+              starts {
+                1,
+                0
+              },
+              len 49
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_RSVP"
+              },
+              starts {
+                52,
+                49
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_RSVP"
+              },
+              starts {
+                67,
+                63
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_RSVP"
+              },
+              starts {
+                100,
+                96
+              },
+              len 94
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_RSVP"
+              },
+              starts {
+                195,
+                190
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "1bqm_A",
+                local str "POL_RSVP"
+              },
+              starts {
+                223,
+                218
+              },
+              len 16
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1d0e_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1d0e_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 238,
+          seq-data ncbieaa "LAVRQAPLIIPLKATSTPVSIKQYPMSQEARLGIKPHIQRLLDQGILVPC
+QSPWNTPLLPVKKPGTNDYRPVQDLREVNKRVEDIHPTVPNPYNLLSGLPPSHQWYTVLDLKDAFFCLRLHPTSQPLF
+AFEWRDPEMGISGQLTWTRLPQGFKNSPTLFDEALHRDLADFRIQHPDLILLQYVDDLLLAATSELDCQQGTRALLQT
+LGNLGYRASAKKAQICQKQVKYLGYLLKEGQR"
+        }
+      },
+      seq {
+        id {
+          local str "1bqm_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1bqm_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 239,
+          seq-data ncbieaa "PISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTEMEKEGKISKI
+GPENPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIPHPAGLKKKKSVTVLDVGDAYFSVPLDEDFRKYT
+AFTIPSINNETPGIRYQYNVLPQGWKGSPAIFQSSMTKILEPFKKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELR
+QHLLRWGLTTPDKKHQKEPPFLWMGYELHPDKW"
+        }
+      },
+      seq {
+        id {
+          local str "POL_CAEVC"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POL_CAEVC"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 239,
+          seq-data ncbieaa "LEEKRIPITKVKLKEGCTGPHVPQWPLTEEKLKGLTEIIDKLVEEGKLGK
+APPHWTCNTPIFCIKKKSGKWRMLIDFRELNKQTEDLTEAQLGLPHPGGLQKKKHVTILDIGDAYFTIPLYEPYREYT
+CFTLLSPNNLGPCKRYYWKVLPQGWKLSPSVYQFTMQEILEDWIQQHPEIQFGIYMDDIYIGSDLEIKKHREIVKDLA
+NYIAQYGFTLPEEKRQKGYPAKWLGFELHPQTW"
+        }
+      },
+      seq {
+        id {
+          local str "POL_BIV06"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POL_BIV06"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 234,
+          seq-data ncbieaa "HTEKIEPLPVKVRGPGPKVPQWPLTKEKYQALKEIVKDLLAEGKISEAAW
+DNPYNTPVFVIKKKGTGRWRMLMDFRELNKITVKGQEFSTGLPYPPGIKECEHLTAIDIKDAYFTIPLHEDFRPFTAF
+SVVPVNREGPIERFQWNVLPQGWVCSPAIYQTTTQKIIENIKKSHPDVMLYQYMDDLLIGSNRDDHKQIVQEIRDKLG
+SYGFKTPDEKVQEERVKWIGFELTPKKW"
+        }
+      },
+      seq {
+        id {
+          local str "POL_MPMV"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POL_MPMV"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 233,
+          seq-data ncbieaa "APQQCAEPITWKSDEPVWVDQWPLTNDKLAAAQQLVQEQLEAGHITESSS
+PWNTPIFVIKKKSGKWRLLQDLRAVNATMVLMGALQPGLPSPVAIPQGYLKIIIDLKDCFFSIPLHPSDQKRFAFSLP
+STNFKEPMQRFQWKVLPQGMANSPTLCQKYVATAIHKVRHAWKQMYIIHYMDDILIAGKDGQQVLQCFDQLKQELTAA
+GLHIAPEKVQLQDPYTYLGFELNGPKI"
+        }
+      },
+      seq {
+        id {
+          local str "POL_RSVP"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">POL_RSVP"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 234,
+          seq-data ncbieaa "VALHLAIPLKWKPDHTPVWIDQWPLPEGKLVALTQLVEKELQLGHIEPSL
+SCWNTPVFVIRKASGSYRLLHDLRAVNAKLVPFGAVQQGAPVLSALPRGWPLMVLDLKDCFFSIPLAEQDREAFAFTL
+PSVNNQAPARRFQWKVLPQGMTCSPTICQLVVGQVLEPLRLKHPSLCMLHYMDDLLLAASSHDGLEAAGEEVISTLER
+AGFTISPDKVQREPGVQYLGYKLGSTYV"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3201 @@
+Cdd ::= {
+  name "bbs50013",
+  id {
+    gid {
+      accession "acc_bbs50013",
+      version 0
+    }
+  },
+  seqannot {
+    {
+      data align {
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                6,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                20,
+                20
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                42,
+                44
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                43,
+                50
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                85,
+                60
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                97,
+                62
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                119,
+                84
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                125,
+                85
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                155,
+                115
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                158,
+                118
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                174,
+                134
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                199,
+                159
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                207,
+                167
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1tis_"
+              },
+              starts {
+                240,
+                200
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                0,
+                0
+              },
+              len 5
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                6,
+                5
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                20,
+                19
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                43,
+                43
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                103,
+                53
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                119,
+                70
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                155,
+                106
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                158,
+                109
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                174,
+                125
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                199,
+                150
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                207,
+                158
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b02_A"
+              },
+              starts {
+                240,
+                191
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                10,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                20,
+                15
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                43,
+                38
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                103,
+                48
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                115,
+                58
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                119,
+                63
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                124,
+                64
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                155,
+                99
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                158,
+                103
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                174,
+                119
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                199,
+                145
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                207,
+                159
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "1b49_A"
+              },
+              starts {
+                240,
+                194
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                10,
+                0
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                20,
+                15
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                43,
+                38
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                103,
+                48
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                115,
+                58
+              },
+              len 4
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                119,
+                63
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                124,
+                64
+              },
+              len 31
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                155,
+                99
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                158,
+                103
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                174,
+                119
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                199,
+                145
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                207,
+                159
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "DCHM_BPT2"
+              },
+              starts {
+                240,
+                194
+              },
+              len 7
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                6,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                20,
+                20
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                42,
+                44
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                43,
+                50
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                85,
+                60
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                97,
+                62
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                119,
+                84
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                125,
+                85
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                155,
+                115
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                158,
+                118
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                174,
+                134
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                199,
+                159
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                207,
+                167
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BPT4"
+              },
+              starts {
+                240,
+                200
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                3,
+                0
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                6,
+                2
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                20,
+                16
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                43,
+                40
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                103,
+                50
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                119,
+                67
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                155,
+                103
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                158,
+                106
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                174,
+                122
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                199,
+                147
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                207,
+                155
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSA_BACAM"
+              },
+              starts {
+                240,
+                188
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                6,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                20,
+                20
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                42,
+                42
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                43,
+                43
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                103,
+                53
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                119,
+                69
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                155,
+                105
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                158,
+                108
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                174,
+                124
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                199,
+                149
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                207,
+                157
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CAUCR"
+              },
+              starts {
+                240,
+                190
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                6,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                20,
+                20
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                42,
+                42
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                43,
+                43
+              },
+              len 76
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                119,
+                119
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                155,
+                155
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                158,
+                158
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                174,
+                174
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                199,
+                199
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                207,
+                207
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACPL"
+              },
+              starts {
+                240,
+                240
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                6,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                20,
+                20
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                42,
+                42
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                43,
+                43
+              },
+              len 76
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                119,
+                119
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                155,
+                155
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                158,
+                158
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                174,
+                174
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                199,
+                199
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                207,
+                207
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACCA"
+              },
+              starts {
+                240,
+                240
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                6,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                20,
+                20
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                42,
+                42
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                43,
+                43
+              },
+              len 76
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                119,
+                119
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                155,
+                155
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                158,
+                158
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                174,
+                174
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                199,
+                199
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                207,
+                207
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_BACAN"
+              },
+              starts {
+                240,
+                240
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                6,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                20,
+                20
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                42,
+                42
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                43,
+                43
+              },
+              len 76
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                119,
+                119
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                155,
+                155
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                158,
+                158
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                174,
+                174
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                199,
+                199
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                207,
+                207
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_OCEIH"
+              },
+              starts {
+                240,
+                240
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                6,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                20,
+                20
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                42,
+                42
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                43,
+                43
+              },
+              len 76
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                119,
+                119
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                155,
+                155
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                158,
+                158
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                174,
+                174
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                199,
+                199
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                207,
+                207
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STAAM"
+              },
+              starts {
+                240,
+                240
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                6,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                20,
+                20
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                42,
+                42
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                43,
+                43
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                103,
+                53
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                119,
+                69
+              },
+              len 36
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                155,
+                105
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                158,
+                108
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                174,
+                124
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                199,
+                149
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                207,
+                157
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_WIGBR"
+              },
+              starts {
+                240,
+                190
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                6,
+                7
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                20,
+                21
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                43,
+                45
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                103,
+                55
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                119,
+                72
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                125,
+                74
+              },
+              len 30
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                155,
+                104
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                158,
+                107
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                174,
+                123
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                199,
+                148
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                207,
+                156
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_FUSNN"
+              },
+              starts {
+                240,
+                189
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                6,
+                6
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                20,
+                20
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                43,
+                44
+              },
+              len 10
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                103,
+                54
+              },
+              len 15
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                126,
+                69
+              },
+              len 29
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                155,
+                98
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                158,
+                101
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                174,
+                117
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                199,
+                142
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                207,
+                150
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_CLOAB"
+              },
+              starts {
+                240,
+                185
+              },
+              len 9
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                6,
+                7
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                20,
+                21
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                42,
+                45
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                43,
+                46
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                103,
+                57
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                127,
+                73
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                155,
+                101
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                158,
+                105
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                174,
+                125
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                199,
+                150
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                207,
+                158
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                240,
+                193
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_STRP3"
+              },
+              starts {
+                243,
+                195
+              },
+              len 6
+            }
+          }
+        },
+        {
+          type partial,
+          dim 2,
+          segs dendiag {
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                0,
+                0
+              },
+              len 6
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                6,
+                7
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                20,
+                21
+              },
+              len 22
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                42,
+                45
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                43,
+                46
+              },
+              len 11
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                103,
+                57
+              },
+              len 1
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                105,
+                58
+              },
+              len 14
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                127,
+                72
+              },
+              len 28
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                155,
+                100
+              },
+              len 3
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                158,
+                104
+              },
+              len 16
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                174,
+                125
+              },
+              len 25
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                199,
+                150
+              },
+              len 8
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                207,
+                158
+              },
+              len 33
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                240,
+                193
+              },
+              len 2
+            },
+            {
+              dim 2,
+              ids {
+                local str "TYSY_LISIN",
+                local str "TYSY_LACLA"
+              },
+              starts {
+                243,
+                195
+              },
+              len 6
+            }
+          }
+        }
+      }
+    }
+  },
+  sequences set {
+    seq-set {
+      seq {
+        id {
+          local str "1tis_"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1tis_"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 209,
+          seq-data ncbieaa "KLRWDLTKGFPAVTTKKLAWKACIAELIWFLSGSTNVNDLRLIQHDSLIQ
+GKTVWDENYENQAKDLGYHSGELGPIYGKQWRDFGGVDQIIEVIDRIKKLPNDRRQIVSAWNPAELKYMALPPCHMFY
+QFNVRNGYLDLQWYQRSVDVFLGLPFNIASYATLVHIVAKMCNLIPGDLIFSGGNTHIYMNHVEQCKEILRREPKELC
+ELV"
+        }
+      },
+      seq {
+        id {
+          local str "1b02_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1b02_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 200,
+          seq-data ncbieaa "QMRFDNSEVPILTTKKVAWKTAIKELLWIWQLKSNDVNDLNMMGVHIWDQ
+WKQEDGTIGHAYGFQLGKKNRSLNGEKVDQVDYLLHQLKNNPSSRRHITMLWNPDELDAMALTPCVYETQWYVKHGKL
+HLEVRARSNDMALGNPFNVFQYNVLQRMIAQVTGYELGEYIFNIGDCHVYTRHIDNLKIQMEREQFEAPELW"
+        }
+      },
+      seq {
+        id {
+          local str "1b49_A"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">1b49_A"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 201,
+          seq-data ncbieaa "SFVADEPFIFGALNDEYIQRELEWYKSKSLFVKDIPGETPKIWQQVASSK
+GEINSNYGWAIWSEDNYAQYDMCLAELGQNPDSRRGIMIYTRPSMQFDYNKDGMSDFMCTNTVQYLIRDKKINAVVNM
+RSNDVVFGFRNDYAWQKYVLDKLVSDLNAGDSTRQYKAGSIIWNVGSLHVYSRHFYLVDHWWKTGETHISKKD"
+        }
+      },
+      seq {
+        id {
+          local str "DCHM_BPT2"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">DCHM_BPT2"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 201,
+          seq-data ncbieaa "SFVADEPFIFGALNDEYIQRELEWYKSKSLFVKDIPGETPKIWQQVASSK
+GEINSNYGWAIWSEDNYAQYDMCLAELGQNPDSRRGIMIYTRPSMQFDYNKDGMSDFMCTNTVQYLIRDKKINAVVNM
+RSNDVVFGFRNDYAWQKYVLDKLVSDLNAGDSTRQYKAGSIIWNVGSLHVYSRHFYLVDHWWNTGETHIVKKD"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_BPT4"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_BPT4"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 209,
+          seq-data ncbieaa "KLRWDLTKGFPAVTTKKLAWKACIAELIWFLSGSTNVNDLRLIQHDSLIQ
+GKTVWDENYENQAKDLGYHSGELGPIYGKQWRDFGGVDQIIEVIDRIKKLPNDRRQIVSAWNPAELKYMALPPCHMFY
+QFNVRNGYLDLQWYQRSVDVFLGLPFNIASYATLVHIVAKMCNLIPGDLIFSGGNTHIYMNHVEQCKEILRREPKELC
+ELV"
+        }
+      },
+      seq {
+        id {
+          local str "TYSA_BACAM"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSA_BACAM"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 197,
+          seq-data ncbieaa "FDNSEVPILTTKKLAWKTAIKELLWIWQLKSNDVNDLNKMSVHIWDQWKQ
+EDGTIGHAYGFQLGKKNRSLNGEKVDQVDYLLHQLKNNPSSRRHITMLWNPDELDAMALTPCVYETQWYVKHGKLHLE
+VRARSNDMALGNPFNVFQYNVLQRMIAQVTGYELGEYIFNIGDCHVYTRHIDNLKIQMEREQFEAPELW"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_CAUCR"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_CAUCR"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 199,
+          seq-data ncbieaa "QIRFDLAKGFPVLTTKKLHLRSIIIELLWFLKGDTNIAYLKDNGVRIWDE
+WADENGDLGPVYGKQWRSWATPDGRVIDQISALVENLKANPNSRRHIVTAWNPADVDDMALPPCHCLFQFFVADGKLS
+CQLYQRSADVFLGVPFNIASYALLTLMVAKVVGLEPGEFVHTFGDAHLYLNHLDQAREQLTREPFDFPTMK"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_LISIN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_LISIN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 249,
+          seq-data ncbieaa "QMRFDLQEGFPIMTTKRVPFKLVVSELLWFLHGDTNIRYLLQHNNNIWNE
+WAFERFVKSADYKGEDMTDFGLRAERDPAFKEVYQAEMEKFKTRILEDETFANKYGELGNIYGKQWREWKTSQGETID
+QLADLIEMIKTNPNSRRLIVSAWNPEDIPNMALPPCHSLFQFYVADGKLSCQLYQRSADIFLGVPFNIASYALLTHLI
+AREVGLDVGEFIHTMGDAHLYNNHIEQVKEQLSRTPHALPKLV"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_LACPL"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_LACPL"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 249,
+          seq-data ncbieaa "QMRFDLSQGFPLLTTKKVPFGLIKSELLWFLHGDTNIQYLLQHHNHIWDE
+WAFKNWVTSADYDGPDMTNFEHRRLDDPDFAPIYQAQMQTFDDQILTDDAFAAKYGNLGDVYGAQWRHWQTRQGKTID
+QIANVIEMIKTHPDSRRLIVSAWNPEDVPNMALPPCHTLFQFYVADGKLSCQLYQRSGDVFLGVPFNIASYALLTHLI
+AKETGLAVGEFVHTLGDAHIYTNHVEQVKTQLTRQPRPAPQLT"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_LACCA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_LACCA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 249,
+          seq-data ncbieaa "QMRFDLSKGFPLLTTKKVPFGLIKSELLWFLHGDTNIRFLLQHRNHIWDE
+WAFEKWVKSDEYHGPDMTDFGHRSQKDPEFAAVYHEEMAKFDDRVLHDDAFAAKYGDLGLVYGSQWRAWHTSKGDTID
+QLGDVIEQIKTHPYSRRLIVSAWNPEDVPTMALPPCHTLYQFYVNDGKLSLQLYQRSADIFLGVPFNIASYALLTHLV
+AHECGLEVGEFIHTFGDAHLYVNHLDQIKEQLSRTPRPAPTLQ"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_BACAN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_BACAN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 249,
+          seq-data ncbieaa "QMRFDLSKGFPLLTTKRVPFRLVASELLWFMKGDTNIRYLLQHNNNIWNE
+WAFKSWVESDEYTGPDMIDFGLRSQQDEEFKVQYDEQMELFKKNVLEDDEFSNKYGYLGDVYGKQWRAWKTTAGETLD
+QLKDVIEMIKKTPDSRRLIVSAWNPEDVPSMALPPCHTLFQFYVADGKLSCQLYQRSGDIFLGIPFNIASYSLLTHLI
+AHECGLEVGEFVHTIGDAHIYTNHFEQVEKQLAREPRPFPKLT"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_OCEIH"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_OCEIH"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 249,
+          seq-data ncbieaa "QIRFDLNKGFPLLTTKRVPFRLVASELLWFIKGDTNIRYLLKHNNNIWNE
+WAFEKWVNSADYQGPDMANFGLRSQKDENFNKQYQEQMELFKTRILEDDSFADKYGDLGSVYGKQWRNWKTTQNETID
+QLKDVIHSIKTNPNSRRHIVSAWNPEDIPTMALPPCHTLFQFYVSNGKLSCQLYQRSADVFLGVPFNIASYALLTHLI
+AHECGLEVGDFVHTFGDAHIYSNHVEQVETQLEREIRDFPQLI"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_STAAM"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_STAAM"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 249,
+          seq-data ncbieaa "QLRFDLSKGFPLLTTKKVSFKLVATELLWFIKGDTNIQYLLKYNNNIWNE
+WAFENYIKSDEYNGPDMTDFGHRALSDPEFNEQYKEQMKQFKQRILEDDTFAKQFGDLGNVYGKQWRDWVDKDGNHFD
+QLKTVIEQIKHNPDSRRHIVSAWNPTEIDTMALPPCHTMFQFYVQDGKLSCQLYQRSADIFLGVPFNIASYALLTHLI
+AKECGLEVGEFVHTFGDAHIYSNHIDAIQTQLARESFNPPTLK"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_WIGBR"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_WIGBR"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 199,
+          seq-data ncbieaa "QIRINLNEGFPLLTTKYCHFKSIVYELLWFLRGDTNISFLKKNNISIWNK
+WADKNGNLGPIYGKQWRAWEDKKNNTIDQIEIALNKLKKEPSSRRILVSSWNVGELDLMSIPPCHVLFQLYVINNKLS
+CQVYQRSCDIFLGLPFNIGSYALLTHIFANQCDLLVEDLIWTGGDIHLYKNHLNQAKLQLTRSPLPLPKIF"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_FUSNN"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_FUSNN"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 198,
+          seq-data ncbieaa "QFRLDNSDDEAHLITSRFAPSKAPIRELYWIWILQSNNVDVLNELGCKFW
+DEWKMQDGTIGKAYGYQIAQETFGQKSQLHYVINELKKNPNSRRIMTEIWIPNELSEMALTPCVHLTQWSVIGNKLYL
+EVRQRSCDVALGLVANVFQYSVLHKLVALECGLEPAEIIWNIHNMHIYDRHYDKLIEQVNRETFEPAKIK"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_CLOAB"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_CLOAB"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 194,
+          seq-data ncbieaa "IMQFDLSKEFPILTTKFVAFKTSVKELLWIYKDQSNDVRKLQNENVTIWD
+EWMLEDGTIGKAYGYQVAKFKQIDNLIDTLKTDPQSRRMLISLWNIADLKDMSLTPCCYETLWDVQNGKLNCMLVQRS
+GDMPLGVPFNMCQYAVLVHLIAQVTGLKPGLFTHVINNAHIYKNQIEGMKIQLKRRDKAYEAPKLW"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_STRP3"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_STRP3"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 201,
+          seq-data ncbieaa "FAEYDLAKGEFPITTLRPIPIKSAIKELFWIYQDQSNSLDVLEAKYNVHY
+WNEWEVDQTRTIGQRYGAVVKKHDIISKILKQLAENPWNRRNVISLWDYEAFEETKGLLPCAFQIMFDVRRVGEDLYL
+DASLTQRSNDILVAHHINAMQYVALQMMIAKHFGWKIGKFFYFVNNLHIYDNQFDQAQELLKRQPVASQPKLV"
+        }
+      },
+      seq {
+        id {
+          local str "TYSY_LACLA"
+        },
+        descr {
+          user {
+            type str "CFastaReader",
+            data {
+              {
+                label str "DefLine",
+                data str ">TYSY_LACLA"
+              }
+            }
+          }
+        },
+        inst {
+          repr raw,
+          mol aa,
+          length 201,
+          seq-data ncbieaa "FVTYDLQKGEFPITTLRPIPIKSAIKELMWIYQDQTSELAILEEKYGVKY
+WGEWGIGDGTIGQRYGATVKKYNIIGKLLDGLAKNPWNRRNIINLWQYEDFEETEGLLPCAFQTMFDVRREQDGQIYL
+DATLIQRSNDMLVAHHINAMQYVALQMMIAKHFSWKVGKFFYFVNNLHIYDNQFEQANELVKRTASDKEPRLV"
+        }
+      }
+    }
+  }
+}
